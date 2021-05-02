@@ -1,0 +1,597 @@
+<?xml version="1.0" ?>
+<Library name="platforms" shape="rectangle" default_fill="-4144960" default_outline="-1" tex="0">
+    <Template>
+        <Name>platform1_angle</Name>
+        <File>dz\structures\residential\platforms\platform1_angle.p3d</File>
+        <Date>04/30/21 13:26:51</Date>
+        <Archive></Archive>
+        <Fill>-4144960</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1900871378</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.111385</BBRadius>
+        <BBHScale>0.768714</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.929560" Y="-2.978720" Z="-0.856751" />
+        <BoundingMax X="3.928830" Y="4.199201" Z="9.366020" />
+        <BoundingCenter X="-0.000365" Y="0.610240" Z="4.254635" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>platform1_block</Name>
+        <File>dz\structures\residential\platforms\platform1_block.p3d</File>
+        <Date>04/30/21 13:26:36</Date>
+        <Archive></Archive>
+        <Fill>-4144960</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1544762924</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.111420</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.111420" Y="-2.978720" Z="-5.111420" />
+        <BoundingMax X="5.111420" Y="4.199201" Z="5.111420" />
+        <BoundingCenter X="0.000000" Y="0.610240" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>platform1_ramp</Name>
+        <File>DZ\structures\residential\platforms\platform1_ramp.p3d</File>
+        <Date>05/02/21 21:19:27</Date>
+        <Archive></Archive>
+        <Fill>-4144960</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>813607667</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>platform1_stairs_20</Name>
+        <File>DZ\structures\residential\platforms\platform1_stairs_20.p3d</File>
+        <Date>05/02/21 21:19:27</Date>
+        <Archive></Archive>
+        <Fill>-4144960</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-827187502</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>platform1_stairs_30</Name>
+        <File>DZ\structures\residential\platforms\platform1_stairs_30.p3d</File>
+        <Date>05/02/21 21:19:27</Date>
+        <Archive></Archive>
+        <Fill>-4144960</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-827121903</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>platform1_stairs_30_walll</Name>
+        <File>DZ\structures\residential\platforms\platform1_stairs_30_walll.p3d</File>
+        <Date>05/02/21 21:19:27</Date>
+        <Archive></Archive>
+        <Fill>-4144960</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1577684172</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>platform1_stairs_30_wallr</Name>
+        <File>DZ\structures\residential\platforms\platform1_stairs_30_wallr.p3d</File>
+        <Date>05/02/21 21:19:27</Date>
+        <Archive></Archive>
+        <Fill>-4144960</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1577684166</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>platform1_staris_block</Name>
+        <File>DZ\structures\residential\platforms\platform1_staris_block.p3d</File>
+        <Date>05/02/21 21:19:27</Date>
+        <Archive></Archive>
+        <Fill>-4144960</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1494916011</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>platform1_wall</Name>
+        <File>dz\structures\residential\platforms\platform1_wall.p3d</File>
+        <Date>04/30/21 13:26:48</Date>
+        <Archive></Archive>
+        <Fill>-4144960</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>421510763</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.105890</BBRadius>
+        <BBHScale>0.054166</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.276275" Y="3.848780" Z="-5.105150" />
+        <BoundingMax X="0.276855" Y="4.931730" Z="5.106630" />
+        <BoundingCenter X="0.000290" Y="4.390255" Z="0.000740" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>platform2_angle</Name>
+        <File>dz\structures\residential\platforms\platform2_angle.p3d</File>
+        <Date>04/30/21 13:26:44</Date>
+        <Archive></Archive>
+        <Fill>-4144960</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1199041875</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.111385</BBRadius>
+        <BBHScale>0.768714</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.929560" Y="-2.978720" Z="-0.856751" />
+        <BoundingMax X="3.928830" Y="4.199201" Z="9.366020" />
+        <BoundingCenter X="-0.000365" Y="0.610240" Z="4.254635" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>platform2_block</Name>
+        <File>dz\structures\residential\platforms\platform2_block.p3d</File>
+        <Date>04/30/21 13:26:30</Date>
+        <Archive></Archive>
+        <Fill>-4144960</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>842933421</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.111420</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.111420" Y="-2.978720" Z="-5.111420" />
+        <BoundingMax X="5.111420" Y="4.199201" Z="5.111420" />
+        <BoundingCenter X="0.000000" Y="0.610240" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>platform2_enter</Name>
+        <File>dz\structures\residential\platforms\platform2_enter.p3d</File>
+        <Date>04/30/21 13:26:40</Date>
+        <Archive></Archive>
+        <Fill>-4144960</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1569272120</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.840180</BBRadius>
+        <BBHScale>3.328060</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-10.016300" Y="-2.978720" Z="-3.840180" />
+        <BoundingMax X="15.544401" Y="4.199201" Z="3.840180" />
+        <BoundingCenter X="2.764050" Y="0.610240" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>platform2_stairs_20</Name>
+        <File>DZ\structures\residential\platforms\platform2_stairs_20.p3d</File>
+        <Date>05/02/21 21:19:27</Date>
+        <Archive></Archive>
+        <Fill>-4144960</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>894102611</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>platform2_stairs_30</Name>
+        <File>DZ\structures\residential\platforms\platform2_stairs_30.p3d</File>
+        <Date>05/02/21 21:19:27</Date>
+        <Archive></Archive>
+        <Fill>-4144960</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>894168210</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>platform2_stairs_30_walll</Name>
+        <File>DZ\structures\residential\platforms\platform2_stairs_30_walll.p3d</File>
+        <Date>05/02/21 21:19:27</Date>
+        <Archive></Archive>
+        <Fill>-4144960</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-248647883</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>platform2_stairs_30_wallr</Name>
+        <File>DZ\structures\residential\platforms\platform2_stairs_30_wallr.p3d</File>
+        <Date>05/02/21 21:19:27</Date>
+        <Archive></Archive>
+        <Fill>-4144960</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-248647877</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>platform2_staris_block</Name>
+        <File>DZ\structures\residential\platforms\platform2_staris_block.p3d</File>
+        <Date>05/02/21 21:19:27</Date>
+        <Archive></Archive>
+        <Fill>-4144960</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-879051030</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>platform2_wall</Name>
+        <File>dz\structures\residential\platforms\platform2_wall.p3d</File>
+        <Date>04/30/21 13:26:38</Date>
+        <Archive></Archive>
+        <Fill>-4144960</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>793517994</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.105890</BBRadius>
+        <BBHScale>0.054166</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.276275" Y="3.848780" Z="-5.105150" />
+        <BoundingMax X="0.276855" Y="4.931730" Z="5.106630" />
+        <BoundingCenter X="0.000290" Y="4.390255" Z="0.000740" />
+        <Placement></Placement>
+    </Template>
+</Library>

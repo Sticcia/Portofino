@@ -1,3 +1,73 @@
+## Packed mods
+PackedPbos/
+*.pbo
+
+## Buldozer
+Buldozer/
+
+## QGIS (files too large)
+QGIS/
+
+## Binaries (too large)
+*.v4d
+
+## DayZ Tools folders and files
+#Folders
+bin/
+Core/
+DZ/
+graphics/
+gui/
+languagecore/
+scripts/
+system/
+
+#Files
+bin.txt
+core.txt
+graphics.txt
+gui.txt
+languagecore.txt
+scripts.txt
+system.txt
+
+## C++ .gitignore from GitHub
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+## C .gitignore from GitHub
+
 # Prerequisites
 *.d
 

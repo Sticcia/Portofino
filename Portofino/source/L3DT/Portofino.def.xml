@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<varlist name="Settings">
+	<varlist name="MapViewOptions">
+		<varlist name="HF">
+			<string name="IndexedPalette">Monochrome</string>
+		</varlist>
+		<varlist name="WS">
+			<string name="IndexedPalette">Thermal</string>
+		</varlist>
+		<varlist name="SH">
+			<string name="IndexedPalette">InverseBoolean</string>
+		</varlist>
+	</varlist>
+	<varlist name="HF">
+		<float name="HorizScale">2.5</float>
+		<int name="nx">4096</int>
+		<int name="ny">4096</int>
+	</varlist>
+	<varlist name="TN">
+		<bool name="BumpMapping">false</bool>
+		<bool name="TangentFlag">false</bool>
+		<int name="TN_in_HF">1</int>
+		<bool name="MosaicFlag">false</bool>
+	</varlist>
+	<varlist name="Ops">
+		<bool name="GenTN">true</bool>
+	</varlist>
+	<varlist name="CalcTimers">
+		<varlist name="TN">
+			<float name="GenMap">2.922</float>
+		</varlist>
+	</varlist>
+	<int name="SettingsVersion">2540</int>
+</varlist>

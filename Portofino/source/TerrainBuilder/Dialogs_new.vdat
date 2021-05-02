@@ -1,0 +1,20 @@
+
+
+dtExportWRP
+P:\Portofino\Portofino.wrp
+dtImportObjects
+C:\Users\Davide Costa\AppData\Local\DayZ\Editor
+dtImportShapes
+portofino\source\qgis\gtt_export
+dtObjectsExportTXT
+C:\Users\Davide Costa\AppData\Local\DayZ\Editor\Portofino.txt
+dtSatteliteImageImportJPG
+portofino\source\qgis\gtt_export
+dtSatteliteNormalMapImport
+portofino\source\qgis\gtt_export
+dtShapesExportSHP
+P:\Portofino\source\TerrainProcessor\forest.shp
+dtTerrainHeightmapImportJPG
+portofino\source\qgis\gtt_export
+dtTerrainSurfaceImportJPG
+portofino\source\qgis\gtt_export

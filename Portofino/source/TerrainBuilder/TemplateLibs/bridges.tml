@@ -1,0 +1,201 @@
+<?xml version="1.0" ?>
+<Library name="bridges" shape="rectangle" default_fill="-16777216" default_outline="-1" tex="0">
+    <Template>
+        <Name>bridge_metal_25</Name>
+        <File>dz\structures\roads\bridges\bridge_metal_25.p3d</File>
+        <Date>04/30/21 13:27:00</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>123370673</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.312500</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>0.535156</TexURU>
+        <TexURV>0.316406</TexURV>
+        <BBRadius>12.500081</BBRadius>
+        <BBHScale>0.707002</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.839809" Y="-19.946802" Z="-12.500161" />
+        <BoundingMax X="8.835350" Y="4.883810" Z="12.500001" />
+        <BoundingCenter X="-0.002230" Y="-7.531496" Z="-0.000080" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>bridge_metal_25_1</Name>
+        <File>DZ\structures\roads\bridges\bridge_metal_25_1.p3d</File>
+        <Date>05/02/21 21:19:27</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1633962947</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>0.054688</TexURU>
+        <TexURV>0.054688</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>bridge_stone_25</Name>
+        <File>dz\structures\roads\bridges\bridge_stone_25.p3d</File>
+        <Date>04/30/21 13:27:02</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>616290387</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.500000</TexLLV>
+        <TexURU>0.218750</TexURU>
+        <TexURV>0.863281</TexURV>
+        <BBRadius>12.500001</BBRadius>
+        <BBHScale>0.599403</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-7.525620" Y="-7.825970" Z="-12.500001" />
+        <BoundingMax X="7.459460" Y="9.977711" Z="12.500001" />
+        <BoundingCenter X="-0.033080" Y="1.075870" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>bridge_wood_25</Name>
+        <File>DZ\structures\roads\bridges\bridge_wood_25.p3d</File>
+        <Date>05/02/21 21:19:27</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2124317855</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>0.054688</TexURU>
+        <TexURV>0.054688</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>bridge_wood_50</Name>
+        <File>DZ\structures\roads\bridges\bridge_wood_50.p3d</File>
+        <Date>05/02/21 21:19:27</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2124514647</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>0.054688</TexURU>
+        <TexURV>0.054688</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>bridge_wood_50_1</Name>
+        <File>DZ\structures\roads\bridges\bridge_wood_50_1.p3d</File>
+        <Date>05/02/21 21:19:27</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-412786327</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>0.054688</TexURU>
+        <TexURV>0.054688</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+</Library>
