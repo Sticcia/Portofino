@@ -1,0 +1,300 @@
+<?xml version="1.0" ?>
+<Library name="deadbodies" shape="rectangle" default_fill="-16744193" default_outline="-1" tex="0">
+    <Template>
+        <Name>dead_massgrave</Name>
+        <File>dz\structures\specific\deadbodies\dead_massgrave.p3d</File>
+        <Date>04/30/21 13:27:49</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1498835702</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.575460</BBRadius>
+        <BBHScale>0.952891</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.418250" Y="-0.385993" Z="-3.540020" />
+        <BoundingMax X="3.395800" Y="0.975839" Z="3.610900" />
+        <BoundingCenter X="-0.011225" Y="0.294923" Z="0.035440" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>dead_massgrave_15m</Name>
+        <File>dz\structures\specific\deadbodies\dead_massgrave_15m.p3d</File>
+        <Date>04/30/21 13:27:24</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1003671296</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.410710</BBRadius>
+        <BBHScale>3.912499</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-9.509770" Y="-0.354799" Z="-2.407050" />
+        <BoundingMax X="9.354033" Y="0.784493" Z="2.414371" />
+        <BoundingCenter X="-0.077868" Y="0.214847" Z="0.003660" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>dead_massgrave_8m</Name>
+        <File>dz\structures\specific\deadbodies\dead_massgrave_8m.p3d</File>
+        <Date>04/30/21 13:27:52</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1042644126</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.401525</BBRadius>
+        <BBHScale>2.505525</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.660630" Y="-0.316389" Z="-2.434930" />
+        <BoundingMax X="6.373530" Y="0.784493" Z="2.368120" />
+        <BoundingCenter X="0.356450" Y="0.234052" Z="-0.033405" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>dead_pile1</Name>
+        <File>dz\structures\specific\deadbodies\dead_pile1.p3d</File>
+        <Date>04/30/21 13:27:35</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1044792164</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.695616</BBRadius>
+        <BBHScale>1.114909</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.936726" Y="-0.076256" Z="-1.567973" />
+        <BoundingMax X="1.844190" Y="0.684254" Z="1.823260" />
+        <BoundingCenter X="-0.046268" Y="0.303999" Z="0.127643" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>dead_pile2</Name>
+        <File>dz\structures\specific\deadbodies\dead_pile2.p3d</File>
+        <Date>04/30/21 13:27:34</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1044792165</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.695616</BBRadius>
+        <BBHScale>1.114909</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.936726" Y="-0.065449" Z="-1.567973" />
+        <BoundingMax X="1.844190" Y="0.610735" Z="1.823260" />
+        <BoundingCenter X="-0.046268" Y="0.272643" Z="0.127643" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>dead_pile3</Name>
+        <File>dz\structures\specific\deadbodies\dead_pile3.p3d</File>
+        <Date>04/30/21 13:27:32</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1044792166</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.695616</BBRadius>
+        <BBHScale>1.114909</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.936726" Y="-0.051802" Z="-1.567973" />
+        <BoundingMax X="1.844190" Y="0.626990" Z="1.823260" />
+        <BoundingCenter X="-0.046268" Y="0.287594" Z="0.127643" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>dead_pile4</Name>
+        <File>dz\structures\specific\deadbodies\dead_pile4.p3d</File>
+        <Date>04/30/21 13:27:30</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1044792167</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.695616</BBRadius>
+        <BBHScale>1.114909</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.936726" Y="-0.070535" Z="-1.934449" />
+        <BoundingMax X="1.844190" Y="0.626083" Z="1.456784" />
+        <BoundingCenter X="-0.046268" Y="0.277774" Z="-0.238833" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>hanged_civil</Name>
+        <File>dz\structures\specific\deadbodies\hanged_civil.p3d</File>
+        <Date>04/30/21 13:27:55</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>590176645</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.287282</BBRadius>
+        <BBHScale>0.954515</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.268964" Y="0.845620" Z="-0.287282" />
+        <BoundingMax X="0.279466" Y="8.739088" Z="0.287282" />
+        <BoundingCenter X="0.005251" Y="4.792354" Z="-0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>hanged_doctor</Name>
+        <File>dz\structures\specific\deadbodies\hanged_doctor.p3d</File>
+        <Date>04/30/21 13:27:49</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1221773453</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.287282</BBRadius>
+        <BBHScale>0.985351</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.286681" Y="0.845620" Z="-0.287282" />
+        <BoundingMax X="0.279466" Y="8.832020" Z="0.287282" />
+        <BoundingCenter X="-0.003608" Y="4.838820" Z="-0.000000" />
+        <Placement></Placement>
+    </Template>
+</Library>

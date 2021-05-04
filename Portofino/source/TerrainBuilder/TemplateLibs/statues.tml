@@ -1,0 +1,201 @@
+<?xml version="1.0" ?>
+<Library name="statues" shape="rectangle" default_fill="-16744193" default_outline="-1" tex="0">
+    <Template>
+        <Name>monument_soldiers</Name>
+        <File>dz\structures\specific\statues\monument_soldiers.p3d</File>
+        <Date>04/30/21 13:27:28</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2135062263</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.697258</BBRadius>
+        <BBHScale>1.241987</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.748056" Y="-0.882308" Z="-4.694532" />
+        <BoundingMax X="4.919806" Y="9.122793" Z="4.699984" />
+        <BoundingCenter X="-0.914125" Y="4.120243" Z="0.002726" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>monument_t34</Name>
+        <File>dz\structures\specific\statues\monument_t34.p3d</File>
+        <Date>04/30/21 13:27:32</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2013858461</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.355091</BBRadius>
+        <BBHScale>1.305070</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-9.958132" Y="-0.882307" Z="-6.311499" />
+        <BoundingMax X="6.629539" Y="5.681772" Z="6.398683" />
+        <BoundingCenter X="-1.664296" Y="2.399733" Z="0.043592" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>monument_wall</Name>
+        <File>dz\structures\specific\statues\monument_wall.p3d</File>
+        <Date>04/30/21 13:27:53</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>927589954</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.243525</BBRadius>
+        <BBHScale>7.732861</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.886730" Y="-0.285819" Z="-0.248295" />
+        <BoundingMax X="1.879560" Y="2.211090" Z="0.238755" />
+        <BoundingCenter X="-0.003585" Y="0.962636" Z="-0.004770" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>monument_war1</Name>
+        <File>dz\structures\specific\statues\monument_war1.p3d</File>
+        <Date>04/30/21 13:27:37</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>927983489</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.106966</BBRadius>
+        <BBHScale>0.771898</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.257751" Y="-0.767873" Z="-9.956181" />
+        <BoundingMax X="6.257751" Y="10.646497" Z="6.257751" />
+        <BoundingCenter X="0.000000" Y="4.939312" Z="-1.849215" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>monument_war2</Name>
+        <File>dz\structures\specific\statues\monument_war2.p3d</File>
+        <Date>04/30/21 13:27:37</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>927983490</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.896927</BBRadius>
+        <BBHScale>1.209651</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.163115" Y="-0.300001" Z="-9.573344" />
+        <BoundingMax X="8.522638" Y="10.646497" Z="4.220510" />
+        <BoundingCenter X="0.179762" Y="5.173248" Z="-2.676417" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>statue_general</Name>
+        <File>dz\structures\specific\statues\statue_general.p3d</File>
+        <Date>04/30/21 13:27:51</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>425322221</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.040056</BBRadius>
+        <BBHScale>0.921293</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.874380" Y="-5.332300" Z="-2.211792" />
+        <BoundingMax X="1.884600" Y="7.090273" Z="1.868320" />
+        <BoundingCenter X="0.005110" Y="0.878986" Z="-0.171736" />
+        <Placement></Placement>
+    </Template>
+</Library>

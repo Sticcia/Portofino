@@ -1,0 +1,135 @@
+<?xml version="1.0" ?>
+<Library name="prison" shape="rectangle" default_fill="-16744193" default_outline="-1" tex="0">
+    <Template>
+        <Name>prison_main</Name>
+        <File>dz\structures\specific\prison\prison_main.p3d</File>
+        <Date>04/30/21 13:27:38</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1241022349</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>23.727501</BBRadius>
+        <BBHScale>0.847072</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-15.725200" Y="-2.132080" Z="-25.626802" />
+        <BoundingMax X="24.472599" Y="37.362400" Z="21.828199" />
+        <BoundingCenter X="4.373700" Y="17.615160" Z="-1.899302" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>prison_side</Name>
+        <File>dz\structures\specific\prison\prison_side.p3d</File>
+        <Date>04/30/21 13:27:41</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1695342283</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.825750</BBRadius>
+        <BBHScale>1.524024</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-15.091402" Y="-2.000010" Z="-8.887000" />
+        <BoundingMax X="17.906000" Y="14.146701" Z="12.764501" />
+        <BoundingCenter X="1.407299" Y="6.073346" Z="1.938750" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>prison_wall_large</Name>
+        <File>dz\structures\specific\prison\prison_wall_large.p3d</File>
+        <Date>04/30/21 13:27:34</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-33460454</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.836312</BBRadius>
+        <BBHScale>3.105017</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-11.387599" Y="-2.016730" Z="8.687178" />
+        <BoundingMax X="24.856098" Y="7.514390" Z="20.359802" />
+        <BoundingCenter X="6.734250" Y="2.748830" Z="14.523490" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>prison_wall_small</Name>
+        <File>dz\structures\specific\prison\prison_wall_small.p3d</File>
+        <Date>04/30/21 13:27:40</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-9450810</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.873559</BBRadius>
+        <BBHScale>4.604970</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="6.946423" Y="-2.015770" Z="-11.357574" />
+        <BoundingMax X="24.201788" Y="7.546070" Z="-7.610456" />
+        <BoundingCenter X="15.574105" Y="2.765150" Z="-9.484015" />
+        <Placement></Placement>
+    </Template>
+</Library>

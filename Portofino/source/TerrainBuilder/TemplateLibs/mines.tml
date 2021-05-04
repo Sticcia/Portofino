@@ -1,0 +1,399 @@
+<?xml version="1.0" ?>
+<Library name="mines" shape="rectangle" default_fill="-8355712" default_outline="-1" tex="0">
+    <Template>
+        <Name>mine_building</Name>
+        <File>dz\structures\industrial\mines\mine_building.p3d</File>
+        <Date>04/30/21 13:24:26</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1221657024</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>19.203951</BBRadius>
+        <BBHScale>0.757584</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-15.608197" Y="-2.307780" Z="-19.427902" />
+        <BoundingMax X="13.489007" Y="15.674001" Z="18.980000" />
+        <BoundingCenter X="-1.059595" Y="6.683110" Z="-0.223951" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mine_conveyer1_10</Name>
+        <File>dz\structures\industrial\mines\mine_conveyer1_10.p3d</File>
+        <Date>04/30/21 13:24:20</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1355890702</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.297500</BBRadius>
+        <BBHScale>0.171259</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.917812" Y="-2.007920" Z="-5.297500" />
+        <BoundingMax X="0.896680" Y="3.418800" Z="5.297500" />
+        <BoundingCenter X="-0.010566" Y="0.705440" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mine_conveyer1_begin</Name>
+        <File>dz\structures\industrial\mines\mine_conveyer1_begin.p3d</File>
+        <Date>04/30/21 13:24:56</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>818341978</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.560910</BBRadius>
+        <BBHScale>0.143092</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.225000" Y="-2.011380" Z="-8.557490" />
+        <BoundingMax X="1.225000" Y="3.417396" Z="8.564330" />
+        <BoundingCenter X="0.000000" Y="0.703008" Z="0.003420" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mine_conveyer1_endbuild</Name>
+        <File>dz\structures\industrial\mines\mine_conveyer1_endbuild.p3d</File>
+        <Date>04/30/21 13:24:18</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1730649534</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.974333</BBRadius>
+        <BBHScale>1.412764</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.376503" Y="-2.360900" Z="-0.956296" />
+        <BoundingMax X="1.376503" Y="4.292070" Z="0.992370" />
+        <BoundingCenter X="0.000000" Y="0.965585" Z="0.018037" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mine_conveyer2_build</Name>
+        <File>dz\structures\industrial\mines\mine_conveyer2_build.p3d</File>
+        <Date>04/30/21 13:24:24</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-262274432</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.026018</BBRadius>
+        <BBHScale>6.415214</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-12.997337" Y="-2.390000" Z="-2.037225" />
+        <BoundingMax X="12.997337" Y="13.183223" Z="2.014811" />
+        <BoundingCenter X="0.000000" Y="5.396611" Z="-0.011207" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mine_heap</Name>
+        <File>dz\structures\industrial\mines\mine_heap.p3d</File>
+        <Date>04/30/21 13:24:29</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-674894792</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>24.654419</BBRadius>
+        <BBHScale>0.996970</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-26.559011" Y="-3.174950" Z="-23.388138" />
+        <BoundingMax X="22.600401" Y="6.875810" Z="25.920700" />
+        <BoundingCenter X="-1.979305" Y="1.850430" Z="1.266281" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mine_hopper_build</Name>
+        <File>dz\structures\industrial\mines\mine_hopper_build.p3d</File>
+        <Date>04/30/21 13:24:14</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-999780945</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.775771</BBRadius>
+        <BBHScale>2.597056</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-15.000000" Y="-2.527640" Z="-5.775771" />
+        <BoundingMax X="15.000000" Y="10.682640" Z="5.775771" />
+        <BoundingCenter X="0.000000" Y="4.077500" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mine_rail</Name>
+        <File>dz\structures\industrial\mines\mine_rail.p3d</File>
+        <Date>04/30/21 13:24:37</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1491478626</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.000002</BBRadius>
+        <BBHScale>0.301339</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.539060" Y="-0.349228" Z="-5.000004" />
+        <BoundingMax X="1.474330" Y="0.200947" Z="5.000000" />
+        <BoundingCenter X="-0.032365" Y="-0.074140" Z="-0.000002" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mine_rail_end</Name>
+        <File>dz\structures\industrial\mines\mine_rail_end.p3d</File>
+        <Date>04/30/21 13:24:09</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-738776614</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.800700</BBRadius>
+        <BBHScale>1.176820</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.112734" Y="-0.416622" Z="-1.680820" />
+        <BoundingMax X="2.125466" Y="1.080622" Z="1.920580" />
+        <BoundingCenter X="0.006366" Y="0.332000" Z="0.119880" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mine_rail_switch</Name>
+        <File>dz\structures\industrial\mines\mine_rail_switch.p3d</File>
+        <Date>04/30/21 13:24:35</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-949603051</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.000936</BBRadius>
+        <BBHScale>0.673811</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.369670" Y="-0.323034" Z="-5.000936" />
+        <BoundingMax X="3.369700" Y="0.254120" Z="5.000936" />
+        <BoundingCenter X="0.000015" Y="-0.034457" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mine_rail_tram</Name>
+        <File>dz\structures\industrial\mines\mine_rail_tram.p3d</File>
+        <Date>04/30/21 13:24:29</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>260621707</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.799449</BBRadius>
+        <BBHScale>0.522597</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.417967" Y="-0.002193" Z="-0.805449" />
+        <BoundingMax X="0.417613" Y="1.073012" Z="0.793449" />
+        <BoundingCenter X="-0.000177" Y="0.535410" Z="-0.006000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mine_tunnel</Name>
+        <File>dz\structures\industrial\mines\mine_tunnel.p3d</File>
+        <Date>04/30/21 13:24:53</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1010787124</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.877501</BBRadius>
+        <BBHScale>0.683092</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.628240" Y="-2.420000" Z="-5.980000" />
+        <BoundingMax X="6.866240" Y="7.078583" Z="13.775001" />
+        <BoundingCenter X="0.119000" Y="2.329291" Z="3.897500" />
+        <Placement></Placement>
+    </Template>
+</Library>

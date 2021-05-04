@@ -1,0 +1,366 @@
+<?xml version="1.0" ?>
+<Library name="ships" shape="rectangle" default_fill="-8355840" default_outline="-1" tex="0">
+    <Template>
+        <Name>boat_small1</Name>
+        <File>dz\structures\wrecks\ships\boat_small1.p3d</File>
+        <Date>04/30/21 13:28:03</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1041551305</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.323782</BBRadius>
+        <BBHScale>1.844221</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.468377" Y="-0.068927" Z="-1.268657" />
+        <BoundingMax X="2.414316" Y="0.863647" Z="1.378907" />
+        <BoundingCenter X="-0.027031" Y="0.397360" Z="0.055125" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>boat_small2</Name>
+        <File>dz\structures\wrecks\ships\boat_small2.p3d</File>
+        <Date>04/30/21 13:28:07</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1041551306</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.295342</BBRadius>
+        <BBHScale>1.970149</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.674462" Y="-0.118147" Z="-1.404898" />
+        <BoundingMax X="2.429572" Y="0.863638" Z="1.185786" />
+        <BoundingCenter X="-0.122445" Y="0.372745" Z="-0.109556" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>boat_small3</Name>
+        <File>dz\structures\wrecks\ships\boat_small3.p3d</File>
+        <Date>04/30/21 13:28:14</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1041551307</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.326566</BBRadius>
+        <BBHScale>1.855814</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.585261" Y="-0.034415" Z="-1.258695" />
+        <BoundingMax X="2.338458" Y="1.000004" Z="1.394437" />
+        <BoundingCenter X="-0.123401" Y="0.482795" Z="0.067871" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ship_big_backa</Name>
+        <File>dz\structures\wrecks\ships\ship_big_backa.p3d</File>
+        <Date>04/30/21 13:28:04</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2083648456</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>12.331501</BBRadius>
+        <BBHScale>1.813636</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-40.391304" Y="-9.579651" Z="-12.727800" />
+        <BoundingMax X="4.338409" Y="28.387501" Z="11.935202" />
+        <BoundingCenter X="-18.026447" Y="9.403925" Z="-0.396299" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ship_big_backb</Name>
+        <File>dz\structures\wrecks\ships\ship_big_backb.p3d</File>
+        <Date>04/30/21 13:28:07</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2083648455</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>11.095851</BBRadius>
+        <BBHScale>3.399036</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-75.430405" Y="-8.983280" Z="-10.881801" />
+        <BoundingMax X="0.000000" Y="24.760601" Z="11.309901" />
+        <BoundingCenter X="-37.715202" Y="7.888660" Z="0.214050" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ship_big_castle</Name>
+        <File>dz\structures\wrecks\ships\ship_big_castle.p3d</File>
+        <Date>04/30/21 13:28:07</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2130705818</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.913100</BBRadius>
+        <BBHScale>2.411652</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-52.637203" Y="0.000000" Z="-10.913100" />
+        <BoundingMax X="0.000000" Y="36.092400" Z="10.913100" />
+        <BoundingCenter X="-26.318602" Y="18.046200" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ship_big_fronta</Name>
+        <File>dz\structures\wrecks\ships\ship_big_fronta.p3d</File>
+        <Date>04/30/21 13:28:19</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2026909094</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>13.932501</BBRadius>
+        <BBHScale>2.697359</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="0.000000" Y="-8.989051" Z="-10.766701" />
+        <BoundingMax X="75.161903" Y="27.914803" Z="17.098301" />
+        <BoundingCenter X="37.580952" Y="9.462875" Z="3.165800" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ship_big_frontb</Name>
+        <File>dz\structures\wrecks\ships\ship_big_frontb.p3d</File>
+        <Date>04/30/21 13:28:23</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2026909093</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>12.206800</BBRadius>
+        <BBHScale>1.996014</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.711081" Y="-9.694380" Z="-11.358801" />
+        <BoundingMax X="42.018803" Y="25.611601" Z="13.054800" />
+        <BoundingCenter X="17.653862" Y="7.958611" Z="0.848000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ship_big_lifeboat</Name>
+        <File>dz\structures\wrecks\ships\ship_big_lifeboat.p3d</File>
+        <Date>04/30/21 13:28:14</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1452052222</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.382625</BBRadius>
+        <BBHScale>2.651272</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.810111" Y="-0.096630" Z="-1.442470" />
+        <BoundingMax X="3.521321" Y="1.477230" Z="1.322780" />
+        <BoundingCenter X="-0.144395" Y="0.690300" Z="-0.059845" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ship_medium_back</Name>
+        <File>dz\structures\wrecks\ships\ship_medium_back.p3d</File>
+        <Date>04/30/21 13:28:05</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1189968846</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>26.487373</BBRadius>
+        <BBHScale>0.428927</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-11.391175" Y="-8.847334" Z="-21.109146" />
+        <BoundingMax X="11.331134" Y="23.212648" Z="31.865601" />
+        <BoundingCenter X="-0.030021" Y="7.182657" Z="5.378227" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ship_medium_front</Name>
+        <File>dz\structures\wrecks\ships\ship_medium_front.p3d</File>
+        <Date>04/30/21 13:28:08</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>483429282</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>40.420303</BBRadius>
+        <BBHScale>0.349447</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-13.547615" Y="-18.537994" Z="-36.074303" />
+        <BoundingMax X="14.701855" Y="24.955544" Z="44.766304" />
+        <BoundingCenter X="0.577120" Y="3.208775" Z="4.346001" />
+        <Placement></Placement>
+    </Template>
+</Library>

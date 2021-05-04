@@ -1,0 +1,135 @@
+<?xml version="1.0" ?>
+<Library name="tenements" shape="rectangle" default_fill="-32576" default_outline="-1" tex="0">
+    <Template>
+        <Name>tenement_big</Name>
+        <File>dz\structures\residential\tenements\tenement_big.p3d</File>
+        <Date>04/30/21 13:26:29</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1752228569</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.660275</BBRadius>
+        <BBHScale>1.207921</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-11.825100" Y="-3.400000" Z="-9.496140" />
+        <BoundingMax X="11.512600" Y="46.881725" Z="9.824410" />
+        <BoundingCenter X="-0.156250" Y="21.740864" Z="0.164135" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>tenement_big_entry</Name>
+        <File>dz\structures\residential\tenements\tenement_big_entry.p3d</File>
+        <Date>04/30/21 13:26:54</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>215374202</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.636375</BBRadius>
+        <BBHScale>0.526117</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.913160" Y="-1.992820" Z="-3.398450" />
+        <BoundingMax X="1.913160" Y="4.964720" Z="3.874300" />
+        <BoundingCenter X="0.000000" Y="1.485950" Z="0.237925" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>tenement_small</Name>
+        <File>dz\structures\residential\tenements\tenement_small.p3d</File>
+        <Date>04/30/21 13:26:42</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1430931886</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.159420</BBRadius>
+        <BBHScale>1.268443</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-11.334700" Y="-2.610272" Z="-8.862260" />
+        <BoundingMax X="11.901701" Y="21.609608" Z="9.456580" />
+        <BoundingCenter X="0.283501" Y="9.499668" Z="0.297160" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>tenement_small_entry</Name>
+        <File>dz\structures\residential\tenements\tenement_small_entry.p3d</File>
+        <Date>04/30/21 13:26:49</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-743224447</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.309225</BBRadius>
+        <BBHScale>0.555450</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.282660" Y="-1.856340" Z="-2.439180" />
+        <BoundingMax X="1.282660" Y="2.012640" Z="2.179270" />
+        <BoundingCenter X="0.000000" Y="0.078150" Z="-0.129955" />
+        <Placement></Placement>
+    </Template>
+</Library>

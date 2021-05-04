@@ -1,0 +1,333 @@
+<?xml version="1.0" ?>
+<Library name="bus" shape="rectangle" default_fill="-32576" default_outline="-1" tex="0">
+    <Template>
+        <Name>busstation_building</Name>
+        <File>dz\structures\residential\bus\busstation_building.p3d</File>
+        <Date>04/30/21 13:26:50</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>306937663</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.050576</BBRadius>
+        <BBHScale>0.336636</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.196825" Y="-1.941755" Z="-3.095020" />
+        <BoundingMax X="1.876860" Y="3.166460" Z="9.006133" />
+        <BoundingCenter X="-0.159982" Y="0.612352" Z="2.955557" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>busstation_corner</Name>
+        <File>dz\structures\residential\bus\busstation_corner.p3d</File>
+        <Date>04/30/21 13:26:26</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1332935680</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.420794</BBRadius>
+        <BBHScale>0.999792</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.005084" Y="-1.000000" Z="-0.005781" />
+        <BoundingMax X="0.836329" Y="2.135460" Z="0.835807" />
+        <BoundingCenter X="0.415623" Y="0.567730" Z="0.415013" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>busstation_roof_big</Name>
+        <File>dz\structures\residential\bus\busstation_roof_big.p3d</File>
+        <Date>04/30/21 13:26:14</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1070305312</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.041119</BBRadius>
+        <BBHScale>0.937241</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.787500" Y="-1.000000" Z="-4.030800" />
+        <BoundingMax X="3.787500" Y="3.480000" Z="4.051437" />
+        <BoundingCenter X="0.000000" Y="1.240000" Z="0.010319" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>busstation_roof_long</Name>
+        <File>dz\structures\residential\bus\busstation_roof_long.p3d</File>
+        <Date>04/30/21 13:26:37</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>393739900</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.040000</BBRadius>
+        <BBHScale>0.380798</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.530680" Y="-1.000000" Z="-4.040000" />
+        <BoundingMax X="1.546170" Y="3.480240" Z="4.040000" />
+        <BoundingCenter X="0.007745" Y="1.240120" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>busstation_wall</Name>
+        <File>dz\structures\residential\bus\busstation_wall.p3d</File>
+        <Date>04/30/21 13:26:33</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1479391083</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.514322</BBRadius>
+        <BBHScale>0.127717</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.196891" Y="-1.000000" Z="-3.079731" />
+        <BoundingMax X="0.189917" Y="2.132122" Z="-0.051088" />
+        <BoundingCenter X="-0.003487" Y="0.566061" Z="-1.565409" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>busstation_wall_bench</Name>
+        <File>dz\structures\residential\bus\busstation_wall_bench.p3d</File>
+        <Date>04/30/21 13:26:41</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1402317670</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.502677</BBRadius>
+        <BBHScale>0.354186</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.185509" Y="-1.000153" Z="-3.070109" />
+        <BoundingMax X="0.878946" Y="2.132122" Z="-0.064754" />
+        <BoundingCenter X="0.346718" Y="0.565984" Z="-1.567432" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>busstop_city</Name>
+        <File>dz\structures\residential\bus\busstop_city.p3d</File>
+        <Date>04/30/21 13:26:40</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1107077640</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.617275</BBRadius>
+        <BBHScale>2.133577</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.561398" Y="-0.830387" Z="-3.333363" />
+        <BoundingMax X="5.606920" Y="2.862172" Z="1.901187" />
+        <BoundingCenter X="0.022761" Y="1.015893" Z="-0.716088" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>busstop_city_sign</Name>
+        <File>dz\structures\residential\bus\busstop_city_sign.p3d</File>
+        <Date>04/30/21 13:26:40</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>844979412</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.216276</BBRadius>
+        <BBHScale>1.852705</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.414880" Y="-0.500000" Z="-0.223369" />
+        <BoundingMax X="0.386512" Y="2.298531" Z="0.209183" />
+        <BoundingCenter X="-0.014184" Y="0.899265" Z="-0.007093" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>busstop_village</Name>
+        <File>dz\structures\residential\bus\busstop_village.p3d</File>
+        <Date>04/30/21 13:26:33</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1896319121</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.522443</BBRadius>
+        <BBHScale>0.994548</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.575474" Y="-0.310059" Z="-3.030781" />
+        <BoundingMax X="2.441905" Y="2.698947" Z="2.014104" />
+        <BoundingCenter X="-0.066784" Y="1.194444" Z="-0.508338" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>busstop_village_sign</Name>
+        <File>dz\structures\residential\bus\busstop_village_sign.p3d</File>
+        <Date>04/30/21 13:25:54</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1260589011</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.183837</BBRadius>
+        <BBHScale>1.948305</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.352260" Y="-0.500000" Z="0.055502" />
+        <BoundingMax X="0.364079" Y="2.544730" Z="0.423175" />
+        <BoundingCenter X="0.005910" Y="1.022365" Z="0.239339" />
+        <Placement></Placement>
+    </Template>
+</Library>

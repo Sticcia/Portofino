@@ -1,0 +1,399 @@
+<?xml version="1.0" ?>
+<Library name="industrial houses" shape="rectangle" default_fill="-8355712" default_outline="-1" tex="0">
+    <Template>
+        <Name>factory_lathes</Name>
+        <File>dz\structures\industrial\houses\factory_lathes.p3d</File>
+        <Date>04/30/21 13:24:47</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2132589588</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>14.637300</BBRadius>
+        <BBHScale>1.668040</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-28.577000" Y="-2.108608" Z="-15.440500" />
+        <BoundingMax X="20.254200" Y="14.129801" Z="13.834101" />
+        <BoundingCenter X="-4.161400" Y="6.010596" Z="-0.803200" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>factory_small</Name>
+        <File>dz\structures\industrial\houses\factory_small.p3d</File>
+        <Date>04/30/21 13:24:15</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1683453262</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.556316</BBRadius>
+        <BBHScale>1.268781</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-11.444000" Y="-3.400720" Z="-8.259232" />
+        <BoundingMax X="15.343300" Y="15.029201" Z="12.853401" />
+        <BoundingCenter X="1.949650" Y="5.814240" Z="2.297085" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>guardhouse</Name>
+        <File>dz\structures\industrial\houses\guardhouse.p3d</File>
+        <Date>04/30/21 13:24:42</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1520445669</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.690988</BBRadius>
+        <BBHScale>1.957554</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.306520" Y="-1.339034" Z="-1.694796" />
+        <BoundingMax X="3.313880" Y="3.478320" Z="1.687180" />
+        <BoundingCenter X="0.003680" Y="1.069643" Z="-0.003808" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>repair_center</Name>
+        <File>dz\structures\industrial\houses\repair_center.p3d</File>
+        <Date>04/30/21 13:24:27</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1720528377</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.207990</BBRadius>
+        <BBHScale>0.619607</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.083961" Y="-0.065780" Z="-5.551821" />
+        <BoundingMax X="5.087499" Y="5.107080" Z="10.864159" />
+        <BoundingCenter X="0.001769" Y="2.520650" Z="2.656169" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>water_station</Name>
+        <File>dz\structures\industrial\houses\water_station.p3d</File>
+        <Date>04/30/21 13:24:50</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1265019788</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.238921</BBRadius>
+        <BBHScale>0.914367</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.946346" Y="-1.034470" Z="-3.846174" />
+        <BoundingMax X="2.976779" Y="4.210260" Z="2.631668" />
+        <BoundingCenter X="0.015217" Y="1.587895" Z="-0.607253" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>workshop1</Name>
+        <File>dz\structures\industrial\houses\workshop1.p3d</File>
+        <Date>04/30/21 13:24:26</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>442142410</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.194177</BBRadius>
+        <BBHScale>0.975660</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.372021" Y="-0.931445" Z="-3.602110" />
+        <BoundingMax X="3.812162" Y="3.808594" Z="4.786243" />
+        <BoundingCenter X="-0.279929" Y="1.438574" Z="0.592067" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>workshop2</Name>
+        <File>dz\structures\industrial\houses\workshop2.p3d</File>
+        <Date>04/30/21 13:24:57</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>442142411</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.404908</BBRadius>
+        <BBHScale>0.780329</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.248497" Y="-1.495185" Z="-5.475485" />
+        <BoundingMax X="4.186718" Y="3.941992" Z="5.334331" />
+        <BoundingCenter X="-0.030889" Y="1.223403" Z="-0.070577" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>workshop3</Name>
+        <File>dz\structures\industrial\houses\workshop3.p3d</File>
+        <Date>04/30/21 13:24:43</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>442142412</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.621312</BBRadius>
+        <BBHScale>0.494566</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.514870" Y="-1.193760" Z="-6.619413" />
+        <BoundingMax X="3.034480" Y="3.924959" Z="6.623211" />
+        <BoundingCenter X="-0.240195" Y="1.365599" Z="0.001899" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>workshop4</Name>
+        <File>dz\structures\industrial\houses\workshop4.p3d</File>
+        <Date>04/30/21 13:24:27</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>442142413</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.699520</BBRadius>
+        <BBHScale>0.587304</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.383153" Y="-0.910647" Z="-8.664330" />
+        <BoundingMax X="4.660761" Y="4.239790" Z="6.734711" />
+        <BoundingCenter X="0.138804" Y="1.664572" Z="-0.964809" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>workshop5</Name>
+        <File>dz\structures\industrial\houses\workshop5.p3d</File>
+        <Date>04/30/21 13:24:58</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>442142414</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.697139</BBRadius>
+        <BBHScale>0.729871</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.931739" Y="-0.900621" Z="-8.284758" />
+        <BoundingMax X="5.304095" Y="3.688320" Z="7.109520" />
+        <BoundingCenter X="-0.313822" Y="1.393850" Z="-0.587619" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>workshop_box</Name>
+        <File>dz\structures\industrial\houses\workshop_box.p3d</File>
+        <Date>04/30/21 13:24:39</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-734317005</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.599427</BBRadius>
+        <BBHScale>0.784117</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="2.316767" Y="-0.900000" Z="-4.155190" />
+        <BoundingMax X="4.825042" Y="2.387500" Z="-0.956337" />
+        <BoundingCenter X="3.570904" Y="0.743750" Z="-2.555763" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>housev2_03_int</Name>
+        <File>dz\structures\industrial\houses\proxy\housev2_03_int.p3d</File>
+        <Date>04/30/21 13:24:49</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>140496662</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>11.082050</BBRadius>
+        <BBHScale>1.737783</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-23.957901" Y="-2.000000" Z="-10.251300" />
+        <BoundingMax X="14.558501" Y="14.129801" Z="11.912801" />
+        <BoundingCenter X="-4.699700" Y="6.064900" Z="0.830750" />
+        <Placement></Placement>
+    </Template>
+</Library>

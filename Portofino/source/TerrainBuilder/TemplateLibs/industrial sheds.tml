@@ -1,0 +1,234 @@
+<?xml version="1.0" ?>
+<Library name="industrial sheds" shape="rectangle" default_fill="-8355712" default_outline="-1" tex="0">
+    <Template>
+        <Name>shed_closed</Name>
+        <File>dz\structures\industrial\sheds\shed_closed.p3d</File>
+        <Date>04/30/21 13:24:30</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>943678519</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>14.736650</BBRadius>
+        <BBHScale>0.425909</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.634201" Y="-2.000000" Z="-13.901100" />
+        <BoundingMax X="5.918741" Y="11.740700" Z="15.572201" />
+        <BoundingCenter X="-0.357730" Y="4.870350" Z="0.835550" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>shed_open_big</Name>
+        <File>dz\structures\industrial\sheds\shed_open_big.p3d</File>
+        <Date>04/30/21 13:24:46</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>374159094</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.180736</BBRadius>
+        <BBHScale>3.716282</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.103241" Y="5.446011" Z="-2.210236" />
+        <BoundingMax X="8.105221" Y="8.082271" Z="2.151237" />
+        <BoundingCenter X="0.000990" Y="6.764141" Z="-0.029500" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>shed_open_big_end</Name>
+        <File>dz\structures\industrial\sheds\shed_open_big_end.p3d</File>
+        <Date>04/30/21 13:24:13</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1085026610</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.175000</BBRadius>
+        <BBHScale>46.304585</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.103241" Y="-1.392770" Z="-2.120620" />
+        <BoundingMax X="8.103371" Y="8.066171" Z="-1.770620" />
+        <BoundingCenter X="0.000065" Y="3.336700" Z="-1.945620" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>shed_open_sawmill</Name>
+        <File>dz\structures\industrial\sheds\shed_open_sawmill.p3d</File>
+        <Date>04/30/21 13:24:23</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1807837733</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>14.866271</BBRadius>
+        <BBHScale>0.441312</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.614434" Y="-0.999965" Z="-14.951541" />
+        <BoundingMax X="6.506896" Y="7.128712" Z="14.781001" />
+        <BoundingCenter X="-0.053769" Y="3.064373" Z="-0.085270" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>shed_open_sideroof</Name>
+        <File>dz\structures\industrial\sheds\shed_open_sideroof.p3d</File>
+        <Date>04/30/21 13:24:51</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1574589547</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.784290</BBRadius>
+        <BBHScale>0.364528</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.016804" Y="-2.080540" Z="-9.677280" />
+        <BoundingMax X="7.116500" Y="3.902098" Z="9.891300" />
+        <BoundingCenter X="3.549848" Y="0.910779" Z="0.107010" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>shed_open_small</Name>
+        <File>dz\structures\industrial\sheds\shed_open_small.p3d</File>
+        <Date>04/30/21 13:24:29</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>175795197</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.143877</BBRadius>
+        <BBHScale>1.911264</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.091787" Y="-1.392770" Z="-2.120620" />
+        <BoundingMax X="8.103241" Y="5.565180" Z="2.167133" />
+        <BoundingCenter X="4.005727" Y="2.086205" Z="0.023256" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>shed_open_small_end</Name>
+        <File>dz\structures\industrial\sheds\shed_open_small_end.p3d</File>
+        <Date>04/30/21 13:24:33</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1292173511</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.175049</BBRadius>
+        <BBHScale>23.343826</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.069403" Y="-1.402870" Z="-0.120620" />
+        <BoundingMax X="8.103241" Y="5.573121" Z="0.229478" />
+        <BoundingCenter X="4.016919" Y="2.085125" Z="0.054429" />
+        <Placement></Placement>
+    </Template>
+</Library>

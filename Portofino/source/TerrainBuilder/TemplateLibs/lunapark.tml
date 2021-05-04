@@ -1,0 +1,201 @@
+<?xml version="1.0" ?>
+<Library name="lunapark" shape="rectangle" default_fill="-16744193" default_outline="-1" tex="0">
+    <Template>
+        <Name>lunapark_autodrome</Name>
+        <File>dz\structures\specific\lunapark\lunapark_autodrome.p3d</File>
+        <Date>04/30/21 13:27:36</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>784116049</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.459530</BBRadius>
+        <BBHScale>1.790006</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-13.355899" Y="-0.125466" Z="-7.374320" />
+        <BoundingMax X="13.349300" Y="5.900000" Z="7.544741" />
+        <BoundingCenter X="-0.003299" Y="2.887267" Z="0.085211" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>lunapark_bumper_car</Name>
+        <File>dz\structures\specific\lunapark\lunapark_bumper_car.p3d</File>
+        <Date>04/30/21 13:27:42</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1687370033</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.933619</BBRadius>
+        <BBHScale>0.609710</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.554823" Y="-0.019800" Z="-0.936868" />
+        <BoundingMax X="0.583650" Y="2.970050" Z="0.930370" />
+        <BoundingCenter X="0.014414" Y="1.475125" Z="-0.003249" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>lunapark_carousel_small</Name>
+        <File>dz\structures\specific\lunapark\lunapark_carousel_small.p3d</File>
+        <Date>04/30/21 13:27:38</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1063534401</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.167420</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.167420" Y="-0.000000" Z="-2.167420" />
+        <BoundingMax X="2.167420" Y="4.267238" Z="2.167420" />
+        <BoundingCenter X="0.000000" Y="2.133619" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>lunapark_carousel_swan</Name>
+        <File>dz\structures\specific\lunapark\lunapark_carousel_swan.p3d</File>
+        <Date>04/30/21 13:27:33</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-18721033</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.729432</BBRadius>
+        <BBHScale>1.138286</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.976379" Y="-0.191505" Z="-8.729432" />
+        <BoundingMax X="10.896801" Y="8.556510" Z="8.729432" />
+        <BoundingCenter X="0.960211" Y="4.182503" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>lunapark_ferris_wheel</Name>
+        <File>dz\structures\specific\lunapark\lunapark_ferris_wheel.p3d</File>
+        <Date>04/30/21 13:27:52</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1292210526</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.492215</BBRadius>
+        <BBHScale>1.184527</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.805566" Y="-0.031640" Z="-5.485780" />
+        <BoundingMax X="7.205791" Y="15.522449" Z="5.498650" />
+        <BoundingCenter X="0.700112" Y="7.745405" Z="0.006435" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>lunapark_shooting_gallery</Name>
+        <File>dz\structures\specific\lunapark\lunapark_shooting_gallery.p3d</File>
+        <Date>04/30/21 13:27:55</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1929657105</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.929905</BBRadius>
+        <BBHScale>0.447325</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.240440" Y="-0.165218" Z="-5.156850" />
+        <BoundingMax X="1.170100" Y="3.487320" Z="4.702960" />
+        <BoundingCenter X="-1.035170" Y="1.661051" Z="-0.226945" />
+        <Placement></Placement>
+    </Template>
+</Library>

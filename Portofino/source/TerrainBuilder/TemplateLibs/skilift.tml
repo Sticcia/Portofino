@@ -1,0 +1,234 @@
+<?xml version="1.0" ?>
+<Library name="skilift" shape="rectangle" default_fill="-16744193" default_outline="-1" tex="0">
+    <Template>
+        <Name>skilift_rope_end</Name>
+        <File>dz\structures\specific\skilift\skilift_rope_end.p3d</File>
+        <Date>04/30/21 13:27:33</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>129673937</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.066285</BBRadius>
+        <BBHScale>7.037806</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.510170" Y="0.000000" Z="-1.065292" />
+        <BoundingMax X="8.498442" Y="4.064919" Z="1.067278" />
+        <BoundingCenter X="0.994136" Y="2.032459" Z="0.000993" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>skilift_rope_middle</Name>
+        <File>dz\structures\specific\skilift\skilift_rope_middle.p3d</File>
+        <Date>04/30/21 13:27:40</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-169567681</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.065264</BBRadius>
+        <BBHScale>9.408543</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-10.034317" Y="0.000000" Z="-1.065294" />
+        <BoundingMax X="10.010841" Y="4.064919" Z="1.065234" />
+        <BoundingCenter X="-0.011738" Y="2.032459" Z="-0.000030" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>skilift_rope_start</Name>
+        <File>dz\structures\specific\skilift\skilift_rope_start.p3d</File>
+        <Date>04/30/21 13:27:39</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1258400040</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.065263</BBRadius>
+        <BBHScale>7.547766</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.132368" Y="0.000000" Z="-1.582608" />
+        <BoundingMax X="7.948339" Y="4.076427" Z="0.547917" />
+        <BoundingCenter X="-0.092015" Y="2.038213" Z="-0.517346" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>skilift_tower_end</Name>
+        <File>dz\structures\specific\skilift\skilift_tower_end.p3d</File>
+        <Date>04/30/21 13:27:30</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>35564258</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.583421</BBRadius>
+        <BBHScale>2.573638</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.035574" Y="-0.308474" Z="-1.583421" />
+        <BoundingMax X="4.114730" Y="4.476962" Z="1.583421" />
+        <BoundingCenter X="0.039578" Y="2.084244" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>skilift_tower_middle</Name>
+        <File>dz\structures\specific\skilift\skilift_tower_middle.p3d</File>
+        <Date>04/30/21 13:27:31</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>494171886</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.118493</BBRadius>
+        <BBHScale>0.409695</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.415975" Y="-0.308474" Z="-1.119596" />
+        <BoundingMax X="0.500507" Y="4.790796" Z="1.117390" />
+        <BoundingCenter X="0.042266" Y="2.241161" Z="-0.001103" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>skilift_tower_middle_slope</Name>
+        <File>dz\structures\specific\skilift\skilift_tower_middle_slope.p3d</File>
+        <Date>04/30/21 13:27:45</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>720165690</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.118493</BBRadius>
+        <BBHScale>0.442894</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.429115" Y="-0.308474" Z="-1.119596" />
+        <BoundingMax X="0.561631" Y="4.790796" Z="1.117390" />
+        <BoundingCenter X="0.066258" Y="2.241161" Z="-0.001103" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>skilift_tower_start</Name>
+        <File>dz\structures\specific\skilift\skilift_tower_start.p3d</File>
+        <Date>04/30/21 13:27:23</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-977183127</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.915336</BBRadius>
+        <BBHScale>1.689182</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.542270" Y="-0.273122" Z="-0.764581" />
+        <BoundingMax X="1.550070" Y="4.844931" Z="1.066092" />
+        <BoundingCenter X="0.003900" Y="2.285904" Z="0.150756" />
+        <Placement></Placement>
+    </Template>
+</Library>

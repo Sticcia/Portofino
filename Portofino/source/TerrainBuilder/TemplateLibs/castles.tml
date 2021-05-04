@@ -1,0 +1,1158 @@
+<?xml version="1.0" ?>
+<Library name="castles" shape="rectangle" default_fill="-16744193" default_outline="-1" tex="0">
+    <Template>
+        <Name>castle_bastion</Name>
+        <File>dz\structures\specific\castles\castle_bastion.p3d</File>
+        <Date>04/30/21 13:27:43</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-188978751</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.712709</BBRadius>
+        <BBHScale>1.388531</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-13.634501" Y="-5.103200" Z="-11.570099" />
+        <BoundingMax X="13.338301" Y="12.077001" Z="7.855319" />
+        <BoundingCenter X="-0.148100" Y="3.486900" Z="-1.857390" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>castle_bastion_nolc</Name>
+        <File>dz\structures\specific\castles\castle_bastion_nolc.p3d</File>
+        <Date>04/30/21 13:27:54</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-883560746</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.712709</BBRadius>
+        <BBHScale>1.388531</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-13.634501" Y="-5.103200" Z="-11.570099" />
+        <BoundingMax X="13.338301" Y="12.077001" Z="7.855319" />
+        <BoundingCenter X="-0.148100" Y="3.486900" Z="-1.857390" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>castle_bergfrit</Name>
+        <File>dz\structures\specific\castles\castle_bergfrit.p3d</File>
+        <Date>04/30/21 13:27:53</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-377600074</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.782970</BBRadius>
+        <BBHScale>0.755513</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.077550" Y="-5.002030" Z="-7.879490" />
+        <BoundingMax X="5.682721" Y="31.675102" Z="7.686450" />
+        <BoundingCenter X="-0.197414" Y="13.336536" Z="-0.096520" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>castle_donjon</Name>
+        <File>dz\structures\specific\castles\castle_donjon.p3d</File>
+        <Date>04/30/21 13:27:24</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1338877651</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.599181</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-7.599181" Y="-5.051970" Z="-7.599181" />
+        <BoundingMax X="7.599181" Y="23.755501" Z="7.599181" />
+        <BoundingCenter X="0.000000" Y="9.351765" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>castle_gate</Name>
+        <File>dz\structures\specific\castles\castle_gate.p3d</File>
+        <Date>04/30/21 13:27:36</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-833081582</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.644251</BBRadius>
+        <BBHScale>0.989660</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-9.478571" Y="-5.213381" Z="-10.573301" />
+        <BoundingMax X="11.589800" Y="11.975700" Z="10.715200" />
+        <BoundingCenter X="1.055614" Y="3.381160" Z="0.070950" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>castle_stairs</Name>
+        <File>dz\structures\specific\castles\castle_stairs.p3d</File>
+        <Date>04/30/21 13:27:38</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-216646031</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.031355</BBRadius>
+        <BBHScale>3.351488</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-10.000000" Y="-5.002951" Z="-3.092200" />
+        <BoundingMax X="10.319099" Y="12.150600" Z="2.970510" />
+        <BoundingCenter X="0.159550" Y="3.573825" Z="-0.060845" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>castle_stairs_nolc</Name>
+        <File>dz\structures\specific\castles\castle_stairs_nolc.p3d</File>
+        <Date>04/30/21 13:27:55</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>457700902</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.031355</BBRadius>
+        <BBHScale>1.817810</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.701756" Y="-5.002951" Z="-3.092200" />
+        <BoundingMax X="10.319100" Y="12.150600" Z="2.970510" />
+        <BoundingCenter X="4.808672" Y="3.573825" Z="-0.060845" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>castle_wall1_20</Name>
+        <File>dz\structures\specific\castles\castle_wall1_20.p3d</File>
+        <Date>04/30/21 13:27:44</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>341723645</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.359146</BBRadius>
+        <BBHScale>5.710808</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-13.445661" Y="-5.103752" Z="-3.560992" />
+        <BoundingMax X="13.499600" Y="12.083685" Z="1.157300" />
+        <BoundingCenter X="0.026970" Y="3.489966" Z="-1.201846" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>castle_wall1_20_nolc</Name>
+        <File>dz\structures\specific\castles\castle_wall1_20_nolc.p3d</File>
+        <Date>04/30/21 13:27:53</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1670194790</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.359146</BBRadius>
+        <BBHScale>5.710808</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-13.445661" Y="-5.103752" Z="-3.560992" />
+        <BoundingMax X="13.499600" Y="12.083685" Z="1.157300" />
+        <BoundingCenter X="0.026970" Y="3.489966" Z="-1.201846" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>castle_wall1_20_turn</Name>
+        <File>dz\structures\specific\castles\castle_wall1_20_turn.p3d</File>
+        <Date>04/30/21 13:27:45</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1231676257</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.363925</BBRadius>
+        <BBHScale>3.828980</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-12.686401" Y="-5.117440" Z="-5.682960" />
+        <BoundingMax X="13.074402" Y="12.077001" Z="1.044890" />
+        <BoundingCenter X="0.194000" Y="3.479780" Z="-2.319035" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>castle_wall1_20_turn_nolc</Name>
+        <File>dz\structures\specific\castles\castle_wall1_20_turn_nolc.p3d</File>
+        <Date>04/30/21 13:27:22</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-824766088</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.363925</BBRadius>
+        <BBHScale>3.828980</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-12.686401" Y="-5.117440" Z="-5.682960" />
+        <BoundingMax X="13.074402" Y="12.077001" Z="1.044890" />
+        <BoundingCenter X="0.194000" Y="3.479780" Z="-2.319035" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>castle_wall1_corner1</Name>
+        <File>dz\structures\specific\castles\castle_wall1_corner1.p3d</File>
+        <Date>04/30/21 13:27:55</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>356180509</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.695325</BBRadius>
+        <BBHScale>0.982533</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.105230" Y="-5.103201" Z="-4.285570" />
+        <BoundingMax X="4.191260" Y="11.859600" Z="1.105080" />
+        <BoundingCenter X="1.543015" Y="3.378200" Z="-1.590245" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>castle_wall1_corner1_nolc</Name>
+        <File>dz\structures\specific\castles\castle_wall1_corner1_nolc.p3d</File>
+        <Date>04/30/21 13:27:48</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1306552698</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.695325</BBRadius>
+        <BBHScale>0.982533</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.105230" Y="-5.103201" Z="-4.285570" />
+        <BoundingMax X="4.191260" Y="11.859600" Z="1.105080" />
+        <BoundingCenter X="1.543015" Y="3.378200" Z="-1.590245" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>castle_wall1_corner2</Name>
+        <File>dz\structures\specific\castles\castle_wall1_corner2.p3d</File>
+        <Date>04/30/21 13:27:54</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>356180510</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.301915</BBRadius>
+        <BBHScale>1.691531</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.242860" Y="-5.289230" Z="-3.377280" />
+        <BoundingMax X="4.544661" Y="12.115200" Z="1.226550" />
+        <BoundingCenter X="0.650900" Y="3.412985" Z="-1.075365" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>castle_wall1_corner2_nolc</Name>
+        <File>dz\structures\specific\castles\castle_wall1_corner2_nolc.p3d</File>
+        <Date>04/30/21 13:27:53</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1678559929</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.301915</BBRadius>
+        <BBHScale>1.691531</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.242860" Y="-5.289230" Z="-3.377280" />
+        <BoundingMax X="4.544661" Y="12.115200" Z="1.226550" />
+        <BoundingCenter X="0.650900" Y="3.412985" Z="-1.075365" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>castle_wall1_end1</Name>
+        <File>dz\structures\specific\castles\castle_wall1_end1.p3d</File>
+        <Date>04/30/21 13:27:54</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1742304363</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.334165</BBRadius>
+        <BBHScale>4.980325</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-10.000000" Y="-5.103201" Z="-3.554520" />
+        <BoundingMax X="13.249802" Y="11.859600" Z="1.113810" />
+        <BoundingCenter X="1.624901" Y="3.378200" Z="-1.220355" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>castle_wall1_end1_nolc</Name>
+        <File>dz\structures\specific\castles\castle_wall1_end1_nolc.p3d</File>
+        <Date>04/30/21 13:27:39</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1102419458</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.334165</BBRadius>
+        <BBHScale>4.934118</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-9.784290" Y="-5.103201" Z="-3.554520" />
+        <BoundingMax X="13.249802" Y="11.859600" Z="1.113810" />
+        <BoundingCenter X="1.732756" Y="3.378200" Z="-1.220355" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>castle_wall1_end2</Name>
+        <File>dz\structures\specific\castles\castle_wall1_end2.p3d</File>
+        <Date>04/30/21 13:27:53</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1742304362</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.331415</BBRadius>
+        <BBHScale>5.050688</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-13.550501" Y="-5.076150" Z="-3.551060" />
+        <BoundingMax X="10.000000" Y="12.092901" Z="1.111770" />
+        <BoundingCenter X="-1.775250" Y="3.508375" Z="-1.219645" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>castle_wall1_end2_nolc</Name>
+        <File>dz\structures\specific\castles\castle_wall1_end2_nolc.p3d</File>
+        <Date>04/30/21 13:27:43</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1474426689</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.331415</BBRadius>
+        <BBHScale>5.004426</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-13.550501" Y="-5.076150" Z="-3.551060" />
+        <BoundingMax X="9.784290" Y="12.092901" Z="1.111770" />
+        <BoundingCenter X="-1.883105" Y="3.508375" Z="-1.219645" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>castle_wall2_30</Name>
+        <File>dz\structures\specific\castles\castle_wall2_30.p3d</File>
+        <Date>04/30/21 13:27:31</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1122376443</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.726455</BBRadius>
+        <BBHScale>4.096900</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-15.361702" Y="-3.898021" Z="-5.131730" />
+        <BoundingMax X="15.172127" Y="16.093201" Z="2.321180" />
+        <BoundingCenter X="-0.094788" Y="6.097590" Z="-1.405275" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>castle_wall2_30_nolc</Name>
+        <File>dz\structures\specific\castles\castle_wall2_30_nolc.p3d</File>
+        <Date>04/30/21 13:27:44</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1169655324</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.726455</BBRadius>
+        <BBHScale>4.096900</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-15.361702" Y="-3.898021" Z="-5.131730" />
+        <BoundingMax X="15.172127" Y="16.093201" Z="2.321180" />
+        <BoundingCenter X="-0.094788" Y="6.097590" Z="-1.405275" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>castle_wall2_corner1</Name>
+        <File>dz\structures\specific\castles\castle_wall2_corner1.p3d</File>
+        <Date>04/30/21 13:27:27</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-397107170</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.267615</BBRadius>
+        <BBHScale>1.009554</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.807340" Y="-3.898020" Z="-5.481491" />
+        <BoundingMax X="0.790327" Y="16.022902" Z="1.053740" />
+        <BoundingCenter X="-2.508507" Y="6.062441" Z="-2.213875" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>castle_wall2_corner1_nolc</Name>
+        <File>dz\structures\specific\castles\castle_wall2_corner1_nolc.p3d</File>
+        <Date>04/30/21 13:27:28</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1067414343</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.267615</BBRadius>
+        <BBHScale>1.009554</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.807340" Y="-3.898020" Z="-5.481491" />
+        <BoundingMax X="0.790327" Y="16.022902" Z="1.053740" />
+        <BoundingCenter X="-2.508507" Y="6.062441" Z="-2.213875" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>castle_wall2_corner2</Name>
+        <File>dz\structures\specific\castles\castle_wall2_corner2.p3d</File>
+        <Date>04/30/21 13:27:25</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-397107169</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.179352</BBRadius>
+        <BBHScale>2.486257</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.141773" Y="-3.898020" Z="-2.997371" />
+        <BoundingMax X="4.695083" Y="16.010801" Z="1.361332" />
+        <BoundingCenter X="-0.723345" Y="6.056391" Z="-0.818019" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>castle_wall2_corner2_nolc</Name>
+        <File>dz\structures\specific\castles\castle_wall2_corner2_nolc.p3d</File>
+        <Date>04/30/21 13:27:32</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-695407112</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.179352</BBRadius>
+        <BBHScale>2.486257</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.141773" Y="-3.898020" Z="-2.997371" />
+        <BoundingMax X="4.695083" Y="16.010801" Z="1.361332" />
+        <BoundingCenter X="-0.723345" Y="6.056391" Z="-0.818019" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>castle_wall2_end1</Name>
+        <File>dz\structures\specific\castles\castle_wall2_end1.p3d</File>
+        <Date>04/30/21 13:27:23</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1370297132</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.555083</BBRadius>
+        <BBHScale>2.627913</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-24.477110" Y="-8.012754" Z="-4.283361" />
+        <BoundingMax X="15.231100" Y="15.902025" Z="10.826805" />
+        <BoundingCenter X="-4.623005" Y="3.944635" Z="3.271722" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>castle_wall2_end1_nolc</Name>
+        <File>dz\structures\specific\castles\castle_wall2_end1_nolc.p3d</File>
+        <Date>04/30/21 13:27:26</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1471257725</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.555083</BBRadius>
+        <BBHScale>2.627913</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-24.477110" Y="-8.012754" Z="-4.283361" />
+        <BoundingMax X="15.231100" Y="15.902025" Z="10.826805" />
+        <BoundingCenter X="-4.623005" Y="3.944635" Z="3.271722" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>castle_wall2_end2</Name>
+        <File>dz\structures\specific\castles\castle_wall2_end2.p3d</File>
+        <Date>04/30/21 13:27:55</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1370297131</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.936206</BBRadius>
+        <BBHScale>6.835767</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-15.220901" Y="-3.830760" Z="-4.283367" />
+        <BoundingMax X="11.250000" Y="16.093201" Z="-0.410956" />
+        <BoundingCenter X="-1.985451" Y="6.131220" Z="-2.347162" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>castle_wall2_end2_nolc</Name>
+        <File>dz\structures\specific\castles\castle_wall2_end2_nolc.p3d</File>
+        <Date>04/30/21 13:27:30</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1099250494</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.936206</BBRadius>
+        <BBHScale>6.235735</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-15.220901" Y="-3.830760" Z="-4.283367" />
+        <BoundingMax X="8.926430" Y="16.093201" Z="-0.410956" />
+        <BoundingCenter X="-3.147236" Y="6.131220" Z="-2.347162" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>castle_walls_10</Name>
+        <File>dz\structures\specific\castles\castle_walls_10.p3d</File>
+        <Date>04/30/21 13:27:49</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>320805628</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.179300</BBRadius>
+        <BBHScale>2.604339</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.749440" Y="-1.773890" Z="-2.102020" />
+        <BoundingMax X="5.601830" Y="3.526140" Z="2.256580" />
+        <BoundingCenter X="-0.073805" Y="0.876125" Z="0.077280" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>castle_walls_10_nolc</Name>
+        <File>dz\structures\specific\castles\castle_walls_10_nolc.p3d</File>
+        <Date>04/30/21 13:27:30</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>854255451</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.179300</BBRadius>
+        <BBHScale>2.604339</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.749440" Y="-1.773890" Z="-2.102020" />
+        <BoundingMax X="5.601830" Y="3.526140" Z="2.256580" />
+        <BoundingCenter X="-0.073805" Y="0.876125" Z="0.077280" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>castle_walls_5_d</Name>
+        <File>dz\structures\specific\castles\castle_walls_5_d.p3d</File>
+        <Date>04/30/21 13:27:28</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-775229955</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.922745</BBRadius>
+        <BBHScale>2.914932</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.519200" Y="-1.686810" Z="-1.530080" />
+        <BoundingMax X="5.690141" Y="1.844890" Z="2.315410" />
+        <BoundingCenter X="0.085470" Y="0.079040" Z="0.392665" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>castle_walls_5_d_nolc</Name>
+        <File>dz\structures\specific\castles\castle_walls_5_d_nolc.p3d</File>
+        <Date>04/30/21 13:27:39</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1806486118</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.922745</BBRadius>
+        <BBHScale>2.914932</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.519200" Y="-1.686810" Z="-1.530080" />
+        <BoundingMax X="5.690141" Y="1.844890" Z="2.315410" />
+        <BoundingCenter X="0.085470" Y="0.079040" Z="0.392665" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>castle_walls_end</Name>
+        <File>dz\structures\specific\castles\castle_walls_end.p3d</File>
+        <Date>04/30/21 13:27:54</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-377693730</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.158503</BBRadius>
+        <BBHScale>1.319341</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.076303" Y="-1.452640" Z="-1.679876" />
+        <BoundingMax X="5.619300" Y="3.554270" Z="2.637130" />
+        <BoundingCenter X="2.771498" Y="1.050815" Z="0.478627" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>castle_walls_end_nolc</Name>
+        <File>dz\structures\specific\castles\castle_walls_end_nolc.p3d</File>
+        <Date>04/30/21 13:27:36</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1272413447</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.158503</BBRadius>
+        <BBHScale>1.319341</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.076303" Y="-1.452640" Z="-1.679876" />
+        <BoundingMax X="5.619300" Y="3.554270" Z="2.637130" />
+        <BoundingCenter X="2.771498" Y="1.050815" Z="0.478627" />
+        <Placement></Placement>
+    </Template>
+</Library>

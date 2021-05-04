@@ -1,0 +1,102 @@
+<?xml version="1.0" ?>
+<Library name="dams" shape="rectangle" default_fill="-8355712" default_outline="-1" tex="0">
+    <Template>
+        <Name>dam_concrete_20</Name>
+        <File>dz\structures\industrial\dams\dam_concrete_20.p3d</File>
+        <Date>04/30/21 13:24:25</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1438685303</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.337800</BBRadius>
+        <BBHScale>0.967324</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-10.000000" Y="-2.000000" Z="-10.000000" />
+        <BoundingMax X="10.000000" Y="18.133902" Z="10.675600" />
+        <BoundingCenter X="0.000000" Y="8.066951" Z="0.337800" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>dam_concrete_20_floodgate</Name>
+        <File>dz\structures\industrial\dams\dam_concrete_20_floodgate.p3d</File>
+        <Date>04/30/21 13:24:48</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1086673331</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>11.753750</BBRadius>
+        <BBHScale>0.850791</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-9.998572" Y="-2.000000" Z="-11.519199" />
+        <BoundingMax X="10.001401" Y="18.152575" Z="11.988300" />
+        <BoundingCenter X="0.001414" Y="8.076287" Z="0.234550" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>dam_stone_40</Name>
+        <File>dz\structures\industrial\dams\dam_stone_40.p3d</File>
+        <Date>04/30/21 13:24:49</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2055960805</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.038880</BBRadius>
+        <BBHScale>9.823898</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-20.016100" Y="-2.054220" Z="-1.924840" />
+        <BoundingMax X="20.043402" Y="6.099331" Z="2.152920" />
+        <BoundingCenter X="0.013651" Y="2.022555" Z="0.114040" />
+        <Placement></Placement>
+    </Template>
+</Library>

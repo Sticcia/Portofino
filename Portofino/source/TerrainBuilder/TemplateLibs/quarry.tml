@@ -1,0 +1,135 @@
+<?xml version="1.0" ?>
+<Library name="quarry" shape="rectangle" default_fill="-8355712" default_outline="-1" tex="0">
+    <Template>
+        <Name>quarry_conveyer</Name>
+        <File>dz\structures\industrial\quarry\quarry_conveyer.p3d</File>
+        <Date>04/30/21 13:24:45</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2066878536</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.241256</BBRadius>
+        <BBHScale>0.167750</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.294521" Y="-0.096406" Z="-8.269011" />
+        <BoundingMax X="1.470424" Y="7.774471" Z="8.213501" />
+        <BoundingCenter X="0.087952" Y="3.839032" Z="-0.027755" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>quarry_conveyerlong</Name>
+        <File>dz\structures\industrial\quarry\quarry_conveyerlong.p3d</File>
+        <Date>04/30/21 13:24:37</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-296084300</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>11.715466</BBRadius>
+        <BBHScale>0.112086</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.313300" Y="-0.099114" Z="-11.807501" />
+        <BoundingMax X="1.312970" Y="11.011801" Z="11.623430" />
+        <BoundingCenter X="-0.000165" Y="5.456343" Z="-0.092035" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>quarry_hammermill</Name>
+        <File>dz\structures\industrial\quarry\quarry_hammermill.p3d</File>
+        <Date>04/30/21 13:24:08</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1322541829</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.780420</BBRadius>
+        <BBHScale>0.650449</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.808521" Y="-0.100000" Z="-2.991841" />
+        <BoundingMax X="1.808521" Y="5.867470" Z="2.569000" />
+        <BoundingCenter X="0.000000" Y="2.883735" Z="-0.211420" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>quarry_main</Name>
+        <File>dz\structures\industrial\quarry\quarry_main.p3d</File>
+        <Date>04/30/21 13:24:31</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-14750916</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>18.377670</BBRadius>
+        <BBHScale>0.539829</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-10.287561" Y="-2.000700" Z="-19.723335" />
+        <BoundingMax X="9.554020" Y="17.196348" Z="17.032005" />
+        <BoundingCenter X="-0.366771" Y="7.597824" Z="-1.345665" />
+        <Placement></Placement>
+    </Template>
+</Library>

@@ -1,0 +1,960 @@
+<?xml version="1.0" ?>
+<Library name="residential houses" shape="rectangle" default_fill="-32576" default_outline="-1" tex="0">
+    <Template>
+        <Name>house_1b01_pub</Name>
+        <File>dz\structures\residential\houses\house_1b01_pub.p3d</File>
+        <Date>04/30/21 13:26:27</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1814005487</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>11.723373</BBRadius>
+        <BBHScale>0.761622</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-12.042582" Y="-2.035170" Z="-14.777906" />
+        <BoundingMax X="5.814980" Y="7.939770" Z="8.668840" />
+        <BoundingCenter X="-3.113801" Y="2.952300" Z="-3.054533" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>house_1w01</Name>
+        <File>dz\structures\residential\houses\house_1w01.p3d</File>
+        <Date>04/30/21 13:26:27</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1721270534</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.765523</BBRadius>
+        <BBHScale>0.877144</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.949730" Y="-2.070700" Z="-9.437025" />
+        <BoundingMax X="5.918940" Y="7.918532" Z="4.094021" />
+        <BoundingCenter X="-0.015395" Y="2.923916" Z="-2.671502" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>house_1w02</Name>
+        <File>dz\structures\residential\houses\house_1w02.p3d</File>
+        <Date>04/30/21 13:26:54</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1721270535</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.206453</BBRadius>
+        <BBHScale>0.875504</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-7.971087" Y="-1.245868" Z="-8.235332" />
+        <BoundingMax X="4.647470" Y="6.041210" Z="6.177574" />
+        <BoundingCenter X="-1.661808" Y="2.397671" Z="-1.028879" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>house_1w03</Name>
+        <File>dz\structures\residential\houses\house_1w03.p3d</File>
+        <Date>04/30/21 13:26:41</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1721270536</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.057745</BBRadius>
+        <BBHScale>0.499661</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.839892" Y="-1.379040" Z="-8.315331" />
+        <BoundingMax X="5.211708" Y="6.852991" Z="9.800159" />
+        <BoundingCenter X="0.685908" Y="2.736975" Z="0.742414" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>house_1w04</Name>
+        <File>dz\structures\residential\houses\house_1w04.p3d</File>
+        <Date>04/30/21 13:26:28</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1721270537</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.725415</BBRadius>
+        <BBHScale>0.602779</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.936050" Y="-1.539350" Z="-9.755290" />
+        <BoundingMax X="7.788495" Y="6.997730" Z="9.695540" />
+        <BoundingCenter X="1.926222" Y="2.729190" Z="-0.029875" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>house_1w05</Name>
+        <File>dz\structures\residential\houses\house_1w05.p3d</File>
+        <Date>04/30/21 13:26:54</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1721270538</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.255920</BBRadius>
+        <BBHScale>0.780780</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-7.966492" Y="-1.676470" Z="-8.394611" />
+        <BoundingMax X="4.925621" Y="8.076941" Z="8.117229" />
+        <BoundingCenter X="-1.520436" Y="3.200235" Z="-0.138691" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>house_1w05_yellow</Name>
+        <File>dz\structures\residential\houses\house_1w05_yellow.p3d</File>
+        <Date>04/30/21 13:26:26</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2075010231</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.255920</BBRadius>
+        <BBHScale>0.780780</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-7.966492" Y="-1.676470" Z="-8.394611" />
+        <BoundingMax X="4.925621" Y="8.076941" Z="8.117229" />
+        <BoundingCenter X="-1.520436" Y="3.200235" Z="-0.138691" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>house_1w06</Name>
+        <File>dz\structures\residential\houses\house_1w06.p3d</File>
+        <Date>04/30/21 13:26:41</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1721270539</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.457789</BBRadius>
+        <BBHScale>0.733935</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-7.489313" Y="-2.088600" Z="-10.065899" />
+        <BoundingMax X="4.925621" Y="8.289500" Z="6.849680" />
+        <BoundingCenter X="-1.281846" Y="3.100450" Z="-1.608109" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>house_1w07</Name>
+        <File>dz\structures\residential\houses\house_1w07.p3d</File>
+        <Date>04/30/21 13:26:28</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1721270540</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.549093</BBRadius>
+        <BBHScale>0.913898</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.134490" Y="-1.189440" Z="-9.603470" />
+        <BoundingMax X="11.319301" Y="7.645720" Z="9.494717" />
+        <BoundingCenter X="2.592405" Y="3.228140" Z="-0.054377" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>house_1w08</Name>
+        <File>dz\structures\residential\houses\house_1w08.p3d</File>
+        <Date>04/30/21 13:26:55</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1721270541</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.131540</BBRadius>
+        <BBHScale>1.522938</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.919930" Y="-2.362738" Z="-6.868408" />
+        <BoundingMax X="6.710110" Y="7.662500" Z="3.394672" />
+        <BoundingCenter X="-1.104910" Y="2.649881" Z="-1.736868" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>house_1w08_brown</Name>
+        <File>dz\structures\residential\houses\house_1w08_brown.p3d</File>
+        <Date>04/30/21 13:26:53</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1357750780</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.085314</BBRadius>
+        <BBHScale>1.536782</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.919930" Y="-2.362738" Z="-6.868408" />
+        <BoundingMax X="6.710110" Y="7.662500" Z="3.302220" />
+        <BoundingCenter X="-1.104910" Y="2.649881" Z="-1.783094" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>house_1w09</Name>
+        <File>dz\structures\residential\houses\house_1w09.p3d</File>
+        <Date>04/30/21 13:26:42</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1721270542</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.089720</BBRadius>
+        <BBHScale>1.545743</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.368526" Y="-1.838190" Z="-5.002550" />
+        <BoundingMax X="10.366268" Y="6.896871" Z="5.176890" />
+        <BoundingCenter X="2.498871" Y="2.529340" Z="0.087170" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>house_1w09_yellow</Name>
+        <File>dz\structures\residential\houses\house_1w09_yellow.p3d</File>
+        <Date>04/30/21 13:26:48</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>278438469</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.302934</BBRadius>
+        <BBHScale>1.458439</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.101740" Y="-1.838190" Z="-5.002550" />
+        <BoundingMax X="10.366268" Y="6.896871" Z="5.603317" />
+        <BoundingCenter X="2.632264" Y="2.529340" Z="0.300384" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>house_1w10</Name>
+        <File>dz\structures\residential\houses\house_1w10.p3d</File>
+        <Date>04/30/21 13:26:45</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1721336132</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.123707</BBRadius>
+        <BBHScale>1.231900</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.189681" Y="-2.007360" Z="-2.682960" />
+        <BoundingMax X="7.434112" Y="6.095520" Z="7.564454" />
+        <BoundingCenter X="1.122216" Y="2.044080" Z="2.440747" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>house_1w10_brown</Name>
+        <File>dz\structures\residential\houses\house_1w10_brown.p3d</File>
+        <Date>04/30/21 13:25:54</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1597203525</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.123707</BBRadius>
+        <BBHScale>1.231900</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.189681" Y="-2.007360" Z="-2.682960" />
+        <BoundingMax X="7.434112" Y="6.095520" Z="7.564454" />
+        <BoundingCenter X="1.122216" Y="2.044080" Z="2.440747" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>house_1w11</Name>
+        <File>dz\structures\residential\houses\house_1w11.p3d</File>
+        <Date>04/30/21 13:26:33</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1721336133</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.241484</BBRadius>
+        <BBHScale>1.191653</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.904670" Y="-2.150000" Z="-4.563001" />
+        <BoundingMax X="10.353999" Y="8.844997" Z="9.919967" />
+        <BoundingCenter X="1.724665" Y="3.347499" Z="2.678483" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>house_1w12</Name>
+        <File>dz\structures\residential\houses\house_1w12.p3d</File>
+        <Date>04/30/21 13:25:55</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1721336134</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.330929</BBRadius>
+        <BBHScale>0.951223</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-13.288813" Y="-2.124232" Z="-8.060261" />
+        <BoundingMax X="6.365221" Y="7.962232" Z="12.601597" />
+        <BoundingCenter X="-3.461796" Y="2.919000" Z="2.270668" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>house_1w12_brown</Name>
+        <File>dz\structures\residential\houses\house_1w12_brown.p3d</File>
+        <Date>04/30/21 13:26:46</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1294104765</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.330929</BBRadius>
+        <BBHScale>0.951223</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-13.288813" Y="-2.124232" Z="-8.060261" />
+        <BoundingMax X="6.365221" Y="7.962232" Z="12.601597" />
+        <BoundingCenter X="-3.461796" Y="2.919000" Z="2.270668" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>house_2b01</Name>
+        <File>dz\structures\residential\houses\house_2b01.p3d</File>
+        <Date>04/30/21 13:26:37</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1966601168</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.886230</BBRadius>
+        <BBHScale>1.504082</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.359016" Y="-2.263490" Z="-5.829320" />
+        <BoundingMax X="9.347727" Y="10.856901" Z="5.943141" />
+        <BoundingCenter X="0.494355" Y="4.296705" Z="0.056911" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>house_2b02</Name>
+        <File>dz\structures\residential\houses\house_2b02.p3d</File>
+        <Date>04/30/21 13:26:17</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1966601167</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.650846</BBRadius>
+        <BBHScale>1.192849</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-12.719301" Y="-2.475780" Z="-10.632018" />
+        <BoundingMax X="12.690401" Y="15.486500" Z="10.669673" />
+        <BoundingCenter X="-0.014450" Y="6.505360" Z="0.018827" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>house_2b03</Name>
+        <File>dz\structures\residential\houses\house_2b03.p3d</File>
+        <Date>04/30/21 13:26:50</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1966601166</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>14.162751</BBRadius>
+        <BBHScale>1.098369</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-15.404869" Y="-2.108609" Z="-17.469002" />
+        <BoundingMax X="15.706976" Y="14.180801" Z="10.856501" />
+        <BoundingCenter X="0.151053" Y="6.036097" Z="-3.306251" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>house_2b04</Name>
+        <File>dz\structures\residential\houses\house_2b04.p3d</File>
+        <Date>04/30/21 13:26:37</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1966601165</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.735588</BBRadius>
+        <BBHScale>0.873142</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-9.319591" Y="-2.192810" Z="-11.507001" />
+        <BoundingMax X="9.427791" Y="14.540800" Z="9.964175" />
+        <BoundingCenter X="0.054100" Y="6.173995" Z="-0.771413" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>house_2w01</Name>
+        <File>dz\structures\residential\houses\house_2w01.p3d</File>
+        <Date>04/30/21 13:26:14</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1793109563</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.788841</BBRadius>
+        <BBHScale>0.870866</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-7.222700" Y="-2.092510" Z="-10.302588" />
+        <BoundingMax X="9.826830" Y="8.556110" Z="9.275095" />
+        <BoundingCenter X="1.302065" Y="3.231800" Z="-0.513746" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>house_2w02</Name>
+        <File>dz\structures\residential\houses\house_2w02.p3d</File>
+        <Date>04/30/21 13:26:49</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1793109562</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.387341</BBRadius>
+        <BBHScale>1.895702</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-13.418941" Y="-1.794240" Z="-6.421620" />
+        <BoundingMax X="7.006641" Y="11.471701" Z="4.353061" />
+        <BoundingCenter X="-3.206150" Y="4.838730" Z="-1.034280" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>house_2w03</Name>
+        <File>dz\structures\residential\houses\house_2w03.p3d</File>
+        <Date>04/30/21 13:26:37</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1793109561</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.054902</BBRadius>
+        <BBHScale>1.308148</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-10.488001" Y="-2.108608" Z="-10.600083" />
+        <BoundingMax X="10.586000" Y="14.141201" Z="5.509721" />
+        <BoundingCenter X="0.049000" Y="6.016296" Z="-2.545181" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>house_2w03_brown</Name>
+        <File>dz\structures\residential\houses\house_2w03_brown.p3d</File>
+        <Date>04/30/21 13:25:53</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>831682494</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.054902</BBRadius>
+        <BBHScale>1.311115</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-10.535799" Y="-2.108608" Z="-10.600083" />
+        <BoundingMax X="10.586000" Y="14.141201" Z="5.509721" />
+        <BoundingCenter X="0.025101" Y="6.016296" Z="-2.545181" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>house_2w04</Name>
+        <File>dz\structures\residential\houses\house_2w04.p3d</File>
+        <Date>04/30/21 13:26:16</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1793109560</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.276196</BBRadius>
+        <BBHScale>1.448262</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-10.955801" Y="-2.143830" Z="-10.929313" />
+        <BoundingMax X="13.016401" Y="14.281100" Z="5.623080" />
+        <BoundingCenter X="1.030300" Y="6.068635" Z="-2.653116" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>house_2w04_yellow</Name>
+        <File>dz\structures\residential\houses\house_2w04_yellow.p3d</File>
+        <Date>04/30/21 13:26:35</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1205401355</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.276196</BBRadius>
+        <BBHScale>1.448262</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-10.955801" Y="-2.143830" Z="-10.929313" />
+        <BoundingMax X="13.016401" Y="14.281100" Z="5.623080" />
+        <BoundingCenter X="1.030300" Y="6.068635" Z="-2.653116" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>village_pub</Name>
+        <File>dz\structures\residential\houses\village_pub.p3d</File>
+        <Date>04/30/21 13:26:53</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>995877226</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>11.854616</BBRadius>
+        <BBHScale>0.782726</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-7.545410" Y="-1.507050" Z="-12.330402" />
+        <BoundingMax X="11.012413" Y="9.634951" Z="11.378830" />
+        <BoundingCenter X="1.733501" Y="4.063951" Z="-0.475786" />
+        <Placement></Placement>
+    </Template>
+</Library>

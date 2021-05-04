@@ -1,0 +1,102 @@
+<?xml version="1.0" ?>
+<Library name="aircraft" shape="rectangle" default_fill="-8355840" default_outline="-1" tex="0">
+    <Template>
+        <Name>wreck_c130j</Name>
+        <File>dz\structures\wrecks\aircraft\wreck_c130j.p3d</File>
+        <Date>04/30/21 13:28:21</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>110581106</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>14.913265</BBRadius>
+        <BBHScale>1.337075</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-20.501406" Y="-0.803141" Z="-14.841736" />
+        <BoundingMax X="19.378901" Y="11.171417" Z="14.984795" />
+        <BoundingCenter X="-0.561253" Y="5.184138" Z="0.071529" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>wreck_mi8</Name>
+        <File>dz\structures\wrecks\aircraft\wreck_mi8.p3d</File>
+        <Date>04/30/21 13:28:27</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1361375729</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.390121</BBRadius>
+        <BBHScale>0.451706</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.467033" Y="-0.757200" Z="-7.246478" />
+        <BoundingMax X="4.016111" Y="4.153082" Z="11.533765" />
+        <BoundingCenter X="-0.225461" Y="1.697941" Z="2.143643" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>wreck_uh1y</Name>
+        <File>dz\structures\wrecks\aircraft\wreck_uh1y.p3d</File>
+        <Date>04/30/21 13:28:07</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1985418520</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.697830</BBRadius>
+        <BBHScale>0.738495</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.803620" Y="-0.198756" Z="-6.491170" />
+        <BoundingMax X="6.566001" Y="3.912600" Z="8.904490" />
+        <BoundingCenter X="0.881190" Y="1.856922" Z="1.206660" />
+        <Placement></Placement>
+    </Template>
+</Library>

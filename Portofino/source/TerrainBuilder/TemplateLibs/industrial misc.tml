@@ -2,8 +2,8 @@
 <Library name="industrial misc" shape="rectangle" default_fill="-8355712" default_outline="-1" tex="0">
     <Template>
         <Name>lamp_ind</Name>
-        <File>DZ\structures\industrial\misc\lamp_ind.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\industrial\misc\lamp_ind.p3d</File>
+        <Date>04/30/21 13:24:56</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -21,22 +21,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>0.249600</BBRadius>
+        <BBHScale>2.705101</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-1.241827" Y="0.000000" Z="-0.362598" />
+        <BoundingMax X="0.108558" Y="9.373441" Z="0.136602" />
+        <BoundingCenter X="-0.566635" Y="4.686720" Z="-0.112998" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>lamp_rail</Name>
-        <File>DZ\structures\industrial\misc\lamp_rail.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\industrial\misc\lamp_rail.p3d</File>
+        <Date>04/30/21 13:24:13</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -54,22 +54,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>0.268589</BBRadius>
+        <BBHScale>2.513844</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-1.241827" Y="0.000000" Z="-0.384076" />
+        <BoundingMax X="0.108558" Y="9.373441" Z="0.153103" />
+        <BoundingCenter X="-0.566635" Y="4.686720" Z="-0.115487" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>misc_boardspack1</Name>
-        <File>DZ\structures\industrial\misc\misc_boardspack1.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\industrial\misc\misc_boardspack1.p3d</File>
+        <Date>04/30/21 13:24:20</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -87,22 +87,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>1.545000</BBRadius>
+        <BBHScale>0.500000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-0.772500" Y="0.000000" Z="-1.545000" />
+        <BoundingMax X="0.772500" Y="2.028523" Z="1.545000" />
+        <BoundingCenter X="0.000000" Y="1.014262" Z="0.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>misc_boardspack2</Name>
-        <File>DZ\structures\industrial\misc\misc_boardspack2.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\industrial\misc\misc_boardspack2.p3d</File>
+        <Date>04/30/21 13:24:53</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -120,22 +120,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>1.545000</BBRadius>
+        <BBHScale>0.500000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-0.772500" Y="0.000000" Z="-1.545000" />
+        <BoundingMax X="0.772500" Y="1.428482" Z="1.545000" />
+        <BoundingCenter X="0.000000" Y="0.714241" Z="0.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>misc_boardspack3</Name>
-        <File>DZ\structures\industrial\misc\misc_boardspack3.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\industrial\misc\misc_boardspack3.p3d</File>
+        <Date>04/30/21 13:24:38</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -153,22 +153,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>1.545000</BBRadius>
+        <BBHScale>0.500000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-0.772500" Y="0.000000" Z="-1.545000" />
+        <BoundingMax X="0.772500" Y="1.416615" Z="1.545000" />
+        <BoundingCenter X="0.000000" Y="0.708307" Z="0.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>misc_coil</Name>
-        <File>DZ\structures\industrial\misc\misc_coil.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\industrial\misc\misc_coil.p3d</File>
+        <Date>04/30/21 13:24:13</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -186,22 +186,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>1.806099</BBRadius>
+        <BBHScale>1.000003</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-1.817330" Y="-0.020005" Z="-1.779984" />
+        <BoundingMax X="1.794878" Y="2.192416" Z="1.832213" />
+        <BoundingCenter X="-0.011226" Y="1.086206" Z="0.026115" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>misc_concretepanels</Name>
-        <File>DZ\structures\industrial\misc\misc_concretepanels.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\industrial\misc\misc_concretepanels.p3d</File>
+        <Date>04/30/21 13:24:36</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -219,22 +219,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>1.683191</BBRadius>
+        <BBHScale>0.681861</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-1.189953" Y="-0.071480" Z="-1.793169" />
+        <BoundingMax X="1.105450" Y="1.491394" Z="1.573213" />
+        <BoundingCenter X="-0.042252" Y="0.709957" Z="-0.109978" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>misc_concretepipe</Name>
-        <File>DZ\structures\industrial\misc\misc_concretepipe.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\industrial\misc\misc_concretepipe.p3d</File>
+        <Date>04/30/21 13:24:37</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -252,22 +252,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>1.906805</BBRadius>
+        <BBHScale>0.735448</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-1.414070" Y="-0.325757" Z="-1.928950" />
+        <BoundingMax X="1.390640" Y="2.340460" Z="1.884660" />
+        <BoundingCenter X="-0.011715" Y="1.007352" Z="-0.022145" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>misc_concretepipe_gate</Name>
-        <File>DZ\structures\industrial\misc\misc_concretepipe_gate.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\industrial\misc\misc_concretepipe_gate.p3d</File>
+        <Date>04/30/21 13:24:13</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -285,22 +285,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>0.071155</BBRadius>
+        <BBHScale>15.630100</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-1.124110" Y="-0.114409" Z="-1.257250" />
+        <BoundingMax X="1.100210" Y="2.109910" Z="-1.114940" />
+        <BoundingCenter X="-0.011950" Y="0.997751" Z="-1.186095" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>misc_drainage</Name>
-        <File>DZ\structures\industrial\misc\misc_drainage.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\industrial\misc\misc_drainage.p3d</File>
+        <Date>04/30/21 13:24:47</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -318,22 +318,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>0.932362</BBRadius>
+        <BBHScale>0.902578</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-0.882771" Y="0.005569" Z="-0.687361" />
+        <BoundingMax X="0.800289" Y="1.959810" Z="1.177364" />
+        <BoundingCenter X="-0.041241" Y="0.982690" Z="0.245001" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>misc_gcontainer_big</Name>
-        <File>DZ\structures\industrial\misc\misc_gcontainer_big.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\industrial\misc\misc_gcontainer_big.p3d</File>
+        <Date>04/30/21 13:24:39</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -351,22 +351,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>1.561855</BBRadius>
+        <BBHScale>2.029635</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-3.071250" Y="-0.000989" Z="-1.500480" />
+        <BoundingMax X="3.268740" Y="1.451270" Z="1.623230" />
+        <BoundingCenter X="0.098745" Y="0.725141" Z="0.061375" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>misc_haybale</Name>
-        <File>DZ\structures\industrial\misc\misc_haybale.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\industrial\misc\misc_haybale.p3d</File>
+        <Date>04/30/21 13:24:08</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -384,22 +384,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>0.789681</BBRadius>
+        <BBHScale>0.970625</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-0.766484" Y="-0.094256" Z="0.060319" />
+        <BoundingMax X="0.766484" Y="1.438710" Z="1.639680" />
+        <BoundingCenter X="0.000000" Y="0.672227" Z="0.850000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>misc_haybale_decayed</Name>
-        <File>DZ\structures\industrial\misc\misc_haybale_decayed.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\industrial\misc\misc_haybale_decayed.p3d</File>
+        <Date>04/30/21 13:24:45</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -417,22 +417,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>1.167320</BBRadius>
+        <BBHScale>0.694580</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-0.820316" Y="-0.055966" Z="-1.194739" />
+        <BoundingMax X="0.801278" Y="1.094433" Z="1.139900" />
+        <BoundingCenter X="-0.009519" Y="0.519233" Z="-0.027420" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>misc_pallet</Name>
-        <File>DZ\structures\industrial\misc\misc_pallet.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\industrial\misc\misc_pallet.p3d</File>
+        <Date>04/30/21 13:24:53</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -450,22 +450,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>0.759493</BBRadius>
+        <BBHScale>1.032162</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-0.389409" Y="-0.006046" Z="-0.387675" />
+        <BoundingMax X="1.178431" Y="0.204771" Z="1.131311" />
+        <BoundingCenter X="0.394511" Y="0.099362" Z="0.371818" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>misc_pallets1</Name>
-        <File>DZ\structures\industrial\misc\misc_pallets1.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\industrial\misc\misc_pallets1.p3d</File>
+        <Date>04/30/21 13:24:21</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -483,22 +483,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>0.893368</BBRadius>
+        <BBHScale>0.784497</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-0.454465" Y="-0.005541" Z="0.112684" />
+        <BoundingMax X="0.947224" Y="0.687902" Z="1.899420" />
+        <BoundingCenter X="0.246380" Y="0.341180" Z="1.006052" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>misc_pallets2</Name>
-        <File>DZ\structures\industrial\misc\misc_pallets2.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\industrial\misc\misc_pallets2.p3d</File>
+        <Date>04/30/21 13:24:55</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -516,22 +516,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>0.818103</BBRadius>
+        <BBHScale>0.856671</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-0.454465" Y="-0.025217" Z="0.112684" />
+        <BoundingMax X="0.947224" Y="0.867119" Z="1.748889" />
+        <BoundingCenter X="0.246380" Y="0.420951" Z="0.930787" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>misc_pallets3</Name>
-        <File>DZ\structures\industrial\misc\misc_pallets3.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\industrial\misc\misc_pallets3.p3d</File>
+        <Date>04/30/21 13:24:39</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -549,22 +549,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>0.830846</BBRadius>
+        <BBHScale>0.993615</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-0.822195" Y="-0.595502" Z="-0.845697" />
+        <BoundingMax X="0.828887" Y="0.955876" Z="0.815995" />
+        <BoundingCenter X="0.003346" Y="0.180187" Z="-0.014851" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>misc_pipes</Name>
-        <File>DZ\structures\industrial\misc\misc_pipes.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\industrial\misc\misc_pipes.p3d</File>
+        <Date>04/30/21 13:24:53</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -582,22 +582,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>1.122571</BBRadius>
+        <BBHScale>2.792171</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-3.215960" Y="-0.007084" Z="-0.827232" />
+        <BoundingMax X="3.052860" Y="1.399520" Z="1.417910" />
+        <BoundingCenter X="-0.081550" Y="0.696218" Z="0.295339" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>misc_scaffolding</Name>
-        <File>DZ\structures\industrial\misc\misc_scaffolding.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\industrial\misc\misc_scaffolding.p3d</File>
+        <Date>04/30/21 13:24:23</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -615,22 +615,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>9.281544</BBRadius>
+        <BBHScale>0.335537</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-3.118690" Y="-3.006371" Z="-12.195517" />
+        <BoundingMax X="3.109920" Y="8.394960" Z="6.367570" />
+        <BoundingCenter X="-0.004385" Y="2.694295" Z="-2.913973" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>misc_through_static</Name>
-        <File>DZ\structures\industrial\misc\misc_through_static.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\industrial\misc\misc_through_static.p3d</File>
+        <Date>04/30/21 13:24:13</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -648,22 +648,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>0.464420</BBRadius>
+        <BBHScale>3.496232</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-1.623722" Y="-0.063079" Z="-0.477860" />
+        <BoundingMax X="1.623722" Y="0.485701" Z="0.450981" />
+        <BoundingCenter X="0.000000" Y="0.211311" Z="-0.013440" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>misc_through_trailer</Name>
-        <File>DZ\structures\industrial\misc\misc_through_trailer.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\industrial\misc\misc_through_trailer.p3d</File>
+        <Date>04/30/21 13:24:08</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -681,22 +681,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>0.652112</BBRadius>
+        <BBHScale>3.025252</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-2.363626" Y="-0.081699" Z="-0.628234" />
+        <BoundingMax X="1.581983" Y="0.905992" Z="0.675990" />
+        <BoundingCenter X="-0.390822" Y="0.412147" Z="0.023878" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>misc_timbers1</Name>
-        <File>DZ\structures\industrial\misc\misc_timbers1.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\industrial\misc\misc_timbers1.p3d</File>
+        <Date>04/30/21 13:24:53</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -714,22 +714,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>5.990466</BBRadius>
+        <BBHScale>0.296823</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-1.716240" Y="-0.026177" Z="-8.781693" />
+        <BoundingMax X="1.839980" Y="1.584630" Z="3.199240" />
+        <BoundingCenter X="0.061870" Y="0.779227" Z="-2.791226" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>misc_timbers2</Name>
-        <File>DZ\structures\industrial\misc\misc_timbers2.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\industrial\misc\misc_timbers2.p3d</File>
+        <Date>04/30/21 13:24:38</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -747,22 +747,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>5.999187</BBRadius>
+        <BBHScale>0.183636</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-0.986847" Y="-0.062398" Z="-8.781693" />
+        <BoundingMax X="1.216485" Y="1.992720" Z="3.216680" />
+        <BoundingCenter X="0.114819" Y="0.965161" Z="-2.782506" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>misc_timbers3</Name>
-        <File>DZ\structures\industrial\misc\misc_timbers3.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\industrial\misc\misc_timbers3.p3d</File>
+        <Date>04/30/21 13:24:21</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -780,22 +780,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>5.999181</BBRadius>
+        <BBHScale>0.181115</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-0.956593" Y="-0.035779" Z="-8.781693" />
+        <BoundingMax X="1.216485" Y="1.604840" Z="3.216670" />
+        <BoundingCenter X="0.129946" Y="0.784530" Z="-2.782511" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>misc_timbers4</Name>
-        <File>DZ\structures\industrial\misc\misc_timbers4.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\industrial\misc\misc_timbers4.p3d</File>
+        <Date>04/30/21 13:24:54</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -813,22 +813,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>5.981331</BBRadius>
+        <BBHScale>0.182899</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-0.956593" Y="-0.081344" Z="-8.781693" />
+        <BoundingMax X="1.231363" Y="1.245540" Z="3.180970" />
+        <BoundingCenter X="0.137385" Y="0.582098" Z="-2.800361" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>misc_timbers_log1</Name>
-        <File>DZ\structures\industrial\misc\misc_timbers_log1.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\industrial\misc\misc_timbers_log1.p3d</File>
+        <Date>04/30/21 13:24:39</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -846,22 +846,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>5.918991</BBRadius>
+        <BBHScale>0.124650</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-0.259123" Y="-0.035547" Z="-8.781693" />
+        <BoundingMax X="1.216485" Y="0.316202" Z="3.056290" />
+        <BoundingCenter X="0.478681" Y="0.140328" Z="-2.862701" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>misc_timbers_log2</Name>
-        <File>DZ\structures\industrial\misc\misc_timbers_log2.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\industrial\misc\misc_timbers_log2.p3d</File>
+        <Date>04/30/21 13:24:23</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -879,22 +879,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>5.809293</BBRadius>
+        <BBHScale>0.121023</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-0.189631" Y="-0.017324" Z="-8.781693" />
+        <BoundingMax X="1.216485" Y="0.245596" Z="2.836893" />
+        <BoundingCenter X="0.513427" Y="0.114136" Z="-2.972400" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>misc_timbers_log3</Name>
-        <File>DZ\structures\industrial\misc\misc_timbers_log3.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\industrial\misc\misc_timbers_log3.p3d</File>
+        <Date>04/30/21 13:24:56</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -912,22 +912,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>5.868671</BBRadius>
+        <BBHScale>0.116496</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-0.150873" Y="0.000000" Z="-8.781693" />
+        <BoundingMax X="1.216485" Y="0.186802" Z="2.955650" />
+        <BoundingCenter X="0.532806" Y="0.093401" Z="-2.913021" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>misc_timbers_log4</Name>
-        <File>DZ\structures\industrial\misc\misc_timbers_log4.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\industrial\misc\misc_timbers_log4.p3d</File>
+        <Date>04/30/21 13:24:40</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -945,22 +945,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>5.950370</BBRadius>
+        <BBHScale>0.127916</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-0.305809" Y="-0.022403" Z="-8.781693" />
+        <BoundingMax X="1.216485" Y="0.391646" Z="3.119047" />
+        <BoundingCenter X="0.455338" Y="0.184621" Z="-2.831323" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>misc_timbers_log5</Name>
-        <File>DZ\structures\industrial\misc\misc_timbers_log5.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\industrial\misc\misc_timbers_log5.p3d</File>
+        <Date>04/30/21 13:24:24</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -978,22 +978,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>0.147616</BBRadius>
+        <BBHScale>0.873746</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-0.121916" Y="-1.615029" Z="-0.135608" />
+        <BoundingMax X="0.136041" Y="1.541208" Z="0.159624" />
+        <BoundingCenter X="0.007063" Y="-0.036911" Z="0.012008" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>misc_tirepile</Name>
-        <File>DZ\structures\industrial\misc\misc_tirepile.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\industrial\misc\misc_tirepile.p3d</File>
+        <Date>04/30/21 13:24:16</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -1011,22 +1011,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>0.752870</BBRadius>
+        <BBHScale>1.163342</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-0.993046" Y="-0.001433" Z="-0.753852" />
+        <BoundingMax X="0.758645" Y="8.562703" Z="0.751888" />
+        <BoundingCenter X="-0.117200" Y="4.280635" Z="-0.000982" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>misc_tirepile_group</Name>
-        <File>DZ\structures\industrial\misc\misc_tirepile_group.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\industrial\misc\misc_tirepile_group.p3d</File>
+        <Date>04/30/21 13:24:47</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -1044,22 +1044,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>2.570400</BBRadius>
+        <BBHScale>0.926025</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-2.013050" Y="-0.011168" Z="-2.770000" />
+        <BoundingMax X="2.747460" Y="8.562703" Z="2.370800" />
+        <BoundingCenter X="0.367205" Y="4.275767" Z="-0.199600" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>misc_woodpile_forest1</Name>
-        <File>DZ\structures\industrial\misc\misc_woodpile_forest1.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\industrial\misc\misc_woodpile_forest1.p3d</File>
+        <Date>04/30/21 13:24:36</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -1077,22 +1077,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>1.006522</BBRadius>
+        <BBHScale>1.487091</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-1.519260" Y="-0.017404" Z="-0.777674" />
+        <BoundingMax X="1.474320" Y="1.632770" Z="1.235370" />
+        <BoundingCenter X="-0.022470" Y="0.807683" Z="0.228848" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>misc_woodpile_forest2</Name>
-        <File>DZ\structures\industrial\misc\misc_woodpile_forest2.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\industrial\misc\misc_woodpile_forest2.p3d</File>
+        <Date>04/30/21 13:24:17</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -1110,22 +1110,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>1.006262</BBRadius>
+        <BBHScale>1.264243</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-1.231690" Y="-0.017407" Z="-0.766374" />
+        <BoundingMax X="1.312630" Y="1.604720" Z="1.246150" />
+        <BoundingCenter X="0.040470" Y="0.793656" Z="0.239888" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>misc_woodpile_forest3</Name>
-        <File>DZ\structures\industrial\misc\misc_woodpile_forest3.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\industrial\misc\misc_woodpile_forest3.p3d</File>
+        <Date>04/30/21 13:24:51</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -1143,16 +1143,16 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>1.172737</BBRadius>
+        <BBHScale>1.056571</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-1.389990" Y="-0.029575" Z="-0.893154" />
+        <BoundingMax X="1.088170" Y="1.557410" Z="1.452320" />
+        <BoundingCenter X="-0.150910" Y="0.763917" Z="0.279583" />
         <Placement></Placement>
     </Template>
 </Library>

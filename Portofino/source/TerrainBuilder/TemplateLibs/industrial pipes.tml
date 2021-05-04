@@ -1,0 +1,1026 @@
+<?xml version="1.0" ?>
+<Library name="industrial pipes" shape="rectangle" default_fill="-8355712" default_outline="-1" tex="0">
+    <Template>
+        <Name>pipe_big_18m</Name>
+        <File>dz\structures\industrial\pipes\pipe_big_18m.p3d</File>
+        <Date>04/30/21 13:24:51</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-125285450</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.456013</BBRadius>
+        <BBHScale>0.221228</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.048044" Y="-0.476038" Z="-9.527086" />
+        <BoundingMax X="2.135833" Y="8.102420" Z="9.384939" />
+        <BoundingCenter X="0.043894" Y="3.813191" Z="-0.071074" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pipe_big_18m_ladder</Name>
+        <File>dz\structures\industrial\pipes\pipe_big_18m_ladder.p3d</File>
+        <Date>04/30/21 13:24:46</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2103210773</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.641496</BBRadius>
+        <BBHScale>0.231735</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.448045" Y="-0.479096" Z="-7.974270" />
+        <BoundingMax X="1.020502" Y="8.101630" Z="11.308722" />
+        <BoundingCenter X="-1.213771" Y="3.811267" Z="1.667226" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pipe_big_9m</Name>
+        <File>dz\structures\industrial\pipes\pipe_big_9m.p3d</File>
+        <Date>04/30/21 13:24:13</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>181097636</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.867749</BBRadius>
+        <BBHScale>0.453449</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.278720" Y="-0.476026" Z="-4.417303" />
+        <BoundingMax X="2.135830" Y="8.301641" Z="5.318195" />
+        <BoundingCenter X="-0.071445" Y="3.912807" Z="0.450446" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pipe_big_buildl</Name>
+        <File>dz\structures\industrial\pipes\pipe_big_buildl.p3d</File>
+        <Date>04/30/21 13:24:17</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1774255502</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.174401</BBRadius>
+        <BBHScale>1.518887</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.081791" Y="-0.668984" Z="-7.647062" />
+        <BoundingMax X="7.636874" Y="8.334532" Z="2.701741" />
+        <BoundingCenter X="-0.222458" Y="3.832774" Z="-2.472661" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pipe_big_buildr</Name>
+        <File>dz\structures\industrial\pipes\pipe_big_buildr.p3d</File>
+        <Date>04/30/21 13:24:18</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1774255508</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.174401</BBRadius>
+        <BBHScale>1.518888</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.448050" Y="-0.668984" Z="-7.647062" />
+        <BoundingMax X="12.270619" Y="8.334532" Z="2.701741" />
+        <BoundingCenter X="4.411284" Y="3.832774" Z="-2.472661" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pipe_big_cornerl</Name>
+        <File>dz\structures\industrial\pipes\pipe_big_cornerl.p3d</File>
+        <Date>04/30/21 13:24:47</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>370022119</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.192309</BBRadius>
+        <BBHScale>1.017527</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.732820" Y="-0.486164" Z="-4.456973" />
+        <BoundingMax X="3.763702" Y="8.631775" Z="1.927646" />
+        <BoundingCenter X="0.515441" Y="4.072805" Z="-1.264663" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pipe_big_cornerr</Name>
+        <File>dz\structures\industrial\pipes\pipe_big_cornerr.p3d</File>
+        <Date>04/30/21 13:24:47</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>370022125</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.338506</BBRadius>
+        <BBHScale>0.972968</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.448048" Y="-0.500443" Z="-3.438951" />
+        <BoundingMax X="3.048470" Y="8.997672" Z="3.238060" />
+        <BoundingCenter X="-0.199789" Y="4.248614" Z="-0.100446" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pipe_big_ground1</Name>
+        <File>dz\structures\industrial\pipes\pipe_big_ground1.p3d</File>
+        <Date>04/30/21 13:24:36</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>797578426</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.857945</BBRadius>
+        <BBHScale>0.830798</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.841580" Y="-0.841520" Z="-3.580390" />
+        <BoundingMax X="2.907170" Y="8.101630" Z="2.135500" />
+        <BoundingCenter X="0.532795" Y="3.630055" Z="-0.722445" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pipe_big_ground2</Name>
+        <File>dz\structures\industrial\pipes\pipe_big_ground2.p3d</File>
+        <Date>04/30/21 13:24:17</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>797578427</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.612118</BBRadius>
+        <BBHScale>0.938453</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.424440" Y="-0.841520" Z="-2.011665" />
+        <BoundingMax X="2.478260" Y="8.101630" Z="3.212570" />
+        <BoundingCenter X="0.026910" Y="3.630055" Z="0.600453" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pipe_big_smallconl</Name>
+        <File>dz\structures\industrial\pipes\pipe_big_smallconl.p3d</File>
+        <Date>04/30/21 13:24:23</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-538861887</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.976562</BBRadius>
+        <BBHScale>0.451648</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.048044" Y="-0.476030" Z="-3.643943" />
+        <BoundingMax X="2.447261" Y="8.101630" Z="6.309181" />
+        <BoundingCenter X="0.199608" Y="3.812800" Z="1.332619" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pipe_big_smallconr</Name>
+        <File>dz\structures\industrial\pipes\pipe_big_smallconr.p3d</File>
+        <Date>04/30/21 13:24:25</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-538861881</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.071666</BBRadius>
+        <BBHScale>0.412475</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.048044" Y="-0.512078" Z="-3.796448" />
+        <BoundingMax X="2.135831" Y="8.101768" Z="6.346884" />
+        <BoundingCenter X="0.043894" Y="3.794846" Z="1.275218" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pipe_big_support</Name>
+        <File>dz\structures\industrial\pipes\pipe_big_support.p3d</File>
+        <Date>04/30/21 13:24:51</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-672611073</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.744785</BBRadius>
+        <BBHScale>2.808784</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.048050" Y="-0.476028" Z="-1.099882" />
+        <BoundingMax X="2.135831" Y="8.101630" Z="0.389688" />
+        <BoundingCenter X="0.043890" Y="3.812801" Z="-0.355097" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pipe_medl_buildr</Name>
+        <File>dz\structures\industrial\pipes\pipe_medl_buildr.p3d</File>
+        <Date>04/30/21 13:24:57</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-176720046</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.345761</BBRadius>
+        <BBHScale>0.448142</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.053713" Y="-0.602303" Z="-4.855610" />
+        <BoundingMax X="1.841321" Y="5.968600" Z="3.835913" />
+        <BoundingCenter X="-0.106196" Y="2.683149" Z="-0.509848" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pipe_medl_cornerl</Name>
+        <File>dz\structures\industrial\pipes\pipe_medl_cornerl.p3d</File>
+        <Date>04/30/21 13:24:35</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-239858519</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.683360</BBRadius>
+        <BBHScale>0.790154</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="8.946287" Y="-0.602298" Z="14.334600" />
+        <BoundingMax X="13.186822" Y="5.993950" Z="19.701321" />
+        <BoundingCenter X="11.066555" Y="2.695827" Z="17.017960" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pipe_medl_cornerr</Name>
+        <File>dz\structures\industrial\pipes\pipe_medl_cornerr.p3d</File>
+        <Date>04/30/21 13:24:36</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-239858513</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.640641</BBRadius>
+        <BBHScale>0.781330</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="8.946287" Y="-0.602298" Z="11.549805" />
+        <BoundingMax X="13.072711" Y="5.993944" Z="16.831087" />
+        <BoundingCenter X="11.009499" Y="2.695823" Z="14.190446" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pipe_medr_buildl</Name>
+        <File>dz\structures\industrial\pipes\pipe_medr_buildl.p3d</File>
+        <Date>04/30/21 13:24:23</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-941514298</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.355095</BBRadius>
+        <BBHScale>0.447180</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.053713" Y="-0.602302" Z="-1.796021" />
+        <BoundingMax X="1.841311" Y="5.968600" Z="6.914169" />
+        <BoundingCenter X="-0.106201" Y="2.683149" Z="2.559074" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pipe_medr_buildr</Name>
+        <File>dz\structures\industrial\pipes\pipe_medr_buildr.p3d</File>
+        <Date>04/30/21 13:24:25</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-941514292</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.051655</BBRadius>
+        <BBHScale>0.408224</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.053713" Y="-0.602302" Z="-5.402526" />
+        <BoundingMax X="2.070702" Y="5.968596" Z="4.700783" />
+        <BoundingCenter X="0.008494" Y="2.683147" Z="-0.350872" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pipe_med_9m</Name>
+        <File>dz\structures\industrial\pipes\pipe_med_9m.p3d</File>
+        <Date>04/30/21 13:24:15</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1668125720</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.264987</BBRadius>
+        <BBHScale>3.491598</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.791680" Y="-0.602298" Z="-1.196703" />
+        <BoundingMax X="5.041969" Y="5.993944" Z="1.333270" />
+        <BoundingCenter X="0.625144" Y="2.695823" Z="0.068284" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pipe_med_ground1</Name>
+        <File>dz\structures\industrial\pipes\pipe_med_ground1.p3d</File>
+        <Date>04/30/21 13:24:39</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1500685894</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.046976</BBRadius>
+        <BBHScale>1.293998</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.053755" Y="-0.752556" Z="-2.258454" />
+        <BoundingMax X="3.243810" Y="5.993944" Z="1.835497" />
+        <BoundingCenter X="0.595028" Y="2.620694" Z="-0.211478" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pipe_med_ground2</Name>
+        <File>dz\structures\industrial\pipes\pipe_med_ground2.p3d</File>
+        <Date>04/30/21 13:24:23</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1500685895</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.046976</BBRadius>
+        <BBHScale>1.294005</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.666072" Y="-0.752556" Z="-2.258454" />
+        <BoundingMax X="2.631521" Y="5.993944" Z="1.835497" />
+        <BoundingCenter X="-0.017275" Y="2.620694" Z="-0.211478" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pipe_small_20m</Name>
+        <File>dz\structures\industrial\pipes\pipe_small_20m.p3d</File>
+        <Date>04/30/21 13:24:53</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-904676666</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.908855</BBRadius>
+        <BBHScale>0.038363</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.394578" Y="-0.510052" Z="-15.913100" />
+        <BoundingMax X="0.442412" Y="1.194210" Z="5.904611" />
+        <BoundingCenter X="0.023917" Y="0.342079" Z="-5.004245" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pipe_small_broken</Name>
+        <File>dz\structures\industrial\pipes\pipe_small_broken.p3d</File>
+        <Date>04/30/21 13:24:35</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1635985790</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.797220</BBRadius>
+        <BBHScale>0.109854</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.392355" Y="-0.510053" Z="-5.913110" />
+        <BoundingMax X="0.441926" Y="1.194210" Z="1.681330" />
+        <BoundingCenter X="0.024785" Y="0.342079" Z="-2.115890" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pipe_small_ground1</Name>
+        <File>dz\structures\industrial\pipes\pipe_small_ground1.p3d</File>
+        <Date>04/30/21 13:24:16</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>759467841</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.455085</BBRadius>
+        <BBHScale>0.169934</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.392359" Y="-0.546193" Z="-5.924280" />
+        <BoundingMax X="0.442047" Y="1.194210" Z="-1.014110" />
+        <BoundingCenter X="0.024844" Y="0.324009" Z="-3.469195" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pipe_small_ground2</Name>
+        <File>dz\structures\industrial\pipes\pipe_small_ground2.p3d</File>
+        <Date>04/30/21 13:24:51</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>759467842</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.445250</BBRadius>
+        <BBHScale>0.122381</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.274725" Y="-0.546193" Z="1.014110" />
+        <BoundingMax X="0.323780" Y="1.106490" Z="5.904610" />
+        <BoundingCenter X="0.024527" Y="0.280149" Z="3.459360" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pipe_small_l45</Name>
+        <File>dz\structures\industrial\pipes\pipe_small_l45.p3d</File>
+        <Date>04/30/21 13:24:35</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-425247036</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.479639</BBRadius>
+        <BBHScale>0.473650</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.907038" Y="-0.510053" Z="-4.965650" />
+        <BoundingMax X="0.441925" Y="1.194210" Z="-0.006373" />
+        <BoundingCenter X="-0.732556" Y="0.342079" Z="-2.486012" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pipe_small_l90</Name>
+        <File>dz\structures\industrial\pipes\pipe_small_l90.p3d</File>
+        <Date>04/30/21 13:24:47</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-424919046</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.789987</BBRadius>
+        <BBHScale>0.870784</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.675320" Y="-0.510053" Z="-4.965650" />
+        <BoundingMax X="0.442063" Y="1.194210" Z="-1.385676" />
+        <BoundingCenter X="-1.116629" Y="0.342079" Z="-3.175663" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pipe_small_r45</Name>
+        <File>dz\structures\industrial\pipes\pipe_small_r45.p3d</File>
+        <Date>04/30/21 13:24:13</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-375678006</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.466615</BBRadius>
+        <BBHScale>0.473529</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.392617" Y="-0.510053" Z="-4.966550" />
+        <BoundingMax X="1.943410" Y="1.194210" Z="-0.033319" />
+        <BoundingCenter X="0.775397" Y="0.342079" Z="-2.499935" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pipe_small_r90</Name>
+        <File>dz\structures\industrial\pipes\pipe_small_r90.p3d</File>
+        <Date>04/30/21 13:24:29</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-375350016</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.789987</BBRadius>
+        <BBHScale>0.870496</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.392352" Y="-0.510053" Z="-4.965650" />
+        <BoundingMax X="2.724000" Y="1.196430" Z="-1.385676" />
+        <BoundingCenter X="1.165824" Y="0.343189" Z="-3.175663" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pipe_small_stairs</Name>
+        <File>dz\structures\industrial\pipes\pipe_small_stairs.p3d</File>
+        <Date>04/30/21 13:24:13</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-704653709</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.797220</BBRadius>
+        <BBHScale>1.175735</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.257153" Y="-1.174479" Z="-5.913110" />
+        <BoundingMax X="4.671898" Y="2.289740" Z="1.681330" />
+        <BoundingCenter X="0.207373" Y="0.557631" Z="-2.115890" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pipe_small_u</Name>
+        <File>dz\structures\industrial\pipes\pipe_small_u.p3d</File>
+        <Date>04/30/21 13:24:48</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1821811532</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.654565</BBRadius>
+        <BBHScale>0.089620</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.392359" Y="-0.510053" Z="-4.322330" />
+        <BoundingMax X="0.441926" Y="4.447290" Z="4.986800" />
+        <BoundingCenter X="0.024783" Y="1.968619" Z="0.332235" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pipe_small_valve</Name>
+        <File>dz\structures\industrial\pipes\pipe_small_valve.p3d</File>
+        <Date>04/30/21 13:24:18</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-605686137</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.797225</BBRadius>
+        <BBHScale>0.212902</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.531785" Y="-0.510053" Z="-5.913120" />
+        <BoundingMax X="1.085092" Y="1.624751" Z="1.681330" />
+        <BoundingCenter X="0.276654" Y="0.557349" Z="-2.115895" />
+        <Placement></Placement>
+    </Template>
+</Library>

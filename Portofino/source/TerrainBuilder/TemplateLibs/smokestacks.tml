@@ -1,0 +1,135 @@
+<?xml version="1.0" ?>
+<Library name="smokestacks" shape="rectangle" default_fill="-8355712" default_outline="-1" tex="0">
+    <Template>
+        <Name>smokestack_big</Name>
+        <File>dz\structures\industrial\smokestacks\smokestack_big.p3d</File>
+        <Date>04/30/21 13:24:48</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1477602426</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.344640</BBRadius>
+        <BBHScale>1.353319</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.753081" Y="-4.703899" Z="-11.143600" />
+        <BoundingMax X="11.126201" Y="63.371304" Z="3.545680" />
+        <BoundingCenter X="1.186560" Y="29.333702" Z="-3.798960" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>smokestack_brick</Name>
+        <File>dz\structures\industrial\smokestacks\smokestack_brick.p3d</File>
+        <Date>04/30/21 13:24:28</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2110545403</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.841267</BBRadius>
+        <BBHScale>0.649923</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.496530" Y="0.000000" Z="-5.186006" />
+        <BoundingMax X="2.496530" Y="31.625555" Z="2.496529" />
+        <BoundingCenter X="0.000000" Y="15.812778" Z="-1.344738" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>smokestack_medium</Name>
+        <File>dz\structures\industrial\smokestacks\smokestack_medium.p3d</File>
+        <Date>04/30/21 13:24:54</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-292960357</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.775920</BBRadius>
+        <BBHScale>0.837535</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.000000" Y="-0.800001" Z="-3.958320" />
+        <BoundingMax X="4.000000" Y="48.000004" Z="5.593520" />
+        <BoundingCenter X="0.000000" Y="23.600002" Z="0.817600" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>smokestack_metal</Name>
+        <File>dz\structures\industrial\smokestacks\smokestack_metal.p3d</File>
+        <Date>04/30/21 13:24:30</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>293897057</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.518830</BBRadius>
+        <BBHScale>0.971260</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.066330" Y="-1.967621" Z="-5.756080" />
+        <BoundingMax X="2.769070" Y="36.369293" Z="1.281580" />
+        <BoundingCenter X="-0.648630" Y="17.200836" Z="-2.237250" />
+        <Placement></Placement>
+    </Template>
+</Library>

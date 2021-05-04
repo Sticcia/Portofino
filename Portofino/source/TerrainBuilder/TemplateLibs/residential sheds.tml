@@ -1,0 +1,333 @@
+<?xml version="1.0" ?>
+<Library name="residential sheds" shape="rectangle" default_fill="-32576" default_outline="-1" tex="0">
+    <Template>
+        <Name>shed_m1</Name>
+        <File>dz\structures\residential\sheds\shed_m1.p3d</File>
+        <Date>04/30/21 13:25:55</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1601210223</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.697862</BBRadius>
+        <BBHScale>1.126740</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.107510" Y="-1.251390" Z="-2.045854" />
+        <BoundingMax X="1.718590" Y="3.599426" Z="1.349870" />
+        <BoundingCenter X="-0.194460" Y="1.174018" Z="-0.347992" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>shed_m2</Name>
+        <File>dz\structures\residential\sheds\shed_m2.p3d</File>
+        <Date>04/30/21 13:26:46</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1601210224</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.209464</BBRadius>
+        <BBHScale>0.559539</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.219340" Y="-0.082403" Z="-2.381862" />
+        <BoundingMax X="1.253222" Y="3.149207" Z="2.037065" />
+        <BoundingCenter X="0.016941" Y="1.533402" Z="-0.172399" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>shed_m3</Name>
+        <File>dz\structures\residential\sheds\shed_m3.p3d</File>
+        <Date>04/30/21 13:26:33</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1601210225</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.849030</BBRadius>
+        <BBHScale>1.115224</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.124008" Y="-1.071715" Z="-2.361950" />
+        <BoundingMax X="2.000159" Y="3.462911" Z="1.336110" />
+        <BoundingCenter X="-0.061925" Y="1.195598" Z="-0.512920" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>shed_m4</Name>
+        <File>dz\structures\residential\sheds\shed_m4.p3d</File>
+        <Date>04/30/21 13:25:59</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1601210226</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.919735</BBRadius>
+        <BBHScale>0.665881</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.826731" Y="-1.009202" Z="-3.460820" />
+        <BoundingMax X="2.061659" Y="3.193715" Z="2.378651" />
+        <BoundingCenter X="0.117464" Y="1.092257" Z="-0.541085" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>shed_w1</Name>
+        <File>dz\structures\residential\sheds\shed_w1.p3d</File>
+        <Date>04/30/21 13:26:31</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1601866213</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.773149</BBRadius>
+        <BBHScale>1.546190</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.218010" Y="-1.251393" Z="-0.896247" />
+        <BoundingMax X="3.265240" Y="3.686260" Z="2.650050" />
+        <BoundingCenter X="0.523615" Y="1.217433" Z="0.876902" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>shed_w2</Name>
+        <File>dz\structures\residential\sheds\shed_w2.p3d</File>
+        <Date>04/30/21 13:25:53</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1601866214</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.967730</BBRadius>
+        <BBHScale>0.787449</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.000090" Y="-2.722430" Z="-1.223360" />
+        <BoundingMax X="1.673780" Y="2.735130" Z="4.712101" />
+        <BoundingCenter X="-0.663155" Y="0.006350" Z="1.744370" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>shed_w3</Name>
+        <File>dz\structures\residential\sheds\shed_w3.p3d</File>
+        <Date>04/30/21 13:26:44</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1601866215</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.269700</BBRadius>
+        <BBHScale>1.427833</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.556527" Y="-0.952955" Z="-2.009089" />
+        <BoundingMax X="2.924979" Y="2.725683" Z="2.530311" />
+        <BoundingCenter X="-0.315774" Y="0.886364" Z="0.260611" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>shed_w4</Name>
+        <File>dz\structures\residential\sheds\shed_w4.p3d</File>
+        <Date>04/30/21 13:26:31</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1601866216</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.124874</BBRadius>
+        <BBHScale>0.697541</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.303374" Y="-0.062306" Z="-0.221387" />
+        <BoundingMax X="2.661000" Y="2.831010" Z="4.028360" />
+        <BoundingCenter X="1.178813" Y="1.384352" Z="1.903487" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>shed_w5</Name>
+        <File>dz\structures\residential\sheds\shed_w5.p3d</File>
+        <Date>04/30/21 13:25:53</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1601866217</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.798785</BBRadius>
+        <BBHScale>1.768544</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.023343" Y="-0.293562" Z="-1.808028" />
+        <BoundingMax X="5.339118" Y="3.385960" Z="1.789542" />
+        <BoundingCenter X="2.157887" Y="1.546199" Z="-0.009243" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>shed_w6</Name>
+        <File>dz\structures\residential\sheds\shed_w6.p3d</File>
+        <Date>04/30/21 13:26:44</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1601866218</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.858180</BBRadius>
+        <BBHScale>0.680163</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.258420" Y="-2.000010" Z="-5.300710" />
+        <BoundingMax X="3.350290" Y="4.903150" Z="4.415650" />
+        <BoundingCenter X="0.045935" Y="1.451570" Z="-0.442530" />
+        <Placement></Placement>
+    </Template>
+</Library>

@@ -1,0 +1,102 @@
+<?xml version="1.0" ?>
+<Library name="camps" shape="rectangle" default_fill="-16744193" default_outline="-1" tex="0">
+    <Template>
+        <Name>camp_house_brown</Name>
+        <File>dz\structures\specific\camps\camp_house_brown.p3d</File>
+        <Date>04/30/21 13:27:25</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1930298681</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.188835</BBRadius>
+        <BBHScale>0.735184</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.309210" Y="-1.033735" Z="-4.562780" />
+        <BoundingMax X="3.320290" Y="5.588350" Z="5.814890" />
+        <BoundingCenter X="-0.494460" Y="2.277308" Z="0.626055" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>camp_house_red</Name>
+        <File>dz\structures\specific\camps\camp_house_red.p3d</File>
+        <Date>04/30/21 13:27:35</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1519714988</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.188835</BBRadius>
+        <BBHScale>0.735184</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.309210" Y="-1.033735" Z="-4.562780" />
+        <BoundingMax X="3.320290" Y="5.588350" Z="5.814890" />
+        <BoundingCenter X="-0.494460" Y="2.277308" Z="0.626055" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>camp_house_white</Name>
+        <File>dz\structures\specific\camps\camp_house_white.p3d</File>
+        <Date>04/30/21 13:27:38</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>825641740</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.238375</BBRadius>
+        <BBHScale>0.728232</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.309210" Y="-1.033735" Z="-4.562780" />
+        <BoundingMax X="3.320290" Y="5.588350" Z="5.913970" />
+        <BoundingCenter X="-0.494460" Y="2.277308" Z="0.675595" />
+        <Placement></Placement>
+    </Template>
+</Library>

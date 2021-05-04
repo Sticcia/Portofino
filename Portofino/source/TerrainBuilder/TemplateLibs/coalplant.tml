@@ -1,0 +1,102 @@
+<?xml version="1.0" ?>
+<Library name="coalplant" shape="rectangle" default_fill="-8355712" default_outline="-1" tex="0">
+    <Template>
+        <Name>coalplant_conveyor</Name>
+        <File>dz\structures\industrial\coalplant\coalplant_conveyor.p3d</File>
+        <Date>04/30/21 13:24:48</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2115361098</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.256185</BBRadius>
+        <BBHScale>16.517193</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-22.310600" Y="-0.909542" Z="-1.151940" />
+        <BoundingMax X="19.186699" Y="20.305901" Z="1.360430" />
+        <BoundingCenter X="-1.561951" Y="9.698179" Z="0.104245" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>coalplant_loadinghouse</Name>
+        <File>dz\structures\industrial\coalplant\coalplant_loadinghouse.p3d</File>
+        <Date>04/30/21 13:24:28</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1155195633</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.024110</BBRadius>
+        <BBHScale>2.088947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-10.503201" Y="-1.428370" Z="-3.907930" />
+        <BoundingMax X="10.487000" Y="7.289810" Z="6.140290" />
+        <BoundingCenter X="-0.008101" Y="2.930720" Z="1.116180" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>coalplant_main</Name>
+        <File>dz\structures\industrial\coalplant\coalplant_main.p3d</File>
+        <Date>04/30/21 13:24:55</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-337991740</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>25.276987</BBRadius>
+        <BBHScale>0.885844</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-17.133902" Y="-0.341400" Z="-26.616123" />
+        <BoundingMax X="27.649019" Y="26.914629" Z="23.937851" />
+        <BoundingCenter X="5.257559" Y="13.286614" Z="-1.339136" />
+        <Placement></Placement>
+    </Template>
+</Library>

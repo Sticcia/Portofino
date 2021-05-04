@@ -1,0 +1,465 @@
+<?xml version="1.0" ?>
+<Library name="rail misc" shape="rectangle" default_fill="-8388608" default_outline="-1" tex="0">
+    <Template>
+        <Name>rail_concreteramp</Name>
+        <File>dz\structures\rail\misc\rail_concreteramp.p3d</File>
+        <Date>04/30/21 13:25:48</Date>
+        <Archive></Archive>
+        <Fill>-8388608</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1978925308</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>24.000000</BBRadius>
+        <BBHScale>0.349355</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-7.104390" Y="-1.425990" Z="-23.726200" />
+        <BoundingMax X="9.664651" Y="1.326127" Z="24.273800" />
+        <BoundingCenter X="1.280130" Y="-0.049932" Z="0.273800" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>rail_crossing_barrier</Name>
+        <File>dz\structures\rail\misc\rail_crossing_barrier.p3d</File>
+        <Date>04/30/21 13:25:51</Date>
+        <Archive></Archive>
+        <Fill>-8388608</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1709014585</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.502296</BBRadius>
+        <BBHScale>1.384310</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.402706" Y="-0.053156" Z="-0.737383" />
+        <BoundingMax X="0.987960" Y="6.120137" Z="0.267208" />
+        <BoundingCenter X="0.292627" Y="3.033490" Z="-0.235087" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>rail_crossing_block_10</Name>
+        <File>dz\structures\rail\misc\rail_crossing_block_10.p3d</File>
+        <Date>04/30/21 13:25:47</Date>
+        <Archive></Archive>
+        <Fill>-8388608</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1063866527</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.000001</BBRadius>
+        <BBHScale>0.949340</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.746700" Y="-1.873365" Z="-2.447680" />
+        <BoundingMax X="4.746700" Y="0.243490" Z="7.552321" />
+        <BoundingCenter X="0.000000" Y="-0.814937" Z="2.552320" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>rail_crossing_block_25</Name>
+        <File>dz\structures\rail\misc\rail_crossing_block_25.p3d</File>
+        <Date>04/30/21 13:25:48</Date>
+        <Archive></Archive>
+        <Fill>-8388608</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1063800923</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>12.499992</BBRadius>
+        <BBHScale>0.379736</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.746700" Y="-1.873365" Z="-2.447680" />
+        <BoundingMax X="4.746700" Y="0.243490" Z="22.552303" />
+        <BoundingCenter X="0.000000" Y="-0.814937" Z="10.052311" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>rail_linebreak_concrete</Name>
+        <File>dz\structures\rail\misc\rail_linebreak_concrete.p3d</File>
+        <Date>04/30/21 13:25:52</Date>
+        <Archive></Archive>
+        <Fill>-8388608</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1495519430</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.594514</BBRadius>
+        <BBHScale>1.320540</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.746700" Y="-0.189205" Z="-7.448115" />
+        <BoundingMax X="4.746700" Y="1.721612" Z="-0.259087" />
+        <BoundingCenter X="0.000000" Y="0.766204" Z="-3.853601" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>rail_linebreak_iron</Name>
+        <File>dz\structures\rail\misc\rail_linebreak_iron.p3d</File>
+        <Date>04/30/21 13:25:50</Date>
+        <Archive></Archive>
+        <Fill>-8388608</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1327180247</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.352167</BBRadius>
+        <BBHScale>1.090652</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.746700" Y="-0.091263" Z="-7.448114" />
+        <BoundingMax X="4.746700" Y="1.379490" Z="1.256220" />
+        <BoundingCenter X="0.000000" Y="0.644113" Z="-3.095947" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>rail_platform_cross</Name>
+        <File>dz\structures\rail\misc\rail_platform_cross.p3d</File>
+        <Date>04/30/21 13:25:52</Date>
+        <Archive></Archive>
+        <Fill>-8388608</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2112252673</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.560981</BBRadius>
+        <BBHScale>0.339246</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.882325" Y="-0.124929" Z="-5.559163" />
+        <BoundingMax X="1.890758" Y="1.012267" Z="5.562799" />
+        <BoundingCenter X="0.004217" Y="0.443669" Z="0.001818" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>rail_platform_segment</Name>
+        <File>dz\structures\rail\misc\rail_platform_segment.p3d</File>
+        <Date>04/30/21 13:25:49</Date>
+        <Archive></Archive>
+        <Fill>-8388608</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1588963244</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.284470</BBRadius>
+        <BBHScale>0.574382</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.882324" Y="-0.124979" Z="-3.985260" />
+        <BoundingMax X="1.890757" Y="1.012267" Z="2.583679" />
+        <BoundingCenter X="0.004216" Y="0.443644" Z="-0.700790" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>rail_platform_start</Name>
+        <File>dz\structures\rail\misc\rail_platform_start.p3d</File>
+        <Date>04/30/21 13:25:49</Date>
+        <Archive></Archive>
+        <Fill>-8388608</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>315892547</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.082366</BBRadius>
+        <BBHScale>0.612043</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.882324" Y="-0.124925" Z="-3.195717" />
+        <BoundingMax X="1.890757" Y="1.012267" Z="2.969014" />
+        <BoundingCenter X="0.004216" Y="0.443671" Z="-0.113351" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>rail_polef</Name>
+        <File>dz\structures\rail\misc\rail_polef.p3d</File>
+        <Date>04/30/21 13:25:50</Date>
+        <Archive></Archive>
+        <Fill>-8388608</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2052337279</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.239041</BBRadius>
+        <BBHScale>5.081922</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.065490" Y="-0.270000" Z="-0.239041" />
+        <BoundingMax X="0.364089" Y="8.770000" Z="0.239041" />
+        <BoundingCenter X="-0.850701" Y="4.250000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>rail_polet</Name>
+        <File>dz\structures\rail\misc\rail_polet.p3d</File>
+        <Date>04/30/21 13:25:47</Date>
+        <Archive></Archive>
+        <Fill>-8388608</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2052337265</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.239041</BBRadius>
+        <BBHScale>12.942849</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.065490" Y="-0.270000" Z="-0.239041" />
+        <BoundingMax X="4.122262" Y="8.770000" Z="0.239041" />
+        <BoundingCenter X="1.028386" Y="4.250000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>rail_polett1</Name>
+        <File>dz\structures\rail\misc\rail_polett1.p3d</File>
+        <Date>04/30/21 13:25:50</Date>
+        <Archive></Archive>
+        <Fill>-8388608</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1850599732</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.250993</BBRadius>
+        <BBHScale>53.648777</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-13.465490" Y="-0.270333" Z="-0.250993" />
+        <BoundingMax X="13.465490" Y="9.553827" Z="0.250993" />
+        <BoundingCenter X="0.000000" Y="4.641747" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>rail_polett2</Name>
+        <File>dz\structures\rail\misc\rail_polett2.p3d</File>
+        <Date>04/30/21 13:25:52</Date>
+        <Archive></Archive>
+        <Fill>-8388608</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1850599731</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.322563</BBRadius>
+        <BBHScale>41.745365</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-13.465490" Y="-0.300000" Z="-0.322563" />
+        <BoundingMax X="13.465490" Y="11.753392" Z="0.322563" />
+        <BoundingCenter X="0.000000" Y="5.726696" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>rail_signals</Name>
+        <File>dz\structures\rail\misc\rail_signals.p3d</File>
+        <Date>04/30/21 13:25:52</Date>
+        <Archive></Archive>
+        <Fill>-8388608</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-723194306</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.698141</BBRadius>
+        <BBHScale>0.716629</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.500617" Y="-0.667699" Z="-0.627496" />
+        <BoundingMax X="0.500000" Y="7.328763" Z="0.768786" />
+        <BoundingCenter X="-0.000309" Y="3.330532" Z="0.070645" />
+        <Placement></Placement>
+    </Template>
+</Library>

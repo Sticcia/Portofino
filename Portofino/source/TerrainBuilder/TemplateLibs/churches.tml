@@ -1,0 +1,168 @@
+<?xml version="1.0" ?>
+<Library name="churches" shape="rectangle" default_fill="-16744193" default_outline="-1" tex="0">
+    <Template>
+        <Name>chapel</Name>
+        <File>dz\structures\specific\churches\chapel.p3d</File>
+        <Date>04/30/21 13:27:37</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>64040411</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.981161</BBRadius>
+        <BBHScale>1.693623</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.812466" Y="-1.467570" Z="-3.092332" />
+        <BoundingMax X="7.285458" Y="10.009175" Z="2.869989" />
+        <BoundingCenter X="2.236496" Y="4.270802" Z="-0.111171" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>church1_yellow</Name>
+        <File>dz\structures\specific\churches\church1_yellow.p3d</File>
+        <Date>04/30/21 13:27:29</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>831258025</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.848252</BBRadius>
+        <BBHScale>1.275456</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-9.791921" Y="-2.382224" Z="-6.705912" />
+        <BoundingMax X="7.677371" Y="15.002801" Z="6.990593" />
+        <BoundingCenter X="-1.057275" Y="6.310288" Z="0.142341" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>church2_1</Name>
+        <File>dz\structures\specific\churches\church2_1.p3d</File>
+        <Date>04/30/21 13:27:55</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-407721795</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.874810</BBRadius>
+        <BBHScale>1.345095</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.924431" Y="-2.947619" Z="-10.404000" />
+        <BoundingMax X="16.950500" Y="25.086302" Z="7.345620" />
+        <BoundingCenter X="5.013035" Y="11.069342" Z="-1.529190" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>church2_2</Name>
+        <File>dz\structures\specific\churches\church2_2.p3d</File>
+        <Date>04/30/21 13:27:54</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-407721794</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.874810</BBRadius>
+        <BBHScale>1.345095</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.924431" Y="-1.950142" Z="-10.404000" />
+        <BoundingMax X="16.950500" Y="25.086302" Z="7.345620" />
+        <BoundingCenter X="5.013035" Y="11.568080" Z="-1.529190" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>church3</Name>
+        <File>dz\structures\specific\churches\church3.p3d</File>
+        <Date>04/30/21 13:27:24</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-925223252</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.808056</BBRadius>
+        <BBHScale>1.711797</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-20.555302" Y="-2.192796" Z="-9.739721" />
+        <BoundingMax X="13.023501" Y="31.001305" Z="9.876390" />
+        <BoundingCenter X="-3.765900" Y="14.404255" Z="0.068335" />
+        <Placement></Placement>
+    </Template>
+</Library>

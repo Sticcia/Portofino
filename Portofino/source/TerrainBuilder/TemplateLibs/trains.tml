@@ -1,0 +1,168 @@
+<?xml version="1.0" ?>
+<Library name="trains" shape="rectangle" default_fill="-8355840" default_outline="-1" tex="0">
+    <Template>
+        <Name>train_742_blue</Name>
+        <File>dz\structures\wrecks\trains\train_742_blue.p3d</File>
+        <Date>04/30/21 13:28:16</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1530383525</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.645110</BBRadius>
+        <BBHScale>0.427496</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.724813" Y="0.149358" Z="-6.637560" />
+        <BoundingMax X="2.956700" Y="4.494440" Z="6.652660" />
+        <BoundingCenter X="0.115943" Y="2.321899" Z="0.007550" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>train_742_red</Name>
+        <File>dz\structures\wrecks\trains\train_742_red.p3d</File>
+        <Date>04/30/21 13:28:09</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1643665968</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.645110</BBRadius>
+        <BBHScale>0.427496</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.724813" Y="0.112018" Z="-6.637560" />
+        <BoundingMax X="2.956700" Y="4.494440" Z="6.652660" />
+        <BoundingCenter X="0.115943" Y="2.303229" Z="0.007550" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>train_wagon_box</Name>
+        <File>dz\structures\wrecks\trains\train_wagon_box.p3d</File>
+        <Date>04/30/21 13:28:04</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1279292015</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.045340</BBRadius>
+        <BBHScale>0.362685</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.183380" Y="-0.457316" Z="-6.130420" />
+        <BoundingMax X="2.201723" Y="3.706310" Z="5.960260" />
+        <BoundingCenter X="0.009171" Y="1.624497" Z="-0.085080" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>train_wagon_flat</Name>
+        <File>dz\structures\wrecks\trains\train_wagon_flat.p3d</File>
+        <Date>04/30/21 13:28:15</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2109807117</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.593156</BBRadius>
+        <BBHScale>0.288102</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.509671" Y="-0.920220" Z="-8.593161" />
+        <BoundingMax X="2.441736" Y="1.688428" Z="8.593151" />
+        <BoundingCenter X="-0.033967" Y="0.384104" Z="-0.000005" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>train_wagon_tanker</Name>
+        <File>dz\structures\wrecks\trains\train_wagon_tanker.p3d</File>
+        <Date>04/30/21 13:28:19</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>584679505</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.667469</BBRadius>
+        <BBHScale>0.228620</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.295695" Y="-0.002933" Z="-5.665604" />
+        <BoundingMax X="1.295695" Y="3.521763" Z="5.669334" />
+        <BoundingCenter X="0.000000" Y="1.759415" Z="0.001865" />
+        <Placement></Placement>
+    </Template>
+</Library>

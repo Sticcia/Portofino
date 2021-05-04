@@ -1,0 +1,993 @@
+<?xml version="1.0" ?>
+<Library name="military misc" shape="rectangle" default_fill="-32704" default_outline="-1" tex="0">
+    <Template>
+        <Name>misc_antenna</Name>
+        <File>dz\structures\military\misc\misc_antenna.p3d</File>
+        <Date>04/30/21 13:25:20</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2145203088</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.264266</BBRadius>
+        <BBHScale>1.299533</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.793194" Y="-1.005992" Z="-2.433742" />
+        <BoundingMax X="3.091782" Y="8.131759" Z="2.094791" />
+        <BoundingCenter X="0.149294" Y="3.562883" Z="-0.169476" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_bagfence_3m</Name>
+        <File>dz\structures\military\misc\misc_bagfence_3m.p3d</File>
+        <Date>04/30/21 13:25:37</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>196467997</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.779776</BBRadius>
+        <BBHScale>2.755011</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.132960" Y="-0.184948" Z="-0.765848" />
+        <BoundingMax X="2.163620" Y="0.940366" Z="0.793703" />
+        <BoundingCenter X="0.015330" Y="0.377709" Z="0.013927" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_bagfence_corner</Name>
+        <File>dz\structures\military\misc\misc_bagfence_corner.p3d</File>
+        <Date>04/30/21 13:25:04</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1790750280</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.152475</BBRadius>
+        <BBHScale>0.999415</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.937880" Y="-0.184948" Z="-1.497920" />
+        <BoundingMax X="2.364550" Y="0.940366" Z="2.807030" />
+        <BoundingCenter X="0.213335" Y="0.377709" Z="0.654555" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_bagfence_round</Name>
+        <File>dz\structures\military\misc\misc_bagfence_round.p3d</File>
+        <Date>04/30/21 13:25:21</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1043743541</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.265405</BBRadius>
+        <BBHScale>1.782315</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.040030" Y="-0.353274" Z="-3.351240" />
+        <BoundingMax X="4.035300" Y="0.940366" Z="1.179570" />
+        <BoundingCenter X="-0.002365" Y="0.293546" Z="-1.085835" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_barbedwire</Name>
+        <File>dz\structures\military\misc\misc_barbedwire.p3d</File>
+        <Date>04/30/21 13:25:44</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-133776314</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.041775</BBRadius>
+        <BBHScale>3.224525</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.641869" Y="-0.307903" Z="-1.107246" />
+        <BoundingMax X="3.076586" Y="1.814319" Z="0.976303" />
+        <BoundingCenter X="-0.282641" Y="0.753208" Z="-0.065471" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_concreteblock1</Name>
+        <File>dz\structures\military\misc\misc_concreteblock1.p3d</File>
+        <Date>04/30/21 13:25:01</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1753620644</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.502321</BBRadius>
+        <BBHScale>0.398152</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.200000" Y="0.000000" Z="-0.501463" />
+        <BoundingMax X="0.200000" Y="0.505436" Z="0.503178" />
+        <BoundingCenter X="0.000000" Y="0.252718" Z="0.000858" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_concreteblock1_end</Name>
+        <File>dz\structures\military\misc\misc_concreteblock1_end.p3d</File>
+        <Date>04/30/21 13:25:39</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1147057048</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.114194</BBRadius>
+        <BBHScale>0.313605</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.354397" Y="0.000000" Z="-1.252106" />
+        <BoundingMax X="0.344436" Y="0.513834" Z="0.976282" />
+        <BoundingCenter X="-0.004981" Y="0.256917" Z="-0.137912" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_concreteblock2</Name>
+        <File>dz\structures\military\misc\misc_concreteblock2.p3d</File>
+        <Date>04/30/21 13:24:58</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1753620643</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.181567</BBRadius>
+        <BBHScale>7.160596</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.301202" Y="-0.004021" Z="-0.173847" />
+        <BoundingMax X="1.299056" Y="0.775368" Z="0.189287" />
+        <BoundingCenter X="-0.001073" Y="0.385673" Z="0.007720" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_concreteblock2_damaged</Name>
+        <File>dz\structures\military\misc\misc_concreteblock2_damaged.p3d</File>
+        <Date>04/30/21 13:25:04</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-715931533</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.179261</BBRadius>
+        <BBHScale>7.295626</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.298832" Y="0.000294" Z="-0.171720" />
+        <BoundingMax X="1.316809" Y="0.775368" Z="0.186802" />
+        <BoundingCenter X="0.008988" Y="0.387831" Z="0.007541" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_concreteblock2_stripes</Name>
+        <File>dz\structures\military\misc\misc_concreteblock2_stripes.p3d</File>
+        <Date>04/30/21 13:24:59</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-748298684</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.181567</BBRadius>
+        <BBHScale>7.160596</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.301202" Y="-0.004021" Z="-0.173847" />
+        <BoundingMax X="1.299056" Y="0.775368" Z="0.189287" />
+        <BoundingCenter X="-0.001073" Y="0.385673" Z="0.007720" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_cover_big</Name>
+        <File>dz\structures\military\misc\misc_cover_big.p3d</File>
+        <Date>04/30/21 13:25:39</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2031023675</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.523572</BBRadius>
+        <BBHScale>1.252726</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.229278" Y="-0.223609" Z="-3.682374" />
+        <BoundingMax X="3.093410" Y="0.522322" Z="1.364770" />
+        <BoundingCenter X="-0.067934" Y="0.149357" Z="-1.158802" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_cover_small</Name>
+        <File>dz\structures\military\misc\misc_cover_small.p3d</File>
+        <Date>04/30/21 13:25:05</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>675530572</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.218080</BBRadius>
+        <BBHScale>0.559643</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.801565" Y="-0.535944" Z="-3.833490" />
+        <BoundingMax X="1.800385" Y="0.459039" Z="2.602670" />
+        <BoundingCenter X="-0.000590" Y="-0.038452" Z="-0.615410" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_dragonteeth</Name>
+        <File>dz\structures\military\misc\misc_dragonteeth.p3d</File>
+        <Date>04/30/21 13:25:03</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>867608866</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.119540</BBRadius>
+        <BBHScale>4.085892</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.574320" Y="-0.365151" Z="-1.119540" />
+        <BoundingMax X="4.574320" Y="1.422578" Z="1.119540" />
+        <BoundingCenter X="0.000000" Y="0.528713" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_dragonteeth_big</Name>
+        <File>dz\structures\military\misc\misc_dragonteeth_big.p3d</File>
+        <Date>04/30/21 13:25:29</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1115998115</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.690000</BBRadius>
+        <BBHScale>2.542417</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.303340" Y="-0.340650" Z="-1.690240" />
+        <BoundingMax X="4.290030" Y="1.827423" Z="1.689760" />
+        <BoundingCenter X="-0.006655" Y="0.743387" Z="-0.000240" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_flagpole</Name>
+        <File>dz\structures\military\misc\misc_flagpole.p3d</File>
+        <Date>04/30/21 13:25:01</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>405218743</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.220794</BBRadius>
+        <BBHScale>1.015643</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.121262" Y="-0.157390" Z="-0.222537" />
+        <BoundingMax X="0.327234" Y="7.028751" Z="0.219051" />
+        <BoundingCenter X="0.102986" Y="3.435680" Z="-0.001743" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_gunrack</Name>
+        <File>dz\structures\military\misc\misc_gunrack.p3d</File>
+        <Date>04/30/21 13:25:21</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-550002780</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.494628</BBRadius>
+        <BBHScale>0.799336</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.395374" Y="0.000000" Z="-0.494628" />
+        <BoundingMax X="0.395374" Y="0.730211" Z="0.494628" />
+        <BoundingCenter X="-0.000000" Y="0.365106" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_hedgehog_concrete</Name>
+        <File>dz\structures\military\misc\misc_hedgehog_concrete.p3d</File>
+        <Date>04/30/21 13:25:10</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-376712298</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.923438</BBRadius>
+        <BBHScale>1.056100</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.851869" Y="-0.158820" Z="-0.960480" />
+        <BoundingMax X="1.098617" Y="1.259940" Z="0.886396" />
+        <BoundingCenter X="0.123374" Y="0.550560" Z="-0.037042" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_hedgehog_iron</Name>
+        <File>dz\structures\military\misc\misc_hedgehog_iron.p3d</File>
+        <Date>04/30/21 13:25:02</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>391227641</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.636231</BBRadius>
+        <BBHScale>1.184972</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.754616" Y="-0.053792" Z="-0.636231" />
+        <BoundingMax X="0.753217" Y="1.433792" Z="0.636231" />
+        <BoundingCenter X="-0.000699" Y="0.690000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_obstacle_bridge</Name>
+        <File>dz\structures\military\misc\misc_obstacle_bridge.p3d</File>
+        <Date>04/30/21 13:25:29</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1333427258</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.729290</BBRadius>
+        <BBHScale>0.105724</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.500001" Y="-0.300088" Z="-4.729290" />
+        <BoundingMax X="0.500000" Y="1.550000" Z="4.729290" />
+        <BoundingCenter X="-0.000000" Y="0.624956" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_obstacle_crawl</Name>
+        <File>dz\structures\military\misc\misc_obstacle_crawl.p3d</File>
+        <Date>04/30/21 13:25:22</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>59603978</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.548680</BBRadius>
+        <BBHScale>0.513687</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.311660" Y="-0.302240" Z="-2.548680" />
+        <BoundingMax X="1.306790" Y="0.942440" Z="2.548680" />
+        <BoundingCenter X="-0.002435" Y="0.320100" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_obstacle_cross</Name>
+        <File>dz\structures\military\misc\misc_obstacle_cross.p3d</File>
+        <Date>04/30/21 13:25:32</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>175002659</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.055000</BBRadius>
+        <BBHScale>28.272726</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.555000" Y="-0.300000" Z="-0.055000" />
+        <BoundingMax X="1.555000" Y="0.788891" Z="0.055000" />
+        <BoundingCenter X="0.000000" Y="0.244446" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_obstacle_pass</Name>
+        <File>dz\structures\military\misc\misc_obstacle_pass.p3d</File>
+        <Date>04/30/21 13:25:21</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1630579858</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.990431</BBRadius>
+        <BBHScale>1.543298</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.528530" Y="-0.300000" Z="-1.000662" />
+        <BoundingMax X="1.528530" Y="3.248150" Z="0.980200" />
+        <BoundingCenter X="0.000000" Y="1.474075" Z="-0.010231" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_obstacle_ramp</Name>
+        <File>dz\structures\military\misc\misc_obstacle_ramp.p3d</File>
+        <Date>04/30/21 13:25:03</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-69799057</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.148585</BBRadius>
+        <BBHScale>0.706331</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.751276" Y="-0.300000" Z="-1.128149" />
+        <BoundingMax X="0.871285" Y="1.197810" Z="1.169020" />
+        <BoundingCenter X="0.060005" Y="0.448905" Z="0.020436" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_obstacle_runaround</Name>
+        <File>dz\structures\military\misc\misc_obstacle_runaround.p3d</File>
+        <Date>04/30/21 13:25:32</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1175709509</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.608154</BBRadius>
+        <BBHScale>0.465859</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.680610" Y="-0.300002" Z="-3.608177" />
+        <BoundingMax X="1.681170" Y="0.995069" Z="3.608130" />
+        <BoundingCenter X="0.000280" Y="0.347533" Z="-0.000024" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_range_line</Name>
+        <File>dz\structures\military\misc\misc_range_line.p3d</File>
+        <Date>04/30/21 13:25:35</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1553329545</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.131028</BBRadius>
+        <BBHScale>23.207169</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.039900" Y="-0.237125" Z="-0.088390" />
+        <BoundingMax X="3.041670" Y="1.839130" Z="0.173666" />
+        <BoundingCenter X="0.000885" Y="0.801003" Z="0.042638" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_range_line_dispersions</Name>
+        <File>dz\structures\military\misc\misc_range_line_dispersions.p3d</File>
+        <Date>04/30/21 13:25:29</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1118142759</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.133847</BBRadius>
+        <BBHScale>13.621843</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.552700" Y="-0.235180" Z="-0.101349" />
+        <BoundingMax X="3.093794" Y="1.723507" Z="0.166346" />
+        <BoundingCenter X="1.270547" Y="0.744163" Z="0.032499" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_range_pistol</Name>
+        <File>dz\structures\military\misc\misc_range_pistol.p3d</File>
+        <Date>04/30/21 13:25:42</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1559538164</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.097524</BBRadius>
+        <BBHScale>19.505821</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.893556" Y="-0.275706" Z="-0.088707" />
+        <BoundingMax X="1.911021" Y="1.919450" Z="0.106341" />
+        <BoundingCenter X="0.008733" Y="0.821872" Z="0.008817" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_range_roof</Name>
+        <File>dz\structures\military\misc\misc_range_roof.p3d</File>
+        <Date>04/30/21 13:25:10</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1991520073</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.636240</BBRadius>
+        <BBHScale>2.384874</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.579034" Y="-0.605353" Z="-1.970110" />
+        <BoundingMax X="5.225420" Y="2.637770" Z="1.302371" />
+        <BoundingCenter X="1.323193" Y="1.016209" Z="-0.333869" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_range_single</Name>
+        <File>dz\structures\military\misc\misc_range_single.p3d</File>
+        <Date>04/30/21 13:25:33</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-159081539</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.051168</BBRadius>
+        <BBHScale>9.032531</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.480954" Y="-0.070334" Z="-0.210986" />
+        <BoundingMax X="0.443394" Y="1.684330" Z="-0.108651" />
+        <BoundingCenter X="-0.018780" Y="0.806998" Z="-0.159819" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_razorwire</Name>
+        <File>dz\structures\military\misc\misc_razorwire.p3d</File>
+        <Date>04/30/21 13:25:44</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1862141312</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.039867</BBRadius>
+        <BBHScale>4.068681</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.502070" Y="-0.304185" Z="-1.107246" />
+        <BoundingMax X="5.959702" Y="1.814319" Z="0.972488" />
+        <BoundingCenter X="1.728816" Y="0.755067" Z="-0.067379" />
+        <Placement></Placement>
+    </Template>
+</Library>

@@ -1,0 +1,168 @@
+<?xml version="1.0" ?>
+<Library name="garages" shape="rectangle" default_fill="-8355712" default_outline="-1" tex="0">
+    <Template>
+        <Name>garage_big</Name>
+        <File>dz\structures\industrial\garages\garage_big.p3d</File>
+        <Date>04/30/21 13:24:19</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1201522664</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>12.164431</BBRadius>
+        <BBHScale>1.270910</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-15.493799" Y="-2.908240" Z="-12.263861" />
+        <BoundingMax X="15.426001" Y="8.314421" Z="12.065001" />
+        <BoundingCenter X="-0.033899" Y="2.703090" Z="-0.099430" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>garage_office</Name>
+        <File>dz\structures\industrial\garages\garage_office.p3d</File>
+        <Date>04/30/21 13:24:51</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1319181620</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.997842</BBRadius>
+        <BBHScale>0.438357</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.356156" Y="-1.866020" Z="-10.022663" />
+        <BoundingMax X="4.532373" Y="8.886941" Z="7.973021" />
+        <BoundingCenter X="0.588108" Y="3.510460" Z="-1.024821" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>garage_row_big</Name>
+        <File>dz\structures\industrial\garages\garage_row_big.p3d</File>
+        <Date>04/30/21 13:24:46</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1910407171</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>12.295273</BBRadius>
+        <BBHScale>1.120642</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-13.799101" Y="-1.866020" Z="-11.441835" />
+        <BoundingMax X="13.758101" Y="8.936398" Z="13.148710" />
+        <BoundingCenter X="-0.020500" Y="3.535189" Z="0.853437" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>garage_row_small</Name>
+        <File>dz\structures\industrial\garages\garage_row_small.p3d</File>
+        <Date>04/30/21 13:24:56</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1503789430</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.148808</BBRadius>
+        <BBHScale>1.128833</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-7.421813" Y="-2.001010" Z="-4.103430" />
+        <BoundingMax X="8.717800" Y="5.177407" Z="10.194185" />
+        <BoundingCenter X="0.647993" Y="1.588198" Z="3.045378" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>garage_small</Name>
+        <File>dz\structures\industrial\garages\garage_small.p3d</File>
+        <Date>04/30/21 13:24:16</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-206724113</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.562277</BBRadius>
+        <BBHScale>0.847712</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.818565" Y="-1.495185" Z="-5.103904" />
+        <BoundingMax X="2.916425" Y="4.118687" Z="4.020650" />
+        <BoundingCenter X="-0.951070" Y="1.311751" Z="-0.541627" />
+        <Placement></Placement>
+    </Template>
+</Library>

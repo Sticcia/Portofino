@@ -1,0 +1,333 @@
+<?xml version="1.0" ?>
+<Library name="airfields" shape="rectangle" default_fill="-16744193" default_outline="-1" tex="0">
+    <Template>
+        <Name>airfield_lamp</Name>
+        <File>dz\structures\specific\airfields\airfield_lamp.p3d</File>
+        <Date>04/30/21 13:27:53</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>759434535</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.328258</BBRadius>
+        <BBHScale>1.385421</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.833248" Y="-1.206672" Z="-1.060000" />
+        <BoundingMax X="1.847145" Y="26.044777" Z="1.596515" />
+        <BoundingCenter X="0.006948" Y="12.419052" Z="0.268258" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>airfield_light_edge</Name>
+        <File>dz\structures\specific\airfields\airfield_light_edge.p3d</File>
+        <Date>04/30/21 13:27:35</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1197471339</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.107754</BBRadius>
+        <BBHScale>1.154686</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.124422" Y="-0.146799" Z="-0.107754" />
+        <BoundingMax X="0.124422" Y="0.236939" Z="0.107754" />
+        <BoundingCenter X="0.000000" Y="0.045070" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>airfield_light_navig</Name>
+        <File>dz\structures\specific\airfields\airfield_light_navig.p3d</File>
+        <Date>04/30/21 13:27:43</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1478044265</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.160011</BBRadius>
+        <BBHScale>1.401314</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.091074" Y="-0.195117" Z="-0.160011" />
+        <BoundingMax X="0.357376" Y="9.956560" Z="0.160010" />
+        <BoundingCenter X="0.133151" Y="4.880722" Z="-0.000001" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>airfield_light_papi1</Name>
+        <File>dz\structures\specific\airfields\airfield_light_papi1.p3d</File>
+        <Date>04/30/21 13:27:54</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-587363537</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.629714</BBRadius>
+        <BBHScale>0.800363</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.504000" Y="-0.376520" Z="-0.486245" />
+        <BoundingMax X="0.504000" Y="0.598575" Z="0.773183" />
+        <BoundingCenter X="0.000000" Y="0.111028" Z="0.143469" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>airfield_light_papi2</Name>
+        <File>dz\structures\specific\airfields\airfield_light_papi2.p3d</File>
+        <Date>04/30/21 13:27:53</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-587363536</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.629714</BBRadius>
+        <BBHScale>0.800363</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.504000" Y="-0.376520" Z="-0.486245" />
+        <BoundingMax X="0.504000" Y="0.598575" Z="0.773183" />
+        <BoundingCenter X="0.000000" Y="0.111028" Z="0.143469" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>airfield_light_papi3</Name>
+        <File>dz\structures\specific\airfields\airfield_light_papi3.p3d</File>
+        <Date>04/30/21 13:27:52</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-587363535</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.629714</BBRadius>
+        <BBHScale>0.800363</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.504000" Y="-0.376520" Z="-0.486245" />
+        <BoundingMax X="0.504000" Y="0.598575" Z="0.773183" />
+        <BoundingCenter X="0.000000" Y="0.111028" Z="0.143469" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>airfield_light_papi4</Name>
+        <File>dz\structures\specific\airfields\airfield_light_papi4.p3d</File>
+        <Date>04/30/21 13:27:49</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-587363534</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.629714</BBRadius>
+        <BBHScale>0.800363</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.504000" Y="-0.376520" Z="-0.486245" />
+        <BoundingMax X="0.504000" Y="0.598575" Z="0.773183" />
+        <BoundingCenter X="0.000000" Y="0.111028" Z="0.143469" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>airfield_light_reflector</Name>
+        <File>dz\structures\specific\airfields\airfield_light_reflector.p3d</File>
+        <Date>04/30/21 13:27:28</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1426179544</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.250000</BBRadius>
+        <BBHScale>0.324174</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.396091" Y="0.000000" Z="-1.250000" />
+        <BoundingMax X="0.414346" Y="0.803623" Z="1.250000" />
+        <BoundingCenter X="0.009128" Y="0.401811" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>airfield_small_control</Name>
+        <File>dz\structures\specific\airfields\airfield_small_control.p3d</File>
+        <Date>04/30/21 13:27:28</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>936295478</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>15.006397</BBRadius>
+        <BBHScale>1.252259</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="11.154800" Y="-0.746115" Z="-26.435333" />
+        <BoundingMax X="48.738605" Y="21.289640" Z="3.577460" />
+        <BoundingCenter X="29.946703" Y="10.271763" Z="-11.428936" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>airfield_small_hangar</Name>
+        <File>dz\structures\specific\airfields\airfield_small_hangar.p3d</File>
+        <Date>04/30/21 13:27:24</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-531851222</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>15.054140</BBRadius>
+        <BBHScale>1.071925</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-17.448004" Y="-1.121925" Z="-8.143780" />
+        <BoundingMax X="14.825800" Y="7.899800" Z="21.964500" />
+        <BoundingCenter X="-1.311102" Y="3.388937" Z="6.910360" />
+        <Placement></Placement>
+    </Template>
+</Library>

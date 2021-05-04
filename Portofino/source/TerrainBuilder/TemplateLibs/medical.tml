@@ -1,0 +1,135 @@
+<?xml version="1.0" ?>
+<Library name="medical" shape="rectangle" default_fill="-32576" default_outline="-1" tex="0">
+    <Template>
+        <Name>city_hospital</Name>
+        <File>dz\structures\residential\medical\city_hospital.p3d</File>
+        <Date>04/30/21 13:26:43</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>917599406</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>11.732640</BBRadius>
+        <BBHScale>2.082174</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-26.806202" Y="-1.181300" Z="-8.478780" />
+        <BoundingMax X="22.052601" Y="16.183500" Z="14.986501" />
+        <BoundingCenter X="-2.376801" Y="7.501101" Z="3.253860" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>medical_tent_big</Name>
+        <File>dz\structures\residential\medical\medical_tent_big.p3d</File>
+        <Date>04/30/21 13:26:24</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>171511142</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.126028</BBRadius>
+        <BBHScale>1.298878</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.359303" Y="-0.831865" Z="-4.168634" />
+        <BoundingMax X="5.359110" Y="3.859783" Z="4.083421" />
+        <BoundingCenter X="-0.000097" Y="1.513959" Z="-0.042606" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>medical_tent_shower</Name>
+        <File>dz\structures\residential\medical\medical_tent_shower.p3d</File>
+        <Date>04/30/21 13:26:27</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>923978116</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.632881</BBRadius>
+        <BBHScale>1.625596</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.255000" Y="-0.063681" Z="-2.632881" />
+        <BoundingMax X="7.304999" Y="3.207209" Z="2.632881" />
+        <BoundingCenter X="3.025000" Y="1.571764" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>village_healthcare</Name>
+        <File>dz\structures\residential\medical\village_healthcare.p3d</File>
+        <Date>04/30/21 13:26:57</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>329634272</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.033455</BBRadius>
+        <BBHScale>1.219373</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-12.357653" Y="-1.866020" Z="-11.562860" />
+        <BoundingMax X="12.111397" Y="9.159317" Z="8.504050" />
+        <BoundingCenter X="-0.123128" Y="3.646648" Z="-1.529405" />
+        <Placement></Placement>
+    </Template>
+</Library>

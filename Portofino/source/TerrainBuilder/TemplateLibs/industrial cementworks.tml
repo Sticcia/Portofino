@@ -1,0 +1,828 @@
+<?xml version="1.0" ?>
+<Library name="industrial cementworks" shape="rectangle" default_fill="-8355712" default_outline="-1" tex="0">
+    <Template>
+        <Name>cementworks_conveyorfurnace</Name>
+        <File>dz\structures\industrial\cementworks\cementworks_conveyorfurnace.p3d</File>
+        <Date>04/30/21 13:24:10</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1807793904</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.086258</BBRadius>
+        <BBHScale>0.638705</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.108820" Y="-0.520878" Z="-4.633801" />
+        <BoundingMax X="3.111004" Y="37.709114" Z="3.538715" />
+        <BoundingCenter X="0.501092" Y="18.594118" Z="-0.547543" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>cementworks_conveyorhall</Name>
+        <File>dz\structures\industrial\cementworks\cementworks_conveyorhall.p3d</File>
+        <Date>04/30/21 13:24:15</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1298657217</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>34.920670</BBRadius>
+        <BBHScale>0.408272</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-10.899609" Y="-3.357338" Z="-33.737473" />
+        <BoundingMax X="17.614635" Y="14.024200" Z="36.103867" />
+        <BoundingCenter X="3.357513" Y="5.333431" Z="1.183197" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>cementworks_conveyormilla</Name>
+        <File>dz\structures\industrial\cementworks\cementworks_conveyormilla.p3d</File>
+        <Date>04/30/21 13:24:12</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1003920931</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>18.324299</BBRadius>
+        <BBHScale>0.108733</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.986010" Y="0.413713" Z="-17.387699" />
+        <BoundingMax X="1.998910" Y="17.163301" Z="19.260899" />
+        <BoundingCenter X="0.006450" Y="8.788507" Z="0.936600" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>cementworks_conveyormillb</Name>
+        <File>dz\structures\industrial\cementworks\cementworks_conveyormillb.p3d</File>
+        <Date>04/30/21 13:24:47</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1003920930</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>17.456551</BBRadius>
+        <BBHScale>0.114396</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.988010" Y="13.558001" Z="-17.491501" />
+        <BoundingMax X="2.005905" Y="30.048201" Z="17.421600" />
+        <BoundingCenter X="0.008948" Y="21.803101" Z="-0.034950" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>cementworks_conveyortowera</Name>
+        <File>dz\structures\industrial\cementworks\cementworks_conveyortowera.p3d</File>
+        <Date>04/30/21 13:24:20</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-684292000</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.704230</BBRadius>
+        <BBHScale>1.222096</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-10.234802" Y="-0.776844" Z="-9.886941" />
+        <BoundingMax X="13.484200" Y="43.411102" Z="9.521520" />
+        <BoundingCenter X="1.624699" Y="21.317129" Z="-0.182711" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>cementworks_conveyortowerb</Name>
+        <File>dz\structures\industrial\cementworks\cementworks_conveyortowerb.p3d</File>
+        <Date>04/30/21 13:24:53</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-684291999</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.992545</BBRadius>
+        <BBHScale>9.404228</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-20.549500" Y="32.942104" Z="-2.051060" />
+        <BoundingMax X="16.927200" Y="37.228001" Z="1.934030" />
+        <BoundingCenter X="-1.811150" Y="35.085052" Z="-0.058515" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>cementworks_conveyortowerc</Name>
+        <File>dz\structures\industrial\cementworks\cementworks_conveyortowerc.p3d</File>
+        <Date>04/30/21 13:24:38</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-684291998</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.977900</BBRadius>
+        <BBHScale>9.059232</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-17.365101" Y="32.942104" Z="-1.929060" />
+        <BoundingMax X="18.471409" Y="37.228001" Z="2.026740" />
+        <BoundingCenter X="0.553154" Y="35.085052" Z="0.048840" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>cementworks_conveyor_up1</Name>
+        <File>dz\structures\industrial\cementworks\cementworks_conveyor_up1.p3d</File>
+        <Date>04/30/21 13:24:35</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1266167841</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.667917</BBRadius>
+        <BBHScale>8.215867</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-13.254654" Y="-0.388590" Z="-2.599072" />
+        <BoundingMax X="30.583851" Y="30.132700" Z="2.736763" />
+        <BoundingCenter X="8.664598" Y="14.872055" Z="0.068846" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>cementworks_conveyor_up2</Name>
+        <File>dz\structures\industrial\cementworks\cementworks_conveyor_up2.p3d</File>
+        <Date>04/30/21 13:24:15</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1266167840</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.977894</BBRadius>
+        <BBHScale>10.680693</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-23.070385" Y="1.179295" Z="92.201256" />
+        <BoundingMax X="19.180168" Y="31.037691" Z="96.157043" />
+        <BoundingCenter X="-1.945108" Y="16.108494" Z="94.179153" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>cementworks_conveyor_up3</Name>
+        <File>dz\structures\industrial\cementworks\cementworks_conveyor_up3.p3d</File>
+        <Date>04/30/21 13:24:49</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1266167839</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.009827</BBRadius>
+        <BBHScale>10.238498</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-20.626015" Y="1.234221" Z="-1.962360" />
+        <BoundingMax X="20.529198" Y="24.057718" Z="2.057293" />
+        <BoundingCenter X="-0.048409" Y="12.645969" Z="0.047467" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>cementworks_expeditiona</Name>
+        <File>dz\structures\industrial\cementworks\cementworks_expeditiona.p3d</File>
+        <Date>04/30/21 13:24:45</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1412561539</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>22.811064</BBRadius>
+        <BBHScale>0.671218</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-15.623501" Y="-1.495185" Z="-27.083601" />
+        <BoundingMax X="14.998901" Y="26.273500" Z="18.538527" />
+        <BoundingCenter X="-0.312300" Y="12.389158" Z="-4.272537" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>cementworks_expeditionb</Name>
+        <File>dz\structures\industrial\cementworks\cementworks_expeditionb.p3d</File>
+        <Date>04/30/21 13:24:29</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1412561540</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.101306</BBRadius>
+        <BBHScale>6.984746</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-13.809948" Y="-0.311477" Z="-1.840022" />
+        <BoundingMax X="15.544228" Y="11.728660" Z="2.362590" />
+        <BoundingCenter X="0.867140" Y="5.708591" Z="0.261284" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>cementworks_expeditionc</Name>
+        <File>dz\structures\industrial\cementworks\cementworks_expeditionc.p3d</File>
+        <Date>04/30/21 13:24:10</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1412561541</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>22.533859</BBRadius>
+        <BBHScale>0.443443</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-9.579557" Y="-0.622222" Z="-23.921654" />
+        <BoundingMax X="10.405409" Y="10.362820" Z="21.146065" />
+        <BoundingCenter X="0.412926" Y="4.870299" Z="-1.387794" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>cementworks_hall1</Name>
+        <File>dz\structures\industrial\cementworks\cementworks_hall1.p3d</File>
+        <Date>04/30/21 13:24:18</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2032327077</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>23.103100</BBRadius>
+        <BBHScale>0.370936</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.750240" Y="-2.653236" Z="-19.416698" />
+        <BoundingMax X="8.389309" Y="13.813901" Z="26.789501" />
+        <BoundingCenter X="-0.180466" Y="5.580332" Z="3.686401" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>cementworks_hall2_brick</Name>
+        <File>dz\structures\industrial\cementworks\cementworks_hall2_brick.p3d</File>
+        <Date>04/30/21 13:24:36</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-381240610</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>25.013033</BBRadius>
+        <BBHScale>0.616599</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-19.318005" Y="-1.442040" Z="-19.218937" />
+        <BoundingMax X="11.528015" Y="11.258000" Z="30.807129" />
+        <BoundingCenter X="-3.894995" Y="4.907980" Z="5.794096" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>cementworks_hall2_grey</Name>
+        <File>dz\structures\industrial\cementworks\cementworks_hall2_grey.p3d</File>
+        <Date>04/30/21 13:24:15</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1589474398</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>24.955217</BBRadius>
+        <BBHScale>0.618553</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-18.892744" Y="-1.433630" Z="-19.236713" />
+        <BoundingMax X="11.979502" Y="11.733120" Z="30.673721" />
+        <BoundingCenter X="-3.456621" Y="5.149745" Z="5.718504" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>cementworks_milla</Name>
+        <File>dz\structures\industrial\cementworks\cementworks_milla.p3d</File>
+        <Date>04/30/21 13:24:33</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1320257416</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.498652</BBRadius>
+        <BBHScale>1.411481</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.388889" Y="-1.760416" Z="-15.367655" />
+        <BoundingMax X="21.248402" Y="45.393826" Z="5.629649" />
+        <BoundingCenter X="6.429756" Y="21.816704" Z="-4.869003" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>cementworks_millb</Name>
+        <File>dz\structures\industrial\cementworks\cementworks_millb.p3d</File>
+        <Date>04/30/21 13:24:14</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1320257417</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>26.858803</BBRadius>
+        <BBHScale>0.508327</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.306736" Y="-0.231515" Z="-25.330505" />
+        <BoundingMax X="18.999393" Y="18.670200" Z="28.387100" />
+        <BoundingCenter X="5.346329" Y="9.219343" Z="1.528297" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>cementworks_millc</Name>
+        <File>dz\structures\industrial\cementworks\cementworks_millc.p3d</File>
+        <Date>04/30/21 13:24:48</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1320257418</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>11.656199</BBRadius>
+        <BBHScale>0.918264</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-13.502100" Y="-0.765433" Z="-8.915027" />
+        <BoundingMax X="7.904835" Y="24.897600" Z="14.397372" />
+        <BoundingCenter X="-2.798633" Y="12.066084" Z="2.741173" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>cementworks_milld</Name>
+        <File>dz\structures\industrial\cementworks\cementworks_milld.p3d</File>
+        <Date>04/30/21 13:24:34</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1320257419</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>14.054710</BBRadius>
+        <BBHScale>0.726119</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.231770" Y="-1.866020" Z="-13.418240" />
+        <BoundingMax X="12.179001" Y="18.670200" Z="14.691181" />
+        <BoundingCenter X="1.973616" Y="8.402090" Z="0.636471" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>cementworks_rotfurnace</Name>
+        <File>dz\structures\industrial\cementworks\cementworks_rotfurnace.p3d</File>
+        <Date>04/30/21 13:24:31</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1125231294</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>16.779051</BBRadius>
+        <BBHScale>0.745320</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-12.607439" Y="-0.562201" Z="-10.540901" />
+        <BoundingMax X="12.404100" Y="49.847565" Z="23.017200" />
+        <BoundingCenter X="-0.101669" Y="24.642681" Z="6.238150" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>cementworks_silobig1a</Name>
+        <File>dz\structures\industrial\cementworks\cementworks_silobig1a.p3d</File>
+        <Date>04/30/21 13:24:29</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2057166330</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.666018</BBRadius>
+        <BBHScale>1.224023</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-15.312100" Y="-0.255510" Z="-11.471285" />
+        <BoundingMax X="10.798800" Y="49.411102" Z="9.860750" />
+        <BoundingCenter X="-2.256650" Y="24.577797" Z="-0.805267" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>cementworks_silobig1b</Name>
+        <File>dz\structures\industrial\cementworks\cementworks_silobig1b.p3d</File>
+        <Date>04/30/21 13:24:09</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2057166331</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>11.040751</BBRadius>
+        <BBHScale>1.793356</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-18.679802" Y="-0.000002" Z="-11.015100" />
+        <BoundingMax X="20.920200" Y="37.975201" Z="11.066401" />
+        <BoundingCenter X="1.120199" Y="18.987598" Z="0.025650" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>cementworks_silobig1bridge</Name>
+        <File>dz\structures\industrial\cementworks\cementworks_silobig1bridge.p3d</File>
+        <Date>04/30/21 13:24:14</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1028444336</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.899788</BBRadius>
+        <BBHScale>5.008412</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-10.486240" Y="32.905102" Z="-1.880071" />
+        <BoundingMax X="8.543602" Y="37.511902" Z="1.919505" />
+        <BoundingCenter X="-0.971319" Y="35.208504" Z="0.019717" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>cementworks_silobig2</Name>
+        <File>dz\structures\industrial\cementworks\cementworks_silobig2.p3d</File>
+        <Date>04/30/21 13:24:17</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1452551208</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>15.203300</BBRadius>
+        <BBHScale>0.726194</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-11.273401" Y="-0.073254" Z="-10.871099" />
+        <BoundingMax X="10.807701" Y="40.649803" Z="19.535501" />
+        <BoundingCenter X="-0.232850" Y="20.288275" Z="4.332201" />
+        <Placement></Placement>
+    </Template>
+</Library>

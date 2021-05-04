@@ -1,0 +1,1092 @@
+<?xml version="1.0" ?>
+<Library name="industrial power" shape="rectangle" default_fill="-8355712" default_outline="-1" tex="0">
+    <Template>
+        <Name>power_hv_line</Name>
+        <File>dz\structures\industrial\power\power_hv_line.p3d</File>
+        <Date>04/30/21 13:24:47</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1687515605</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.527855</BBRadius>
+        <BBHScale>19.792118</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="0.000000" Y="-0.023424" Z="-2.555470" />
+        <BoundingMax X="100.063202" Y="17.381901" Z="2.500240" />
+        <BoundingCenter X="50.031601" Y="8.679238" Z="-0.027615" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_hv_line_80m_damaged</Name>
+        <File>dz\structures\industrial\power\power_hv_line_80m_damaged.p3d</File>
+        <Date>04/30/21 13:24:24</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1010697111</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.675648</BBRadius>
+        <BBHScale>15.377437</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="0.000000" Y="-0.357332" Z="-2.555470" />
+        <BoundingMax X="82.289207" Y="15.730922" Z="2.795825" />
+        <BoundingCenter X="41.144604" Y="7.686795" Z="0.120178" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_hv_line_damaged</Name>
+        <File>dz\structures\industrial\power\power_hv_line_damaged.p3d</File>
+        <Date>04/30/21 13:24:35</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1461670721</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.527855</BBRadius>
+        <BBHScale>19.792118</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="0.000000" Y="-0.023424" Z="-2.555470" />
+        <BoundingMax X="100.063202" Y="17.377802" Z="2.500240" />
+        <BoundingCenter X="50.031601" Y="8.677189" Z="-0.027615" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_hv_line_turn</Name>
+        <File>dz\structures\industrial\power\power_hv_line_turn.p3d</File>
+        <Date>04/30/21 13:24:10</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1146638833</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.813676</BBRadius>
+        <BBHScale>7.307348</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="0.000000" Y="-0.023424" Z="-2.548090" />
+        <BoundingMax X="99.579803" Y="17.381901" Z="11.079262" />
+        <BoundingCenter X="49.789902" Y="8.679238" Z="4.265586" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_hv_line_turnl</Name>
+        <File>dz\structures\industrial\power\power_hv_line_turnl.p3d</File>
+        <Date>04/30/21 13:24:19</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>598551227</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>11.127800</BBRadius>
+        <BBHScale>4.427858</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="0.000000" Y="-0.023424" Z="-19.755360" />
+        <BoundingMax X="98.544632" Y="17.381901" Z="2.500240" />
+        <BoundingCenter X="49.272316" Y="8.679238" Z="-8.627560" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_hv_line_turnr</Name>
+        <File>dz\structures\industrial\power\power_hv_line_turnr.p3d</File>
+        <Date>04/30/21 13:24:20</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>598551233</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>11.120836</BBRadius>
+        <BBHScale>4.430561</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="0.000000" Y="-0.023424" Z="-2.547980" />
+        <BoundingMax X="98.543083" Y="17.381901" Z="19.693693" />
+        <BoundingCenter X="49.271542" Y="8.679238" Z="8.572857" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_hv_tower</Name>
+        <File>dz\structures\industrial\power\power_hv_tower.p3d</File>
+        <Date>04/30/21 13:24:26</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>140403986</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.761410</BBRadius>
+        <BBHScale>0.306054</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.845141" Y="-1.188530" Z="-2.790170" />
+        <BoundingMax X="0.845141" Y="17.458000" Z="2.732650" />
+        <BoundingCenter X="0.000000" Y="8.134735" Z="-0.028760" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_pole_conc1</Name>
+        <File>dz\structures\industrial\power\power_pole_conc1.p3d</File>
+        <Date>04/30/21 13:24:20</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>489581347</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.186891</BBRadius>
+        <BBHScale>3.970712</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.742088" Y="-1.000380" Z="-0.202195" />
+        <BoundingMax X="0.742089" Y="8.030380" Z="0.171586" />
+        <BoundingCenter X="0.000000" Y="3.515000" Z="-0.015305" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_pole_conc1_amp</Name>
+        <File>dz\structures\industrial\power\power_pole_conc1_amp.p3d</File>
+        <Date>04/30/21 13:24:17</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1200825816</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.521176</BBRadius>
+        <BBHScale>1.507287</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.809641" Y="-1.000380" Z="-0.501529" />
+        <BoundingMax X="0.761481" Y="8.030380" Z="0.540822" />
+        <BoundingCenter X="-0.024080" Y="3.515000" Z="0.019647" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_pole_conc3</Name>
+        <File>dz\structures\industrial\power\power_pole_conc3.p3d</File>
+        <Date>04/30/21 13:24:38</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>489581349</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.184082</BBRadius>
+        <BBHScale>8.621967</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.596340" Y="-1.015350" Z="-0.186700" />
+        <BoundingMax X="1.577950" Y="10.336557" Z="0.181463" />
+        <BoundingCenter X="-0.009195" Y="4.660604" Z="-0.002619" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_pole_conc4</Name>
+        <File>dz\structures\industrial\power\power_pole_conc4.p3d</File>
+        <Date>04/30/21 13:24:20</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>489581350</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.322788</BBRadius>
+        <BBHScale>5.945636</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.918590" Y="-0.991192" Z="-0.322527" />
+        <BoundingMax X="1.919770" Y="10.055401" Z="0.323049" />
+        <BoundingCenter X="0.000590" Y="4.532104" Z="0.000261" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_pole_conc4_lamp</Name>
+        <File>dz\structures\industrial\power\power_pole_conc4_lamp.p3d</File>
+        <Date>04/30/21 13:24:15</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2035683697</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.322112</BBRadius>
+        <BBHScale>3.569005</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.380645" Y="-0.991192" Z="-0.322112" />
+        <BoundingMax X="1.918590" Y="10.142169" Z="0.322111" />
+        <BoundingCenter X="0.768972" Y="4.575489" Z="-0.000001" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_pole_conc4_lamp_amp</Name>
+        <File>dz\structures\industrial\power\power_pole_conc4_lamp_amp.p3d</File>
+        <Date>04/30/21 13:24:11</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2060225930</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.522990</BBRadius>
+        <BBHScale>2.211701</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.380645" Y="-0.991192" Z="-0.723869" />
+        <BoundingMax X="1.932750" Y="10.142169" Z="0.322111" />
+        <BoundingCenter X="0.776052" Y="4.575489" Z="-0.200879" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_pole_conc4_lamp_trail_b</Name>
+        <File>dz\structures\industrial\power\power_pole_conc4_lamp_trail_b.p3d</File>
+        <Date>04/30/21 13:24:11</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1484618309</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.322112</BBRadius>
+        <BBHScale>3.569005</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.380645" Y="-0.991192" Z="-0.322112" />
+        <BoundingMax X="1.918590" Y="10.142169" Z="0.322111" />
+        <BoundingCenter X="0.768972" Y="4.575489" Z="-0.000001" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_pole_conc4_lamp_trail_g</Name>
+        <File>dz\structures\industrial\power\power_pole_conc4_lamp_trail_g.p3d</File>
+        <Date>04/30/21 13:24:33</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1484618304</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.322112</BBRadius>
+        <BBHScale>3.569005</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.380645" Y="-0.991192" Z="-0.322112" />
+        <BoundingMax X="1.918590" Y="10.142169" Z="0.322111" />
+        <BoundingCenter X="0.768972" Y="4.575489" Z="-0.000001" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_pole_conc4_lamp_trail_r</Name>
+        <File>dz\structures\industrial\power\power_pole_conc4_lamp_trail_r.p3d</File>
+        <Date>04/30/21 13:24:49</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1484618293</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.322112</BBRadius>
+        <BBHScale>3.569005</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.380645" Y="-0.991192" Z="-0.322112" />
+        <BoundingMax X="1.918590" Y="10.142169" Z="0.322111" />
+        <BoundingCenter X="0.768972" Y="4.575489" Z="-0.000001" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_pole_conc4_lamp_trail_y</Name>
+        <File>dz\structures\industrial\power\power_pole_conc4_lamp_trail_y.p3d</File>
+        <Date>04/30/21 13:24:35</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1484618286</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.322112</BBRadius>
+        <BBHScale>3.569005</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.380645" Y="-0.991192" Z="-0.322112" />
+        <BoundingMax X="1.918590" Y="10.142169" Z="0.322111" />
+        <BoundingCenter X="0.768972" Y="4.575489" Z="-0.000001" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_pole_conct</Name>
+        <File>dz\structures\industrial\power\power_pole_conct.p3d</File>
+        <Date>04/30/21 13:24:16</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>489581414</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.508177</BBRadius>
+        <BBHScale>3.130654</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.596340" Y="-1.015350" Z="-0.506995" />
+        <BoundingMax X="1.585510" Y="10.336557" Z="0.509358" />
+        <BoundingCenter X="-0.005415" Y="4.660604" Z="0.001182" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_pole_wood1</Name>
+        <File>dz\structures\industrial\power\power_pole_wood1.p3d</File>
+        <Date>04/30/21 13:24:28</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1814357751</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.252926</BBRadius>
+        <BBHScale>0.467256</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.119296" Y="-1.015870" Z="-0.242775" />
+        <BoundingMax X="0.117066" Y="8.022241" Z="0.263076" />
+        <BoundingCenter X="-0.001115" Y="3.503185" Z="0.010150" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_pole_wood1_amp</Name>
+        <File>dz\structures\industrial\power\power_pole_wood1_amp.p3d</File>
+        <Date>04/30/21 13:24:19</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>583467516</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.315329</BBRadius>
+        <BBHScale>1.251989</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.119296" Y="-1.015870" Z="-0.344784" />
+        <BoundingMax X="0.670281" Y="8.022241" Z="0.285874" />
+        <BoundingCenter X="0.275493" Y="3.503185" Z="-0.029455" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_pole_wood1_lamp</Name>
+        <File>dz\structures\industrial\power\power_pole_wood1_lamp.p3d</File>
+        <Date>04/30/21 13:24:26</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1965770016</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.734992</BBRadius>
+        <BBHScale>0.397224</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.294832" Y="-1.004010" Z="-0.305713" />
+        <BoundingMax X="0.289080" Y="7.999980" Z="1.164270" />
+        <BoundingCenter X="-0.002876" Y="3.497985" Z="0.429278" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_pole_wood1_lamp_amp</Name>
+        <File>dz\structures\industrial\power\power_pole_wood1_lamp_amp.p3d</File>
+        <Date>04/30/21 13:24:08</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-689550107</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.754528</BBRadius>
+        <BBHScale>0.639548</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.294832" Y="-1.004010" Z="-0.344785" />
+        <BoundingMax X="0.670281" Y="7.999980" Z="1.164270" />
+        <BoundingCenter X="0.187725" Y="3.497985" Z="0.409742" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_pole_wood1_trail_b</Name>
+        <File>dz\structures\industrial\power\power_pole_wood1_trail_b.p3d</File>
+        <Date>04/30/21 13:24:58</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1759563585</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.252926</BBRadius>
+        <BBHScale>0.467256</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.119296" Y="-1.015870" Z="-0.242775" />
+        <BoundingMax X="0.117066" Y="8.022241" Z="0.263076" />
+        <BoundingCenter X="-0.001115" Y="3.503185" Z="0.010150" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_pole_wood1_trail_g</Name>
+        <File>dz\structures\industrial\power\power_pole_wood1_trail_g.p3d</File>
+        <Date>04/30/21 13:24:28</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1759563590</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.252926</BBRadius>
+        <BBHScale>0.467256</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.119296" Y="-1.015870" Z="-0.242775" />
+        <BoundingMax X="0.117066" Y="8.022241" Z="0.263076" />
+        <BoundingCenter X="-0.001115" Y="3.503185" Z="0.010150" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_pole_wood1_trail_r</Name>
+        <File>dz\structures\industrial\power\power_pole_wood1_trail_r.p3d</File>
+        <Date>04/30/21 13:24:46</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1759563601</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.252926</BBRadius>
+        <BBHScale>0.467256</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.119296" Y="-1.015870" Z="-0.242775" />
+        <BoundingMax X="0.117066" Y="8.022241" Z="0.263076" />
+        <BoundingCenter X="-0.001115" Y="3.503185" Z="0.010150" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_pole_wood1_trail_y</Name>
+        <File>dz\structures\industrial\power\power_pole_wood1_trail_y.p3d</File>
+        <Date>04/30/21 13:24:33</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1759563608</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.252926</BBRadius>
+        <BBHScale>0.467256</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.119296" Y="-1.015870" Z="-0.242775" />
+        <BoundingMax X="0.117066" Y="8.022241" Z="0.263076" />
+        <BoundingCenter X="-0.001115" Y="3.503185" Z="0.010150" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_pole_wood2</Name>
+        <File>dz\structures\industrial\power\power_pole_wood2.p3d</File>
+        <Date>04/30/21 13:24:08</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1814357752</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.132282</BBRadius>
+        <BBHScale>12.271777</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.625850" Y="-1.008550" Z="-0.132507" />
+        <BoundingMax X="1.620820" Y="10.052300" Z="0.132057" />
+        <BoundingCenter X="-0.002515" Y="4.521875" Z="-0.000225" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_pole_wood3</Name>
+        <File>dz\structures\industrial\power\power_pole_wood3.p3d</File>
+        <Date>04/30/21 13:24:45</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1814357753</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.137950</BBRadius>
+        <BBHScale>12.188723</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.677170" Y="-1.307780" Z="-0.142681" />
+        <BoundingMax X="1.685700" Y="10.055201" Z="0.133219" />
+        <BoundingCenter X="0.004265" Y="4.373710" Z="-0.004731" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_station</Name>
+        <File>dz\structures\industrial\power\power_station.p3d</File>
+        <Date>04/30/21 13:24:41</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1627762822</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>11.333258</BBRadius>
+        <BBHScale>0.554177</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.268491" Y="-1.078180" Z="-11.981100" />
+        <BoundingMax X="6.292781" Y="5.183250" Z="10.685415" />
+        <BoundingCenter X="0.012145" Y="2.052535" Z="-0.647842" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_transformerstation_big</Name>
+        <File>dz\structures\industrial\power\power_transformerstation_big.p3d</File>
+        <Date>04/30/21 13:24:29</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>660738742</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.356925</BBRadius>
+        <BBHScale>0.828771</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-7.897850" Y="-0.884364" Z="-2.328997" />
+        <BoundingMax X="7.611645" Y="6.031832" Z="16.384853" />
+        <BoundingCenter X="-0.143102" Y="2.573734" Z="7.027928" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_transformerstation_cables</Name>
+        <File>dz\structures\industrial\power\power_transformerstation_cables.p3d</File>
+        <Date>04/30/21 13:24:55</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-731984128</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>37.601151</BBRadius>
+        <BBHScale>0.091983</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.454411" Y="0.000000" Z="-75.181023" />
+        <BoundingMax X="3.462901" Y="18.814901" Z="0.021278" />
+        <BoundingCenter X="0.004245" Y="9.407451" Z="-37.579872" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_transformer_build</Name>
+        <File>dz\structures\industrial\power\power_transformer_build.p3d</File>
+        <Date>04/30/21 13:24:27</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>259675534</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.239530</BBRadius>
+        <BBHScale>0.799382</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.790240" Y="-0.899725" Z="-2.712189" />
+        <BoundingMax X="1.790240" Y="10.411100" Z="1.766870" />
+        <BoundingCenter X="0.000000" Y="4.755688" Z="-0.472660" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_transformer_small</Name>
+        <File>dz\structures\industrial\power\power_transformer_small.p3d</File>
+        <Date>04/30/21 13:24:57</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>436576935</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.454476</BBRadius>
+        <BBHScale>2.583627</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.166690" Y="-1.187780" Z="-0.465583" />
+        <BoundingMax X="1.181700" Y="8.257901" Z="0.443368" />
+        <BoundingCenter X="0.007505" Y="3.535061" Z="-0.011108" />
+        <Placement></Placement>
+    </Template>
+</Library>

@@ -9,11 +9,11 @@
     </ExportSettings>
     <Tasks>
         <Task>
-            <Shapefile>primary.shp</Shapefile>
+            <Shapefile>roads.shp</Shapefile>
             <TaskName>Heightmap: Road integration</TaskName>
             <DEMInputFilename>P:\Portofino\source\QGIS\gtt_export\gtt_heightmap.asc</DEMInputFilename>
-            <DEMOutputFilename>P:\Portofino\source\QGIS\gtt_export\gtt_heightmap_primary.asc</DEMOutputFilename>
-            <Enabled>0</Enabled>
+            <DEMOutputFilename>P:\Portofino\source\QGIS\gtt_export\gtt_heightmap_primary_secondary.asc</DEMOutputFilename>
+            <Enabled>1</Enabled>
             <Notes>Level out roads flat</Notes>
             <Parameters>
                 <Parameter Name="Road width" Type="0" Value="12"/>
@@ -25,11 +25,11 @@
             <AdditionalDatabases/>
         </Task>
         <Task>
-            <Shapefile>primary.shp</Shapefile>
+            <Shapefile>roads.shp</Shapefile>
             <TaskName>Line: Regular</TaskName>
             <DEMInputFilename></DEMInputFilename>
             <DEMOutputFilename></DEMOutputFilename>
-            <Enabled>0</Enabled>
+            <Enabled>1</Enabled>
             <Notes>Place roads automatically</Notes>
             <Parameters>
                 <Parameter Name="Objects distance" Type="0" Value="6"/>
@@ -54,7 +54,7 @@
             <TaskName>Area: High-density Cluster</TaskName>
             <DEMInputFilename></DEMInputFilename>
             <DEMOutputFilename></DEMOutputFilename>
-            <Enabled>1</Enabled>
+            <Enabled>0</Enabled>
             <Notes>Import forest</Notes>
             <Parameters>
                 <Parameter Name="Random seed" Type="0" Value="100"/>

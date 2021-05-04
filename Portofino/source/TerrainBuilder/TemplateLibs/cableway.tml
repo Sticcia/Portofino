@@ -1,0 +1,300 @@
+<?xml version="1.0" ?>
+<Library name="cableway" shape="rectangle" default_fill="-16744193" default_outline="-1" tex="0">
+    <Template>
+        <Name>cableway_base</Name>
+        <File>dz\structures\specific\cableway\cableway_base.p3d</File>
+        <Date>04/30/21 13:27:37</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>324567710</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.068588</BBRadius>
+        <BBHScale>0.259438</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.377659" Y="-0.419161" Z="-10.251453" />
+        <BoundingMax X="2.327810" Y="6.190977" Z="7.885724" />
+        <BoundingCenter X="-0.024925" Y="2.885908" Z="-1.182865" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>cableway_base_rope1</Name>
+        <File>dz\structures\specific\cableway\cableway_base_rope1.p3d</File>
+        <Date>04/30/21 13:27:48</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1756331710</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.906466</BBRadius>
+        <BBHScale>0.191179</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.077079" Y="3.882917" Z="1.483542" />
+        <BoundingMax X="2.093104" Y="11.174465" Z="23.296474" />
+        <BoundingCenter X="0.008013" Y="7.528691" Z="12.390009" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>cableway_base_rope2</Name>
+        <File>dz\structures\specific\cableway\cableway_base_rope2.p3d</File>
+        <Date>04/30/21 13:27:47</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1756331711</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.959061</BBRadius>
+        <BBHScale>0.194303</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.121310" Y="3.541899" Z="1.483542" />
+        <BoundingMax X="2.137442" Y="11.174464" Z="23.401663" />
+        <BoundingCenter X="0.008066" Y="7.358182" Z="12.442602" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>cableway_cart</Name>
+        <File>dz\structures\specific\cableway\cableway_cart.p3d</File>
+        <Date>04/30/21 13:27:55</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1105089325</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.474771</BBRadius>
+        <BBHScale>1.218878</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.824362" Y="-0.423247" Z="-0.274592" />
+        <BoundingMax X="0.333013" Y="2.931261" Z="0.674949" />
+        <BoundingCenter X="-0.245674" Y="1.254007" Z="0.200179" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>cableway_cart2</Name>
+        <File>dz\structures\specific\cableway\cableway_cart2.p3d</File>
+        <Date>04/30/21 13:27:55</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1998358459</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.474771</BBRadius>
+        <BBHScale>1.218878</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.824362" Y="-0.423247" Z="-0.274592" />
+        <BoundingMax X="0.333013" Y="2.931261" Z="0.674949" />
+        <BoundingCenter X="-0.245674" Y="1.254007" Z="0.200179" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>cableway_cart3</Name>
+        <File>dz\structures\specific\cableway\cableway_cart3.p3d</File>
+        <Date>04/30/21 13:27:54</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1998358458</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.474771</BBRadius>
+        <BBHScale>1.354458</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.824362" Y="-0.423247" Z="-0.274592" />
+        <BoundingMax X="0.461752" Y="2.931261" Z="0.674949" />
+        <BoundingCenter X="-0.181305" Y="1.254007" Z="0.200179" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>cableway_rope</Name>
+        <File>dz\structures\specific\cableway\cableway_rope.p3d</File>
+        <Date>04/30/21 13:27:22</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>44525279</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.315039</BBRadius>
+        <BBHScale>11.681153</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="0.000000" Y="-0.012649" Z="-2.329948" />
+        <BoundingMax X="54.084656" Y="9.245349" Z="2.300130" />
+        <BoundingCenter X="27.042328" Y="4.616350" Z="-0.014909" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>cableway_tower</Name>
+        <File>dz\structures\specific\cableway\cableway_tower.p3d</File>
+        <Date>04/30/21 13:27:28</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1721992228</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.066792</BBRadius>
+        <BBHScale>1.115327</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.206487" Y="-0.698569" Z="-2.170770" />
+        <BoundingMax X="2.403811" Y="13.785225" Z="1.962813" />
+        <BoundingCenter X="0.098662" Y="6.543328" Z="-0.103978" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>cableway_tower_slope</Name>
+        <File>dz\structures\specific\cableway\cableway_tower_slope.p3d</File>
+        <Date>04/30/21 13:27:54</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>309893928</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.989413</BBRadius>
+        <BBHScale>1.131668</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.128566" Y="-0.691139" Z="-2.098615" />
+        <BoundingMax X="2.374147" Y="13.785225" Z="1.880212" />
+        <BoundingCenter X="0.122791" Y="6.547043" Z="-0.109202" />
+        <Placement></Placement>
+    </Template>
+</Library>

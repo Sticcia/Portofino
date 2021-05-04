@@ -1,0 +1,234 @@
+<?xml version="1.0" ?>
+<Library name="stores" shape="rectangle" default_fill="-32576" default_outline="-1" tex="0">
+    <Template>
+        <Name>city_stand_fastfood</Name>
+        <File>dz\structures\residential\stores\city_stand_fastfood.p3d</File>
+        <Date>04/30/21 13:26:47</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>84233303</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.798865</BBRadius>
+        <BBHScale>0.630273</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.834550" Y="-1.207976" Z="-2.327621" />
+        <BoundingMax X="3.214640" Y="4.746590" Z="7.270110" />
+        <BoundingCenter X="0.190045" Y="1.769307" Z="2.471245" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>city_stand_grocery</Name>
+        <File>dz\structures\residential\stores\city_stand_grocery.p3d</File>
+        <Date>04/30/21 13:26:26</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-727284848</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.798865</BBRadius>
+        <BBHScale>0.630273</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.834550" Y="-1.207976" Z="-2.327621" />
+        <BoundingMax X="3.214640" Y="4.746590" Z="7.270110" />
+        <BoundingCenter X="0.190045" Y="1.769307" Z="2.471245" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>city_stand_news1</Name>
+        <File>dz\structures\residential\stores\city_stand_news1.p3d</File>
+        <Date>04/30/21 13:26:38</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2105154209</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.798865</BBRadius>
+        <BBHScale>0.630273</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.834550" Y="-1.207976" Z="-2.327621" />
+        <BoundingMax X="3.214640" Y="4.746590" Z="7.270110" />
+        <BoundingCenter X="0.190045" Y="1.769307" Z="2.471245" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>city_stand_news2</Name>
+        <File>dz\structures\residential\stores\city_stand_news2.p3d</File>
+        <Date>04/30/21 13:26:25</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2105154210</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.646032</BBRadius>
+        <BBHScale>0.706145</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.575920" Y="-0.981889" Z="-1.321120" />
+        <BoundingMax X="2.573337" Y="4.142460" Z="5.970944" />
+        <BoundingCenter X="-0.001292" Y="1.580286" Z="2.324912" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>city_store</Name>
+        <File>dz\structures\residential\stores\city_store.p3d</File>
+        <Date>04/30/21 13:26:56</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1380155917</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.802141</BBRadius>
+        <BBHScale>1.392429</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-16.273800" Y="-2.950000" Z="-9.373381" />
+        <BoundingMax X="13.808630" Y="5.492889" Z="12.230902" />
+        <BoundingCenter X="-1.232585" Y="1.271444" Z="1.428761" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>city_store_withstairs</Name>
+        <File>dz\structures\residential\stores\city_store_withstairs.p3d</File>
+        <Date>04/30/21 13:25:53</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-801396286</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>11.629291</BBRadius>
+        <BBHScale>1.421681</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-19.115601" Y="-1.800000" Z="-9.373381" />
+        <BoundingMax X="13.950684" Y="6.630000" Z="13.885201" />
+        <BoundingCenter X="-2.582458" Y="2.415000" Z="2.255910" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>village_store</Name>
+        <File>dz\structures\residential\stores\village_store.p3d</File>
+        <Date>04/30/21 13:26:31</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-507183442</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.352085</BBRadius>
+        <BBHScale>0.769907</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.486810" Y="-0.746115" Z="-7.007811" />
+        <BoundingMax X="4.834040" Y="6.717731" Z="7.696360" />
+        <BoundingCenter X="-0.826385" Y="2.985808" Z="0.344275" />
+        <Placement></Placement>
+    </Template>
+</Library>

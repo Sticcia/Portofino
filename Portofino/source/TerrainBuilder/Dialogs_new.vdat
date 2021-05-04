@@ -3,7 +3,7 @@
 dtExportWRP
 P:\Portofino\Portofino.wrp
 dtImportObjects
-C:\Users\Davide Costa\AppData\Local\DayZ\Editor
+portofino\source\terrainprocessor
 dtImportShapes
 portofino\source\qgis\gtt_export
 dtObjectsExportTXT
@@ -13,7 +13,11 @@ portofino\source\qgis\gtt_export
 dtSatteliteNormalMapImport
 portofino\source\qgis\gtt_export
 dtShapesExportSHP
-P:\Portofino\source\TerrainProcessor\forest.shp
+P:\Portofino\source\TerrainProcessor\roads.shp
+dtTemplatesImportTML
+P:\Portofino\source\TerrainBuilder\TemplateLibs\industrial sheds.tml
+dtTerrainExport
+portofino\source\qgis\gtt_export
 dtTerrainHeightmapImportJPG
 portofino\source\qgis\gtt_export
 dtTerrainSurfaceImportJPG

@@ -1,0 +1,432 @@
+<?xml version="1.0" ?>
+<Library name="farms" shape="rectangle" default_fill="-8355712" default_outline="-1" tex="0">
+    <Template>
+        <Name>barn_brick1</Name>
+        <File>dz\structures\industrial\farms\barn_brick1.p3d</File>
+        <Date>04/30/21 13:24:08</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>135529460</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>12.330441</BBRadius>
+        <BBHScale>0.571439</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.961637" Y="-1.926377" Z="-12.296513" />
+        <BoundingMax X="7.130545" Y="12.203934" Z="12.364368" />
+        <BoundingCenter X="0.084454" Y="5.138778" Z="0.033928" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>barn_brick2</Name>
+        <File>dz\structures\industrial\farms\barn_brick2.p3d</File>
+        <Date>04/30/21 13:24:45</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>135529461</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.878229</BBRadius>
+        <BBHScale>0.580697</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.155420" Y="-2.015808" Z="-9.960630" />
+        <BoundingMax X="4.994304" Y="10.386274" Z="5.795828" />
+        <BoundingCenter X="0.419442" Y="4.185233" Z="-2.082401" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>barn_metal_big</Name>
+        <File>dz\structures\industrial\farms\barn_metal_big.p3d</File>
+        <Date>04/30/21 13:24:53</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-698171804</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>29.964283</BBRadius>
+        <BBHScale>0.689758</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-21.232563" Y="-4.751561" Z="-31.335464" />
+        <BoundingMax X="20.103649" Y="15.638706" Z="28.593102" />
+        <BoundingCenter X="-0.564457" Y="5.443573" Z="-1.371181" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>barn_metal_big_grey</Name>
+        <File>dz\structures\industrial\farms\barn_metal_big_grey.p3d</File>
+        <Date>04/30/21 13:24:32</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1558315622</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>29.964283</BBRadius>
+        <BBHScale>0.689758</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-21.232563" Y="-4.767632" Z="-31.335464" />
+        <BoundingMax X="20.103649" Y="15.638705" Z="28.593102" />
+        <BoundingCenter X="-0.564457" Y="5.435536" Z="-1.371181" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>barn_wood1</Name>
+        <File>dz\structures\industrial\farms\barn_wood1.p3d</File>
+        <Date>04/30/21 13:24:13</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1255894688</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>27.584263</BBRadius>
+        <BBHScale>0.326793</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-9.174776" Y="-2.267840" Z="-27.506203" />
+        <BoundingMax X="8.853888" Y="8.596161" Z="27.662323" />
+        <BoundingCenter X="-0.160444" Y="3.164160" Z="0.078060" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>barn_wood2</Name>
+        <File>dz\structures\industrial\farms\barn_wood2.p3d</File>
+        <Date>04/30/21 13:24:47</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1255894687</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>13.049150</BBRadius>
+        <BBHScale>0.541988</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.590820" Y="-1.656550" Z="-13.052401" />
+        <BoundingMax X="7.554144" Y="7.882110" Z="13.045900" />
+        <BoundingCenter X="0.481662" Y="3.112780" Z="-0.003250" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>farm_cowsheda</Name>
+        <File>dz\structures\industrial\farms\farm_cowsheda.p3d</File>
+        <Date>04/30/21 13:24:48</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-715001749</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.635209</BBRadius>
+        <BBHScale>1.516697</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="0.070634" Y="-1.916230" Z="-9.660555" />
+        <BoundingMax X="26.264627" Y="8.208130" Z="7.609863" />
+        <BoundingCenter X="13.167631" Y="3.145950" Z="-1.025346" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>farm_cowshedb</Name>
+        <File>dz\structures\industrial\farms\farm_cowshedb.p3d</File>
+        <Date>04/30/21 13:24:34</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-715001748</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.904370</BBRadius>
+        <BBHScale>2.751446</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-19.887917" Y="-1.916230" Z="-5.586260" />
+        <BoundingMax X="7.100300" Y="8.285070" Z="4.222481" />
+        <BoundingCenter X="-6.393808" Y="3.184420" Z="-0.681890" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>farm_cowshedc</Name>
+        <File>dz\structures\industrial\farms\farm_cowshedc.p3d</File>
+        <Date>04/30/21 13:24:14</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-715001747</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.347461</BBRadius>
+        <BBHScale>1.334512</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-28.628902" Y="-1.900000" Z="-5.519090" />
+        <BoundingMax X="-14.356401" Y="8.334556" Z="5.175831" />
+        <BoundingCenter X="-21.492653" Y="3.217278" Z="-0.171629" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>farm_hopper</Name>
+        <File>dz\structures\industrial\farms\farm_hopper.p3d</File>
+        <Date>04/30/21 13:24:34</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>79376445</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.007761</BBRadius>
+        <BBHScale>1.122730</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.007756" Y="-1.553270" Z="-1.997926" />
+        <BoundingMax X="2.500592" Y="14.365790" Z="2.017596" />
+        <BoundingCenter X="0.246418" Y="6.406260" Z="0.009835" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>farm_strawstack</Name>
+        <File>dz\structures\industrial\farms\farm_strawstack.p3d</File>
+        <Date>04/30/21 13:24:14</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2063667338</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.639860</BBRadius>
+        <BBHScale>2.237352</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-10.465200" Y="-0.898855" Z="-4.671230" />
+        <BoundingMax X="10.296801" Y="3.846030" Z="4.608490" />
+        <BoundingCenter X="-0.084200" Y="1.473588" Z="-0.031370" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>farm_watertower</Name>
+        <File>dz\structures\industrial\farms\farm_watertower.p3d</File>
+        <Date>04/30/21 13:24:34</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>730191771</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.354893</BBRadius>
+        <BBHScale>0.894529</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-9.262274" Y="-1.002541" Z="-10.416744" />
+        <BoundingMax X="9.263237" Y="33.322968" Z="10.293041" />
+        <BoundingCenter X="0.000482" Y="16.160213" Z="-0.061852" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>farm_watertower_small</Name>
+        <File>dz\structures\industrial\farms\farm_watertower_small.p3d</File>
+        <Date>04/30/21 13:24:44</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>193945379</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.384065</BBRadius>
+        <BBHScale>0.625121</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.994050" Y="-0.113898" Z="-1.994050" />
+        <BoundingMax X="2.236847" Y="10.969600" Z="4.774080" />
+        <BoundingCenter X="0.121398" Y="5.427851" Z="1.390015" />
+        <Placement></Placement>
+    </Template>
+</Library>

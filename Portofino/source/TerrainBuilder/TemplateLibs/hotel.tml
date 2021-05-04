@@ -1,0 +1,234 @@
+<?xml version="1.0" ?>
+<Library name="hotel" shape="rectangle" default_fill="-16744193" default_outline="-1" tex="0">
+    <Template>
+        <Name>hotel</Name>
+        <File>dz\structures\specific\hotel\hotel.p3d</File>
+        <Date>04/30/21 13:27:34</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-33604876</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>15.393071</BBRadius>
+        <BBHScale>1.257265</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-16.370901" Y="-10.255178" Z="-20.302408" />
+        <BoundingMax X="22.335436" Y="43.830570" Z="10.483734" />
+        <BoundingCenter X="2.982267" Y="16.787697" Z="-4.909337" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>hotel_damaged</Name>
+        <File>dz\structures\specific\hotel\hotel_damaged.p3d</File>
+        <Date>04/30/21 13:27:33</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1668141558</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>15.393080</BBRadius>
+        <BBHScale>1.266437</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-16.653301" Y="-1.201410" Z="-20.302408" />
+        <BoundingMax X="22.335438" Y="43.924301" Z="10.483751" />
+        <BoundingCenter X="2.841068" Y="21.361446" Z="-4.909328" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>hotel_damaged_airplane_back</Name>
+        <File>dz\structures\specific\hotel\hotel_damaged_airplane_back.p3d</File>
+        <Date>04/30/21 13:27:54</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2093820511</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.939684</BBRadius>
+        <BBHScale>0.891032</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.959008" Y="-0.419029" Z="-9.060149" />
+        <BoundingMax X="8.190021" Y="7.323270" Z="6.819218" />
+        <BoundingCenter X="1.115506" Y="3.452121" Z="-1.120466" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>hotel_damaged_airplane_wing</Name>
+        <File>dz\structures\specific\hotel\hotel_damaged_airplane_wing.p3d</File>
+        <Date>04/30/21 13:27:40</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1373096131</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.385815</BBRadius>
+        <BBHScale>1.081364</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-7.506683" Y="-0.443233" Z="-6.191499" />
+        <BoundingMax X="6.304100" Y="2.862500" Z="6.580131" />
+        <BoundingCenter X="-0.601292" Y="1.209634" Z="0.194316" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>hotel_damaged_decal1</Name>
+        <File>dz\structures\specific\hotel\hotel_damaged_decal1.p3d</File>
+        <Date>04/30/21 13:27:49</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1835528665</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>44.693104</BBRadius>
+        <BBHScale>0.702158</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-22.880402" Y="0.011075" Z="-30.565601" />
+        <BoundingMax X="39.882801" Y="0.011075" Z="58.820606" />
+        <BoundingCenter X="8.501200" Y="0.011075" Z="14.127502" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>hotel_damaged_decal2</Name>
+        <File>dz\structures\specific\hotel\hotel_damaged_decal2.p3d</File>
+        <Date>04/30/21 13:27:48</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1835528666</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>62.239067</BBRadius>
+        <BBHScale>0.452824</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-28.183359" Y="-0.000003" Z="-62.239067" />
+        <BoundingMax X="28.183359" Y="0.000003" Z="62.239067" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>hotel_damaged_rubble</Name>
+        <File>dz\structures\specific\hotel\hotel_damaged_rubble.p3d</File>
+        <Date>04/30/21 13:27:40</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1265470895</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>21.733400</BBRadius>
+        <BBHScale>0.716132</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-32.127403" Y="-0.478960" Z="-21.174700" />
+        <BoundingMax X="-0.999449" Y="9.003680" Z="22.292101" />
+        <BoundingCenter X="-16.563427" Y="4.262360" Z="0.558701" />
+        <Placement></Placement>
+    </Template>
+</Library>

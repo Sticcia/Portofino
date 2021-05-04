@@ -1,0 +1,102 @@
+<?xml version="1.0" ?>
+<Library name="rail houses" shape="rectangle" default_fill="-8388608" default_outline="-1" tex="0">
+    <Template>
+        <Name>rail_station_big</Name>
+        <File>dz\structures\rail\houses\rail_station_big.p3d</File>
+        <Date>04/30/21 13:25:52</Date>
+        <Archive></Archive>
+        <Fill>-8388608</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>938556584</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.893089</BBRadius>
+        <BBHScale>1.782661</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-12.324000" Y="-0.779645" Z="-7.614524" />
+        <BoundingMax X="15.817401" Y="11.060300" Z="8.171654" />
+        <BoundingCenter X="1.746700" Y="5.140327" Z="0.278565" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>rail_station_small</Name>
+        <File>dz\structures\rail\houses\rail_station_small.p3d</File>
+        <Date>04/30/21 13:25:50</Date>
+        <Archive></Archive>
+        <Fill>-8388608</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1746057391</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.927907</BBRadius>
+        <BBHScale>1.837686</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.774082" Y="-3.162470" Z="-3.873500" />
+        <BoundingMax X="9.337807" Y="6.407530" Z="5.982314" />
+        <BoundingCenter X="0.281862" Y="1.622530" Z="1.054407" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>rail_warehouse_small</Name>
+        <File>dz\structures\rail\houses\rail_warehouse_small.p3d</File>
+        <Date>04/30/21 13:25:49</Date>
+        <Archive></Archive>
+        <Fill>-8388608</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>608801694</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.230620</BBRadius>
+        <BBHScale>2.170292</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-9.334170" Y="-0.890626" Z="-4.230620" />
+        <BoundingMax X="9.029191" Y="5.975471" Z="4.230620" />
+        <BoundingCenter X="-0.152490" Y="2.542422" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+</Library>

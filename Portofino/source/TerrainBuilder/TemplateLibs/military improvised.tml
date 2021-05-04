@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
-<Library name="military improvised" shape="rectangle" default_fill="-8355776" default_outline="-1" tex="0">
+<Library name="military improvised" shape="rectangle" default_fill="-32704" default_outline="-1" tex="0">
     <Template>
         <Name>hbarrier_1m</Name>
-        <File>dz\structures\military\improvised\proxy\hbarrier_1m.p3d</File>
-        <Date>04/30/21 13:25:05</Date>
+        <File>dz\structures\military\improvised\hbarrier_1m.p3d</File>
+        <Date>04/30/21 13:25:33</Date>
         <Archive></Archive>
-        <Fill>-8355776</Fill>
+        <Fill>-32704</Fill>
         <Outline>-1</Outline>
         <Scale>1.000000</Scale>
         <Hash>1451316236</Hash>
@@ -21,321 +21,24 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>1.328930</BBRadius>
-        <BBHScale>0.863966</BBHScale>
+        <BBRadius>1.269060</BBRadius>
+        <BBHScale>0.897854</BBHScale>
         <AutoCenter>1</AutoCenter>
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-1.156870" Y="-0.261373" Z="-1.325280" />
-        <BoundingMax X="1.139430" Y="1.476560" Z="1.332580" />
-        <BoundingCenter X="-0.008720" Y="0.607594" Z="0.003650" />
-        <Placement></Placement>
-    </Template>
-    <Template>
-        <Name>tent_big1</Name>
-        <File>DZ\structures\military\improvised\proxy\tent_big1.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
-        <Archive></Archive>
-        <Fill>-8355776</Fill>
-        <Outline>-1</Outline>
-        <Scale>1.000000</Scale>
-        <Hash>1218602169</Hash>
-        <ScaleRandMin>0.000000</ScaleRandMin>
-        <ScaleRandMax>0.000000</ScaleRandMax>
-        <YawRandMin>0.000000</YawRandMin>
-        <YawRandMax>0.000000</YawRandMax>
-        <PitchRandMin>0.000000</PitchRandMin>
-        <PitchRandMax>0.000000</PitchRandMax>
-        <RollRandMin>0.000000</RollRandMin>
-        <RollRandMax>0.000000</RollRandMax>
-        <TexLLU>0.000000</TexLLU>
-        <TexLLV>0.000000</TexLLV>
-        <TexURU>1.000000</TexURU>
-        <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <Placement></Placement>
-    </Template>
-    <Template>
-        <Name>tent_big2</Name>
-        <File>DZ\structures\military\improvised\proxy\tent_big2.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
-        <Archive></Archive>
-        <Fill>-8355776</Fill>
-        <Outline>-1</Outline>
-        <Scale>1.000000</Scale>
-        <Hash>1218602170</Hash>
-        <ScaleRandMin>0.000000</ScaleRandMin>
-        <ScaleRandMax>0.000000</ScaleRandMax>
-        <YawRandMin>0.000000</YawRandMin>
-        <YawRandMax>0.000000</YawRandMax>
-        <PitchRandMin>0.000000</PitchRandMin>
-        <PitchRandMax>0.000000</PitchRandMax>
-        <RollRandMin>0.000000</RollRandMin>
-        <RollRandMax>0.000000</RollRandMax>
-        <TexLLU>0.000000</TexLLU>
-        <TexLLV>0.000000</TexLLV>
-        <TexURU>1.000000</TexURU>
-        <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <Placement></Placement>
-    </Template>
-    <Template>
-        <Name>tent_boxwooden</Name>
-        <File>DZ\structures\military\improvised\proxy\tent_boxwooden.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
-        <Archive></Archive>
-        <Fill>-8355776</Fill>
-        <Outline>-1</Outline>
-        <Scale>1.000000</Scale>
-        <Hash>-1964484935</Hash>
-        <ScaleRandMin>0.000000</ScaleRandMin>
-        <ScaleRandMax>0.000000</ScaleRandMax>
-        <YawRandMin>0.000000</YawRandMin>
-        <YawRandMax>0.000000</YawRandMax>
-        <PitchRandMin>0.000000</PitchRandMin>
-        <PitchRandMax>0.000000</PitchRandMax>
-        <RollRandMin>0.000000</RollRandMin>
-        <RollRandMax>0.000000</RollRandMax>
-        <TexLLU>0.000000</TexLLU>
-        <TexLLV>0.000000</TexLLV>
-        <TexURU>1.000000</TexURU>
-        <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <Placement></Placement>
-    </Template>
-    <Template>
-        <Name>tent_chair</Name>
-        <File>DZ\structures\military\improvised\proxy\tent_chair.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
-        <Archive></Archive>
-        <Fill>-8355776</Fill>
-        <Outline>-1</Outline>
-        <Scale>1.000000</Scale>
-        <Hash>1465452797</Hash>
-        <ScaleRandMin>0.000000</ScaleRandMin>
-        <ScaleRandMax>0.000000</ScaleRandMax>
-        <YawRandMin>0.000000</YawRandMin>
-        <YawRandMax>0.000000</YawRandMax>
-        <PitchRandMin>0.000000</PitchRandMin>
-        <PitchRandMax>0.000000</PitchRandMax>
-        <RollRandMin>0.000000</RollRandMin>
-        <RollRandMax>0.000000</RollRandMax>
-        <TexLLU>0.000000</TexLLU>
-        <TexLLV>0.000000</TexLLV>
-        <TexURU>1.000000</TexURU>
-        <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <Placement></Placement>
-    </Template>
-    <Template>
-        <Name>tent_gunrack</Name>
-        <File>DZ\structures\military\improvised\proxy\tent_gunrack.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
-        <Archive></Archive>
-        <Fill>-8355776</Fill>
-        <Outline>-1</Outline>
-        <Scale>1.000000</Scale>
-        <Hash>781795247</Hash>
-        <ScaleRandMin>0.000000</ScaleRandMin>
-        <ScaleRandMax>0.000000</ScaleRandMax>
-        <YawRandMin>0.000000</YawRandMin>
-        <YawRandMax>0.000000</YawRandMax>
-        <PitchRandMin>0.000000</PitchRandMin>
-        <PitchRandMax>0.000000</PitchRandMax>
-        <RollRandMin>0.000000</RollRandMin>
-        <RollRandMax>0.000000</RollRandMax>
-        <TexLLU>0.000000</TexLLU>
-        <TexLLV>0.000000</TexLLV>
-        <TexURU>1.000000</TexURU>
-        <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <Placement></Placement>
-    </Template>
-    <Template>
-        <Name>tent_ltable</Name>
-        <File>DZ\structures\military\improvised\proxy\tent_ltable.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
-        <Archive></Archive>
-        <Fill>-8355776</Fill>
-        <Outline>-1</Outline>
-        <Scale>1.000000</Scale>
-        <Hash>2064754666</Hash>
-        <ScaleRandMin>0.000000</ScaleRandMin>
-        <ScaleRandMax>0.000000</ScaleRandMax>
-        <YawRandMin>0.000000</YawRandMin>
-        <YawRandMax>0.000000</YawRandMax>
-        <PitchRandMin>0.000000</PitchRandMin>
-        <PitchRandMax>0.000000</PitchRandMax>
-        <RollRandMin>0.000000</RollRandMin>
-        <RollRandMax>0.000000</RollRandMax>
-        <TexLLU>0.000000</TexLLU>
-        <TexLLV>0.000000</TexLLV>
-        <TexURU>1.000000</TexURU>
-        <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <Placement></Placement>
-    </Template>
-    <Template>
-        <Name>tent_pallets</Name>
-        <File>DZ\structures\military\improvised\proxy\tent_pallets.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
-        <Archive></Archive>
-        <Fill>-8355776</Fill>
-        <Outline>-1</Outline>
-        <Scale>1.000000</Scale>
-        <Hash>1571531019</Hash>
-        <ScaleRandMin>0.000000</ScaleRandMin>
-        <ScaleRandMax>0.000000</ScaleRandMax>
-        <YawRandMin>0.000000</YawRandMin>
-        <YawRandMax>0.000000</YawRandMax>
-        <PitchRandMin>0.000000</PitchRandMin>
-        <PitchRandMax>0.000000</PitchRandMax>
-        <RollRandMin>0.000000</RollRandMin>
-        <RollRandMax>0.000000</RollRandMax>
-        <TexLLU>0.000000</TexLLU>
-        <TexLLV>0.000000</TexLLV>
-        <TexURU>1.000000</TexURU>
-        <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <Placement></Placement>
-    </Template>
-    <Template>
-        <Name>tent_stretcher</Name>
-        <File>DZ\structures\military\improvised\proxy\tent_stretcher.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
-        <Archive></Archive>
-        <Fill>-8355776</Fill>
-        <Outline>-1</Outline>
-        <Scale>1.000000</Scale>
-        <Hash>1377456170</Hash>
-        <ScaleRandMin>0.000000</ScaleRandMin>
-        <ScaleRandMax>0.000000</ScaleRandMax>
-        <YawRandMin>0.000000</YawRandMin>
-        <YawRandMax>0.000000</YawRandMax>
-        <PitchRandMin>0.000000</PitchRandMin>
-        <PitchRandMax>0.000000</PitchRandMax>
-        <RollRandMin>0.000000</RollRandMin>
-        <RollRandMax>0.000000</RollRandMax>
-        <TexLLU>0.000000</TexLLU>
-        <TexLLV>0.000000</TexLLV>
-        <TexURU>1.000000</TexURU>
-        <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <Placement></Placement>
-    </Template>
-    <Template>
-        <Name>tent_table</Name>
-        <File>DZ\structures\military\improvised\proxy\tent_table.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
-        <Archive></Archive>
-        <Fill>-8355776</Fill>
-        <Outline>-1</Outline>
-        <Scale>1.000000</Scale>
-        <Hash>-1797475578</Hash>
-        <ScaleRandMin>0.000000</ScaleRandMin>
-        <ScaleRandMax>0.000000</ScaleRandMax>
-        <YawRandMin>0.000000</YawRandMin>
-        <YawRandMax>0.000000</YawRandMax>
-        <PitchRandMin>0.000000</PitchRandMin>
-        <PitchRandMax>0.000000</PitchRandMax>
-        <RollRandMin>0.000000</RollRandMin>
-        <RollRandMax>0.000000</RollRandMax>
-        <TexLLU>0.000000</TexLLU>
-        <TexLLV>0.000000</TexLLV>
-        <TexURU>1.000000</TexURU>
-        <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-1.139430" Y="-0.261373" Z="-1.240430" />
+        <BoundingMax X="1.139430" Y="1.476560" Z="1.297690" />
+        <BoundingCenter X="0.000000" Y="0.607594" Z="0.028630" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>hbarrier_4m</Name>
-        <File>DZ\structures\military\improvised\hbarrier_4m.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\military\improvised\hbarrier_4m.p3d</File>
+        <Date>04/30/21 13:25:38</Date>
         <Archive></Archive>
-        <Fill>-8355776</Fill>
+        <Fill>-32704</Fill>
         <Outline>-1</Outline>
         <Scale>1.000000</Scale>
         <Hash>1451513033</Hash>
@@ -351,24 +54,24 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>1.290385</BBRadius>
+        <BBHScale>1.825844</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-1.199348" Y="-0.269112" Z="-1.253820" />
+        <BoundingMax X="3.512736" Y="1.387810" Z="1.326950" />
+        <BoundingCenter X="1.156694" Y="0.559349" Z="0.036565" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>hbarrier_6m</Name>
-        <File>DZ\structures\military\improvised\hbarrier_6m.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\military\improvised\hbarrier_6m.p3d</File>
+        <Date>04/30/21 13:25:05</Date>
         <Archive></Archive>
-        <Fill>-8355776</Fill>
+        <Fill>-32704</Fill>
         <Outline>-1</Outline>
         <Scale>1.000000</Scale>
         <Hash>1451644231</Hash>
@@ -384,24 +87,24 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>1.330215</BBRadius>
+        <BBHScale>2.576663</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-1.166220" Y="-0.288869" Z="-1.287710" />
+        <BoundingMax X="5.688810" Y="1.547500" Z="1.372720" />
+        <BoundingCenter X="2.261295" Y="0.629315" Z="0.042505" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>hbarrier_big</Name>
-        <File>DZ\structures\military\improvised\hbarrier_big.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\military\improvised\hbarrier_big.p3d</File>
+        <Date>04/30/21 13:25:10</Date>
         <Archive></Archive>
-        <Fill>-8355776</Fill>
+        <Fill>-32704</Fill>
         <Outline>-1</Outline>
         <Scale>1.000000</Scale>
         <Hash>-1241733616</Hash>
@@ -417,24 +120,24 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>2.076800</BBRadius>
+        <BBHScale>2.500798</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-5.181001" Y="-0.398064" Z="-2.020750" />
+        <BoundingMax X="5.206315" Y="2.540760" Z="2.132850" />
+        <BoundingCenter X="0.012657" Y="1.071348" Z="0.056050" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>hbarrier_round</Name>
-        <File>DZ\structures\military\improvised\hbarrier_round.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\military\improvised\hbarrier_round.p3d</File>
+        <Date>04/30/21 13:25:07</Date>
         <Archive></Archive>
-        <Fill>-8355776</Fill>
+        <Fill>-32704</Fill>
         <Outline>-1</Outline>
         <Scale>1.000000</Scale>
         <Hash>-1691588834</Hash>
@@ -450,24 +153,24 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>1.761467</BBRadius>
+        <BBHScale>1.934923</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-1.144489" Y="-0.295170" Z="-1.547890" />
+        <BoundingMax X="5.672117" Y="1.547500" Z="1.975045" />
+        <BoundingCenter X="2.263814" Y="0.626165" Z="0.213578" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>mil_artilery_rampart</Name>
-        <File>DZ\structures\military\improvised\mil_artilery_rampart.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\military\improvised\mil_artilery_rampart.p3d</File>
+        <Date>04/30/21 13:25:10</Date>
         <Archive></Archive>
-        <Fill>-8355776</Fill>
+        <Fill>-32704</Fill>
         <Outline>-1</Outline>
         <Scale>1.000000</Scale>
         <Hash>-243025529</Hash>
@@ -483,24 +186,24 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>3.631615</BBRadius>
+        <BBHScale>1.913485</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-6.949040" Y="-1.272210" Z="-5.857080" />
+        <BoundingMax X="6.949040" Y="1.552110" Z="1.406150" />
+        <BoundingCenter X="0.000000" Y="0.139950" Z="-2.225465" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>mil_artillery_nest</Name>
-        <File>DZ\structures\military\improvised\mil_artillery_nest.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\military\improvised\mil_artillery_nest.p3d</File>
+        <Date>04/30/21 13:25:29</Date>
         <Archive></Archive>
-        <Fill>-8355776</Fill>
+        <Fill>-32704</Fill>
         <Outline>-1</Outline>
         <Scale>1.000000</Scale>
         <Hash>-475093216</Hash>
@@ -516,24 +219,24 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>10.998425</BBRadius>
+        <BBHScale>1.302496</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-14.325401" Y="-1.272210" Z="-14.359800" />
+        <BoundingMax X="14.325401" Y="1.642550" Z="7.637051" />
+        <BoundingCenter X="0.000000" Y="0.185170" Z="-3.361375" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>mil_camonet_big_east</Name>
-        <File>DZ\structures\military\improvised\mil_camonet_big_east.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\military\improvised\mil_camonet_big_east.p3d</File>
+        <Date>04/30/21 13:25:37</Date>
         <Archive></Archive>
-        <Fill>-8355776</Fill>
+        <Fill>-32704</Fill>
         <Outline>-1</Outline>
         <Scale>1.000000</Scale>
         <Hash>-1786310195</Hash>
@@ -549,24 +252,24 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>8.421951</BBRadius>
+        <BBHScale>1.168232</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-9.793555" Y="-1.825782" Z="-8.157540" />
+        <BoundingMax X="9.884030" Y="5.965656" Z="8.686362" />
+        <BoundingCenter X="0.045238" Y="2.069937" Z="0.264411" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>mil_camonet_big_nato</Name>
-        <File>DZ\structures\military\improvised\mil_camonet_big_nato.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\military\improvised\mil_camonet_big_nato.p3d</File>
+        <Date>04/30/21 13:25:40</Date>
         <Archive></Archive>
-        <Fill>-8355776</Fill>
+        <Fill>-32704</Fill>
         <Outline>-1</Outline>
         <Scale>1.000000</Scale>
         <Hash>944072894</Hash>
@@ -582,24 +285,24 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>8.421951</BBRadius>
+        <BBHScale>1.168232</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-9.793555" Y="-1.825782" Z="-8.157540" />
+        <BoundingMax X="9.884030" Y="5.965656" Z="8.686362" />
+        <BoundingCenter X="0.045238" Y="2.069937" Z="0.264411" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>mil_camonet_roof_east</Name>
-        <File>DZ\structures\military\improvised\mil_camonet_roof_east.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\military\improvised\mil_camonet_roof_east.p3d</File>
+        <Date>04/30/21 13:25:42</Date>
         <Archive></Archive>
-        <Fill>-8355776</Fill>
+        <Fill>-32704</Fill>
         <Outline>-1</Outline>
         <Scale>1.000000</Scale>
         <Hash>1213299415</Hash>
@@ -615,24 +318,24 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>5.889915</BBRadius>
+        <BBHScale>1.831750</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-10.887644" Y="-1.670731" Z="-5.277260" />
+        <BoundingMax X="10.690058" Y="3.916077" Z="6.502570" />
+        <BoundingCenter X="-0.098793" Y="1.122673" Z="0.612655" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>mil_camonet_roof_nato</Name>
-        <File>DZ\structures\military\improvised\mil_camonet_roof_nato.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\military\improvised\mil_camonet_roof_nato.p3d</File>
+        <Date>04/30/21 13:25:01</Date>
         <Archive></Archive>
-        <Fill>-8355776</Fill>
+        <Fill>-32704</Fill>
         <Outline>-1</Outline>
         <Scale>1.000000</Scale>
         <Hash>-351284792</Hash>
@@ -648,24 +351,24 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>5.889915</BBRadius>
+        <BBHScale>1.831750</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-10.887644" Y="-1.670731" Z="-5.277260" />
+        <BoundingMax X="10.690058" Y="3.916077" Z="6.502570" />
+        <BoundingCenter X="-0.098793" Y="1.122673" Z="0.612655" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>mil_camonet_side_east</Name>
-        <File>DZ\structures\military\improvised\mil_camonet_side_east.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\military\improvised\mil_camonet_side_east.p3d</File>
+        <Date>04/30/21 13:25:19</Date>
         <Archive></Archive>
-        <Fill>-8355776</Fill>
+        <Fill>-32704</Fill>
         <Outline>-1</Outline>
         <Scale>1.000000</Scale>
         <Hash>-17011308</Hash>
@@ -681,24 +384,24 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>4.174169</BBRadius>
+        <BBHScale>1.747126</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-7.268628" Y="-1.486329" Z="-4.373613" />
+        <BoundingMax X="7.316974" Y="3.997579" Z="3.974725" />
+        <BoundingCenter X="0.024173" Y="1.255625" Z="-0.199444" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>mil_camonet_side_nato</Name>
-        <File>DZ\structures\military\improvised\mil_camonet_side_nato.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\military\improvised\mil_camonet_side_nato.p3d</File>
+        <Date>04/30/21 13:25:18</Date>
         <Archive></Archive>
-        <Fill>-8355776</Fill>
+        <Fill>-32704</Fill>
         <Outline>-1</Outline>
         <Scale>1.000000</Scale>
         <Hash>-1581595515</Hash>
@@ -714,24 +417,24 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>4.174169</BBRadius>
+        <BBHScale>1.747126</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-7.268628" Y="-1.486329" Z="-4.373613" />
+        <BoundingMax X="7.316974" Y="3.997579" Z="3.974725" />
+        <BoundingCenter X="0.024173" Y="1.255625" Z="-0.199444" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>mil_camonet_tent2</Name>
-        <File>DZ\structures\military\improvised\mil_camonet_tent2.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\military\improvised\mil_camonet_tent2.p3d</File>
+        <Date>04/30/21 13:25:18</Date>
         <Archive></Archive>
-        <Fill>-8355776</Fill>
+        <Fill>-32704</Fill>
         <Outline>-1</Outline>
         <Scale>1.000000</Scale>
         <Hash>-1300117718</Hash>
@@ -747,24 +450,24 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>7.504175</BBRadius>
+        <BBHScale>0.773251</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-5.129701" Y="-1.324481" Z="-5.720750" />
+        <BoundingMax X="6.475520" Y="4.536201" Z="9.287601" />
+        <BoundingCenter X="0.672910" Y="1.605860" Z="1.783425" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>mil_fortified_nest_big</Name>
-        <File>DZ\structures\military\improvised\mil_fortified_nest_big.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\military\improvised\mil_fortified_nest_big.p3d</File>
+        <Date>04/30/21 13:25:01</Date>
         <Archive></Archive>
-        <Fill>-8355776</Fill>
+        <Fill>-32704</Fill>
         <Outline>-1</Outline>
         <Scale>1.000000</Scale>
         <Hash>1051885415</Hash>
@@ -780,24 +483,24 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>5.509965</BBRadius>
+        <BBHScale>1.002663</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-5.062472" Y="-0.910647" Z="-3.358610" />
+        <BoundingMax X="5.986810" Y="2.906390" Z="7.661321" />
+        <BoundingCenter X="0.462169" Y="0.997871" Z="2.151355" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>mil_fortified_nest_small</Name>
-        <File>DZ\structures\military\improvised\mil_fortified_nest_small.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\military\improvised\mil_fortified_nest_small.p3d</File>
+        <Date>04/30/21 13:25:20</Date>
         <Archive></Archive>
-        <Fill>-8355776</Fill>
+        <Fill>-32704</Fill>
         <Outline>-1</Outline>
         <Scale>1.000000</Scale>
         <Hash>-60781586</Hash>
@@ -813,24 +516,24 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>2.291560</BBRadius>
+        <BBHScale>1.091248</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-1.959550" Y="-0.301196" Z="-2.228240" />
+        <BoundingMax X="3.041770" Y="2.269601" Z="2.354880" />
+        <BoundingCenter X="0.541110" Y="0.984203" Z="0.063320" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>mil_fortified_nest_watchtower</Name>
-        <File>DZ\structures\military\improvised\mil_fortified_nest_watchtower.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\military\improvised\mil_fortified_nest_watchtower.p3d</File>
+        <Date>04/30/21 13:25:44</Date>
         <Archive></Archive>
-        <Fill>-8355776</Fill>
+        <Fill>-32704</Fill>
         <Outline>-1</Outline>
         <Scale>1.000000</Scale>
         <Hash>2055202227</Hash>
@@ -846,24 +549,24 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>5.230115</BBRadius>
+        <BBHScale>0.666881</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-3.344980" Y="-0.910647" Z="-4.542580" />
+        <BoundingMax X="3.630750" Y="5.047960" Z="5.917650" />
+        <BoundingCenter X="0.142885" Y="2.068656" Z="0.687535" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>mil_guardshed</Name>
-        <File>DZ\structures\military\improvised\mil_guardshed.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\military\improvised\mil_guardshed.p3d</File>
+        <Date>04/30/21 13:25:37</Date>
         <Archive></Archive>
-        <Fill>-8355776</Fill>
+        <Fill>-32704</Fill>
         <Outline>-1</Outline>
         <Scale>1.000000</Scale>
         <Hash>-1394215670</Hash>
@@ -879,24 +582,24 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>1.031430</BBRadius>
+        <BBHScale>1.387966</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-1.431590" Y="-1.328990" Z="-1.026870" />
+        <BoundingMax X="1.431590" Y="2.703379" Z="1.035990" />
+        <BoundingCenter X="0.000000" Y="0.687194" Z="0.004560" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>mil_tent_big1_1</Name>
-        <File>DZ\structures\military\improvised\mil_tent_big1_1.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\military\improvised\mil_tent_big1_1.p3d</File>
+        <Date>04/30/21 13:25:41</Date>
         <Archive></Archive>
-        <Fill>-8355776</Fill>
+        <Fill>-32704</Fill>
         <Outline>-1</Outline>
         <Scale>1.000000</Scale>
         <Hash>862144732</Hash>
@@ -912,24 +615,24 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
+        <BBRadius>3.852240</BBRadius>
+        <BBHScale>0.802236</BBHScale>
         <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-3.090410" Y="-0.049045" Z="-3.850210" />
+        <BoundingMax X="3.090400" Y="3.249101" Z="3.854270" />
+        <BoundingCenter X="-0.000005" Y="1.600028" Z="0.002030" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>mil_tent_big1_2</Name>
-        <File>DZ\structures\military\improvised\mil_tent_big1_2.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\military\improvised\mil_tent_big1_2.p3d</File>
+        <Date>04/30/21 13:25:40</Date>
         <Archive></Archive>
-        <Fill>-8355776</Fill>
+        <Fill>-32704</Fill>
         <Outline>-1</Outline>
         <Scale>1.000000</Scale>
         <Hash>862144733</Hash>
@@ -945,24 +648,24 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
+        <BBRadius>3.852240</BBRadius>
+        <BBHScale>0.802236</BBHScale>
         <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-3.090410" Y="-0.049045" Z="-3.850210" />
+        <BoundingMax X="3.090400" Y="3.249101" Z="3.854270" />
+        <BoundingCenter X="-0.000005" Y="1.600028" Z="0.002030" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>mil_tent_big1_3</Name>
-        <File>DZ\structures\military\improvised\mil_tent_big1_3.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\military\improvised\mil_tent_big1_3.p3d</File>
+        <Date>04/30/21 13:25:39</Date>
         <Archive></Archive>
-        <Fill>-8355776</Fill>
+        <Fill>-32704</Fill>
         <Outline>-1</Outline>
         <Scale>1.000000</Scale>
         <Hash>862144734</Hash>
@@ -978,24 +681,24 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
+        <BBRadius>3.852240</BBRadius>
+        <BBHScale>0.802236</BBHScale>
         <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-3.090410" Y="-0.049045" Z="-3.850210" />
+        <BoundingMax X="3.090400" Y="3.249101" Z="3.854270" />
+        <BoundingCenter X="-0.000005" Y="1.600028" Z="0.002030" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>mil_tent_big1_4</Name>
-        <File>DZ\structures\military\improvised\mil_tent_big1_4.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\military\improvised\mil_tent_big1_4.p3d</File>
+        <Date>04/30/21 13:25:37</Date>
         <Archive></Archive>
-        <Fill>-8355776</Fill>
+        <Fill>-32704</Fill>
         <Outline>-1</Outline>
         <Scale>1.000000</Scale>
         <Hash>862144735</Hash>
@@ -1011,24 +714,24 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
+        <BBRadius>3.852240</BBRadius>
+        <BBHScale>0.802236</BBHScale>
         <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-3.090410" Y="-0.049045" Z="-3.850210" />
+        <BoundingMax X="3.090400" Y="3.249101" Z="3.854270" />
+        <BoundingCenter X="-0.000005" Y="1.600028" Z="0.002030" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>mil_tent_big1_5</Name>
-        <File>DZ\structures\military\improvised\mil_tent_big1_5.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\military\improvised\mil_tent_big1_5.p3d</File>
+        <Date>04/30/21 13:25:35</Date>
         <Archive></Archive>
-        <Fill>-8355776</Fill>
+        <Fill>-32704</Fill>
         <Outline>-1</Outline>
         <Scale>1.000000</Scale>
         <Hash>862144736</Hash>
@@ -1044,24 +747,24 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
+        <BBRadius>3.852240</BBRadius>
+        <BBHScale>0.802236</BBHScale>
         <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-3.090410" Y="-0.049045" Z="-3.850210" />
+        <BoundingMax X="3.090400" Y="3.249101" Z="3.854270" />
+        <BoundingCenter X="-0.000005" Y="1.600028" Z="0.002030" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>mil_tent_big2_1</Name>
-        <File>DZ\structures\military\improvised\mil_tent_big2_1.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\military\improvised\mil_tent_big2_1.p3d</File>
+        <Date>04/30/21 13:24:58</Date>
         <Archive></Archive>
-        <Fill>-8355776</Fill>
+        <Fill>-32704</Fill>
         <Outline>-1</Outline>
         <Scale>1.000000</Scale>
         <Hash>870406237</Hash>
@@ -1077,24 +780,24 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>3.005860</BBRadius>
+        <BBHScale>1.708365</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-5.133260" Y="-0.250000" Z="-3.006810" />
+        <BoundingMax X="5.136950" Y="4.244300" Z="3.004910" />
+        <BoundingCenter X="0.001845" Y="1.997150" Z="-0.000950" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>mil_tent_big2_2</Name>
-        <File>DZ\structures\military\improvised\mil_tent_big2_2.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\military\improvised\mil_tent_big2_2.p3d</File>
+        <Date>04/30/21 13:25:43</Date>
         <Archive></Archive>
-        <Fill>-8355776</Fill>
+        <Fill>-32704</Fill>
         <Outline>-1</Outline>
         <Scale>1.000000</Scale>
         <Hash>870406238</Hash>
@@ -1110,24 +813,24 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>3.005860</BBRadius>
+        <BBHScale>1.708365</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-5.133260" Y="-0.250000" Z="-3.006810" />
+        <BoundingMax X="5.136950" Y="4.244300" Z="3.004910" />
+        <BoundingCenter X="0.001845" Y="1.997150" Z="-0.000950" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>mil_tent_big2_3</Name>
-        <File>DZ\structures\military\improvised\mil_tent_big2_3.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\military\improvised\mil_tent_big2_3.p3d</File>
+        <Date>04/30/21 13:25:42</Date>
         <Archive></Archive>
-        <Fill>-8355776</Fill>
+        <Fill>-32704</Fill>
         <Outline>-1</Outline>
         <Scale>1.000000</Scale>
         <Hash>870406239</Hash>
@@ -1143,24 +846,24 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>3.005860</BBRadius>
+        <BBHScale>1.708365</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-5.133260" Y="-0.250000" Z="-3.006810" />
+        <BoundingMax X="5.136950" Y="4.244300" Z="3.004910" />
+        <BoundingCenter X="0.001845" Y="1.997150" Z="-0.000950" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>mil_tent_big2_4</Name>
-        <File>DZ\structures\military\improvised\mil_tent_big2_4.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\military\improvised\mil_tent_big2_4.p3d</File>
+        <Date>04/30/21 13:25:41</Date>
         <Archive></Archive>
-        <Fill>-8355776</Fill>
+        <Fill>-32704</Fill>
         <Outline>-1</Outline>
         <Scale>1.000000</Scale>
         <Hash>870406240</Hash>
@@ -1176,24 +879,24 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>3.005860</BBRadius>
+        <BBHScale>1.708365</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-5.133260" Y="-0.250000" Z="-3.006810" />
+        <BoundingMax X="5.136950" Y="4.244300" Z="3.004910" />
+        <BoundingCenter X="0.001845" Y="1.997150" Z="-0.000950" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>mil_tent_big2_5</Name>
-        <File>DZ\structures\military\improvised\mil_tent_big2_5.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\military\improvised\mil_tent_big2_5.p3d</File>
+        <Date>04/30/21 13:25:40</Date>
         <Archive></Archive>
-        <Fill>-8355776</Fill>
+        <Fill>-32704</Fill>
         <Outline>-1</Outline>
         <Scale>1.000000</Scale>
         <Hash>870406241</Hash>
@@ -1209,24 +912,24 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>3.005860</BBRadius>
+        <BBHScale>1.708365</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-5.133260" Y="-0.250000" Z="-3.006810" />
+        <BoundingMax X="5.136950" Y="4.244300" Z="3.004910" />
+        <BoundingCenter X="0.001845" Y="1.997150" Z="-0.000950" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>mil_tent_big3</Name>
-        <File>DZ\structures\military\improvised\mil_tent_big3.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\military\improvised\mil_tent_big3.p3d</File>
+        <Date>04/30/21 13:25:35</Date>
         <Archive></Archive>
-        <Fill>-8355776</Fill>
+        <Fill>-32704</Fill>
         <Outline>-1</Outline>
         <Scale>1.000000</Scale>
         <Hash>-695290292</Hash>
@@ -1242,24 +945,24 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>10.540590</BBRadius>
+        <BBHScale>0.743377</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-9.649040" Y="-0.935557" Z="-11.579700" />
+        <BoundingMax X="6.022230" Y="3.276571" Z="9.501480" />
+        <BoundingCenter X="-1.813405" Y="1.170507" Z="-1.039110" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>mil_tent_big4</Name>
-        <File>DZ\structures\military\improvised\mil_tent_big4.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\military\improvised\mil_tent_big4.p3d</File>
+        <Date>04/30/21 13:25:33</Date>
         <Archive></Archive>
-        <Fill>-8355776</Fill>
+        <Fill>-32704</Fill>
         <Outline>-1</Outline>
         <Scale>1.000000</Scale>
         <Hash>-695290291</Hash>
@@ -1275,24 +978,24 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>8.819690</BBRadius>
+        <BBHScale>0.696298</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-6.926881" Y="-1.261730" Z="-5.366280" />
+        <BoundingMax X="5.355380" Y="3.684796" Z="12.273100" />
+        <BoundingCenter X="-0.785750" Y="1.211533" Z="3.453410" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>roadblock_bags_curve</Name>
-        <File>DZ\structures\military\improvised\roadblock_bags_curve.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\military\improvised\roadblock_bags_curve.p3d</File>
+        <Date>04/30/21 13:25:02</Date>
         <Archive></Archive>
-        <Fill>-8355776</Fill>
+        <Fill>-32704</Fill>
         <Outline>-1</Outline>
         <Scale>1.000000</Scale>
         <Hash>-1544669587</Hash>
@@ -1308,24 +1011,24 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>2.708702</BBRadius>
+        <BBHScale>0.609696</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-1.391290" Y="-0.504909" Z="-2.561647" />
+        <BoundingMax X="1.911680" Y="2.020073" Z="2.855756" />
+        <BoundingCenter X="0.260195" Y="0.757582" Z="0.147054" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>roadblock_bags_endl</Name>
-        <File>DZ\structures\military\improvised\roadblock_bags_endl.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\military\improvised\roadblock_bags_endl.p3d</File>
+        <Date>04/30/21 13:25:21</Date>
         <Archive></Archive>
-        <Fill>-8355776</Fill>
+        <Fill>-32704</Fill>
         <Outline>-1</Outline>
         <Scale>1.000000</Scale>
         <Hash>1015609715</Hash>
@@ -1341,24 +1044,24 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>0.590947</BBRadius>
+        <BBHScale>1.220097</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-0.527412" Y="-0.548977" Z="-0.622456" />
+        <BoundingMax X="0.914613" Y="1.761346" Z="0.559437" />
+        <BoundingCenter X="0.193601" Y="0.606184" Z="-0.031510" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>roadblock_bags_endr</Name>
-        <File>DZ\structures\military\improvised\roadblock_bags_endr.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\military\improvised\roadblock_bags_endr.p3d</File>
+        <Date>04/30/21 13:25:05</Date>
         <Archive></Archive>
-        <Fill>-8355776</Fill>
+        <Fill>-32704</Fill>
         <Outline>-1</Outline>
         <Scale>1.000000</Scale>
         <Hash>1015609721</Hash>
@@ -1374,24 +1077,24 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>0.618867</BBRadius>
+        <BBHScale>1.147015</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-0.649488" Y="-0.571524" Z="-0.723288" />
+        <BoundingMax X="0.770212" Y="1.720040" Z="0.514446" />
+        <BoundingCenter X="0.060362" Y="0.574258" Z="-0.104421" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>roadblock_bags_long</Name>
-        <File>DZ\structures\military\improvised\roadblock_bags_long.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\military\improvised\roadblock_bags_long.p3d</File>
+        <Date>04/30/21 13:25:01</Date>
         <Archive></Archive>
-        <Fill>-8355776</Fill>
+        <Fill>-32704</Fill>
         <Outline>-1</Outline>
         <Scale>1.000000</Scale>
         <Hash>-2101296994</Hash>
@@ -1407,16 +1110,16 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
+        <BBRadius>1.691300</BBRadius>
+        <BBHScale>0.225427</BBHScale>
         <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-0.397818" Y="-0.501854" Z="-1.682690" />
+        <BoundingMax X="0.364713" Y="1.972840" Z="1.699910" />
+        <BoundingCenter X="-0.016552" Y="0.735493" Z="0.008610" />
         <Placement></Placement>
     </Template>
     <Template>
@@ -1424,7 +1127,7 @@
         <File>dz\structures\military\improvised\roadblock_cncblock.p3d</File>
         <Date>04/30/21 13:25:32</Date>
         <Archive></Archive>
-        <Fill>-8355776</Fill>
+        <Fill>-32704</Fill>
         <Outline>-1</Outline>
         <Scale>1.000000</Scale>
         <Hash>-1550089849</Hash>
@@ -1457,7 +1160,7 @@
         <File>dz\structures\military\improvised\roadblock_cncblocks_long.p3d</File>
         <Date>04/30/21 13:25:02</Date>
         <Archive></Archive>
-        <Fill>-8355776</Fill>
+        <Fill>-32704</Fill>
         <Outline>-1</Outline>
         <Scale>1.000000</Scale>
         <Hash>546020527</Hash>
@@ -1490,7 +1193,7 @@
         <File>dz\structures\military\improvised\roadblock_cncblocks_short.p3d</File>
         <Date>04/30/21 13:25:01</Date>
         <Archive></Archive>
-        <Fill>-8355776</Fill>
+        <Fill>-32704</Fill>
         <Outline>-1</Outline>
         <Scale>1.000000</Scale>
         <Hash>895124873</Hash>
@@ -1520,10 +1223,10 @@
     </Template>
     <Template>
         <Name>roadblock_pillbox</Name>
-        <File>DZ\structures\military\improvised\roadblock_pillbox.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\military\improvised\roadblock_pillbox.p3d</File>
+        <Date>04/30/21 13:25:37</Date>
         <Archive></Archive>
-        <Fill>-8355776</Fill>
+        <Fill>-32704</Fill>
         <Outline>-1</Outline>
         <Scale>1.000000</Scale>
         <Hash>-287469120</Hash>
@@ -1539,24 +1242,24 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>2.604424</BBRadius>
+        <BBHScale>1.082802</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-1.107784" Y="-0.066929" Z="-2.658009" />
+        <BoundingMax X="4.532371" Y="2.186824" Z="2.550840" />
+        <BoundingCenter X="1.712294" Y="1.059947" Z="-0.053584" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>roadblock_table</Name>
-        <File>DZ\structures\military\improvised\roadblock_table.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\military\improvised\roadblock_table.p3d</File>
+        <Date>04/30/21 13:25:04</Date>
         <Archive></Archive>
-        <Fill>-8355776</Fill>
+        <Fill>-32704</Fill>
         <Outline>-1</Outline>
         <Scale>1.000000</Scale>
         <Hash>1127488636</Hash>
@@ -1572,24 +1275,24 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>0.411191</BBRadius>
+        <BBHScale>2.458687</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-1.010990" Y="-0.012761" Z="-0.410994" />
+        <BoundingMax X="1.010990" Y="0.813117" Z="0.411388" />
+        <BoundingCenter X="0.000000" Y="0.400178" Z="0.000197" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>roadblock_woodencrate</Name>
-        <File>DZ\structures\military\improvised\roadblock_woodencrate.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
+        <File>dz\structures\military\improvised\roadblock_woodencrate.p3d</File>
+        <Date>04/30/21 13:25:01</Date>
         <Archive></Archive>
-        <Fill>-8355776</Fill>
+        <Fill>-32704</Fill>
         <Outline>-1</Outline>
         <Scale>1.000000</Scale>
         <Hash>-568640805</Hash>
@@ -1605,49 +1308,16 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>0.715222</BBRadius>
+        <BBHScale>0.563980</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <Placement></Placement>
-    </Template>
-    <Template>
-        <Name>hbarrier_1m_1</Name>
-        <File>DZ\structures\military\improvised\hbarrier_1m.p3d</File>
-        <Date>05/02/21 21:19:27</Date>
-        <Archive></Archive>
-        <Fill>-8355776</Fill>
-        <Outline>-1</Outline>
-        <Scale>1.000000</Scale>
-        <Hash>1451316236</Hash>
-        <ScaleRandMin>0.000000</ScaleRandMin>
-        <ScaleRandMax>0.000000</ScaleRandMax>
-        <YawRandMin>0.000000</YawRandMin>
-        <YawRandMax>0.000000</YawRandMax>
-        <PitchRandMin>0.000000</PitchRandMin>
-        <PitchRandMax>0.000000</PitchRandMax>
-        <RollRandMin>0.000000</RollRandMin>
-        <RollRandMax>0.000000</RollRandMax>
-        <TexLLU>0.000000</TexLLU>
-        <TexLLV>0.000000</TexLLV>
-        <TexURU>1.000000</TexURU>
-        <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-0.403369" Y="-0.050000" Z="-0.716484" />
+        <BoundingMax X="0.403373" Y="0.646378" Z="0.713961" />
+        <BoundingCenter X="0.000002" Y="0.298189" Z="-0.001261" />
         <Placement></Placement>
     </Template>
 </Library>

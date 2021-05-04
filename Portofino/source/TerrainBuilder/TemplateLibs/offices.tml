@@ -1,0 +1,168 @@
+<?xml version="1.0" ?>
+<Library name="offices" shape="rectangle" default_fill="-32576" default_outline="-1" tex="0">
+    <Template>
+        <Name>office1</Name>
+        <File>dz\structures\residential\offices\office1.p3d</File>
+        <Date>04/30/21 13:26:47</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>149600693</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.107141</BBRadius>
+        <BBHScale>1.938477</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-18.209801" Y="-2.318080" Z="-10.317636" />
+        <BoundingMax X="17.098167" Y="12.284180" Z="7.896646" />
+        <BoundingCenter X="-0.555817" Y="4.983049" Z="-1.210495" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>office2</Name>
+        <File>dz\structures\residential\offices\office2.p3d</File>
+        <Date>04/30/21 13:26:34</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>149600694</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.475082</BBRadius>
+        <BBHScale>2.617281</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-24.743896" Y="-1.646132" Z="-9.499685" />
+        <BoundingMax X="24.854012" Y="19.067593" Z="9.450480" />
+        <BoundingCenter X="0.055058" Y="8.710731" Z="-0.024603" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>office_municipal1</Name>
+        <File>dz\structures\residential\offices\office_municipal1.p3d</File>
+        <Date>04/30/21 13:26:28</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>639439266</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>14.313011</BBRadius>
+        <BBHScale>0.882772</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-12.635385" Y="-1.150869" Z="-6.808921" />
+        <BoundingMax X="12.634875" Y="39.010002" Z="21.817101" />
+        <BoundingCenter X="-0.000255" Y="18.929565" Z="7.504090" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>office_municipal2</Name>
+        <File>dz\structures\residential\offices\office_municipal2.p3d</File>
+        <Date>04/30/21 13:26:55</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>639439267</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.718851</BBRadius>
+        <BBHScale>0.941985</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-10.089100" Y="-1.240820" Z="-9.914501" />
+        <BoundingMax X="10.104900" Y="64.674477" Z="11.523201" />
+        <BoundingCenter X="0.007900" Y="31.716827" Z="0.804350" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>office_municipal2_archway</Name>
+        <File>dz\structures\residential\offices\office_municipal2_archway.p3d</File>
+        <Date>04/30/21 13:26:33</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1159756099</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.667260</BBRadius>
+        <BBHScale>2.137785</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.702030" Y="-1.298170" Z="-3.017780" />
+        <BoundingMax X="5.702030" Y="16.484001" Z="2.316740" />
+        <BoundingCenter X="0.000000" Y="7.592916" Z="-0.350520" />
+        <Placement></Placement>
+    </Template>
+</Library>

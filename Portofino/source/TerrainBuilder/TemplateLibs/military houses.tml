@@ -1,0 +1,366 @@
+<?xml version="1.0" ?>
+<Library name="military houses" shape="rectangle" default_fill="-32704" default_outline="-1" tex="0">
+    <Template>
+        <Name>mil_barracks1</Name>
+        <File>dz\structures\military\houses\mil_barracks1.p3d</File>
+        <Date>04/30/21 13:25:22</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1446198137</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.558056</BBRadius>
+        <BBHScale>1.648944</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.047351" Y="-2.004074" Z="-5.287681" />
+        <BoundingMax X="10.282500" Y="5.898338" Z="5.828431" />
+        <BoundingCenter X="1.117575" Y="1.947132" Z="0.270375" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mil_barracks2</Name>
+        <File>dz\structures\military\houses\mil_barracks2.p3d</File>
+        <Date>04/30/21 13:25:21</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1446198138</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.299675</BBRadius>
+        <BBHScale>2.495688</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-9.398870" Y="-1.997575" Z="-4.297440" />
+        <BoundingMax X="12.062422" Y="4.734310" Z="4.301910" />
+        <BoundingCenter X="1.331776" Y="1.368368" Z="0.002235" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mil_barracks3</Name>
+        <File>dz\structures\military\houses\mil_barracks3.p3d</File>
+        <Date>04/30/21 13:25:19</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1446198139</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.558561</BBRadius>
+        <BBHScale>1.242556</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-7.341470" Y="-1.630330" Z="-6.060221" />
+        <BoundingMax X="11.442400" Y="6.031197" Z="9.056901" />
+        <BoundingCenter X="2.050465" Y="2.200433" Z="1.498340" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mil_barracks4</Name>
+        <File>dz\structures\military\houses\mil_barracks4.p3d</File>
+        <Date>04/30/21 13:25:18</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1446198140</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.950290</BBRadius>
+        <BBHScale>2.050400</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.429029" Y="-1.683004" Z="-4.181140" />
+        <BoundingMax X="7.770319" Y="4.841190" Z="3.719440" />
+        <BoundingCenter X="-0.329355" Y="1.579093" Z="-0.230850" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mil_barracks5</Name>
+        <File>dz\structures\military\houses\mil_barracks5.p3d</File>
+        <Date>04/30/21 13:25:15</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1446198141</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.352095</BBRadius>
+        <BBHScale>1.581887</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-16.882000" Y="-2.135190" Z="-7.782390" />
+        <BoundingMax X="15.869698" Y="13.484501" Z="12.921799" />
+        <BoundingCenter X="-0.506151" Y="5.674655" Z="2.569704" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mil_barracks6</Name>
+        <File>dz\structures\military\houses\mil_barracks6.p3d</File>
+        <Date>04/30/21 13:25:10</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1446198142</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.042665</BBRadius>
+        <BBHScale>1.958799</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-14.420730" Y="-3.500000" Z="-9.016970" />
+        <BoundingMax X="17.087200" Y="8.335592" Z="7.068360" />
+        <BoundingCenter X="1.333235" Y="2.417796" Z="-0.974305" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mil_barracks_round</Name>
+        <File>dz\structures\military\houses\mil_barracks_round.p3d</File>
+        <Date>04/30/21 13:25:33</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-525600825</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.638709</BBRadius>
+        <BBHScale>0.544634</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.071030" Y="-1.221850" Z="-5.892745" />
+        <BoundingMax X="3.071030" Y="3.677930" Z="5.384673" />
+        <BoundingCenter X="0.000000" Y="1.228040" Z="-0.254036" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mil_guardhouse1</Name>
+        <File>dz\structures\military\houses\mil_guardhouse1.p3d</File>
+        <Date>04/30/21 13:25:01</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>199985383</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.582853</BBRadius>
+        <BBHScale>1.316370</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.969000" Y="-0.722131" Z="-4.563760" />
+        <BoundingMax X="5.096459" Y="5.145030" Z="4.601947" />
+        <BoundingCenter X="-0.936270" Y="2.211450" Z="0.019094" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mil_guardhouse2</Name>
+        <File>dz\structures\military\houses\mil_guardhouse2.p3d</File>
+        <Date>04/30/21 13:24:58</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>199985384</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.540457</BBRadius>
+        <BBHScale>1.634475</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-10.507315" Y="-1.070460" Z="-4.978919" />
+        <BoundingMax X="4.335213" Y="3.709360" Z="4.101995" />
+        <BoundingCenter X="-3.086051" Y="1.319450" Z="-0.438462" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mil_guardtower</Name>
+        <File>dz\structures\military\houses\mil_guardtower.p3d</File>
+        <Date>04/30/21 13:25:33</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>337344883</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.317717</BBRadius>
+        <BBHScale>0.421614</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.023586" Y="-0.464811" Z="-2.695776" />
+        <BoundingMax X="1.303690" Y="13.053657" Z="9.939657" />
+        <BoundingCenter X="-1.359948" Y="6.294423" Z="3.621941" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mil_tower_small</Name>
+        <File>dz\structures\military\houses\mil_tower_small.p3d</File>
+        <Date>04/30/21 13:25:22</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2003056930</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.430215</BBRadius>
+        <BBHScale>0.739111</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="1.165095" Y="-1.000000" Z="-4.202456" />
+        <BoundingMax X="4.757495" Y="8.541841" Z="0.657974" />
+        <BoundingCenter X="2.961295" Y="3.770920" Z="-1.772241" />
+        <Placement></Placement>
+    </Template>
+</Library>

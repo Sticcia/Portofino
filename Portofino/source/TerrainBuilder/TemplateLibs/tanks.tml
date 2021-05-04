@@ -1,0 +1,201 @@
+<?xml version="1.0" ?>
+<Library name="tanks" shape="rectangle" default_fill="-8355712" default_outline="-1" tex="0">
+    <Template>
+        <Name>tank_big</Name>
+        <File>dz\structures\industrial\tanks\tank_big.p3d</File>
+        <Date>04/30/21 13:24:55</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1775822955</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.446480</BBRadius>
+        <BBHScale>1.015483</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-7.446481" Y="-0.994984" Z="-7.446480" />
+        <BoundingMax X="7.677075" Y="10.678000" Z="7.446480" />
+        <BoundingCenter X="0.115297" Y="4.841508" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>tank_medium</Name>
+        <File>dz\structures\industrial\tanks\tank_medium.p3d</File>
+        <Date>04/30/21 13:24:48</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1535504278</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.943600</BBRadius>
+        <BBHScale>4.735137</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.441060" Y="-0.303857" Z="-1.225260" />
+        <BoundingMax X="0.495086" Y="2.235220" Z="0.661939" />
+        <BoundingCenter X="-3.972987" Y="0.965682" Z="-0.281660" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>tank_medium_stairs</Name>
+        <File>dz\structures\industrial\tanks\tank_medium_stairs.p3d</File>
+        <Date>04/30/21 13:24:19</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1112909953</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.182588</BBRadius>
+        <BBHScale>3.778216</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.441060" Y="-0.303857" Z="-1.225260" />
+        <BoundingMax X="0.495086" Y="3.023612" Z="1.139916" />
+        <BoundingCenter X="-3.972987" Y="1.359878" Z="-0.042672" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>tank_small_gas</Name>
+        <File>dz\structures\industrial\tanks\tank_small_gas.p3d</File>
+        <Date>04/30/21 13:24:37</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1753527028</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.368500</BBRadius>
+        <BBHScale>0.622604</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.777039" Y="-0.608495" Z="-1.300852" />
+        <BoundingMax X="0.927028" Y="1.890635" Z="1.436149" />
+        <BoundingCenter X="0.074994" Y="0.641070" Z="0.067648" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>tank_small_rusty</Name>
+        <File>dz\structures\industrial\tanks\tank_small_rusty.p3d</File>
+        <Date>04/30/21 13:24:17</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>145885192</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.431042</BBRadius>
+        <BBHScale>2.243595</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.188203" Y="-0.076078" Z="-1.439446" />
+        <BoundingMax X="3.233156" Y="2.755650" Z="1.422638" />
+        <BoundingCenter X="0.022477" Y="1.339786" Z="-0.008404" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>tank_small_white</Name>
+        <File>dz\structures\industrial\tanks\tank_small_white.p3d</File>
+        <Date>04/30/21 13:24:33</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-91574724</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.431042</BBRadius>
+        <BBHScale>2.243595</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.188203" Y="-0.076078" Z="-1.439446" />
+        <BoundingMax X="3.233156" Y="2.755650" Z="1.422638" />
+        <BoundingCenter X="0.022477" Y="1.339786" Z="-0.008404" />
+        <Placement></Placement>
+    </Template>
+</Library>

@@ -1,0 +1,102 @@
+<?xml version="1.0" ?>
+<Library name="radio" shape="rectangle" default_fill="-16744193" default_outline="-1" tex="0">
+    <Template>
+        <Name>radio_building</Name>
+        <File>dz\structures\specific\radio\radio_building.p3d</File>
+        <Date>04/30/21 13:27:39</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1516047608</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.493323</BBRadius>
+        <BBHScale>1.541072</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-12.870300" Y="-0.934495" Z="-8.685654" />
+        <BoundingMax X="10.225201" Y="10.344300" Z="6.300993" />
+        <BoundingCenter X="-1.322550" Y="4.704903" Z="-1.192330" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>radio_panelbig</Name>
+        <File>dz\structures\specific\radio\radio_panelbig.p3d</File>
+        <Date>04/30/21 13:27:39</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1910470464</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.037368</BBRadius>
+        <BBHScale>0.592126</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.515162" Y="-0.000293" Z="-0.996992" />
+        <BoundingMax X="0.713344" Y="2.000000" Z="1.077745" />
+        <BoundingCenter X="0.099091" Y="0.999853" Z="0.040376" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>radio_panelpas</Name>
+        <File>dz\structures\specific\radio\radio_panelpas.p3d</File>
+        <Date>04/30/21 13:27:45</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1795334174</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.812457</BBRadius>
+        <BBHScale>0.789968</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.570287" Y="0.000000" Z="-0.547169" />
+        <BoundingMax X="0.713344" Y="2.000000" Z="1.077745" />
+        <BoundingCenter X="0.071529" Y="1.000000" Z="0.265288" />
+        <Placement></Placement>
+    </Template>
+</Library>
