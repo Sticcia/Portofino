@@ -1,0 +1,201 @@
+<?xml version="1.0" ?>
+<Library name="bunkers" shape="rectangle" default_fill="-32768" default_outline="-1" tex="0">
+    <Template>
+        <Name>bunker1_double</Name>
+        <File>dz\structures_bliss\military\bunkers\bunker1_double.p3d</File>
+        <Date>04/30/21 13:35:12</Date>
+        <Archive></Archive>
+        <Fill>-32768</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>219879676</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.402313</BBRadius>
+        <BBHScale>1.107369</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.567075</Height>
+        <BoundingMin X="-5.935863" Y="-1.163498" Z="-5.305812" />
+        <BoundingMax X="6.028843" Y="3.970653" Z="5.498814" />
+        <BoundingCenter X="0.046490" Y="1.403577" Z="0.096501" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>bunker1_left</Name>
+        <File>dz\structures_bliss\military\bunkers\bunker1_left.p3d</File>
+        <Date>04/30/21 13:35:19</Date>
+        <Archive></Archive>
+        <Fill>-32768</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1388279506</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.394430</BBRadius>
+        <BBHScale>1.502185</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.589711</Height>
+        <BoundingMin X="-7.173650" Y="-1.206419" Z="-5.305812" />
+        <BoundingMax X="6.028843" Y="3.973003" Z="3.483048" />
+        <BoundingCenter X="-0.572403" Y="1.383292" Z="-0.911382" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>bunker1_right</Name>
+        <File>dz\structures_bliss\military\bunkers\bunker1_right.p3d</File>
+        <Date>04/30/21 13:35:12</Date>
+        <Archive></Archive>
+        <Fill>-32768</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>638044081</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.393817</BBRadius>
+        <BBHScale>1.491766</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.589711</Height>
+        <BoundingMin X="-5.935863" Y="-1.206419" Z="-5.305812" />
+        <BoundingMax X="7.173233" Y="3.973003" Z="3.481823" />
+        <BoundingCenter X="0.618685" Y="1.383292" Z="-0.911994" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>bunker2_double</Name>
+        <File>dz\structures_bliss\military\bunkers\bunker2_double.p3d</File>
+        <Date>04/30/21 13:35:13</Date>
+        <Archive></Archive>
+        <Fill>-32768</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1339241797</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.402313</BBRadius>
+        <BBHScale>1.107369</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.567075</Height>
+        <BoundingMin X="-5.935863" Y="-1.163498" Z="-5.305812" />
+        <BoundingMax X="6.028843" Y="3.970653" Z="5.498814" />
+        <BoundingCenter X="0.046490" Y="1.403577" Z="0.096501" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>bunker2_left</Name>
+        <File>dz\structures_bliss\military\bunkers\bunker2_left.p3d</File>
+        <Date>04/30/21 13:35:13</Date>
+        <Archive></Archive>
+        <Fill>-32768</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1760286737</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.394430</BBRadius>
+        <BBHScale>1.502185</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.589711</Height>
+        <BoundingMin X="-7.173650" Y="-1.206419" Z="-5.305812" />
+        <BoundingMax X="6.028843" Y="3.973003" Z="3.483048" />
+        <BoundingCenter X="-0.572403" Y="1.383292" Z="-0.911382" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>bunker2_right</Name>
+        <File>dz\structures_bliss\military\bunkers\bunker2_right.p3d</File>
+        <Date>04/30/21 13:35:13</Date>
+        <Archive></Archive>
+        <Fill>-32768</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-63785422</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.393817</BBRadius>
+        <BBHScale>1.491766</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.589711</Height>
+        <BoundingMin X="-5.935863" Y="-1.206419" Z="-5.305812" />
+        <BoundingMax X="7.173233" Y="3.973003" Z="3.481823" />
+        <BoundingCenter X="0.618685" Y="1.383292" Z="-0.911994" />
+        <Placement></Placement>
+    </Template>
+</Library>

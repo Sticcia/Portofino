@@ -957,4 +957,70 @@
         <BoundingCenter X="1.733501" Y="4.063951" Z="-0.475786" />
         <Placement></Placement>
     </Template>
+    <Template>
+        <Name>house_1w13_dam_proxy_overgrowth</Name>
+        <File>dz\structures_bliss\residential\houses\proxy\house_1w13_dam_proxy_overgrowth.p3d</File>
+        <Date>04/30/21 13:35:53</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2013150867</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.096047</BBRadius>
+        <BBHScale>1.356821</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>3.826525</Height>
+        <BoundingMin X="-6.315045" Y="-1.007420" Z="-3.828819" />
+        <BoundingMax X="4.800161" Y="6.645631" Z="4.363275" />
+        <BoundingCenter X="-0.757442" Y="2.819106" Z="0.267228" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>house_1w13_dam</Name>
+        <File>dz\structures_bliss\residential\houses\house_1w13_dam.p3d</File>
+        <Date>04/30/21 13:35:52</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1783793704</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.040743</BBRadius>
+        <BBHScale>0.615372</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>4.065363</Height>
+        <BoundingMin X="-5.845382" Y="-1.953001" Z="-7.308904" />
+        <BoundingMax X="4.050722" Y="6.177725" Z="8.772582" />
+        <BoundingCenter X="-0.897330" Y="2.112362" Z="0.731839" />
+        <Placement></Placement>
+    </Template>
 </Library>

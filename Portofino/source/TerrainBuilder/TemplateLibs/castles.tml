@@ -984,7 +984,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>2.650015</Height>
         <BoundingMin X="-5.749440" Y="-1.773890" Z="-2.102020" />
         <BoundingMax X="5.601830" Y="3.526140" Z="2.256580" />
         <BoundingCenter X="-0.073805" Y="0.876125" Z="0.077280" />
@@ -1153,6 +1153,138 @@
         <BoundingMin X="-0.076303" Y="-1.452640" Z="-1.679876" />
         <BoundingMax X="5.619300" Y="3.554270" Z="2.637130" />
         <BoundingCenter X="2.771498" Y="1.050815" Z="0.478627" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>castle_bastion2</Name>
+        <File>dz\structures_bliss\specific\castles\castle_bastion2.p3d</File>
+        <Date>04/30/21 13:38:02</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1541470543</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.022341</BBRadius>
+        <BBHScale>0.980046</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>4.989855</Height>
+        <BoundingMin X="-9.383300" Y="-3.699090" Z="-10.205200" />
+        <BoundingMax X="10.261401" Y="6.280621" Z="9.839481" />
+        <BoundingCenter X="0.439051" Y="1.290765" Z="-0.182859" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>castle_wall3</Name>
+        <File>dz\structures_bliss\specific\castles\castle_wall3.p3d</File>
+        <Date>04/30/21 13:38:01</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>832703330</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.736055</BBRadius>
+        <BBHScale>1.962734</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>4.463430</Height>
+        <BoundingMin X="-9.273111" Y="-3.315630" Z="-4.693440" />
+        <BoundingMax X="9.318121" Y="5.611231" Z="4.778670" />
+        <BoundingCenter X="0.022505" Y="1.147800" Z="0.042615" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>castle_wall3_d_l</Name>
+        <File>dz\structures_bliss\specific\castles\castle_wall3_d_l.p3d</File>
+        <Date>04/30/21 13:38:12</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-304609676</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.183486</BBRadius>
+        <BBHScale>1.224679</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>4.271575</Height>
+        <BoundingMin X="-6.365070" Y="-3.190620" Z="-5.213931" />
+        <BoundingMax X="6.331141" Y="5.352530" Z="5.153040" />
+        <BoundingCenter X="-0.016965" Y="1.080955" Z="-0.030445" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>castle_wall3_d_r</Name>
+        <File>dz\structures_bliss\specific\castles\castle_wall3_d_r.p3d</File>
+        <Date>04/30/21 13:38:13</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-304609670</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.258170</BBRadius>
+        <BBHScale>1.210152</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>4.378640</Height>
+        <BoundingMin X="-6.361681" Y="-3.381500" Z="-5.159090" />
+        <BoundingMax X="6.364690" Y="5.375780" Z="5.357250" />
+        <BoundingCenter X="0.001505" Y="0.997140" Z="0.099080" />
         <Placement></Placement>
     </Template>
 </Library>

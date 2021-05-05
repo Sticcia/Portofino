@@ -1,0 +1,300 @@
+<?xml version="1.0" ?>
+<Library name="forest" shape="rectangle" default_fill="-16744193" default_outline="-1" tex="0">
+    <Template>
+        <Name>forest_anthill</Name>
+        <File>dz\structures_bliss\specific\forest\forest_anthill.p3d</File>
+        <Date>04/30/21 13:38:02</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>53335302</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.440311</BBRadius>
+        <BBHScale>0.996597</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.576152</Height>
+        <BoundingMin X="-1.457937" Y="-0.122170" Z="-1.421724" />
+        <BoundingMax X="1.412884" Y="1.030134" Z="1.458899" />
+        <BoundingCenter X="-0.022527" Y="0.453982" Z="0.018588" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>forest_beetletrap1</Name>
+        <File>dz\structures_bliss\specific\forest\forest_beetletrap1.p3d</File>
+        <Date>04/30/21 13:38:13</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1485522615</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.329067</BBRadius>
+        <BBHScale>0.173799</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.807474</Height>
+        <BoundingMin X="-0.057191" Y="-0.307474" Z="-0.329067" />
+        <BoundingMax X="0.057191" Y="1.307474" Z="0.329067" />
+        <BoundingCenter X="0.000000" Y="0.500000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>forest_beetletrap2</Name>
+        <File>dz\structures_bliss\specific\forest\forest_beetletrap2.p3d</File>
+        <Date>04/30/21 13:38:02</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1485522616</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.534518</BBRadius>
+        <BBHScale>0.125702</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.796685</Height>
+        <BoundingMin X="-0.067190" Y="-0.196685" Z="-0.534518" />
+        <BoundingMax X="0.067190" Y="1.396685" Z="0.534518" />
+        <BoundingCenter X="0.000000" Y="0.600000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>forest_beetletrap3</Name>
+        <File>dz\structures_bliss\specific\forest\forest_beetletrap3.p3d</File>
+        <Date>04/30/21 13:38:13</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1485522617</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.102058</BBRadius>
+        <BBHScale>0.260910</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.952645</Height>
+        <BoundingMin X="-0.287538" Y="-0.102645" Z="-1.102058" />
+        <BoundingMax X="0.287538" Y="1.802645" Z="1.102058" />
+        <BoundingCenter X="0.000000" Y="0.850000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>forest_deerskeleton_dam</Name>
+        <File>dz\structures_bliss\specific\forest\forest_deerskeleton_dam.p3d</File>
+        <Date>04/30/21 13:38:01</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1229842510</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.291247</BBRadius>
+        <BBHScale>0.532524</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.304348</Height>
+        <BoundingMin X="-0.751184" Y="-0.023532" Z="-1.039937" />
+        <BoundingMax X="0.624056" Y="0.585164" Z="1.542558" />
+        <BoundingCenter X="-0.063564" Y="0.280816" Z="0.251311" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>forest_deerskeleton_full</Name>
+        <File>dz\structures_bliss\specific\forest\forest_deerskeleton_full.p3d</File>
+        <Date>04/30/21 13:37:50</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1499464433</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.589830</BBRadius>
+        <BBHScale>0.640260</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.431748</Height>
+        <BoundingMin X="-0.755033" Y="-0.036071" Z="-1.884198" />
+        <BoundingMax X="1.280776" Y="0.827425" Z="1.295462" />
+        <BoundingCenter X="0.262871" Y="0.395677" Z="-0.294368" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>forest_deerskeleton_pile</Name>
+        <File>dz\structures_bliss\specific\forest\forest_deerskeleton_pile.p3d</File>
+        <Date>04/30/21 13:38:13</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>616263764</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.044483</BBRadius>
+        <BBHScale>0.507915</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.199875</Height>
+        <BoundingMin X="-2.343379" Y="-0.013208" Z="-4.190618" />
+        <BoundingMax X="1.765126" Y="0.386541" Z="3.898349" />
+        <BoundingCenter X="-0.289127" Y="0.186667" Z="-0.146134" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>forest_deerskeleton_skull</Name>
+        <File>dz\structures_bliss\specific\forest\forest_deerskeleton_skull.p3d</File>
+        <Date>04/30/21 13:38:13</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1480789797</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.603993</BBRadius>
+        <BBHScale>0.685717</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.475479</Height>
+        <BoundingMin X="-0.333438" Y="-0.002665" Z="-0.298478" />
+        <BoundingMax X="0.494898" Y="0.948293" Z="0.909507" />
+        <BoundingCenter X="0.080730" Y="0.472814" Z="0.305514" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>forest_humanskeleton</Name>
+        <File>dz\structures_bliss\specific\forest\forest_humanskeleton.p3d</File>
+        <Date>04/30/21 13:38:02</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>869752728</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.650381</BBRadius>
+        <BBHScale>0.795144</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.253760</Height>
+        <BoundingMin X="-0.615012" Y="-0.222315" Z="-0.722547" />
+        <BoundingMax X="0.419281" Y="0.285206" Z="0.578214" />
+        <BoundingCenter X="-0.097865" Y="0.031445" Z="-0.072167" />
+        <Placement></Placement>
+    </Template>
+</Library>

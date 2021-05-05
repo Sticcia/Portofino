@@ -423,7 +423,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.575200</Height>
         <BoundingMin X="-0.820316" Y="-0.055966" Z="-1.194739" />
         <BoundingMax X="0.801278" Y="1.094433" Z="1.139900" />
         <BoundingCenter X="-0.009519" Y="0.519233" Z="-0.027420" />
@@ -1153,6 +1153,336 @@
         <BoundingMin X="-1.389990" Y="-0.029575" Z="-0.893154" />
         <BoundingMax X="1.088170" Y="1.557410" Z="1.452320" />
         <BoundingCenter X="-0.150910" Y="0.763917" Z="0.279583" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_cinderblocks</Name>
+        <File>dz\structures_bliss\industrial\misc\misc_cinderblocks.p3d</File>
+        <Date>04/30/21 13:34:47</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1374691970</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.550653</BBRadius>
+        <BBHScale>1.594216</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.860909</Height>
+        <BoundingMin X="-0.794564" Y="-0.008670" Z="-0.559780" />
+        <BoundingMax X="0.961154" Y="1.713149" Z="0.541525" />
+        <BoundingCenter X="0.083295" Y="0.852239" Z="-0.009127" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_haybale_packed</Name>
+        <File>dz\structures_bliss\industrial\misc\misc_haybale_packed.p3d</File>
+        <Date>04/30/21 13:34:46</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1524871954</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.866690</BBRadius>
+        <BBHScale>0.969075</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.827551</Height>
+        <BoundingMin X="-0.839887" Y="-0.097568" Z="-0.008471" />
+        <BoundingMax X="0.839887" Y="1.557535" Z="1.724908" />
+        <BoundingCenter X="0.000000" Y="0.729984" Z="0.858218" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_haybale_packed_stack</Name>
+        <File>dz\structures_bliss\industrial\misc\misc_haybale_packed_stack.p3d</File>
+        <Date>04/30/21 13:34:45</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-317699301</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.296633</BBRadius>
+        <BBHScale>0.554787</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.719707</Height>
+        <BoundingMin X="-2.718739" Y="-0.135025" Z="-3.299308" />
+        <BoundingMax X="0.939122" Y="3.304390" Z="3.293959" />
+        <BoundingCenter X="-0.889808" Y="1.584682" Z="-0.002675" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_surveymarker_cover</Name>
+        <File>dz\structures_bliss\industrial\misc\misc_surveymarker_cover.p3d</File>
+        <Date>04/30/21 13:35:03</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-829277345</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.662706</BBRadius>
+        <BBHScale>0.981992</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.410877</Height>
+        <BoundingMin X="-0.650772" Y="-0.305657" Z="-0.662706" />
+        <BoundingMax X="0.650772" Y="0.516097" Z="0.662706" />
+        <BoundingCenter X="0.000000" Y="0.105220" Z="-0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_surveymarker_post</Name>
+        <File>dz\structures_bliss\industrial\misc\misc_surveymarker_post.p3d</File>
+        <Date>04/30/21 13:34:58</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1947938088</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.048703</BBRadius>
+        <BBHScale>0.729111</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.229023</Height>
+        <BoundingMin X="-0.035453" Y="-0.329023" Z="-0.048824" />
+        <BoundingMax X="0.035567" Y="2.129023" Z="0.048582" />
+        <BoundingCenter X="0.000057" Y="0.900000" Z="-0.000121" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_surveymarker_rod</Name>
+        <File>dz\structures_bliss\industrial\misc\misc_surveymarker_rod.p3d</File>
+        <Date>04/30/21 13:34:59</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1127713905</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.403889</BBRadius>
+        <BBHScale>1.048010</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.336596</Height>
+        <BoundingMin X="-0.381416" Y="-0.336596" Z="-0.477151" />
+        <BoundingMax X="0.465144" Y="0.336596" Z="0.330627" />
+        <BoundingCenter X="0.041864" Y="0.000000" Z="-0.073262" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_tire</Name>
+        <File>dz\structures_bliss\industrial\misc\misc_tire.p3d</File>
+        <Date>04/30/21 13:34:42</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>178183515</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.347659</BBRadius>
+        <BBHScale>0.999371</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.086500</Height>
+        <BoundingMin X="-0.449660" Y="-0.021652" Z="-0.365054" />
+        <BoundingMax X="0.245220" Y="0.151348" Z="0.330264" />
+        <BoundingCenter X="-0.102220" Y="0.064848" Z="-0.017395" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_tirepile_large</Name>
+        <File>dz\structures_bliss\industrial\misc\misc_tirepile_large.p3d</File>
+        <Date>04/30/21 13:34:49</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1930538409</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.282399</BBRadius>
+        <BBHScale>1.326028</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.689829</Height>
+        <BoundingMin X="-1.641315" Y="-0.417484" Z="-1.344121" />
+        <BoundingMax X="1.759679" Y="0.962173" Z="1.220677" />
+        <BoundingCenter X="0.059182" Y="0.272345" Z="-0.061722" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_transformer</Name>
+        <File>dz\structures_bliss\industrial\misc\misc_transformer.p3d</File>
+        <Date>04/30/21 13:34:59</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-953924474</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.093163</BBRadius>
+        <BBHScale>0.451624</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.445549</Height>
+        <BoundingMin X="-1.567912" Y="-0.702039" Z="-3.092672" />
+        <BoundingMax X="1.225985" Y="2.189058" Z="3.093655" />
+        <BoundingCenter X="-0.170963" Y="0.743510" Z="0.000492" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_drainage_1</Name>
+        <File>dz\structures_bliss\industrial\misc\misc_drainage.p3d</File>
+        <Date>04/30/21 13:35:01</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-85550214</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.900732</BBRadius>
+        <BBHScale>0.934274</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.928745</Height>
+        <BoundingMin X="-0.882771" Y="0.077458" Z="-0.624100" />
+        <BoundingMax X="0.800289" Y="1.934947" Z="1.177364" />
+        <BoundingCenter X="-0.041241" Y="1.006202" Z="0.276632" />
         <Placement></Placement>
     </Template>
 </Library>

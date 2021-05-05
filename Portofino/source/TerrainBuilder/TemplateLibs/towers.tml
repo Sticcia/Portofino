@@ -297,4 +297,169 @@
         <BoundingCenter X="-0.023505" Y="106.360565" Z="0.004360" />
         <Placement></Placement>
     </Template>
+    <Template>
+        <Name>tower_tc5</Name>
+        <File>dz\structures_bliss\specific\towers\tower_tc5.p3d</File>
+        <Date>04/30/21 13:38:13</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1721322096</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.424900</BBRadius>
+        <BBHScale>1.005923</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>21.728920</Height>
+        <BoundingMin X="-8.474800" Y="-2.444000" Z="-8.434900" />
+        <BoundingMax X="8.474800" Y="41.013840" Z="8.414900" />
+        <BoundingCenter X="0.000000" Y="19.284920" Z="-0.010000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>tower_tc6</Name>
+        <File>dz\structures_bliss\specific\towers\tower_tc6.p3d</File>
+        <Date>04/30/21 13:38:02</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1721322097</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.406970</BBRadius>
+        <BBHScale>0.909017</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>25.699329</Height>
+        <BoundingMin X="-4.111203" Y="-2.365999" Z="-4.515560" />
+        <BoundingMax X="3.900820" Y="49.032661" Z="4.298380" />
+        <BoundingCenter X="-0.105191" Y="23.333332" Z="-0.108590" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>transmitter_box</Name>
+        <File>dz\structures_bliss\specific\towers\transmitter_box.p3d</File>
+        <Date>04/30/21 13:38:02</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1242539901</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.648405</BBRadius>
+        <BBHScale>1.387841</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>3.733410</Height>
+        <BoundingMin X="-1.757520" Y="-2.026560" Z="-1.640360" />
+        <BoundingMax X="2.817930" Y="5.440260" Z="1.656450" />
+        <BoundingCenter X="0.530205" Y="1.706850" Z="0.008045" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>transmitter_small1</Name>
+        <File>dz\structures_bliss\specific\towers\transmitter_small1.p3d</File>
+        <Date>04/30/21 13:38:02</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>331948408</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.263699</BBRadius>
+        <BBHScale>0.999229</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>18.321381</Height>
+        <BoundingMin X="-2.249150" Y="-1.757957" Z="-2.278248" />
+        <BoundingMax X="2.274757" Y="34.884804" Z="2.249150" />
+        <BoundingCenter X="0.012804" Y="16.563423" Z="-0.014549" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>transmitter_small2</Name>
+        <File>dz\structures_bliss\specific\towers\transmitter_small2.p3d</File>
+        <Date>04/30/21 13:38:13</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>331948409</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.759949</BBRadius>
+        <BBHScale>0.835581</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>10.793917</Height>
+        <BoundingMin X="-1.020000" Y="-2.315180" Z="-0.229743" />
+        <BoundingMax X="0.249998" Y="19.272654" Z="1.290155" />
+        <BoundingCenter X="-0.385001" Y="8.478737" Z="0.530206" />
+        <Placement></Placement>
+    </Template>
 </Library>

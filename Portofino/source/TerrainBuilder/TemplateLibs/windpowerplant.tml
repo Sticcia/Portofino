@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<Library name="windpowerplant" shape="rectangle" default_fill="-8355712" default_outline="-1" tex="0">
+    <Template>
+        <Name>windpowerplant_grey</Name>
+        <File>dz\structures_bliss\industrial\windpowerplant\windpowerplant_grey.p3d</File>
+        <Date>04/30/21 13:34:58</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-902659280</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.093243</BBRadius>
+        <BBHScale>3.361844</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>23.885918</Height>
+        <BoundingMin X="-10.346701" Y="-2.419184" Z="-3.667583" />
+        <BoundingMax X="10.451300" Y="45.352650" Z="2.518903" />
+        <BoundingCenter X="0.052299" Y="21.466732" Z="-0.574340" />
+        <Placement></Placement>
+    </Template>
+</Library>

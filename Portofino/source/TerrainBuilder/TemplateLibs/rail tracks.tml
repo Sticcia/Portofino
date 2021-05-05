@@ -1,0 +1,267 @@
+<?xml version="1.0" ?>
+<Library name="rail tracks" shape="rectangle" default_fill="-8388608" default_outline="-1" tex="0">
+    <Template>
+        <Name>rail_tracksmall_10m</Name>
+        <File>dz\structures_bliss\rail\tracks\rail_tracksmall_10m.p3d</File>
+        <Date>04/30/21 13:35:49</Date>
+        <Archive></Archive>
+        <Fill>-8388608</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1116531656</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.005987</BBRadius>
+        <BBHScale>0.210431</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.166606</Height>
+        <BoundingMin X="-1.060058" Y="-0.190307" Z="-5.001184" />
+        <BoundingMax X="1.046775" Y="0.142905" Z="5.010790" />
+        <BoundingCenter X="-0.006642" Y="-0.023701" Z="0.004803" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>rail_tracksmall_15deg</Name>
+        <File>dz\structures_bliss\rail\tracks\rail_tracksmall_15deg.p3d</File>
+        <Date>04/30/21 13:35:49</Date>
+        <Archive></Archive>
+        <Fill>-8388608</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>223680940</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.084710</BBRadius>
+        <BBHScale>0.335495</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.165686</Height>
+        <BoundingMin X="-1.060058" Y="-0.188466" Z="-5.014160" />
+        <BoundingMax X="2.351728" Y="0.142905" Z="5.155260" />
+        <BoundingCenter X="0.645835" Y="-0.022781" Z="0.070550" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>rail_tracksmall_20m</Name>
+        <File>dz\structures_bliss\rail\tracks\rail_tracksmall_20m.p3d</File>
+        <Date>04/30/21 13:35:49</Date>
+        <Archive></Archive>
+        <Fill>-8388608</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1108270151</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.004643</BBRadius>
+        <BBHScale>0.105293</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.164495</Height>
+        <BoundingMin X="-1.060058" Y="-0.186085" Z="-10.008355" />
+        <BoundingMax X="1.046775" Y="0.142906" Z="10.000932" />
+        <BoundingCenter X="-0.006642" Y="-0.021590" Z="-0.003712" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>rail_tracksmall_30deg</Name>
+        <File>dz\structures_bliss\rail\tracks\rail_tracksmall_30deg.p3d</File>
+        <Date>04/30/21 13:35:49</Date>
+        <Archive></Archive>
+        <Fill>-8388608</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1400126477</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.046635</BBRadius>
+        <BBHScale>0.450720</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.165991</Height>
+        <BoundingMin X="-1.060058" Y="-0.189076" Z="-5.018201" />
+        <BoundingMax X="3.489180" Y="0.142905" Z="5.075068" />
+        <BoundingCenter X="1.214561" Y="-0.023086" Z="0.028434" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>rail_tracksmall_3m</Name>
+        <File>dz\structures_bliss\rail\tracks\rail_tracksmall_3m.p3d</File>
+        <Date>04/30/21 13:35:49</Date>
+        <Archive></Archive>
+        <Fill>-8388608</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-787068368</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.504741</BBRadius>
+        <BBHScale>0.700065</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.164327</Height>
+        <BoundingMin X="-1.060058" Y="-0.185750" Z="-1.503224" />
+        <BoundingMax X="1.046775" Y="0.142904" Z="1.506259" />
+        <BoundingCenter X="-0.006642" Y="-0.021423" Z="0.001518" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>rail_tracksmall_7deg</Name>
+        <File>dz\structures_bliss\rail\tracks\rail_tracksmall_7deg.p3d</File>
+        <Date>04/30/21 13:35:49</Date>
+        <Archive></Archive>
+        <Fill>-8388608</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-465173787</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.056670</BBRadius>
+        <BBHScale>0.272160</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.166151</Height>
+        <BoundingMin X="-1.060058" Y="-0.188269" Z="-5.004601" />
+        <BoundingMax X="1.692385" Y="0.144032" Z="5.108740" />
+        <BoundingCenter X="0.316163" Y="-0.022119" Z="0.052070" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>rail_tracksmall_turnoutl</Name>
+        <File>dz\structures_bliss\rail\tracks\rail_tracksmall_turnoutl.p3d</File>
+        <Date>04/30/21 13:35:49</Date>
+        <Archive></Archive>
+        <Fill>-8388608</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-272405007</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.253626</BBRadius>
+        <BBHScale>0.503154</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.171814</Height>
+        <BoundingMin X="-2.241847" Y="-0.180624" Z="-3.251255" />
+        <BoundingMax X="1.032302" Y="0.163004" Z="3.255998" />
+        <BoundingCenter X="-0.604773" Y="-0.008810" Z="0.002371" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>rail_tracksmall_turnoutr</Name>
+        <File>dz\structures_bliss\rail\tracks\rail_tracksmall_turnoutr.p3d</File>
+        <Date>04/30/21 13:35:49</Date>
+        <Archive></Archive>
+        <Fill>-8388608</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-272405001</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.253913</BBRadius>
+        <BBHScale>0.503109</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.171814</Height>
+        <BoundingMin X="-1.070234" Y="-0.180624" Z="-3.251829" />
+        <BoundingMax X="2.203915" Y="0.163004" Z="3.255998" />
+        <BoundingCenter X="0.566841" Y="-0.008810" Z="0.002084" />
+        <Placement></Placement>
+    </Template>
+</Library>

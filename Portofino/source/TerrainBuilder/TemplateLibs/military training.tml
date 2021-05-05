@@ -1,0 +1,366 @@
+<?xml version="1.0" ?>
+<Library name="military training" shape="rectangle" default_fill="-32768" default_outline="-1" tex="0">
+    <Template>
+        <Name>shellcrater1</Name>
+        <File>dz\structures_bliss\military\training\shellcrater1.p3d</File>
+        <Date>04/30/21 13:35:19</Date>
+        <Archive></Archive>
+        <Fill>-32768</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>423004690</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.851382</BBRadius>
+        <BBHScale>0.966998</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.395001</Height>
+        <BoundingMin X="-2.729796" Y="-0.463739" Z="-2.887928" />
+        <BoundingMax X="2.784764" Y="0.326264" Z="2.814837" />
+        <BoundingCenter X="0.027484" Y="-0.068737" Z="-0.036546" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>shellcrater1_decal</Name>
+        <File>dz\structures_bliss\military\training\shellcrater1_decal.p3d</File>
+        <Date>04/30/21 13:35:12</Date>
+        <Archive></Archive>
+        <Fill>-32768</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1793782880</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.969192</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.969192" Y="0.000000" Z="-1.969192" />
+        <BoundingMax X="1.969192" Y="0.000000" Z="1.969192" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>shellcrater2_debris</Name>
+        <File>dz\structures_bliss\military\training\shellcrater2_debris.p3d</File>
+        <Date>04/30/21 13:35:13</Date>
+        <Archive></Archive>
+        <Fill>-32768</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1055323161</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.812806</BBRadius>
+        <BBHScale>0.984534</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.133238</Height>
+        <BoundingMin X="-1.202974" Y="-0.103867" Z="-2.009894" />
+        <BoundingMax X="2.366566" Y="0.162610" Z="1.615719" />
+        <BoundingCenter X="0.581796" Y="0.029372" Z="-0.197087" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>shellcrater2_decal</Name>
+        <File>dz\structures_bliss\military\training\shellcrater2_decal.p3d</File>
+        <Date>04/30/21 13:35:14</Date>
+        <Archive></Archive>
+        <Fill>-32768</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1091953377</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.938384</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.938384" Y="0.000000" Z="-3.938384" />
+        <BoundingMax X="3.938384" Y="0.000000" Z="3.938384" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>shellcrater2_large</Name>
+        <File>dz\structures_bliss\military\training\shellcrater2_large.p3d</File>
+        <Date>04/30/21 13:35:16</Date>
+        <Archive></Archive>
+        <Fill>-32768</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1379499537</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.075817</BBRadius>
+        <BBHScale>0.994182</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.857170</Height>
+        <BoundingMin X="-10.017197" Y="-4.392747" Z="-10.091494" />
+        <BoundingMax X="10.017197" Y="1.321592" Z="10.060141" />
+        <BoundingCenter X="0.000000" Y="-1.535577" Z="-0.015676" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>shellcrater2_small</Name>
+        <File>dz\structures_bliss\military\training\shellcrater2_small.p3d</File>
+        <Date>04/30/21 13:35:13</Date>
+        <Archive></Archive>
+        <Fill>-32768</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1355489893</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.557218</BBRadius>
+        <BBHScale>1.014837</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.809483</Height>
+        <BoundingMin X="-5.963964" Y="-2.507937" Z="-5.458897" />
+        <BoundingMax X="5.315372" Y="1.111028" Z="5.655539" />
+        <BoundingCenter X="-0.324296" Y="-0.698454" Z="0.098321" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>target_concrete1</Name>
+        <File>dz\structures_bliss\military\training\target_concrete1.p3d</File>
+        <Date>04/30/21 13:35:19</Date>
+        <Archive></Archive>
+        <Fill>-32768</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1334030942</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.876728</BBRadius>
+        <BBHScale>1.862038</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.632501</Height>
+        <BoundingMin X="-1.632501" Y="-0.024374" Z="-1.346123" />
+        <BoundingMax X="1.632501" Y="3.240627" Z="0.407334" />
+        <BoundingCenter X="-0.000000" Y="1.608126" Z="-0.469394" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>target_concrete2</Name>
+        <File>dz\structures_bliss\military\training\target_concrete2.p3d</File>
+        <Date>04/30/21 13:35:12</Date>
+        <Archive></Archive>
+        <Fill>-32768</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1334030943</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.876728</BBRadius>
+        <BBHScale>1.862038</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.632501</Height>
+        <BoundingMin X="-1.632501" Y="-0.024374" Z="-1.346123" />
+        <BoundingMax X="1.632501" Y="3.240627" Z="0.407334" />
+        <BoundingCenter X="-0.000000" Y="1.608126" Z="-0.469394" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>target_concrete_block</Name>
+        <File>dz\structures_bliss\military\training\target_concrete_block.p3d</File>
+        <Date>04/30/21 13:35:49</Date>
+        <Archive></Archive>
+        <Fill>-32768</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>143146273</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.942680</BBRadius>
+        <BBHScale>1.682140</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.251340</Height>
+        <BoundingMin X="-4.950000" Y="-0.500000" Z="-2.942680" />
+        <BoundingMax X="4.950000" Y="2.002680" Z="2.942680" />
+        <BoundingCenter X="0.000000" Y="0.751340" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>target_concrete_ramp</Name>
+        <File>dz\structures_bliss\military\training\target_concrete_ramp.p3d</File>
+        <Date>04/30/21 13:35:11</Date>
+        <Archive></Archive>
+        <Fill>-32768</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1410307774</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.142919</BBRadius>
+        <BBHScale>0.438817</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.307565</Height>
+        <BoundingMin X="-2.968944" Y="-1.000220" Z="-5.391951" />
+        <BoundingMax X="3.299917" Y="1.614910" Z="8.893887" />
+        <BoundingCenter X="0.165486" Y="0.307345" Z="1.750968" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>target_support</Name>
+        <File>dz\structures_bliss\military\training\target_support.p3d</File>
+        <Date>04/30/21 13:35:12</Date>
+        <Archive></Archive>
+        <Fill>-32768</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1122762305</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.897483</BBRadius>
+        <BBHScale>0.746666</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.430044</Height>
+        <BoundingMin X="-0.619367" Y="-0.672546" Z="-0.900891" />
+        <BoundingMax X="0.720873" Y="2.187541" Z="0.894075" />
+        <BoundingCenter X="0.050753" Y="0.757498" Z="-0.003408" />
+        <Placement></Placement>
+    </Template>
+</Library>

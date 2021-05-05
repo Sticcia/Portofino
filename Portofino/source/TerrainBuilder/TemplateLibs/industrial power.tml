@@ -1089,4 +1089,1126 @@
         <BoundingCenter X="0.007505" Y="3.535061" Z="-0.011108" />
         <Placement></Placement>
     </Template>
+    <Template>
+        <Name>power_vhv_tower_corner_proxy</Name>
+        <File>dz\structures_bliss\industrial\power\proxy\power_vhv_tower_corner_proxy.p3d</File>
+        <Date>04/30/21 13:34:42</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-26995601</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.013832</BBRadius>
+        <BBHScale>3.150006</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.888731</Height>
+        <BoundingMin X="-12.055917" Y="25.819773" Z="-4.037171" />
+        <BoundingMax X="13.231273" Y="29.597235" Z="3.990493" />
+        <BoundingCenter X="0.587678" Y="27.708504" Z="-0.023339" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_vhv_tower_proxy</Name>
+        <File>dz\structures_bliss\industrial\power\proxy\power_vhv_tower_proxy.p3d</File>
+        <Date>04/30/21 13:34:58</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1773853859</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.164948</BBRadius>
+        <BBHScale>73.393028</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.468767</Height>
+        <BoundingMin X="-12.100000" Y="24.594938" Z="-0.148795" />
+        <BoundingMax X="12.112114" Y="29.532473" Z="0.181101" />
+        <BoundingCenter X="0.006057" Y="27.063705" Z="0.016153" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_pole_wood4</Name>
+        <File>dz\structures_bliss\industrial\power\power_pole_wood4.p3d</File>
+        <Date>04/30/21 13:34:58</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1814357754</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.202976</BBRadius>
+        <BBHScale>5.294625</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>5.462438</Height>
+        <BoundingMin X="-1.068133" Y="-1.644767" Z="-0.177092" />
+        <BoundingMax X="1.081230" Y="9.280108" Z="0.228860" />
+        <BoundingCenter X="0.006548" Y="3.817671" Z="0.025884" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_pole_wood4_a</Name>
+        <File>dz\structures_bliss\industrial\power\power_pole_wood4_a.p3d</File>
+        <Date>04/30/21 13:34:59</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1468801468</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.202976</BBRadius>
+        <BBHScale>7.488337</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>5.462438</Height>
+        <BoundingMin X="-1.958674" Y="-1.644767" Z="-0.177092" />
+        <BoundingMax X="1.081230" Y="9.280108" Z="0.228860" />
+        <BoundingCenter X="-0.438722" Y="3.817671" Z="0.025884" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_pole_wood4_a_end</Name>
+        <File>dz\structures_bliss\industrial\power\power_pole_wood4_a_end.p3d</File>
+        <Date>04/30/21 13:34:48</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>462591480</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.318039</BBRadius>
+        <BBHScale>4.779132</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>5.462438</Height>
+        <BoundingMin X="-1.958674" Y="-1.644767" Z="-0.177092" />
+        <BoundingMax X="1.081230" Y="9.280108" Z="0.458987" />
+        <BoundingCenter X="-0.438722" Y="3.817671" Z="0.140948" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_pole_wood4_a_j</Name>
+        <File>dz\structures_bliss\industrial\power\power_pole_wood4_a_j.p3d</File>
+        <Date>04/30/21 13:34:59</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-293725305</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.073850</BBRadius>
+        <BBHScale>1.426030</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>6.513522</Height>
+        <BoundingMin X="-1.967675" Y="-1.644767" Z="-1.070464" />
+        <BoundingMax X="1.095011" Y="11.382277" Z="1.077237" />
+        <BoundingCenter X="-0.436332" Y="4.868754" Z="0.003387" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_pole_wood4_a_j_nest</Name>
+        <File>dz\structures_bliss\industrial\power\power_pole_wood4_a_j_nest.p3d</File>
+        <Date>04/30/21 13:35:00</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>863968080</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.073850</BBRadius>
+        <BBHScale>1.426030</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>6.513522</Height>
+        <BoundingMin X="-1.967675" Y="-1.644767" Z="-1.070464" />
+        <BoundingMax X="1.095011" Y="11.382277" Z="1.077237" />
+        <BoundingCenter X="-0.436332" Y="4.868754" Z="0.003387" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_pole_wood4_end</Name>
+        <File>dz\structures_bliss\industrial\power\power_pole_wood4_end.p3d</File>
+        <Date>04/30/21 13:34:45</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-259695306</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.318039</BBRadius>
+        <BBHScale>3.379083</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>5.462438</Height>
+        <BoundingMin X="-1.068133" Y="-1.644767" Z="-0.177092" />
+        <BoundingMax X="1.081230" Y="9.280108" Z="0.458987" />
+        <BoundingCenter X="0.006548" Y="3.817671" Z="0.140948" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_pole_wood4_lamp</Name>
+        <File>dz\structures_bliss\industrial\power\power_pole_wood4_lamp.p3d</File>
+        <Date>04/30/21 13:34:59</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-849748323</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.202976</BBRadius>
+        <BBHScale>5.893581</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>5.462438</Height>
+        <BoundingMin X="-1.068133" Y="-1.644767" Z="-0.177092" />
+        <BoundingMax X="1.324377" Y="9.280108" Z="0.228860" />
+        <BoundingCenter X="0.128122" Y="3.817671" Z="0.025884" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_pole_wood5</Name>
+        <File>dz\structures_bliss\industrial\power\power_pole_wood5.p3d</File>
+        <Date>04/30/21 13:34:45</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1814357755</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.196667</BBRadius>
+        <BBHScale>7.654723</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>4.607788</Height>
+        <BoundingMin X="-1.510629" Y="-0.033050" Z="-0.196667" />
+        <BoundingMax X="1.500234" Y="9.182526" Z="0.196667" />
+        <BoundingCenter X="-0.005197" Y="4.574738" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_pole_wood5_end</Name>
+        <File>dz\structures_bliss\industrial\power\power_pole_wood5_end.p3d</File>
+        <Date>04/30/21 13:34:46</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>879868983</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.633535</BBRadius>
+        <BBHScale>2.376242</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>4.607788</Height>
+        <BoundingMin X="-1.510629" Y="-0.033051" Z="-0.983906" />
+        <BoundingMax X="1.500234" Y="9.182526" Z="0.283163" />
+        <BoundingCenter X="-0.005197" Y="4.574738" Z="-0.350371" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_pole_wood5_end_rus</Name>
+        <File>dz\structures_bliss\industrial\power\power_pole_wood5_end_rus.p3d</File>
+        <Date>04/30/21 13:34:51</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-845307704</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.633535</BBRadius>
+        <BBHScale>2.376242</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>4.607788</Height>
+        <BoundingMin X="-1.510629" Y="-0.033051" Z="-0.983906" />
+        <BoundingMax X="1.500234" Y="9.182526" Z="0.283163" />
+        <BoundingCenter X="-0.005197" Y="4.574738" Z="-0.350371" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_pole_wood5_j</Name>
+        <File>dz\structures_bliss\industrial\power\power_pole_wood5_j.p3d</File>
+        <Date>04/30/21 13:34:49</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1477062982</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.226021</BBRadius>
+        <BBHScale>1.228711</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>4.607863</Height>
+        <BoundingMin X="-1.510903" Y="-0.033200" Z="-1.146544" />
+        <BoundingMax X="1.501949" Y="9.182526" Z="1.305498" />
+        <BoundingCenter X="-0.004477" Y="4.574663" Z="0.079477" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_pole_wood5_j_nest_rus</Name>
+        <File>dz\structures_bliss\industrial\power\power_pole_wood5_j_nest_rus.p3d</File>
+        <Date>04/30/21 13:35:01</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2015321826</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.445102</BBRadius>
+        <BBHScale>1.042435</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>4.607863</Height>
+        <BoundingMin X="-1.510903" Y="-0.033200" Z="-1.584707" />
+        <BoundingMax X="1.501949" Y="9.182526" Z="1.305498" />
+        <BoundingCenter X="-0.004477" Y="4.574663" Z="-0.139604" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_pole_wood5_j_rus</Name>
+        <File>dz\structures_bliss\industrial\power\power_pole_wood5_j_rus.p3d</File>
+        <Date>04/30/21 13:35:01</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1534764759</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.226021</BBRadius>
+        <BBHScale>1.228711</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>4.607863</Height>
+        <BoundingMin X="-1.510903" Y="-0.033200" Z="-1.146544" />
+        <BoundingMax X="1.501949" Y="9.182526" Z="1.305498" />
+        <BoundingCenter X="-0.004477" Y="4.574663" Z="0.079477" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_pole_wood5_rus</Name>
+        <File>dz\structures_bliss\industrial\power\power_pole_wood5_rus.p3d</File>
+        <Date>04/30/21 13:34:51</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>987727756</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.196667</BBRadius>
+        <BBHScale>7.654723</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>4.607788</Height>
+        <BoundingMin X="-1.510629" Y="-0.033050" Z="-0.196667" />
+        <BoundingMax X="1.500234" Y="9.182526" Z="0.196667" />
+        <BoundingCenter X="-0.005197" Y="4.574738" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_pole_wood6_end</Name>
+        <File>dz\structures_bliss\industrial\power\power_pole_wood6_end.p3d</File>
+        <Date>04/30/21 13:34:47</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2019433272</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.259527</BBRadius>
+        <BBHScale>1.077864</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>4.857706</Height>
+        <BoundingMin X="-0.207876" Y="-1.644767" Z="-0.209149" />
+        <BoundingMax X="0.351593" Y="8.070645" Z="0.309905" />
+        <BoundingCenter X="0.071858" Y="3.212939" Z="0.050378" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_pole_wood6_h</Name>
+        <File>dz\structures_bliss\industrial\power\power_pole_wood6_h.p3d</File>
+        <Date>04/30/21 13:34:48</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1485324485</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.136794</BBRadius>
+        <BBHScale>1.935865</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>5.357706</Height>
+        <BoundingMin X="-0.178036" Y="-1.644767" Z="-0.135366" />
+        <BoundingMax X="0.351593" Y="9.070645" Z="0.138222" />
+        <BoundingCenter X="0.086778" Y="3.712939" Z="0.001428" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_pole_wood6_h_trail_b</Name>
+        <File>dz\structures_bliss\industrial\power\power_pole_wood6_h_trail_b.p3d</File>
+        <Date>04/30/21 13:34:58</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1593242353</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.137499</BBRadius>
+        <BBHScale>1.925935</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>5.357706</Height>
+        <BoundingMin X="-0.178036" Y="-1.644767" Z="-0.136776" />
+        <BoundingMax X="0.351593" Y="9.070645" Z="0.138222" />
+        <BoundingCenter X="0.086778" Y="3.712939" Z="0.000723" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_pole_wood6_h_trail_g</Name>
+        <File>dz\structures_bliss\industrial\power\power_pole_wood6_h_trail_g.p3d</File>
+        <Date>04/30/21 13:34:46</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1593242348</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.137499</BBRadius>
+        <BBHScale>1.925935</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>5.357706</Height>
+        <BoundingMin X="-0.178036" Y="-1.644767" Z="-0.136776" />
+        <BoundingMax X="0.351593" Y="9.070645" Z="0.138222" />
+        <BoundingCenter X="0.086778" Y="3.712939" Z="0.000723" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_pole_wood6_h_trail_r</Name>
+        <File>dz\structures_bliss\industrial\power\power_pole_wood6_h_trail_r.p3d</File>
+        <Date>04/30/21 13:35:00</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1593242337</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.137499</BBRadius>
+        <BBHScale>1.925935</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>5.357706</Height>
+        <BoundingMin X="-0.178036" Y="-1.644767" Z="-0.136776" />
+        <BoundingMax X="0.351593" Y="9.070645" Z="0.138222" />
+        <BoundingCenter X="0.086778" Y="3.712939" Z="0.000723" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_pole_wood6_h_trail_y</Name>
+        <File>dz\structures_bliss\industrial\power\power_pole_wood6_h_trail_y.p3d</File>
+        <Date>04/30/21 13:34:51</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1593242330</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.137499</BBRadius>
+        <BBHScale>1.925935</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>5.357706</Height>
+        <BoundingMin X="-0.178036" Y="-1.644767" Z="-0.136776" />
+        <BoundingMax X="0.351593" Y="9.070645" Z="0.138222" />
+        <BoundingCenter X="0.086778" Y="3.712939" Z="0.000723" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_pole_wood6_j</Name>
+        <File>dz\structures_bliss\industrial\power\power_pole_wood6_j.p3d</File>
+        <Date>04/30/21 13:34:48</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1485324487</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.207876</BBRadius>
+        <BBHScale>1.345678</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>4.857706</Height>
+        <BoundingMin X="-0.207876" Y="-1.644767" Z="-0.209149" />
+        <BoundingMax X="0.351593" Y="8.070645" Z="0.206604" />
+        <BoundingCenter X="0.071858" Y="3.212939" Z="-0.001272" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_vhv_end</Name>
+        <File>dz\structures_bliss\industrial\power\power_vhv_end.p3d</File>
+        <Date>04/30/21 13:34:59</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-691930842</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.916773</BBRadius>
+        <BBHScale>3.347002</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>7.765000</Height>
+        <BoundingMin X="-9.730007" Y="-1.720000" Z="-3.233546" />
+        <BoundingMax X="9.794880" Y="13.810000" Z="2.600000" />
+        <BoundingCenter X="0.032436" Y="6.045000" Z="-0.316773" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_vhv_tower</Name>
+        <File>dz\structures_bliss\industrial\power\power_vhv_tower.p3d</File>
+        <Date>04/30/21 13:34:51</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1764517844</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.858350</BBRadius>
+        <BBHScale>1.511965</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>21.823669</Height>
+        <BoundingMin X="-11.795943" Y="-5.223970" Z="-7.858350" />
+        <BoundingMax X="11.967153" Y="38.423370" Z="7.858350" />
+        <BoundingCenter X="0.085605" Y="16.599701" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_vhv_tower_corner</Name>
+        <File>dz\structures_bliss\industrial\power\power_vhv_tower_corner.p3d</File>
+        <Date>04/30/21 13:34:58</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2083328416</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.858350</BBRadius>
+        <BBHScale>1.541481</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>21.823669</Height>
+        <BoundingMin X="-11.795943" Y="-5.223970" Z="-7.858350" />
+        <BoundingMax X="12.431060" Y="38.423370" Z="7.858350" />
+        <BoundingCenter X="0.317558" Y="16.599701" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_vhv_wires_direct</Name>
+        <File>dz\structures_bliss\industrial\power\power_vhv_wires_direct.p3d</File>
+        <Date>04/30/21 13:34:45</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-495158641</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>124.032173</BBRadius>
+        <BBHScale>0.100365</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>19.737528</Height>
+        <BoundingMin X="-12.398533" Y="0.000000" Z="-0.349609" />
+        <BoundingMax X="12.498533" Y="39.475056" Z="247.714737" />
+        <BoundingCenter X="0.050000" Y="19.737528" Z="123.682564" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_vhv_wires_direct_short</Name>
+        <File>dz\structures_bliss\industrial\power\power_vhv_wires_direct_short.p3d</File>
+        <Date>04/30/21 13:34:59</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1537678060</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>99.318695</BBRadius>
+        <BBHScale>0.125524</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>19.826221</Height>
+        <BoundingMin X="-12.407858" Y="-0.000004" Z="-98.948990" />
+        <BoundingMax X="12.525923" Y="39.652439" Z="99.688400" />
+        <BoundingCenter X="0.059032" Y="19.826218" Z="0.369705" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_vhv_wires_end</Name>
+        <File>dz\structures_bliss\industrial\power\power_vhv_wires_end.p3d</File>
+        <Date>04/30/21 13:34:45</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1229883925</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>57.101372</BBRadius>
+        <BBHScale>0.222299</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>19.837132</Height>
+        <BoundingMin X="-12.094459" Y="-0.000006" Z="-55.805611" />
+        <BoundingMax X="13.292693" Y="39.674255" Z="58.397133" />
+        <BoundingCenter X="0.599117" Y="19.837124" Z="1.295761" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_vhv_wires_left</Name>
+        <File>dz\structures_bliss\industrial\power\power_vhv_wires_left.p3d</File>
+        <Date>04/30/21 13:34:55</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-710138419</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>122.477371</BBRadius>
+        <BBHScale>0.102722</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>19.635746</Height>
+        <BoundingMin X="-12.519551" Y="0.000000" Z="-1.347488" />
+        <BoundingMax X="12.642694" Y="39.271492" Z="243.607254" />
+        <BoundingCenter X="0.061571" Y="19.635746" Z="121.129883" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_vhv_wires_right</Name>
+        <File>dz\structures_bliss\industrial\power\power_vhv_wires_right.p3d</File>
+        <Date>04/30/21 13:34:57</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>222418806</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>122.277435</BBRadius>
+        <BBHScale>0.108362</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>20.171610</Height>
+        <BoundingMin X="-12.579897" Y="0.000000" Z="-1.369118" />
+        <BoundingMax X="13.920557" Y="40.343220" Z="243.185745" />
+        <BoundingCenter X="0.670330" Y="20.171610" Z="120.908310" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_wiretel_50_main</Name>
+        <File>dz\structures_bliss\industrial\power\power_wiretel_50_main.p3d</File>
+        <Date>04/30/21 13:34:59</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-352989446</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>25.001225</BBRadius>
+        <BBHScale>0.001000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.417114</Height>
+        <BoundingMin X="-0.025000" Y="-0.423331" Z="-25.001221" />
+        <BoundingMax X="0.025000" Y="0.410897" Z="25.001228" />
+        <BoundingCenter X="0.000000" Y="-0.006217" Z="0.000004" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_wire_50</Name>
+        <File>dz\structures_bliss\industrial\power\power_wire_50.p3d</File>
+        <Date>04/30/21 13:34:58</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-949795301</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>25.000729</BBRadius>
+        <BBHScale>0.001000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.412367</Height>
+        <BoundingMin X="-0.025000" Y="-0.423331" Z="-25.000729" />
+        <BoundingMax X="0.025000" Y="0.401402" Z="25.000729" />
+        <BoundingCenter X="0.000000" Y="-0.010964" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>power_wire_50_main</Name>
+        <File>dz\structures_bliss\industrial\power\power_wire_50_main.p3d</File>
+        <Date>04/30/21 13:35:01</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1106090109</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>25.000729</BBRadius>
+        <BBHScale>0.001000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.412367</Height>
+        <BoundingMin X="-0.025000" Y="-0.423331" Z="-25.000729" />
+        <BoundingMax X="0.025000" Y="0.401402" Z="25.000729" />
+        <BoundingCenter X="0.000000" Y="-0.010964" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
 </Library>

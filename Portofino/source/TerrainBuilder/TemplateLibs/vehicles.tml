@@ -27,7 +27,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.562943</Height>
         <BoundingMin X="-1.529349" Y="-0.013476" Z="-2.510159" />
         <BoundingMax X="1.548314" Y="3.112408" Z="1.753541" />
         <BoundingCenter X="0.009483" Y="1.549466" Z="-0.378309" />
@@ -2341,6 +2341,39 @@
         <BoundingMin X="-1.273548" Y="-0.078166" Z="-2.535170" />
         <BoundingMax X="1.265621" Y="1.543450" Z="2.446699" />
         <BoundingCenter X="-0.003964" Y="0.732642" Z="-0.044236" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>wreck_tractor</Name>
+        <File>dz\structures_bliss\wrecks\vehicles\wreck_tractor.p3d</File>
+        <Date>04/30/21 13:38:33</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1758551286</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.838517</BBRadius>
+        <BBHScale>0.618464</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.361920</Height>
+        <BoundingMin X="-0.987555" Y="-0.267638" Z="-1.447000" />
+        <BoundingMax X="1.286558" Y="2.456201" Z="2.230035" />
+        <BoundingCenter X="0.149501" Y="1.094281" Z="0.391517" />
         <Placement></Placement>
     </Template>
 </Library>

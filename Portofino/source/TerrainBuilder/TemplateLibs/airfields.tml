@@ -330,4 +330,37 @@
         <BoundingCenter X="-1.311102" Y="3.388937" Z="6.910360" />
         <Placement></Placement>
     </Template>
+    <Template>
+        <Name>airfield_landmark</Name>
+        <File>dz\structures_bliss\specific\airfields\airfield_landmark.p3d</File>
+        <Date>04/30/21 13:38:02</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1446096633</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.337112</BBRadius>
+        <BBHScale>0.325328</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.430163</Height>
+        <BoundingMin X="-0.430000" Y="-0.065000" Z="-1.312130" />
+        <BoundingMax X="0.440000" Y="0.795326" Z="1.362095" />
+        <BoundingCenter X="0.005000" Y="0.365163" Z="0.024983" />
+        <Placement></Placement>
+    </Template>
 </Library>

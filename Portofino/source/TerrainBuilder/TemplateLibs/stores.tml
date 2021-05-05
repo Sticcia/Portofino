@@ -231,4 +231,37 @@
         <BoundingCenter X="-0.826385" Y="2.985808" Z="0.344275" />
         <Placement></Placement>
     </Template>
+    <Template>
+        <Name>village_store_enoch</Name>
+        <File>dz\structures_bliss\residential\stores\village_store_enoch.p3d</File>
+        <Date>04/30/21 13:35:53</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1632186170</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.352085</BBRadius>
+        <BBHScale>0.769907</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>3.731923</Height>
+        <BoundingMin X="-6.486810" Y="-0.746115" Z="-7.007811" />
+        <BoundingMax X="4.834040" Y="6.717731" Z="7.696360" />
+        <BoundingCenter X="-0.826385" Y="2.985808" Z="0.344275" />
+        <Placement></Placement>
+    </Template>
 </Library>

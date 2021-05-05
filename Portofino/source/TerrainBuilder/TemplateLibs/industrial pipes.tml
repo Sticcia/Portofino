@@ -1023,4 +1023,268 @@
         <BoundingCenter X="0.276654" Y="0.557349" Z="-2.115895" />
         <Placement></Placement>
     </Template>
+    <Template>
+        <Name>pipe_small2_24m</Name>
+        <File>dz\structures_bliss\industrial\pipes\pipe_small2_24m.p3d</File>
+        <Date>04/30/21 13:34:58</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1282799992</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>12.707451</BBRadius>
+        <BBHScale>0.156287</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.716935</Height>
+        <BoundingMin X="-1.989954" Y="-1.961230" Z="-12.958101" />
+        <BoundingMax X="1.982069" Y="1.472640" Z="12.456800" />
+        <BoundingCenter X="-0.003942" Y="-0.244295" Z="-0.250650" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pipe_small2_8m</Name>
+        <File>dz\structures_bliss\industrial\pipes\pipe_small2_8m.p3d</File>
+        <Date>04/30/21 13:34:47</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1299069736</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.906745</BBRadius>
+        <BBHScale>0.304381</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.756400</Height>
+        <BoundingMin X="-1.493520" Y="-1.961230" Z="-4.836580" />
+        <BoundingMax X="1.493520" Y="1.551570" Z="4.976911" />
+        <BoundingCenter X="0.000000" Y="-0.204830" Z="0.070165" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pipe_small2_curve</Name>
+        <File>dz\structures_bliss\industrial\pipes\pipe_small2_curve.p3d</File>
+        <Date>04/30/21 13:34:55</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1723540180</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.901945</BBRadius>
+        <BBHScale>0.812439</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.749315</Height>
+        <BoundingMin X="-2.501460" Y="-1.957500" Z="-1.722610" />
+        <BoundingMax X="0.588968" Y="1.541130" Z="2.081280" />
+        <BoundingCenter X="-0.956246" Y="-0.208185" Z="0.179335" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pipe_small2_ground</Name>
+        <File>dz\structures_bliss\industrial\pipes\pipe_small2_ground.p3d</File>
+        <Date>04/30/21 13:34:45</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1778297174</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.814570</BBRadius>
+        <BBHScale>0.730740</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.750000</Height>
+        <BoundingMin X="-1.329940" Y="-1.966760" Z="-1.590890" />
+        <BoundingMax X="1.322020" Y="1.533240" Z="2.038250" />
+        <BoundingCenter X="-0.003960" Y="-0.216760" Z="0.223680" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pipe_small2_high_24m</Name>
+        <File>dz\structures_bliss\industrial\pipes\pipe_small2_high_24m.p3d</File>
+        <Date>04/30/21 13:34:55</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2001133233</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>12.769201</BBRadius>
+        <BBHScale>0.156443</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>6.481185</Height>
+        <BoundingMin X="-1.995174" Y="-1.969470" Z="-13.038702" />
+        <BoundingMax X="2.000117" Y="10.992901" Z="12.499701" />
+        <BoundingCenter X="0.002471" Y="4.511715" Z="-0.269501" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pipe_small2_high_8m</Name>
+        <File>dz\structures_bliss\industrial\pipes\pipe_small2_high_8m.p3d</File>
+        <Date>04/30/21 13:35:03</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-875605393</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.914585</BBRadius>
+        <BBHScale>0.263428</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>6.439235</Height>
+        <BoundingMin X="-1.337770" Y="-1.969470" Z="-5.241530" />
+        <BoundingMax X="1.251510" Y="10.909000" Z="4.587640" />
+        <BoundingCenter X="-0.043130" Y="4.469765" Z="-0.326945" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pipe_small2_high_curve</Name>
+        <File>dz\structures_bliss\industrial\pipes\pipe_small2_high_curve.p3d</File>
+        <Date>04/30/21 13:34:48</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1337577259</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.997235</BBRadius>
+        <BBHScale>1.050260</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>6.523425</Height>
+        <BoundingMin X="-2.487570" Y="-2.063750" Z="-1.922860" />
+        <BoundingMax X="1.707660" Y="10.983100" Z="2.071610" />
+        <BoundingCenter X="-0.389955" Y="4.459675" Z="0.074375" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pipe_small2_high_ground</Name>
+        <File>dz\structures_bliss\industrial\pipes\pipe_small2_high_ground.p3d</File>
+        <Date>04/30/21 13:34:58</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1828852415</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.639225</BBRadius>
+        <BBHScale>0.507090</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>6.410795</Height>
+        <BoundingMin X="-1.339880" Y="-1.969690" Z="-3.050650" />
+        <BoundingMax X="1.336770" Y="10.851901" Z="2.227800" />
+        <BoundingCenter X="-0.001555" Y="4.441106" Z="-0.411425" />
+        <Placement></Placement>
+    </Template>
 </Library>

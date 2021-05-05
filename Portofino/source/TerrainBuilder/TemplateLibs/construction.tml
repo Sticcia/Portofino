@@ -60,7 +60,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>18.472654</Height>
         <BoundingMin X="-12.154799" Y="-0.186005" Z="-3.273320" />
         <BoundingMax X="29.548698" Y="36.759304" Z="3.275890" />
         <BoundingCenter X="8.696949" Y="18.286650" Z="0.001285" />
@@ -93,7 +93,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>5.370002</Height>
         <BoundingMin X="-5.573510" Y="-3.244667" Z="-9.504122" />
         <BoundingMax X="6.119990" Y="7.495337" Z="7.120280" />
         <BoundingCenter X="0.273240" Y="2.125335" Z="-1.191921" />
@@ -126,10 +126,43 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>5.477374</Height>
         <BoundingMin X="-8.225779" Y="-2.722098" Z="-10.899122" />
         <BoundingMax X="9.356541" Y="8.232651" Z="10.955729" />
         <BoundingCenter X="0.565381" Y="2.755277" Z="0.028303" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>construction_hopper</Name>
+        <File>dz\structures_bliss\industrial\construction\construction_hopper.p3d</File>
+        <Date>04/30/21 13:34:49</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-759339454</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.616242</BBRadius>
+        <BBHScale>0.957645</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>10.921652</Height>
+        <BoundingMin X="-2.504040" Y="-2.492450" Z="-2.571351" />
+        <BoundingMax X="2.506820" Y="19.350853" Z="2.661134" />
+        <BoundingCenter X="0.001390" Y="8.429201" Z="0.044892" />
         <Placement></Placement>
     </Template>
 </Library>

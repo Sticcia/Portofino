@@ -1,0 +1,729 @@
+<?xml version="1.0" ?>
+<Library name="cultural" shape="rectangle" default_fill="-16744193" default_outline="-1" tex="0">
+    <Template>
+        <Name>chapel2_white</Name>
+        <File>dz\structures_bliss\specific\cultural\chapel2_white.p3d</File>
+        <Date>04/30/21 13:38:02</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1292321567</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.412889</BBRadius>
+        <BBHScale>0.614798</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>4.555207</Height>
+        <BoundingMin X="-2.097608" Y="-2.029891" Z="-4.722576" />
+        <BoundingMax X="2.098864" Y="7.080524" Z="2.103201" />
+        <BoundingCenter X="0.000628" Y="2.525317" Z="-1.309687" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>chapel2_white_dam</Name>
+        <File>dz\structures_bliss\specific\cultural\chapel2_white_dam.p3d</File>
+        <Date>04/30/21 13:38:03</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2032327026</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.412889</BBRadius>
+        <BBHScale>0.615638</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>3.869316</Height>
+        <BoundingMin X="-2.103344" Y="-2.029891" Z="-4.722576" />
+        <BoundingMax X="2.098864" Y="5.708742" Z="2.103201" />
+        <BoundingCenter X="-0.002240" Y="1.839426" Z="-1.309687" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>chapel2_yellow</Name>
+        <File>dz\structures_bliss\specific\cultural\chapel2_yellow.p3d</File>
+        <Date>04/30/21 13:38:02</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1336337924</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.412889</BBRadius>
+        <BBHScale>0.614798</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>4.555207</Height>
+        <BoundingMin X="-2.097608" Y="-2.029891" Z="-4.722576" />
+        <BoundingMax X="2.098864" Y="7.080524" Z="2.103201" />
+        <BoundingCenter X="0.000628" Y="2.525317" Z="-1.309687" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>chapel2_yellow_dam</Name>
+        <File>dz\structures_bliss\specific\cultural\chapel2_yellow_dam.p3d</File>
+        <Date>04/30/21 13:38:13</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>519322509</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.412889</BBRadius>
+        <BBHScale>0.615638</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>3.869316</Height>
+        <BoundingMin X="-2.103344" Y="-2.029891" Z="-4.722576" />
+        <BoundingMax X="2.098864" Y="5.708742" Z="2.103201" />
+        <BoundingCenter X="-0.002240" Y="1.839426" Z="-1.309687" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>church4</Name>
+        <File>dz\structures_bliss\specific\cultural\church4.p3d</File>
+        <Date>04/30/21 13:38:13</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-925223251</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>16.881044</BBRadius>
+        <BBHScale>0.488114</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>15.568155</Height>
+        <BoundingMin X="-8.247175" Y="-1.881273" Z="-13.493814" />
+        <BoundingMax X="8.232578" Y="29.255037" Z="20.268274" />
+        <BoundingCenter X="-0.007298" Y="13.686882" Z="3.387230" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>church4_dam</Name>
+        <File>dz\structures_bliss\specific\cultural\church4_dam.p3d</File>
+        <Date>04/30/21 13:37:48</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-414775490</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>16.881044</BBRadius>
+        <BBHScale>0.488114</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>15.568155</Height>
+        <BoundingMin X="-8.247175" Y="-1.881273" Z="-13.493814" />
+        <BoundingMax X="8.232578" Y="29.255037" Z="20.268274" />
+        <BoundingCenter X="-0.007298" Y="13.686882" Z="3.387230" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>church4_lightblue</Name>
+        <File>dz\structures_bliss\specific\cultural\church4_lightblue.p3d</File>
+        <Date>04/30/21 13:38:01</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>309219326</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>16.881044</BBRadius>
+        <BBHScale>0.488114</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>15.568155</Height>
+        <BoundingMin X="-8.247175" Y="-1.881273" Z="-13.493814" />
+        <BoundingMax X="8.232578" Y="29.255037" Z="20.268274" />
+        <BoundingCenter X="-0.007298" Y="13.686882" Z="3.387230" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>church4_red</Name>
+        <File>dz\structures_bliss\specific\cultural\church4_red.p3d</File>
+        <Date>04/30/21 13:38:13</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-298852033</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>16.881044</BBRadius>
+        <BBHScale>0.488114</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>15.568155</Height>
+        <BoundingMin X="-8.247175" Y="-1.881273" Z="-13.493814" />
+        <BoundingMax X="8.232578" Y="29.255037" Z="20.268274" />
+        <BoundingCenter X="-0.007298" Y="13.686882" Z="3.387230" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>church4_white</Name>
+        <File>dz\structures_bliss\specific\cultural\church4_white.p3d</File>
+        <Date>04/30/21 13:38:13</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1821251209</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>16.881044</BBRadius>
+        <BBHScale>0.488114</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>15.568155</Height>
+        <BoundingMin X="-8.247175" Y="-1.881273" Z="-13.493814" />
+        <BoundingMax X="8.232578" Y="29.255037" Z="20.268274" />
+        <BoundingCenter X="-0.007298" Y="13.686882" Z="3.387230" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>church4_yellow_dam</Name>
+        <File>dz\structures_bliss\specific\cultural\church4_yellow_dam.p3d</File>
+        <Date>04/30/21 13:38:05</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-730658185</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>16.881044</BBRadius>
+        <BBHScale>0.488114</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>15.568155</Height>
+        <BoundingMin X="-8.247175" Y="-1.881273" Z="-13.493814" />
+        <BoundingMax X="8.232578" Y="29.255037" Z="20.268274" />
+        <BoundingCenter X="-0.007298" Y="13.686882" Z="3.387230" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>church5</Name>
+        <File>dz\structures_bliss\specific\cultural\church5.p3d</File>
+        <Date>04/30/21 13:38:01</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-925223250</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>13.436401</BBRadius>
+        <BBHScale>0.613250</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>14.289404</Height>
+        <BoundingMin X="-8.247175" Y="-1.881259" Z="-13.493814" />
+        <BoundingMax X="8.232578" Y="26.697550" Z="13.378988" />
+        <BoundingCenter X="-0.007298" Y="12.408146" Z="-0.057413" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>church5_dam</Name>
+        <File>dz\structures_bliss\specific\cultural\church5_dam.p3d</File>
+        <Date>04/30/21 13:37:50</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>724788799</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>13.436401</BBRadius>
+        <BBHScale>0.613250</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>14.289405</Height>
+        <BoundingMin X="-8.247175" Y="-1.881259" Z="-13.493814" />
+        <BoundingMax X="8.232578" Y="26.697550" Z="13.378987" />
+        <BoundingCenter X="-0.007298" Y="12.408145" Z="-0.057414" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>church5_red_dam</Name>
+        <File>dz\structures_bliss\specific\cultural\church5_red_dam.p3d</File>
+        <Date>04/30/21 13:38:01</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>513449425</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>13.436401</BBRadius>
+        <BBHScale>0.613250</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>14.289404</Height>
+        <BoundingMin X="-8.247175" Y="-1.881259" Z="-13.493814" />
+        <BoundingMax X="8.232578" Y="26.697550" Z="13.378988" />
+        <BoundingCenter X="-0.007298" Y="12.408146" Z="-0.057413" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>church5_white</Name>
+        <File>dz\structures_bliss\specific\cultural\church5_white.p3d</File>
+        <Date>04/30/21 13:37:48</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1771886584</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>13.436401</BBRadius>
+        <BBHScale>0.613250</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>14.289404</Height>
+        <BoundingMin X="-8.247175" Y="-1.881259" Z="-13.493814" />
+        <BoundingMax X="8.232578" Y="26.697550" Z="13.378988" />
+        <BoundingCenter X="-0.007298" Y="12.408146" Z="-0.057413" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>church5_white_dam</Name>
+        <File>dz\structures_bliss\specific\cultural\church5_white_dam.p3d</File>
+        <Date>04/30/21 13:37:50</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>336100745</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>13.436401</BBRadius>
+        <BBHScale>0.613250</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>14.289404</Height>
+        <BoundingMin X="-8.247175" Y="-1.881259" Z="-13.493814" />
+        <BoundingMax X="8.232578" Y="26.697550" Z="13.378988" />
+        <BoundingCenter X="-0.007298" Y="12.408146" Z="-0.057413" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>church5_yellow_dam</Name>
+        <File>dz\structures_bliss\specific\cultural\church5_yellow_dam.p3d</File>
+        <Date>04/30/21 13:37:48</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-510747338</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>13.436401</BBRadius>
+        <BBHScale>0.613250</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>14.289404</Height>
+        <BoundingMin X="-8.247175" Y="-1.881259" Z="-13.493814" />
+        <BoundingMax X="8.232578" Y="26.697550" Z="13.378988" />
+        <BoundingCenter X="-0.007298" Y="12.408146" Z="-0.057413" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_calvary1</Name>
+        <File>dz\structures_bliss\specific\cultural\misc_calvary1.p3d</File>
+        <Date>04/30/21 13:38:00</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>830244356</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.367302</BBRadius>
+        <BBHScale>1.089361</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.841440</Height>
+        <BoundingMin X="-0.400421" Y="-0.397306" Z="-0.364628" />
+        <BoundingMax X="0.399828" Y="3.285574" Z="0.369976" />
+        <BoundingCenter X="-0.000296" Y="1.444134" Z="0.002674" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_calvary2</Name>
+        <File>dz\structures_bliss\specific\cultural\misc_calvary2.p3d</File>
+        <Date>04/30/21 13:38:08</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>830244357</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.381671</BBRadius>
+        <BBHScale>1.004767</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.991305</Height>
+        <BoundingMin X="-0.381671" Y="-0.628441" Z="-0.381671" />
+        <BoundingMax X="0.385309" Y="3.354169" Z="0.381671" />
+        <BoundingCenter X="0.001819" Y="1.362864" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_calvary3</Name>
+        <File>dz\structures_bliss\specific\cultural\misc_calvary3.p3d</File>
+        <Date>04/30/21 13:38:01</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>830244358</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.381671</BBRadius>
+        <BBHScale>1.004767</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.991305</Height>
+        <BoundingMin X="-0.381671" Y="-0.628441" Z="-0.381671" />
+        <BoundingMax X="0.385309" Y="3.354169" Z="0.381671" />
+        <BoundingCenter X="0.001819" Y="1.362864" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>monument_enoch1</Name>
+        <File>dz\structures_bliss\specific\cultural\monument_enoch1.p3d</File>
+        <Date>04/30/21 13:37:48</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-257498530</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.301949</BBRadius>
+        <BBHScale>1.952218</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.768698</Height>
+        <BoundingMin X="-0.589166" Y="-0.156194" Z="-0.302769" />
+        <BoundingMax X="0.589774" Y="3.381202" Z="0.301129" />
+        <BoundingCenter X="0.000304" Y="1.612504" Z="-0.000820" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>monument_enoch2</Name>
+        <File>dz\structures_bliss\specific\cultural\monument_enoch2.p3d</File>
+        <Date>04/30/21 13:38:02</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-257498529</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.351395</BBRadius>
+        <BBHScale>2.531123</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.871132</Height>
+        <BoundingMin X="-0.808149" Y="-0.466334" Z="-0.377011" />
+        <BoundingMax X="0.970697" Y="3.275929" Z="0.325778" />
+        <BoundingCenter X="0.081274" Y="1.404798" Z="-0.025616" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>statue_enoch1</Name>
+        <File>dz\structures_bliss\specific\cultural\statue_enoch1.p3d</File>
+        <Date>04/30/21 13:37:50</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1539920671</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.377830</BBRadius>
+        <BBHScale>1.010283</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.482860</Height>
+        <BoundingMin X="-0.378871" Y="-0.161549" Z="-0.284907" />
+        <BoundingMax X="0.384560" Y="2.804170" Z="0.470753" />
+        <BoundingCenter X="0.002844" Y="1.321311" Z="0.092923" />
+        <Placement></Placement>
+    </Template>
+</Library>

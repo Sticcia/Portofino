@@ -132,4 +132,136 @@
         <BoundingCenter X="-0.648630" Y="17.200836" Z="-2.237250" />
         <Placement></Placement>
     </Template>
+    <Template>
+        <Name>smokestack_big_ruin_bottom</Name>
+        <File>dz\structures_bliss\industrial\smokestacks\smokestack_big_ruin_bottom.p3d</File>
+        <Date>04/30/21 13:35:00</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1095823933</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>23.000301</BBRadius>
+        <BBHScale>1.025732</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>9.496190</Height>
+        <BoundingMin X="-19.855001" Y="-8.570611" Z="-25.639202" />
+        <BoundingMax X="27.329302" Y="10.421769" Z="20.361401" />
+        <BoundingCenter X="3.737150" Y="0.925579" Z="-2.638901" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>smokestack_big_ruin_low</Name>
+        <File>dz\structures_bliss\industrial\smokestacks\smokestack_big_ruin_low.p3d</File>
+        <Date>04/30/21 13:34:48</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>87073474</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.171243</BBRadius>
+        <BBHScale>0.865044</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>11.710895</Height>
+        <BoundingMin X="-2.393475" Y="0.469812" Z="-3.493240" />
+        <BoundingMax X="3.093057" Y="23.891602" Z="2.849247" />
+        <BoundingCenter X="0.349791" Y="12.180707" Z="-0.321997" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>smokestack_big_ruin_mid</Name>
+        <File>dz\structures_bliss\industrial\smokestacks\smokestack_big_ruin_mid.p3d</File>
+        <Date>04/30/21 13:34:48</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>94941366</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.116680</BBRadius>
+        <BBHScale>1.002405</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>11.077005</Height>
+        <BoundingMin X="-2.941193" Y="19.539291" Z="-3.106650" />
+        <BoundingMax X="3.307160" Y="41.693302" Z="3.126710" />
+        <BoundingCenter X="0.182983" Y="30.616297" Z="0.010030" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>smokestack_big_ruin_up</Name>
+        <File>dz\structures_bliss\industrial\smokestacks\smokestack_big_ruin_up.p3d</File>
+        <Date>04/30/21 13:35:05</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>949230893</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.777650</BBRadius>
+        <BBHScale>1.020684</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>13.024426</Height>
+        <BoundingMin X="-2.719519" Y="37.322453" Z="-2.767621" />
+        <BoundingMax X="2.950690" Y="63.371304" Z="2.787680" />
+        <BoundingCenter X="0.115585" Y="50.346878" Z="0.010030" />
+        <Placement></Placement>
+    </Template>
 </Library>

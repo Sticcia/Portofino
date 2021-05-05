@@ -462,4 +462,103 @@
         <BoundingCenter X="-0.000309" Y="3.330532" Z="0.070645" />
         <Placement></Placement>
     </Template>
+    <Template>
+        <Name>rail_crossing_block_small</Name>
+        <File>dz\structures_bliss\rail\misc\rail_crossing_block_small.p3d</File>
+        <Date>04/30/21 13:35:49</Date>
+        <Archive></Archive>
+        <Fill>-8388608</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>586276869</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.976128</BBRadius>
+        <BBHScale>1.033486</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.286586</Height>
+        <BoundingMin X="-1.987995" Y="-0.346762" Z="-1.973343" />
+        <BoundingMax X="2.096604" Y="0.226411" Z="1.978913" />
+        <BoundingCenter X="0.054304" Y="-0.060176" Z="0.002785" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>rail_linebreak_small</Name>
+        <File>dz\structures_bliss\rail\misc\rail_linebreak_small.p3d</File>
+        <Date>04/30/21 13:35:49</Date>
+        <Archive></Archive>
+        <Fill>-8388608</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>372014406</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.504741</BBRadius>
+        <BBHScale>0.700065</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.477497</Height>
+        <BoundingMin X="-1.060058" Y="-0.255746" Z="-1.503224" />
+        <BoundingMax X="1.046775" Y="0.699249" Z="1.506259" />
+        <BoundingCenter X="-0.006642" Y="0.221752" Z="0.001518" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>rail_tracksmall_switch</Name>
+        <File>dz\structures_bliss\rail\misc\rail_tracksmall_switch.p3d</File>
+        <Date>04/30/21 13:35:49</Date>
+        <Archive></Archive>
+        <Fill>-8388608</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1946165878</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.778379</BBRadius>
+        <BBHScale>2.881400</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.680536</Height>
+        <BoundingMin X="-2.484115" Y="-0.814542" Z="-0.856619" />
+        <BoundingMax X="2.001525" Y="0.546529" Z="0.700138" />
+        <BoundingCenter X="-0.241295" Y="-0.134007" Z="-0.078241" />
+        <Placement></Placement>
+    </Template>
 </Library>

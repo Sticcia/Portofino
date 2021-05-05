@@ -990,4 +990,169 @@
         <BoundingCenter X="1.728816" Y="0.755067" Z="-0.067379" />
         <Placement></Placement>
     </Template>
+    <Template>
+        <Name>misc_deconshower_large</Name>
+        <File>dz\structures_bliss\military\misc\misc_deconshower_large.p3d</File>
+        <Date>04/30/21 13:35:20</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>110208212</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.188375</BBRadius>
+        <BBHScale>4.597858</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>3.485000</Height>
+        <BoundingMin X="-5.455210" Y="0.000000" Z="-1.188280" />
+        <BoundingMax X="5.472750" Y="6.970000" Z="1.188470" />
+        <BoundingCenter X="0.008770" Y="3.485000" Z="0.000095" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_dragonteeth_multiple</Name>
+        <File>dz\structures_bliss\military\misc\misc_dragonteeth_multiple.p3d</File>
+        <Date>04/30/21 13:35:13</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1896666675</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.096808</BBRadius>
+        <BBHScale>2.479124</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.563210</Height>
+        <BoundingMin X="-5.191787" Y="-0.008974" Z="-2.097773" />
+        <BoundingMax X="5.204708" Y="1.117446" Z="2.095844" />
+        <BoundingCenter X="0.006461" Y="0.554236" Z="-0.000964" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_dragonteeth_multiple_redwhite</Name>
+        <File>dz\structures_bliss\military\misc\misc_dragonteeth_multiple_redwhite.p3d</File>
+        <Date>04/30/21 13:35:12</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>98882122</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.096808</BBRadius>
+        <BBHScale>2.479124</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.563210</Height>
+        <BoundingMin X="-5.191787" Y="-0.008974" Z="-2.097773" />
+        <BoundingMax X="5.204708" Y="1.117446" Z="2.095844" />
+        <BoundingCenter X="0.006461" Y="0.554236" Z="-0.000964" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_dragonteeth_single</Name>
+        <File>dz\structures_bliss\military\misc\misc_dragonteeth_single.p3d</File>
+        <Date>04/30/21 13:35:22</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1046340837</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.688786</BBRadius>
+        <BBHScale>0.876840</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.558951</Height>
+        <BoundingMin X="-0.570630" Y="-0.003904" Z="-0.707181" />
+        <BoundingMax X="0.637280" Y="1.113999" Z="0.670392" />
+        <BoundingCenter X="0.033325" Y="0.555047" Z="-0.018395" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_dragonteeth_single_redwhite</Name>
+        <File>dz\structures_bliss\military\misc\misc_dragonteeth_single_redwhite.p3d</File>
+        <Date>04/30/21 13:35:13</Date>
+        <Archive></Archive>
+        <Fill>-32704</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2063528654</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.688786</BBRadius>
+        <BBHScale>0.876840</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.558951</Height>
+        <BoundingMin X="-0.570630" Y="-0.003904" Z="-0.707181" />
+        <BoundingMax X="0.637280" Y="1.113999" Z="0.670392" />
+        <BoundingCenter X="0.033325" Y="0.555047" Z="-0.018395" />
+        <Placement></Placement>
+    </Template>
 </Library>

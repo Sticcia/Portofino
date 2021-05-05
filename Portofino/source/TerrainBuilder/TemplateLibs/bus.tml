@@ -330,4 +330,70 @@
         <BoundingCenter X="0.005910" Y="1.022365" Z="0.239339" />
         <Placement></Placement>
     </Template>
+    <Template>
+        <Name>busstop_village2</Name>
+        <File>dz\structures_bliss\residential\bus\busstop_village2.p3d</File>
+        <Date>04/30/21 13:36:02</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1500224381</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.401460</BBRadius>
+        <BBHScale>2.167623</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.577736</Height>
+        <BoundingMin X="-2.987971" Y="-0.566625" Z="-2.671327" />
+        <BoundingMax X="3.087701" Y="2.588848" Z="0.131592" />
+        <BoundingCenter X="0.049865" Y="1.011111" Z="-1.269868" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>busstop_village2_sign</Name>
+        <File>dz\structures_bliss\residential\bus\busstop_village2_sign.p3d</File>
+        <Date>04/30/21 13:36:02</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>276880409</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.200624</BBRadius>
+        <BBHScale>1.454106</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.536286</Height>
+        <BoundingMin X="-0.559196" Y="-0.357140" Z="-0.198409" />
+        <BoundingMax X="0.024262" Y="2.715432" Z="0.202840" />
+        <BoundingCenter X="-0.267467" Y="1.179146" Z="0.002215" />
+        <Placement></Placement>
+    </Template>
 </Library>

@@ -165,4 +165,136 @@
         <BoundingCenter X="0.030689" Y="2.186293" Z="0.096068" />
         <Placement></Placement>
     </Template>
+    <Template>
+        <Name>fuelstation_build_enoch</Name>
+        <File>dz\structures_bliss\specific\fuelstation\fuelstation_build_enoch.p3d</File>
+        <Date>04/30/21 13:37:51</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2026506951</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.097271</BBRadius>
+        <BBHScale>0.748983</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.130064</Height>
+        <BoundingMin X="-3.824337" Y="-0.500001" Z="-4.758759" />
+        <BoundingMax X="3.811202" Y="3.760128" Z="5.435783" />
+        <BoundingCenter X="-0.006567" Y="1.630064" Z="0.338512" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>fuelstation_feed_enoch</Name>
+        <File>dz\structures_bliss\specific\fuelstation\fuelstation_feed_enoch.p3d</File>
+        <Date>04/30/21 13:38:12</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-60331029</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.188059</BBRadius>
+        <BBHScale>2.899406</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.750000</Height>
+        <BoundingMin X="-0.542517" Y="-0.000000" Z="-0.188059" />
+        <BoundingMax X="0.548002" Y="1.500000" Z="0.188059" />
+        <BoundingCenter X="0.002743" Y="0.750000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>fuelstation_shed_enoch</Name>
+        <File>dz\structures_bliss\specific\fuelstation\fuelstation_shed_enoch.p3d</File>
+        <Date>04/30/21 13:38:06</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1998357281</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.208979</BBRadius>
+        <BBHScale>1.497458</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>3.489000</Height>
+        <BoundingMin X="-9.289381" Y="-0.498120" Z="-6.170645" />
+        <BoundingMax X="9.305990" Y="6.479880" Z="6.247312" />
+        <BoundingCenter X="0.008305" Y="2.990880" Z="0.038333" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>fuelstation_sign_enoch</Name>
+        <File>dz\structures_bliss\specific\fuelstation\fuelstation_sign_enoch.p3d</File>
+        <Date>04/30/21 13:38:01</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-301533782</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.526596</BBRadius>
+        <BBHScale>0.416272</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.842510</Height>
+        <BoundingMin X="-0.207612" Y="-0.672167" Z="-0.448136" />
+        <BoundingMax X="0.230803" Y="5.012852" Z="0.605057" />
+        <BoundingCenter X="0.011595" Y="2.170342" Z="0.078460" />
+        <Placement></Placement>
+    </Template>
 </Library>

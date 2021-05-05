@@ -27,7 +27,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.597305</Height>
         <BoundingMin X="-2.310890" Y="-0.233483" Z="-2.952157" />
         <BoundingMax X="2.520314" Y="0.961127" Z="3.127823" />
         <BoundingCenter X="0.104712" Y="0.363822" Z="0.087833" />
@@ -654,7 +654,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>3.896578</Height>
         <BoundingMin X="-0.872205" Y="-0.842195" Z="-2.468120" />
         <BoundingMax X="0.866430" Y="6.950960" Z="2.139060" />
         <BoundingCenter X="-0.002887" Y="3.054383" Z="-0.164530" />
@@ -720,7 +720,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.876923</Height>
         <BoundingMin X="-4.262320" Y="-0.803185" Z="-2.719560" />
         <BoundingMax X="3.568120" Y="2.950660" Z="3.367590" />
         <BoundingCenter X="-0.347100" Y="1.073737" Z="0.324015" />
@@ -819,7 +819,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>5.342350</Height>
         <BoundingMin X="-16.053902" Y="-2.426580" Z="-9.967670" />
         <BoundingMax X="15.735001" Y="8.258121" Z="18.358101" />
         <BoundingCenter X="-0.159451" Y="2.915770" Z="4.195215" />
@@ -885,7 +885,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>3.775175</Height>
         <BoundingMin X="-13.933001" Y="-1.698560" Z="-10.068001" />
         <BoundingMax X="3.865650" Y="5.851790" Z="9.174629" />
         <BoundingCenter X="-5.033675" Y="2.076615" Z="-0.446686" />
@@ -918,7 +918,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>4.621275</Height>
         <BoundingMin X="-18.235601" Y="-2.900830" Z="-8.999792" />
         <BoundingMax X="3.650960" Y="6.341721" Z="8.301023" />
         <BoundingCenter X="-7.292320" Y="1.720445" Z="-0.349384" />
@@ -951,7 +951,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.485505</Height>
         <BoundingMin X="-6.389990" Y="-1.596920" Z="-4.902540" />
         <BoundingMax X="4.757370" Y="1.374090" Z="5.969021" />
         <BoundingCenter X="-0.816310" Y="-0.111415" Z="0.533240" />
@@ -984,10 +984,1957 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.117433</Height>
         <BoundingMin X="-4.436260" Y="-0.803185" Z="-0.270000" />
         <BoundingMax X="4.436260" Y="1.431680" Z="0.270000" />
         <BoundingCenter X="0.000000" Y="0.314247" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ruin_busstop_village2</Name>
+        <File>dz\structures_bliss\ruins\ruin_busstop_village2.p3d</File>
+        <Date>04/30/21 13:37:40</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>878622106</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.709558</BBRadius>
+        <BBHScale>1.785706</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.984951</Height>
+        <BoundingMin X="-3.011928" Y="-0.546362" Z="-2.869813" />
+        <BoundingMax X="3.093606" Y="1.423540" Z="0.549303" />
+        <BoundingCenter X="0.040839" Y="0.438589" Z="-1.160255" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ruin_camp_house</Name>
+        <File>dz\structures_bliss\ruins\ruin_camp_house.p3d</File>
+        <Date>04/30/21 13:37:40</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-780227751</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.803162</BBRadius>
+        <BBHScale>0.857988</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.368845</Height>
+        <BoundingMin X="-5.164412" Y="-1.677893" Z="-4.394749" />
+        <BoundingMax X="4.793673" Y="3.059798" Z="7.211575" />
+        <BoundingCenter X="-0.185370" Y="0.690952" Z="1.408413" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ruin_chapel2_white</Name>
+        <File>dz\structures_bliss\ruins\ruin_chapel2_white.p3d</File>
+        <Date>04/30/21 13:37:28</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-768869750</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.147385</BBRadius>
+        <BBHScale>0.815538</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.225753</Height>
+        <BoundingMin X="-5.099965" Y="-2.245764" Z="-6.029763" />
+        <BoundingMax X="4.926889" Y="2.205742" Z="6.265006" />
+        <BoundingCenter X="-0.086538" Y="-0.020011" Z="0.117621" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ruin_chapel2_yellow</Name>
+        <File>dz\structures_bliss\ruins\ruin_chapel2_yellow.p3d</File>
+        <Date>04/30/21 13:36:36</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1684126061</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.147385</BBRadius>
+        <BBHScale>0.815538</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.225753</Height>
+        <BoundingMin X="-5.099965" Y="-2.245764" Z="-6.029763" />
+        <BoundingMax X="4.926889" Y="2.205742" Z="6.265006" />
+        <BoundingCenter X="-0.086538" Y="-0.020011" Z="0.117621" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ruin_church2</Name>
+        <File>dz\structures_bliss\ruins\ruin_church2.p3d</File>
+        <Date>04/30/21 13:37:41</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2016264660</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>22.498652</BBRadius>
+        <BBHScale>0.601358</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>9.253828</Height>
+        <BoundingMin X="-14.279501" Y="-4.083856" Z="-29.510302" />
+        <BoundingMax X="12.780001" Y="14.423800" Z="15.487001" />
+        <BoundingCenter X="-0.749750" Y="5.169972" Z="-7.011650" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ruin_church2_noivy</Name>
+        <File>dz\structures_bliss\ruins\ruin_church2_noivy.p3d</File>
+        <Date>04/30/21 13:36:45</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-391010080</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>22.498652</BBRadius>
+        <BBHScale>0.601358</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>9.253828</Height>
+        <BoundingMin X="-14.279501" Y="-4.083856" Z="-29.510302" />
+        <BoundingMax X="12.780001" Y="14.423800" Z="15.487001" />
+        <BoundingCenter X="-0.749750" Y="5.169972" Z="-7.011650" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ruin_highway_pillar1</Name>
+        <File>dz\structures_bliss\ruins\ruin_highway_pillar1.p3d</File>
+        <Date>04/30/21 13:37:45</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-374469378</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.073230</BBRadius>
+        <BBHScale>2.418732</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>3.619663</Height>
+        <BoundingMin X="-12.322300" Y="-2.000006" Z="-5.073991" />
+        <BoundingMax X="12.219265" Y="5.239320" Z="5.072469" />
+        <BoundingCenter X="-0.051517" Y="1.619657" Z="-0.000761" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ruin_highway_pillar1_garage</Name>
+        <File>dz\structures_bliss\ruins\ruin_highway_pillar1_garage.p3d</File>
+        <Date>04/30/21 13:37:34</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1363337160</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>12.620583</BBRadius>
+        <BBHScale>1.478545</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>3.608185</Height>
+        <BoundingMin X="-18.687416" Y="-2.000002" Z="-12.621822" />
+        <BoundingMax X="18.632782" Y="5.216368" Z="12.619343" />
+        <BoundingCenter X="-0.027317" Y="1.608183" Z="-0.001240" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ruin_housebig1</Name>
+        <File>dz\structures_bliss\ruins\ruin_housebig1.p3d</File>
+        <Date>04/30/21 13:36:46</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-619228390</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>13.070251</BBRadius>
+        <BBHScale>0.796709</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>8.244734</Height>
+        <BoundingMin X="-10.073114" Y="-4.783082" Z="-12.414001" />
+        <BoundingMax X="10.753250" Y="11.706387" Z="13.726501" />
+        <BoundingCenter X="0.340068" Y="3.461653" Z="0.656250" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ruin_housebig1_half</Name>
+        <File>dz\structures_bliss\ruins\ruin_housebig1_half.p3d</File>
+        <Date>04/30/21 13:37:41</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1856088264</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>12.228451</BBRadius>
+        <BBHScale>0.789878</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>7.221385</Height>
+        <BoundingMin X="-9.659961" Y="-6.182310" Z="-12.071501" />
+        <BoundingMax X="9.658000" Y="8.260460" Z="12.385401" />
+        <BoundingCenter X="-0.000980" Y="1.039075" Z="0.156950" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ruin_housebig1_noivy</Name>
+        <File>dz\structures_bliss\ruins\ruin_housebig1_noivy.p3d</File>
+        <Date>04/30/21 13:37:33</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1055846694</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>13.070251</BBRadius>
+        <BBHScale>0.796709</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>8.244734</Height>
+        <BoundingMin X="-10.073114" Y="-4.783082" Z="-12.414001" />
+        <BoundingMax X="10.753250" Y="11.706387" Z="13.726501" />
+        <BoundingCenter X="0.340068" Y="3.461653" Z="0.656250" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ruin_housebig1_noivy_half</Name>
+        <File>dz\structures_bliss\ruins\ruin_housebig1_noivy_half.p3d</File>
+        <Date>04/30/21 13:37:21</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>140560428</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>12.228451</BBRadius>
+        <BBHScale>0.789878</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>7.221385</Height>
+        <BoundingMin X="-9.659961" Y="-6.182310" Z="-12.071501" />
+        <BoundingMax X="9.658000" Y="8.260460" Z="12.385401" />
+        <BoundingCenter X="-0.000980" Y="1.039075" Z="0.156950" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ruin_housebig2</Name>
+        <File>dz\structures_bliss\ruins\ruin_housebig2.p3d</File>
+        <Date>04/30/21 13:37:21</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-619228389</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.954596</BBRadius>
+        <BBHScale>0.978692</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>7.141091</Height>
+        <BoundingMin X="-9.124426" Y="-2.375278" Z="-11.605806" />
+        <BoundingMax X="12.317919" Y="11.906905" Z="10.303385" />
+        <BoundingCenter X="1.596746" Y="4.765814" Z="-0.651211" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ruin_housebig2_half</Name>
+        <File>dz\structures_bliss\ruins\ruin_housebig2_half.p3d</File>
+        <Date>04/30/21 13:36:42</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1484081033</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.425848</BBRadius>
+        <BBHScale>0.929225</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>4.933697</Height>
+        <BoundingMin X="-8.016411" Y="-2.052133" Z="-11.562115" />
+        <BoundingMax X="11.359501" Y="7.815260" Z="9.289581" />
+        <BoundingCenter X="1.671545" Y="2.881563" Z="-1.136267" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ruin_housebig2_noivy</Name>
+        <File>dz\structures_bliss\ruins\ruin_housebig2_noivy.p3d</File>
+        <Date>04/30/21 13:37:32</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>354017191</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.954596</BBRadius>
+        <BBHScale>0.978692</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>7.141091</Height>
+        <BoundingMin X="-9.124426" Y="-2.375278" Z="-11.605806" />
+        <BoundingMax X="12.317919" Y="11.906905" Z="10.303385" />
+        <BoundingCenter X="1.596746" Y="4.765814" Z="-0.651211" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ruin_housebig2_noivy_half</Name>
+        <File>dz\structures_bliss\ruins\ruin_housebig2_noivy_half.p3d</File>
+        <Date>04/30/21 13:37:43</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>360471275</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.425848</BBRadius>
+        <BBHScale>0.929225</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>4.933697</Height>
+        <BoundingMin X="-8.016411" Y="-2.052133" Z="-11.562115" />
+        <BoundingMax X="11.359501" Y="7.815260" Z="9.289581" />
+        <BoundingCenter X="1.671545" Y="2.881563" Z="-1.136267" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ruin_housebig3</Name>
+        <File>dz\structures_bliss\ruins\ruin_housebig3.p3d</File>
+        <Date>04/30/21 13:37:32</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-619228388</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>13.746786</BBRadius>
+        <BBHScale>0.742971</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>8.389075</Height>
+        <BoundingMin X="-10.377001" Y="-3.539950" Z="-12.909901" />
+        <BoundingMax X="10.049936" Y="13.238201" Z="14.583672" />
+        <BoundingCenter X="-0.163532" Y="4.849126" Z="0.836885" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ruin_housebig3_half</Name>
+        <File>dz\structures_bliss\ruins\ruin_housebig3_half.p3d</File>
+        <Date>04/30/21 13:37:32</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1112073802</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>12.121450</BBRadius>
+        <BBHScale>0.662394</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>5.781870</Height>
+        <BoundingMin X="-8.377821" Y="-3.964600" Z="-11.134300" />
+        <BoundingMax X="7.680531" Y="7.599141" Z="13.108601" />
+        <BoundingCenter X="-0.348645" Y="1.817270" Z="0.987150" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ruin_housebig3_noivy</Name>
+        <File>dz\structures_bliss\ruins\ruin_housebig3_noivy.p3d</File>
+        <Date>04/30/21 13:37:32</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-347812312</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>13.746786</BBRadius>
+        <BBHScale>0.742971</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>8.389075</Height>
+        <BoundingMin X="-10.377001" Y="-3.539950" Z="-12.909901" />
+        <BoundingMax X="10.049936" Y="13.238201" Z="14.583672" />
+        <BoundingCenter X="-0.163532" Y="4.849126" Z="0.836885" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ruin_housebig3_noivy_half</Name>
+        <File>dz\structures_bliss\ruins\ruin_housebig3_noivy_half.p3d</File>
+        <Date>04/30/21 13:37:32</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>580382122</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>12.121450</BBRadius>
+        <BBHScale>0.662394</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>5.781870</Height>
+        <BoundingMin X="-8.377821" Y="-3.964600" Z="-11.134300" />
+        <BoundingMax X="7.680531" Y="7.599141" Z="13.108601" />
+        <BoundingCenter X="-0.348645" Y="1.817270" Z="0.987150" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ruin_housesmall1</Name>
+        <File>dz\structures_bliss\ruins\ruin_housesmall1.p3d</File>
+        <Date>04/30/21 13:37:09</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>979378259</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.217172</BBRadius>
+        <BBHScale>1.298340</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>5.726705</Height>
+        <BoundingMin X="-12.908701" Y="-3.332180" Z="-10.206028" />
+        <BoundingMax X="13.622017" Y="8.121230" Z="10.228315" />
+        <BoundingCenter X="0.356658" Y="2.394525" Z="0.011144" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ruin_housesmall1_half</Name>
+        <File>dz\structures_bliss\ruins\ruin_housesmall1_half.p3d</File>
+        <Date>04/30/21 13:37:30</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-975736513</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.420980</BBRadius>
+        <BBHScale>1.332590</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>4.907856</Height>
+        <BoundingMin X="-12.564800" Y="-5.664990" Z="-9.892130" />
+        <BoundingMax X="12.543800" Y="4.150721" Z="8.949831" />
+        <BoundingCenter X="-0.010500" Y="-0.757135" Z="-0.471149" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ruin_housesmall1_noivy</Name>
+        <File>dz\structures_bliss\ruins\ruin_housesmall1_noivy.p3d</File>
+        <Date>04/30/21 13:37:44</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1120098527</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.217172</BBRadius>
+        <BBHScale>1.298340</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>5.726705</Height>
+        <BoundingMin X="-12.908701" Y="-3.332180" Z="-10.206028" />
+        <BoundingMax X="13.622017" Y="8.121230" Z="10.228315" />
+        <BoundingCenter X="0.356658" Y="2.394525" Z="0.011144" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ruin_housesmall1_noivy_half</Name>
+        <File>dz\structures_bliss\ruins\ruin_housesmall1_noivy_half.p3d</File>
+        <Date>04/30/21 13:37:32</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>784295859</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.420980</BBRadius>
+        <BBHScale>1.332590</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>4.907856</Height>
+        <BoundingMin X="-12.564800" Y="-5.664990" Z="-9.892130" />
+        <BoundingMax X="12.543800" Y="4.150721" Z="8.949831" />
+        <BoundingCenter X="-0.010500" Y="-0.757135" Z="-0.471149" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ruin_housesmall2</Name>
+        <File>dz\structures_bliss\ruins\ruin_housesmall2.p3d</File>
+        <Date>04/30/21 13:37:29</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>979378260</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.705551</BBRadius>
+        <BBHScale>1.365806</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>6.055666</Height>
+        <BoundingMin X="-14.981201" Y="-3.332551" Z="-10.761801" />
+        <BoundingMax X="14.262201" Y="8.778781" Z="10.649302" />
+        <BoundingCenter X="-0.359500" Y="2.723115" Z="-0.056250" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ruin_housesmall2_noivy</Name>
+        <File>dz\structures_bliss\ruins\ruin_housesmall2_noivy.p3d</File>
+        <Date>04/30/21 13:37:44</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>418269024</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.705551</BBRadius>
+        <BBHScale>1.365806</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>6.055666</Height>
+        <BoundingMin X="-14.981201" Y="-3.332551" Z="-10.761801" />
+        <BoundingMax X="14.262201" Y="8.778781" Z="10.649302" />
+        <BoundingCenter X="-0.359500" Y="2.723115" Z="-0.056250" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ruin_house_1b01</Name>
+        <File>dz\structures_bliss\ruins\ruin_house_1b01.p3d</File>
+        <Date>04/30/21 13:36:36</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1109221128</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.852055</BBRadius>
+        <BBHScale>0.761594</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.585460</Height>
+        <BoundingMin X="-8.858599" Y="-2.124500" Z="-11.324308" />
+        <BoundingMax X="7.671110" Y="3.046419" Z="10.379801" />
+        <BoundingCenter X="-0.593745" Y="0.460960" Z="-0.472254" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ruin_house_1w01</Name>
+        <File>dz\structures_bliss\ruins\ruin_house_1w01.p3d</File>
+        <Date>04/30/21 13:37:40</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1282712733</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.014825</BBRadius>
+        <BBHScale>1.415961</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.335133</Height>
+        <BoundingMin X="-6.526649" Y="-2.056087" Z="-5.349423" />
+        <BoundingMax X="7.674940" Y="2.614179" Z="4.680227" />
+        <BoundingCenter X="0.574145" Y="0.279046" Z="-0.334598" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ruin_house_1w02</Name>
+        <File>dz\structures_bliss\ruins\ruin_house_1w02.p3d</File>
+        <Date>04/30/21 13:37:42</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1282712734</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.686152</BBRadius>
+        <BBHScale>1.259550</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.338309</Height>
+        <BoundingMin X="-8.231909" Y="-2.207315" Z="-5.717511" />
+        <BoundingMax X="6.092080" Y="2.469304" Z="5.654792" />
+        <BoundingCenter X="-1.069914" Y="0.130994" Z="-0.031360" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ruin_house_1w03</Name>
+        <File>dz\structures_bliss\ruins\ruin_house_1w03.p3d</File>
+        <Date>04/30/21 13:37:45</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1282712735</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.750586</BBRadius>
+        <BBHScale>0.525506</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.565586</Height>
+        <BoundingMin X="-4.902078" Y="-2.154396" Z="-8.938641" />
+        <BoundingMax X="5.345906" Y="2.976777" Z="10.562531" />
+        <BoundingCenter X="0.221914" Y="0.411191" Z="0.811945" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ruin_house_1w04</Name>
+        <File>dz\structures_bliss\ruins\ruin_house_1w04.p3d</File>
+        <Date>04/30/21 13:36:44</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1282712736</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>11.405323</BBRadius>
+        <BBHScale>0.446904</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.668045</Height>
+        <BoundingMin X="-5.162050" Y="-2.123182" Z="-11.673626" />
+        <BoundingMax X="5.032123" Y="3.212907" Z="11.137020" />
+        <BoundingCenter X="-0.064963" Y="0.544863" Z="-0.268303" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ruin_house_1w05</Name>
+        <File>dz\structures_bliss\ruins\ruin_house_1w05.p3d</File>
+        <Date>04/30/21 13:37:18</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1282712737</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.798985</BBRadius>
+        <BBHScale>0.616322</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.858352</Height>
+        <BoundingMin X="-5.243174" Y="-2.255315" Z="-10.584530" />
+        <BoundingMax X="5.602845" Y="3.461390" Z="7.013439" />
+        <BoundingCenter X="0.179836" Y="0.603037" Z="-1.785546" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ruin_house_1w06</Name>
+        <File>dz\structures_bliss\ruins\ruin_house_1w06.p3d</File>
+        <Date>04/30/21 13:37:31</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1282712738</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.383895</BBRadius>
+        <BBHScale>0.810338</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.550848</Height>
+        <BoundingMin X="-6.923643" Y="-2.146770" Z="-9.267868" />
+        <BoundingMax X="5.043256" Y="2.954927" Z="5.499922" />
+        <BoundingCenter X="-0.940193" Y="0.404079" Z="-1.883973" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ruin_house_1w07</Name>
+        <File>dz\structures_bliss\ruins\ruin_house_1w07.p3d</File>
+        <Date>04/30/21 13:37:33</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1282712739</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.902608</BBRadius>
+        <BBHScale>1.104961</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.583833</Height>
+        <BoundingMin X="-6.175142" Y="-2.007869" Z="-10.160336" />
+        <BoundingMax X="11.289013" Y="3.159796" Z="5.644880" />
+        <BoundingCenter X="2.556935" Y="0.575964" Z="-2.257728" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ruin_house_1w08</Name>
+        <File>dz\structures_bliss\ruins\ruin_house_1w08.p3d</File>
+        <Date>04/30/21 13:37:40</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1282712740</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.046093</BBRadius>
+        <BBHScale>1.551447</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.374630</Height>
+        <BoundingMin X="-7.777719" Y="-1.677893" Z="-5.216984" />
+        <BoundingMax X="7.879769" Y="3.071368" Z="4.875202" />
+        <BoundingCenter X="0.051025" Y="0.696737" Z="-0.170891" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ruin_house_1w09</Name>
+        <File>dz\structures_bliss\ruins\ruin_house_1w09.p3d</File>
+        <Date>04/30/21 13:37:42</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1282712741</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.564818</BBRadius>
+        <BBHScale>1.065507</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.938450</Height>
+        <BoundingMin X="-6.398324" Y="-2.115339" Z="-6.420773" />
+        <BoundingMax X="7.591401" Y="3.761561" Z="6.708864" />
+        <BoundingCenter X="0.596539" Y="0.823111" Z="0.144045" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ruin_house_1w10</Name>
+        <File>dz\structures_bliss\ruins\ruin_house_1w10.p3d</File>
+        <Date>04/30/21 13:37:18</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1282778331</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.139821</BBRadius>
+        <BBHScale>1.779403</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.553750</Height>
+        <BoundingMin X="-6.318141" Y="-1.906304" Z="-3.551744" />
+        <BoundingMax X="8.414682" Y="3.201195" Z="4.727899" />
+        <BoundingCenter X="1.048271" Y="0.647446" Z="0.588078" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ruin_house_1w11</Name>
+        <File>dz\structures_bliss\ruins\ruin_house_1w11.p3d</File>
+        <Date>04/30/21 13:37:31</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1282778332</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.793234</BBRadius>
+        <BBHScale>1.161313</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.975196</Height>
+        <BoundingMin X="-8.273239" Y="-2.071452" Z="-6.234249" />
+        <BoundingMax X="7.504897" Y="3.878939" Z="7.352220" />
+        <BoundingCenter X="-0.384171" Y="0.903744" Z="0.558985" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ruin_house_1w12</Name>
+        <File>dz\structures_bliss\ruins\ruin_house_1w12.p3d</File>
+        <Date>04/30/21 13:37:33</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1282778333</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.305094</BBRadius>
+        <BBHScale>0.831135</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.840476</Height>
+        <BoundingMin X="-6.976330" Y="-1.627893" Z="-8.426037" />
+        <BoundingMax X="6.828972" Y="4.053059" Z="8.184151" />
+        <BoundingCenter X="-0.073679" Y="1.212583" Z="-0.120943" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ruin_house_1w13</Name>
+        <File>dz\structures_bliss\ruins\ruin_house_1w13.p3d</File>
+        <Date>04/30/21 13:37:40</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1282778334</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.017261</BBRadius>
+        <BBHScale>1.214510</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.840476</Height>
+        <BoundingMin X="-6.983247" Y="-1.777893" Z="-4.796215" />
+        <BoundingMax X="5.203782" Y="3.903059" Z="5.238306" />
+        <BoundingCenter X="-0.889732" Y="1.062583" Z="0.221045" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ruin_house_2b01</Name>
+        <File>dz\structures_bliss\ruins\ruin_house_2b01.p3d</File>
+        <Date>04/30/21 13:37:23</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1889808327</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.489708</BBRadius>
+        <BBHScale>0.825880</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.457518</Height>
+        <BoundingMin X="-7.233553" Y="-1.981137" Z="-7.420311" />
+        <BoundingMax X="5.137640" Y="2.933898" Z="7.559105" />
+        <BoundingCenter X="-1.047956" Y="0.476381" Z="0.069397" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ruin_house_2b02</Name>
+        <File>dz\structures_bliss\ruins\ruin_house_2b02.p3d</File>
+        <Date>04/30/21 13:37:32</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1889808328</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.346775</BBRadius>
+        <BBHScale>1.379220</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>3.457976</Height>
+        <BoundingMin X="-13.338053" Y="-2.524993" Z="-9.062820" />
+        <BoundingMax X="12.444464" Y="4.390960" Z="9.630730" />
+        <BoundingCenter X="-0.446795" Y="0.932983" Z="0.283955" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ruin_house_2b03</Name>
+        <File>dz\structures_bliss\ruins\ruin_house_2b03.p3d</File>
+        <Date>04/30/21 13:37:34</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1889808329</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>12.473753</BBRadius>
+        <BBHScale>0.811295</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.720719</Height>
+        <BoundingMin X="-9.661619" Y="-2.361066" Z="-12.825535" />
+        <BoundingMax X="10.578169" Y="3.080373" Z="12.121971" />
+        <BoundingCenter X="0.458275" Y="0.359653" Z="-0.351782" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ruin_house_2b04</Name>
+        <File>dz\structures_bliss\ruins\ruin_house_2b04.p3d</File>
+        <Date>04/30/21 13:37:41</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1889808330</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.541484</BBRadius>
+        <BBHScale>1.138827</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.718891</Height>
+        <BoundingMin X="-10.920552" Y="-2.336659" Z="-9.879084" />
+        <BoundingMax X="10.811652" Y="3.101123" Z="9.203884" />
+        <BoundingCenter X="-0.054450" Y="0.382232" Z="-0.337600" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ruin_house_2w01</Name>
+        <File>dz\structures_bliss\ruins\ruin_house_2w01.p3d</File>
+        <Date>04/30/21 13:37:44</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2063299932</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.617506</BBRadius>
+        <BBHScale>1.370041</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>3.032024</Height>
+        <BoundingMin X="-7.754330" Y="-2.411928" Z="-6.881523" />
+        <BoundingMax X="10.378176" Y="3.652121" Z="6.353489" />
+        <BoundingCenter X="1.311923" Y="0.620097" Z="-0.264017" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ruin_house_2w02</Name>
+        <File>dz\structures_bliss\ruins\ruin_house_2w02.p3d</File>
+        <Date>04/30/21 13:36:34</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2063299933</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.611511</BBRadius>
+        <BBHScale>1.307035</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.746326</Height>
+        <BoundingMin X="-8.950518" Y="-1.756405" Z="-7.741173" />
+        <BoundingMax X="8.332430" Y="3.736248" Z="5.481850" />
+        <BoundingCenter X="-0.309044" Y="0.989922" Z="-1.129662" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ruin_house_2w03</Name>
+        <File>dz\structures_bliss\ruins\ruin_house_2w03.p3d</File>
+        <Date>04/30/21 13:37:08</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2063299934</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.653578</BBRadius>
+        <BBHScale>1.436483</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.810622</Height>
+        <BoundingMin X="-11.447687" Y="-1.787630" Z="-8.932262" />
+        <BoundingMax X="10.540781" Y="3.833614" Z="6.374893" />
+        <BoundingCenter X="-0.453453" Y="1.022992" Z="-1.278685" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ruin_house_2w04</Name>
+        <File>dz\structures_bliss\ruins\ruin_house_2w04.p3d</File>
+        <Date>04/30/21 13:37:28</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2063299935</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.281177</BBRadius>
+        <BBHScale>1.691781</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>3.488560</Height>
+        <BoundingMin X="-12.383881" Y="-2.504494" Z="-6.753963" />
+        <BoundingMax X="12.252434" Y="4.472626" Z="7.808390" />
+        <BoundingCenter X="-0.065723" Y="0.984066" Z="0.527213" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ruin_house_2w05</Name>
+        <File>dz\structures_bliss\ruins\ruin_house_2w05.p3d</File>
+        <Date>04/30/21 13:37:32</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2063299936</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.582750</BBRadius>
+        <BBHScale>1.170732</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.637182</Height>
+        <BoundingMin X="-9.845683" Y="-1.926859" Z="-8.240429" />
+        <BoundingMax X="7.909060" Y="3.347504" Z="6.925072" />
+        <BoundingCenter X="-0.968311" Y="0.710322" Z="-0.657679" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ruin_mil_controltower</Name>
+        <File>dz\structures_bliss\ruins\ruin_mil_controltower.p3d</File>
+        <Date>04/30/21 13:37:41</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1612129358</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.859970</BBRadius>
+        <BBHScale>0.971604</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>4.295705</Height>
+        <BoundingMin X="-8.648430" Y="-1.695520" Z="-8.910183" />
+        <BoundingMax X="8.568331" Y="6.895890" Z="8.809757" />
+        <BoundingCenter X="-0.040050" Y="2.600185" Z="-0.050213" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ruin_mil_guardbox_brown</Name>
+        <File>dz\structures_bliss\ruins\ruin_mil_guardbox_brown.p3d</File>
+        <Date>04/30/21 13:37:41</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1242922333</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.237430</BBRadius>
+        <BBHScale>0.965429</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.511755</Height>
+        <BoundingMin X="-3.105890" Y="-1.920100" Z="-2.909630" />
+        <BoundingMax X="3.145130" Y="1.103410" Z="3.565230" />
+        <BoundingCenter X="0.019620" Y="-0.408345" Z="0.327800" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ruin_mil_guardbox_green</Name>
+        <File>dz\structures_bliss\ruins\ruin_mil_guardbox_green.p3d</File>
+        <Date>04/30/21 13:37:42</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>76135984</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.237430</BBRadius>
+        <BBHScale>0.965429</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.511755</Height>
+        <BoundingMin X="-3.105890" Y="-1.920100" Z="-2.909630" />
+        <BoundingMax X="3.145130" Y="1.103410" Z="3.565230" />
+        <BoundingCenter X="0.019620" Y="-0.408345" Z="0.327800" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ruin_mil_guardbox_smooth</Name>
+        <File>dz\structures_bliss\ruins\ruin_mil_guardbox_smooth.p3d</File>
+        <Date>04/30/21 13:36:51</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1757627937</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.237430</BBRadius>
+        <BBHScale>0.965429</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.511755</Height>
+        <BoundingMin X="-3.105890" Y="-1.920100" Z="-2.909630" />
+        <BoundingMax X="3.145130" Y="1.103410" Z="3.565230" />
+        <BoundingCenter X="0.019620" Y="-0.408345" Z="0.327800" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ruin_shed_closed</Name>
+        <File>dz\structures_bliss\ruins\ruin_shed_closed.p3d</File>
+        <Date>04/30/21 13:37:27</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-318560672</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>18.015800</BBRadius>
+        <BBHScale>0.593415</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>3.087510</Height>
+        <BoundingMin X="-10.992100" Y="-2.637950" Z="-17.552700" />
+        <BoundingMax X="10.389599" Y="3.537070" Z="18.478901" />
+        <BoundingCenter X="-0.301250" Y="0.449560" Z="0.463100" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ruin_shed_closed2</Name>
+        <File>dz\structures_bliss\ruins\ruin_shed_closed2.p3d</File>
+        <Date>04/30/21 13:36:30</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2049339858</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.613191</BBRadius>
+        <BBHScale>1.705734</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>3.825765</Height>
+        <BoundingMin X="-18.541601" Y="-3.033610" Z="-11.308201" />
+        <BoundingMax X="14.253500" Y="4.617920" Z="7.918180" />
+        <BoundingCenter X="-2.144051" Y="0.792155" Z="-1.695010" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ruin_slum_house2</Name>
+        <File>dz\structures_bliss\ruins\ruin_slum_house2.p3d</File>
+        <Date>04/30/21 13:37:45</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-245025111</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.101845</BBRadius>
+        <BBHScale>1.115878</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.684669</Height>
+        <BoundingMin X="-3.104566" Y="-1.226526" Z="-3.779838" />
+        <BoundingMax X="3.817996" Y="2.142813" Z="2.423851" />
+        <BoundingCenter X="0.356715" Y="0.458143" Z="-0.677993" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ruin_slum_house3</Name>
+        <File>dz\structures_bliss\ruins\ruin_slum_house3.p3d</File>
+        <Date>04/30/21 13:36:46</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-245025110</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.149436</BBRadius>
+        <BBHScale>0.808412</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.852811</Height>
+        <BoundingMin X="-3.300865" Y="-1.380901" Z="-4.296914" />
+        <BoundingMax X="3.408047" Y="2.324721" Z="4.001958" />
+        <BoundingCenter X="0.053591" Y="0.471910" Z="-0.147478" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ruin_slum_house4</Name>
+        <File>dz\structures_bliss\ruins\ruin_slum_house4.p3d</File>
+        <Date>04/30/21 13:37:21</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-245025109</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.169374</BBRadius>
+        <BBHScale>1.257477</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.269504</Height>
+        <BoundingMin X="-4.066480" Y="-2.050093" Z="-3.291492" />
+        <BoundingMax X="3.904352" Y="2.488915" Z="3.047256" />
+        <BoundingCenter X="-0.081064" Y="0.219411" Z="-0.122118" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ruin_smokestack_metal</Name>
+        <File>dz\structures_bliss\ruins\ruin_smokestack_metal.p3d</File>
+        <Date>04/30/21 13:37:33</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1622223752</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.236538</BBRadius>
+        <BBHScale>1.127007</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>4.492218</Height>
+        <BoundingMin X="-5.941383" Y="-1.906823" Z="-9.039031" />
+        <BoundingMax X="10.369879" Y="7.077613" Z="5.434045" />
+        <BoundingCenter X="2.214248" Y="2.585395" Z="-1.802493" />
         <Placement></Placement>
     </Template>
 </Library>

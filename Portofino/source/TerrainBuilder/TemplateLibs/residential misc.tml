@@ -2937,4 +2937,697 @@
         <BoundingCenter X="0.009220" Y="0.487480" Z="0.030386" />
         <Placement></Placement>
     </Template>
+    <Template>
+        <Name>garbage_bin2</Name>
+        <File>dz\structures_bliss\residential\misc\garbage_bin2.p3d</File>
+        <Date>04/30/21 13:35:51</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-613583883</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.233940</BBRadius>
+        <BBHScale>1.046685</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.714083</Height>
+        <BoundingMin X="-0.239861" Y="-0.200000" Z="-0.182607" />
+        <BoundingMax X="0.249861" Y="1.228165" Z="0.285273" />
+        <BoundingCenter X="0.005000" Y="0.514083" Z="0.051333" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>garbage_container2_closed</Name>
+        <File>dz\structures_bliss\residential\misc\garbage_container2_closed.p3d</File>
+        <Date>04/30/21 13:35:52</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>325093232</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.630601</BBRadius>
+        <BBHScale>1.433316</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.780837</Height>
+        <BoundingMin X="-0.903851" Y="-0.004000" Z="-0.640532" />
+        <BoundingMax X="0.903851" Y="1.557675" Z="0.620670" />
+        <BoundingCenter X="0.000000" Y="0.776837" Z="-0.009931" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>garbage_container2_open</Name>
+        <File>dz\structures_bliss\residential\misc\garbage_container2_open.p3d</File>
+        <Date>04/30/21 13:36:02</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>596491054</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.643687</BBRadius>
+        <BBHScale>1.404177</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.737121</Height>
+        <BoundingMin X="-0.903851" Y="-0.003825" Z="-0.666704" />
+        <BoundingMax X="0.903851" Y="1.470417" Z="0.620670" />
+        <BoundingCenter X="0.000000" Y="0.733296" Z="-0.023017" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>garbage_pile7</Name>
+        <File>dz\structures_bliss\residential\misc\garbage_pile7.p3d</File>
+        <Date>04/30/21 13:35:52</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>705210651</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.073720</BBRadius>
+        <BBHScale>2.268787</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.600385</Height>
+        <BoundingMin X="-2.808588" Y="-0.073312" Z="-1.189400" />
+        <BoundingMax X="2.063498" Y="1.127458" Z="0.958040" />
+        <BoundingCenter X="-0.372545" Y="0.527073" Z="-0.115680" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>garbage_pile8</Name>
+        <File>dz\structures_bliss\residential\misc\garbage_pile8.p3d</File>
+        <Date>04/30/21 13:36:01</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>705210652</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.771892</BBRadius>
+        <BBHScale>1.976400</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.534823</Height>
+        <BoundingMin X="-1.673354" Y="-0.022547" Z="-0.819252" />
+        <BoundingMax X="1.377780" Y="1.047100" Z="0.724531" />
+        <BoundingCenter X="-0.147787" Y="0.512277" Z="-0.047360" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>lamp_decorative</Name>
+        <File>dz\structures_bliss\residential\misc\lamp_decorative.p3d</File>
+        <Date>04/30/21 13:35:51</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1130869689</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.666902</BBRadius>
+        <BBHScale>0.902688</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.425779</Height>
+        <BoundingMin X="-0.470563" Y="-0.258699" Z="-0.669619" />
+        <BoundingMax X="0.733446" Y="4.592860" Z="0.664185" />
+        <BoundingCenter X="0.131441" Y="2.167080" Z="-0.002717" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>lamp_halogen</Name>
+        <File>dz\structures_bliss\residential\misc\lamp_halogen.p3d</File>
+        <Date>04/30/21 13:36:01</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>936918093</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.783800</BBRadius>
+        <BBHScale>0.648455</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>6.860298</Height>
+        <BoundingMin X="-0.508259" Y="-0.878119" Z="-0.765009" />
+        <BoundingMax X="0.508259" Y="12.842477" Z="0.802592" />
+        <BoundingCenter X="0.000000" Y="5.982179" Z="0.018792" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>lamp_harbour</Name>
+        <File>dz\structures_bliss\residential\misc\lamp_harbour.p3d</File>
+        <Date>04/30/21 13:36:01</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1988779164</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.402182</BBRadius>
+        <BBHScale>0.581648</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>3.325034</Height>
+        <BoundingMin X="-0.233936" Y="-0.427067" Z="-0.230224" />
+        <BoundingMax X="0.233920" Y="6.223001" Z="0.574139" />
+        <BoundingCenter X="-0.000008" Y="2.897967" Z="0.171957" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>lamp_stadium</Name>
+        <File>dz\structures_bliss\residential\misc\lamp_stadium.p3d</File>
+        <Date>04/30/21 13:35:51</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>655673654</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.333169</BBRadius>
+        <BBHScale>0.616805</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>15.613459</Height>
+        <BoundingMin X="-0.941490" Y="-1.126482" Z="-1.374009" />
+        <BoundingMax X="0.703122" Y="30.100435" Z="1.292329" />
+        <BoundingCenter X="-0.119184" Y="14.486977" Z="-0.040840" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_bench6</Name>
+        <File>dz\structures_bliss\residential\misc\misc_bench6.p3d</File>
+        <Date>04/30/21 13:35:55</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1112556857</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.331844</BBRadius>
+        <BBHScale>3.001414</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.559819</Height>
+        <BoundingMin X="-0.993600" Y="-0.049200" Z="-0.254400" />
+        <BoundingMax X="0.998400" Y="1.070439" Z="0.409287" />
+        <BoundingCenter X="0.002400" Y="0.510619" Z="0.077444" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_bench7</Name>
+        <File>dz\structures_bliss\residential\misc\misc_bench7.p3d</File>
+        <Date>04/30/21 13:35:51</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1112556858</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.331844</BBRadius>
+        <BBHScale>3.001414</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.560069</Height>
+        <BoundingMin X="-0.993600" Y="-0.049200" Z="-0.254400" />
+        <BoundingMax X="0.998400" Y="1.070938" Z="0.409287" />
+        <BoundingCenter X="0.002400" Y="0.510869" Z="0.077444" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_bench8</Name>
+        <File>dz\structures_bliss\residential\misc\misc_bench8.p3d</File>
+        <Date>04/30/21 13:35:53</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1112556859</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.370386</BBRadius>
+        <BBHScale>2.617008</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.656205</Height>
+        <BoundingMin X="-0.962621" Y="-0.227817" Z="-0.289419" />
+        <BoundingMax X="0.975983" Y="1.084593" Z="0.451352" />
+        <BoundingCenter X="0.006681" Y="0.428388" Z="0.080966" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_bench9</Name>
+        <File>dz\structures_bliss\residential\misc\misc_bench9.p3d</File>
+        <Date>04/30/21 13:36:02</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1112556860</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.198590</BBRadius>
+        <BBHScale>5.605499</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.337699</Height>
+        <BoundingMin X="-1.107797" Y="-0.146951" Z="-0.198734" />
+        <BoundingMax X="1.118592" Y="0.528447" Z="0.198445" />
+        <BoundingCenter X="0.005398" Y="0.190748" Z="-0.000145" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_gasmetercabinet</Name>
+        <File>dz\structures_bliss\residential\misc\misc_gasmetercabinet.p3d</File>
+        <Date>04/30/21 13:35:55</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1208151413</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.367604</BBRadius>
+        <BBHScale>2.116275</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.858461</Height>
+        <BoundingMin X="-0.799723" Y="-0.200000" Z="-0.402286" />
+        <BoundingMax X="0.756181" Y="1.516922" Z="0.332922" />
+        <BoundingCenter X="-0.021771" Y="0.658461" Z="-0.034682" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_mysteriousbell</Name>
+        <File>dz\structures_bliss\residential\misc\misc_mysteriousbell.p3d</File>
+        <Date>04/30/21 13:35:51</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1463005780</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.201575</BBRadius>
+        <BBHScale>0.754241</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.925836</Height>
+        <BoundingMin X="-0.207739" Y="-0.232030" Z="-0.282778" />
+        <BoundingMax X="0.096334" Y="1.619643" Z="0.120372" />
+        <BoundingCenter X="-0.055702" Y="0.693806" Z="-0.081203" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_sewercover</Name>
+        <File>dz\structures_bliss\residential\misc\misc_sewercover.p3d</File>
+        <Date>04/30/21 13:36:01</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>729919576</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.414107</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.121668</Height>
+        <BoundingMin X="-0.414106" Y="-0.099432" Z="-0.414107" />
+        <BoundingMax X="0.414107" Y="0.143905" Z="0.414107" />
+        <BoundingCenter X="0.000000" Y="0.022237" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_table_large</Name>
+        <File>dz\structures_bliss\residential\misc\misc_table_large.p3d</File>
+        <Date>04/30/21 13:35:51</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1535596887</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.105031</BBRadius>
+        <BBHScale>0.527814</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.432296</Height>
+        <BoundingMin X="-0.578000" Y="-0.005074" Z="-1.104318" />
+        <BoundingMax X="0.588502" Y="0.859517" Z="1.105744" />
+        <BoundingCenter X="0.005251" Y="0.427222" Z="0.000713" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_table_market</Name>
+        <File>dz\structures_bliss\residential\misc\misc_table_market.p3d</File>
+        <Date>04/30/21 13:35:54</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-137716704</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.410950</BBRadius>
+        <BBHScale>2.957103</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.484148</Height>
+        <BoundingMin X="-1.208170" Y="-0.008296" Z="-0.513088" />
+        <BoundingMax X="1.222270" Y="0.960000" Z="0.308811" />
+        <BoundingCenter X="0.007050" Y="0.475852" Z="-0.102139" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_woodencrate</Name>
+        <File>dz\structures_bliss\residential\misc\misc_woodencrate.p3d</File>
+        <Date>04/30/21 13:36:02</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-641880742</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.715222</BBRadius>
+        <BBHScale>0.563980</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.348189</Height>
+        <BoundingMin X="-0.403369" Y="-0.050000" Z="-0.716484" />
+        <BoundingMax X="0.403373" Y="0.646378" Z="0.713961" />
+        <BoundingCenter X="0.000002" Y="0.298189" Z="-0.001261" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_woodencrate_3x</Name>
+        <File>dz\structures_bliss\residential\misc\misc_woodencrate_3x.p3d</File>
+        <Date>04/30/21 13:36:02</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1451998198</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.816906</BBRadius>
+        <BBHScale>1.081128</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.710638</Height>
+        <BoundingMin X="-0.828976" Y="-0.002765" Z="-0.823296" />
+        <BoundingMax X="0.937384" Y="1.418511" Z="0.810517" />
+        <BoundingCenter X="0.054204" Y="0.707873" Z="-0.006389" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_woodencrate_5x</Name>
+        <File>dz\structures_bliss\residential\misc\misc_woodencrate_5x.p3d</File>
+        <Date>04/30/21 13:35:52</Date>
+        <Archive></Archive>
+        <Fill>-32576</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1451867000</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.794475</BBRadius>
+        <BBHScale>1.058297</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.968364</Height>
+        <BoundingMin X="-0.839295" Y="-0.006394" Z="-0.764587" />
+        <BoundingMax X="0.842287" Y="1.930334" Z="0.824364" />
+        <BoundingCenter X="0.001496" Y="0.961970" Z="0.029888" />
+        <Placement></Placement>
+    </Template>
 </Library>

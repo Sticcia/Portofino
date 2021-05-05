@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<Library name="tribune" shape="rectangle" default_fill="-16744193" default_outline="-1" tex="0">
+    <Template>
+        <Name>tribune</Name>
+        <File>dz\structures_bliss\specific\tribune\tribune.p3d</File>
+        <Date>04/30/21 13:38:13</Date>
+        <Archive></Archive>
+        <Fill>-16744193</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-791580043</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.195081</BBRadius>
+        <BBHScale>1.474099</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.702190</Height>
+        <BoundingMin X="-4.685874" Y="-0.142500" Z="-3.357762" />
+        <BoundingMax X="4.733858" Y="5.261880" Z="3.032401" />
+        <BoundingCenter X="0.023992" Y="2.559690" Z="-0.162681" />
+        <Placement></Placement>
+    </Template>
+</Library>

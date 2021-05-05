@@ -165,4 +165,70 @@
         <BoundingCenter X="-0.951070" Y="1.311751" Z="-0.541627" />
         <Placement></Placement>
     </Template>
+    <Template>
+        <Name>garage_medium</Name>
+        <File>dz\structures_bliss\industrial\garages\garage_medium.p3d</File>
+        <Date>04/30/21 13:34:46</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2124390739</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.797793</BBRadius>
+        <BBHScale>0.530249</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>3.527264</Height>
+        <BoundingMin X="-5.701590" Y="-1.795538" Z="-10.827987" />
+        <BoundingMax X="5.749451" Y="5.258990" Z="10.767600" />
+        <BoundingCenter X="0.023931" Y="1.731726" Z="-0.030193" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>garage_tall</Name>
+        <File>dz\structures_bliss\industrial\garages\garage_tall.p3d</File>
+        <Date>04/30/21 13:34:59</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1454676699</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.825920</BBRadius>
+        <BBHScale>1.516893</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>5.977795</Height>
+        <BoundingMin X="-5.902420" Y="-2.380000" Z="-3.874430" />
+        <BoundingMax X="5.704600" Y="9.575590" Z="3.777410" />
+        <BoundingCenter X="-0.098910" Y="3.597795" Z="-0.048510" />
+        <Placement></Placement>
+    </Template>
 </Library>
