@@ -27,7 +27,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>2.223063</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-3.618770" Y="-1.139350" Z="-2.757820" />
         <BoundingMax X="3.659871" Y="3.306775" Z="4.016047" />
         <BoundingCenter X="0.020550" Y="1.083712" Z="0.629113" />
@@ -60,7 +60,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>2.007996</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-2.970386" Y="-0.850263" Z="-4.759974" />
         <BoundingMax X="2.886563" Y="3.165729" Z="3.200972" />
         <BoundingCenter X="-0.041912" Y="1.157733" Z="-0.779501" />
@@ -93,7 +93,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>2.819655</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-4.982951" Y="-1.332500" Z="-5.483678" />
         <BoundingMax X="2.987391" Y="4.306811" Z="3.568103" />
         <BoundingCenter X="-0.997780" Y="1.487155" Z="-0.957788" />
@@ -126,7 +126,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>2.606789</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-5.617270" Y="-1.374825" Z="-4.671247" />
         <BoundingMax X="3.890741" Y="3.838753" Z="2.554113" />
         <BoundingCenter X="-0.863264" Y="1.231964" Z="-1.058567" />
@@ -159,7 +159,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>2.036533</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-3.775016" Y="-1.085019" Z="-4.977639" />
         <BoundingMax X="4.487063" Y="2.988046" Z="1.387328" />
         <BoundingCenter X="0.356023" Y="0.951513" Z="-1.795156" />
@@ -192,7 +192,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>2.213358</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-2.443563" Y="-1.144065" Z="-3.793025" />
         <BoundingMax X="2.681975" Y="3.282652" Z="2.373227" />
         <BoundingCenter X="0.119206" Y="1.069293" Z="-0.709899" />
@@ -225,7 +225,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>1.897660</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-3.778498" Y="-1.037800" Z="-2.435720" />
         <BoundingMax X="3.139280" Y="2.757520" Z="2.081390" />
         <BoundingCenter X="-0.319609" Y="0.859860" Z="-0.177165" />
@@ -258,7 +258,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>2.211546</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-2.059779" Y="-1.595387" Z="-1.481930" />
         <BoundingMax X="2.109874" Y="2.827706" Z="1.457470" />
         <BoundingCenter X="0.025047" Y="0.616159" Z="-0.012230" />
@@ -291,7 +291,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>2.174832</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-2.014811" Y="-1.734104" Z="-1.482670" />
         <BoundingMax X="2.212128" Y="2.615559" Z="1.457470" />
         <BoundingCenter X="0.098659" Y="0.440727" Z="-0.012600" />
@@ -324,7 +324,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>2.182613</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-3.216246" Y="-1.508848" Z="-2.323161" />
         <BoundingMax X="3.026288" Y="2.856378" Z="2.116118" />
         <BoundingCenter X="-0.094979" Y="0.673765" Z="-0.103521" />
@@ -357,7 +357,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>2.130098</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-3.217229" Y="-1.585979" Z="-2.416622" />
         <BoundingMax X="2.927705" Y="2.674217" Z="2.064415" />
         <BoundingCenter X="-0.144762" Y="0.544119" Z="-0.176104" />
@@ -390,7 +390,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>2.448835</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-3.824610" Y="-1.033130" Z="-5.301820" />
         <BoundingMax X="3.794820" Y="3.864540" Z="5.265510" />
         <BoundingCenter X="-0.014895" Y="1.415705" Z="-0.018155" />
@@ -423,7 +423,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>3.037300</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-3.124851" Y="-2.162290" Z="-2.797392" />
         <BoundingMax X="3.874618" Y="3.912310" Z="5.271569" />
         <BoundingCenter X="0.374883" Y="0.875010" Z="1.237089" />

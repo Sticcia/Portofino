@@ -5,7 +5,7 @@ class CfgPatches
 		units[]={};
 		weapons[]={};
 		requiredVersion=0.1;
-		requiredAddons[]={};
+		requiredAddons[]={"DZ_Data","DZ_Surfaces"};
 		author="Sticcia";
 		name="Portofino";
 		url="";

@@ -14,6 +14,8 @@ dtSatteliteNormalMapImport
 portofino\source\qgis\gtt_export
 dtShapesExportSHP
 P:\Portofino\source\TerrainProcessor\roads.shp
+dtShapesToImageryExport
+P:\Portofino\source\new_mask.png
 dtTemplatesImportTML
 P:\Portofino\source\TerrainBuilder\TemplateLibs\industrial sheds.tml
 dtTerrainExport
