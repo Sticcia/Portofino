@@ -20,6 +20,14 @@
 				<int name="Max">4</int>
 			</varlist>
 		</varlist>
+		<varlist name="AM">
+			<string name="Filename">AM\Portofino_AM.mmf</string>
+			<string name="MapType">AM</string>
+			<varlist name="MipMaps">
+				<int name="Step">4</int>
+				<int name="Max">16</int>
+			</varlist>
+		</varlist>
 		<varlist name="TN">
 			<string name="Filename">Portofino_TN.png</string>
 			<string name="MapType">TN</string>
@@ -27,6 +35,11 @@
 				<int name="Step">4</int>
 				<int name="Max">4</int>
 			</varlist>
+		</varlist>
+	</varlist>
+	<varlist name="Climates">
+		<varlist name="Temperate">
+			<string name="Filename">C:\Users\Davide Costa\L3DT\Resources\Pro 16.05.3.1 x64\Climates\temperate26\Temperate26.cli.xml</string>
 		</varlist>
 	</varlist>
 </varlist>

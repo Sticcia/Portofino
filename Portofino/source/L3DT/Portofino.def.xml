@@ -24,11 +24,32 @@
 	</varlist>
 	<varlist name="Ops">
 		<bool name="GenTN">true</bool>
+		<bool name="GenAM">true</bool>
+		<bool name="GenTX">true</bool>
 	</varlist>
 	<varlist name="CalcTimers">
 		<varlist name="TN">
 			<float name="GenMap">2.922</float>
 		</varlist>
+		<varlist name="TX">
+			<float name="GenMap">9.797</float>
+		</varlist>
+	</varlist>
+	<varlist name="TX">
+		<bool name="UseLM">false</bool>
+		<bool name="UseTX">true</bool>
+		<bool name="UseStrata">true</bool>
+		<int name="TX_in_HF">1</int>
+		<bool name="MosaicFlag">true</bool>
+		<int name="MosaicSize">512</int>
+		<int name="MaxRadAA">2</int>
+	</varlist>
+	<varlist name="Alpha">
+		<bool name="TypeListIsDirty">false</bool>
+	</varlist>
+	<varlist name="Sapphire">
+		<varlist name="PathList">		</varlist>
+		<varlist name="TeleportList">		</varlist>
 	</varlist>
 	<int name="SettingsVersion">2540</int>
 </varlist>
