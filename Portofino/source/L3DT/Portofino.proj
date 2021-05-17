@@ -3,22 +3,26 @@
 	<int name="FileVersion">1</int>
 	<varlist name="MapInfo">
 		<varlist name="Terrain">
-			<int name="nx">4096</int>
-			<int name="ny">4096</int>
-			<float name="MinAlt">-6.54</float>
-			<float name="MaxAlt">610.28</float>
-			<float name="HorizScale">2.5</float>
+			<int name="nx">2048</int>
+			<int name="ny">2048</int>
+			<float name="MinAlt">-10.47</float>
+			<float name="MaxAlt">610.53</float>
+			<float name="HorizScale">5</float>
+		</varlist>
+		<varlist name="Texture">
+			<int name="nx">2048</int>
+			<int name="ny">2048</int>
 		</varlist>
 		<bool name="WrapFlag">false</bool>
 	</varlist>
 	<varlist name="Maps">
+		<varlist name="DM">
+			<string name="Filename">Portofino_DM.dmf</string>
+			<string name="MapType">DM</string>
+		</varlist>
 		<varlist name="HF">
 			<string name="Filename">Portofino_HF.hfz</string>
 			<string name="MapType">HF</string>
-			<varlist name="MipMaps">
-				<int name="Step">4</int>
-				<int name="Max">4</int>
-			</varlist>
 		</varlist>
 		<varlist name="AM">
 			<string name="Filename">AM\Portofino_AM.mmf</string>
@@ -29,11 +33,15 @@
 			</varlist>
 		</varlist>
 		<varlist name="TN">
-			<string name="Filename">Portofino_TN.png</string>
+			<string name="Filename">TN\Portofino_TN.mmf</string>
 			<string name="MapType">TN</string>
+		</varlist>
+		<varlist name="TX">
+			<string name="Filename">TX\Portofino_TX.mmf</string>
+			<string name="MapType">RGB</string>
 			<varlist name="MipMaps">
-				<int name="Step">4</int>
-				<int name="Max">4</int>
+				<int name="Step">2</int>
+				<int name="Max">2</int>
 			</varlist>
 		</varlist>
 	</varlist>

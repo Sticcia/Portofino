@@ -32,7 +32,8 @@ td.td_mapinfoitem2  { padding-left: 5px; padding-right:5px; padding-top:2px; pad
 <tr><td class = "td_mapinfoitem">Project file:</td><td class = "td_mapinfoitem2"><a class = "link_file" href = "Portofino.proj">Portofino.proj</a></td></tr>
 <tr><td class = "td_mapinfoitem">Definition file:</td><td class = "td_mapinfoitem2"><a class = "link_file" href = "Portofino.def.xml">Portofino.def.xml</a></td></tr>
 <tr><td class = "td_mapinfoitem">Project directory:</td><td class = "td_mapinfoitem2">P:\Portofino\source\L3DT</td></tr>
-<tr><td class = "td_mapinfoitem">Terrain size:</td><td class = "td_mapinfoitem2">4096 &times; 4096</td></tr>
+<tr><td class = "td_mapinfoitem">Terrain size:</td><td class = "td_mapinfoitem2">2048 &times; 2048</td></tr>
+<tr><td class = "td_mapinfoitem">Texture size:</td><td class = "td_mapinfoitem2">2048 &times; 2048</td></tr>
 </table>
 
 <h2>Project contents</h2>
@@ -40,13 +41,16 @@ td.td_mapinfoitem2  { padding-left: 5px; padding-right:5px; padding-top:2px; pad
 <ul class = "font1">
 <li>Map layers
   <ul>
+  <li><a class = "link_intern" href = "#map_DM">Design map</a></li>
   <li><a class = "link_intern" href = "#map_HF">Heightfield</a></li>
   <li><a class = "link_intern" href = "#map_AM">Attributes map</a></li>
   <li><a class = "link_intern" href = "#map_TN">Terrain normals</a></li>
+  <li><a class = "link_intern" href = "#map_TX">Texture map</a></li>
   </ul></li>
 <li>Settings and flags
   <ul>
   <li><a class = "link_intern" href = "#settings_ops">Operations</a></li>
+  <li><a class = "link_intern" href = "#settings_DM">Design map settings</a></li>
   <li><a class = "link_intern" href = "#settings_HF">Heightfield settings</a></li>
   <li><a class = "link_intern" href = "#settings_TN">Terrain normals settings</a></li>
   <li><a class = "link_intern" href = "#settings_TX">Texture map settings</a></li>
@@ -56,11 +60,20 @@ td.td_mapinfoitem2  { padding-left: 5px; padding-right:5px; padding-top:2px; pad
 
 <h2 id = "maps">Map layers</h2>
 
+<h3 id = "map_DM">Design map</h3>
+<table class = "font1">
+<tr><td class = "td_mapinfoitem">Map size:</td><td class = "td_mapinfoitem2">128 &times; 128</td></tr>
+<tr><td class = "td_mapinfoitem">Horiz. scale:</td><td class = "td_mapinfoitem2">80.00m</td></tr>
+<tr><td class = "td_mapinfoitem">Vert. range:</td><td class = "td_mapinfoitem2">-10...610m</td></tr>
+<tr><td class = "td_mapinfoitem">Map file:</td><td class = "td_mapinfoitem2"><a class = "link_file" href = "Portofino_DM.dmf">Portofino_DM.dmf</a></td></tr>
+<tr><td class = "td_mapinfoitem">File type:</td><td class = "td_mapinfoitem2">dmf</td></tr>
+</table>
+
 <h3 id = "map_HF">Heightfield</h3>
 <table class = "font1">
-<tr><td class = "td_mapinfoitem">Map size:</td><td class = "td_mapinfoitem2">4096 &times; 4096</td></tr>
-<tr><td class = "td_mapinfoitem">Horiz. scale:</td><td class = "td_mapinfoitem2">2.50m</td></tr>
-<tr><td class = "td_mapinfoitem">Vert. range:</td><td class = "td_mapinfoitem2">-6.54...610.3m</td></tr>
+<tr><td class = "td_mapinfoitem">Map size:</td><td class = "td_mapinfoitem2">2048 &times; 2048</td></tr>
+<tr><td class = "td_mapinfoitem">Horiz. scale:</td><td class = "td_mapinfoitem2">5.00m</td></tr>
+<tr><td class = "td_mapinfoitem">Vert. range:</td><td class = "td_mapinfoitem2">-10.47...610.5m</td></tr>
 <tr><td class = "td_mapinfoitem">Map file:</td><td class = "td_mapinfoitem2"><a class = "link_file" href = "Portofino_HF.hfz">Portofino_HF.hfz</a></td></tr>
 <tr><td class = "td_mapinfoitem">File type:</td><td class = "td_mapinfoitem2">hfz</td></tr>
 </table>
@@ -518,34 +531,112 @@ td.td_mapinfoitem2  { padding-left: 5px; padding-right:5px; padding-top:2px; pad
 
 <h3 id = "map_TN">Terrain normals</h3>
 <table class = "font1">
-<tr><td class = "td_mapinfoitem">Map size:</td><td class = "td_mapinfoitem2">4096 &times; 4096</td></tr>
-<tr><td class = "td_mapinfoitem">Horiz. scale:</td><td class = "td_mapinfoitem2">2.50m</td></tr>
-<tr><td class = "td_mapinfoitem">Map file:</td><td class = "td_mapinfoitem2"><a class = "link_file" href = "Portofino_TN.png">Portofino_TN.png</a></td></tr>
-<tr><td class = "td_mapinfoitem">File type:</td><td class = "td_mapinfoitem2">png</td></tr>
+<tr><td class = "td_mapinfoitem">Map size:</td><td class = "td_mapinfoitem2">2048 &times; 2048</td></tr>
+<tr><td class = "td_mapinfoitem">Horiz. scale:</td><td class = "td_mapinfoitem2">5.00m</td></tr>
+<tr><td class = "td_mapinfoitem">Map file:</td><td class = "td_mapinfoitem2"><a class = "link_file" href = "TN\Portofino_TN.mmf">TN\Portofino_TN.mmf</a></td></tr>
+<tr><td class = "td_mapinfoitem">File type:</td><td class = "td_mapinfoitem2">4 &times; 4 mosaic of 512<sup>2</sup> pixel pngs (.png)</td></tr>
 </table>
-<h4>Preview:</h4>
-<a href = "Portofino_TN.png"><img class = "img_thumbnail" height = "256px" src = "Portofino_TN.png" alt = "[Portofino_TN.png]"/></a>
+<h4>Mosaic files:</h4>
+<table style = "border:1px solid black;">
+<tr><td colspan = "4" class = "td_mosaictabletitle">Click on the thumbnails to view the images</td></tr>
+<tr>
+<td style = "padding:0px;"><a href = "TN\Portofino_TN_x0y3.png"><img class = "img_thumbnail" height = "128" src = "TN\Portofino_TN_x0y3.png" alt = "[x0y3]"/></a></td>
+<td style = "padding:0px;"><a href = "TN\Portofino_TN_x1y3.png"><img class = "img_thumbnail" height = "128" src = "TN\Portofino_TN_x1y3.png" alt = "[x1y3]"/></a></td>
+<td style = "padding:0px;"><a href = "TN\Portofino_TN_x2y3.png"><img class = "img_thumbnail" height = "128" src = "TN\Portofino_TN_x2y3.png" alt = "[x2y3]"/></a></td>
+<td style = "padding:0px;"><a href = "TN\Portofino_TN_x3y3.png"><img class = "img_thumbnail" height = "128" src = "TN\Portofino_TN_x3y3.png" alt = "[x3y3]"/></a></td>
+</tr>
+<tr>
+<td style = "padding:0px;"><a href = "TN\Portofino_TN_x0y2.png"><img class = "img_thumbnail" height = "128" src = "TN\Portofino_TN_x0y2.png" alt = "[x0y2]"/></a></td>
+<td style = "padding:0px;"><a href = "TN\Portofino_TN_x1y2.png"><img class = "img_thumbnail" height = "128" src = "TN\Portofino_TN_x1y2.png" alt = "[x1y2]"/></a></td>
+<td style = "padding:0px;"><a href = "TN\Portofino_TN_x2y2.png"><img class = "img_thumbnail" height = "128" src = "TN\Portofino_TN_x2y2.png" alt = "[x2y2]"/></a></td>
+<td style = "padding:0px;"><a href = "TN\Portofino_TN_x3y2.png"><img class = "img_thumbnail" height = "128" src = "TN\Portofino_TN_x3y2.png" alt = "[x3y2]"/></a></td>
+</tr>
+<tr>
+<td style = "padding:0px;"><a href = "TN\Portofino_TN_x0y1.png"><img class = "img_thumbnail" height = "128" src = "TN\Portofino_TN_x0y1.png" alt = "[x0y1]"/></a></td>
+<td style = "padding:0px;"><a href = "TN\Portofino_TN_x1y1.png"><img class = "img_thumbnail" height = "128" src = "TN\Portofino_TN_x1y1.png" alt = "[x1y1]"/></a></td>
+<td style = "padding:0px;"><a href = "TN\Portofino_TN_x2y1.png"><img class = "img_thumbnail" height = "128" src = "TN\Portofino_TN_x2y1.png" alt = "[x2y1]"/></a></td>
+<td style = "padding:0px;"><a href = "TN\Portofino_TN_x3y1.png"><img class = "img_thumbnail" height = "128" src = "TN\Portofino_TN_x3y1.png" alt = "[x3y1]"/></a></td>
+</tr>
+<tr>
+<td style = "padding:0px;"><a href = "TN\Portofino_TN_x0y0.png"><img class = "img_thumbnail" height = "128" src = "TN\Portofino_TN_x0y0.png" alt = "[x0y0]"/></a></td>
+<td style = "padding:0px;"><a href = "TN\Portofino_TN_x1y0.png"><img class = "img_thumbnail" height = "128" src = "TN\Portofino_TN_x1y0.png" alt = "[x1y0]"/></a></td>
+<td style = "padding:0px;"><a href = "TN\Portofino_TN_x2y0.png"><img class = "img_thumbnail" height = "128" src = "TN\Portofino_TN_x2y0.png" alt = "[x2y0]"/></a></td>
+<td style = "padding:0px;"><a href = "TN\Portofino_TN_x3y0.png"><img class = "img_thumbnail" height = "128" src = "TN\Portofino_TN_x3y0.png" alt = "[x3y0]"/></a></td>
+</tr>
+</table>
+
+<h3 id = "map_TX">Texture map</h3>
+<table class = "font1">
+<tr><td class = "td_mapinfoitem">Map size:</td><td class = "td_mapinfoitem2">2048 &times; 2048</td></tr>
+<tr><td class = "td_mapinfoitem">Horiz. scale:</td><td class = "td_mapinfoitem2">5.00m</td></tr>
+<tr><td class = "td_mapinfoitem">Map file:</td><td class = "td_mapinfoitem2"><a class = "link_file" href = "TX\Portofino_TX.mmf">TX\Portofino_TX.mmf</a></td></tr>
+<tr><td class = "td_mapinfoitem">File type:</td><td class = "td_mapinfoitem2">4 &times; 4 mosaic of 512<sup>2</sup> pixel jpgs (.jpg)</td></tr>
+</table>
+<h4>Mosaic files:</h4>
+<table style = "border:1px solid black;">
+<tr><td colspan = "4" class = "td_mosaictabletitle">Click on the thumbnails to view the images</td></tr>
+<tr>
+<td style = "padding:0px;"><a href = "TX\Portofino_TX_x0y3.jpg"><img class = "img_thumbnail" height = "128" src = "TX\Portofino_TX_x0y3.jpg" alt = "[x0y3]"/></a></td>
+<td style = "padding:0px;"><a href = "TX\Portofino_TX_x1y3.jpg"><img class = "img_thumbnail" height = "128" src = "TX\Portofino_TX_x1y3.jpg" alt = "[x1y3]"/></a></td>
+<td style = "padding:0px;"><a href = "TX\Portofino_TX_x2y3.jpg"><img class = "img_thumbnail" height = "128" src = "TX\Portofino_TX_x2y3.jpg" alt = "[x2y3]"/></a></td>
+<td style = "padding:0px;"><a href = "TX\Portofino_TX_x3y3.jpg"><img class = "img_thumbnail" height = "128" src = "TX\Portofino_TX_x3y3.jpg" alt = "[x3y3]"/></a></td>
+</tr>
+<tr>
+<td style = "padding:0px;"><a href = "TX\Portofino_TX_x0y2.jpg"><img class = "img_thumbnail" height = "128" src = "TX\Portofino_TX_x0y2.jpg" alt = "[x0y2]"/></a></td>
+<td style = "padding:0px;"><a href = "TX\Portofino_TX_x1y2.jpg"><img class = "img_thumbnail" height = "128" src = "TX\Portofino_TX_x1y2.jpg" alt = "[x1y2]"/></a></td>
+<td style = "padding:0px;"><a href = "TX\Portofino_TX_x2y2.jpg"><img class = "img_thumbnail" height = "128" src = "TX\Portofino_TX_x2y2.jpg" alt = "[x2y2]"/></a></td>
+<td style = "padding:0px;"><a href = "TX\Portofino_TX_x3y2.jpg"><img class = "img_thumbnail" height = "128" src = "TX\Portofino_TX_x3y2.jpg" alt = "[x3y2]"/></a></td>
+</tr>
+<tr>
+<td style = "padding:0px;"><a href = "TX\Portofino_TX_x0y1.jpg"><img class = "img_thumbnail" height = "128" src = "TX\Portofino_TX_x0y1.jpg" alt = "[x0y1]"/></a></td>
+<td style = "padding:0px;"><a href = "TX\Portofino_TX_x1y1.jpg"><img class = "img_thumbnail" height = "128" src = "TX\Portofino_TX_x1y1.jpg" alt = "[x1y1]"/></a></td>
+<td style = "padding:0px;"><a href = "TX\Portofino_TX_x2y1.jpg"><img class = "img_thumbnail" height = "128" src = "TX\Portofino_TX_x2y1.jpg" alt = "[x2y1]"/></a></td>
+<td style = "padding:0px;"><a href = "TX\Portofino_TX_x3y1.jpg"><img class = "img_thumbnail" height = "128" src = "TX\Portofino_TX_x3y1.jpg" alt = "[x3y1]"/></a></td>
+</tr>
+<tr>
+<td style = "padding:0px;"><a href = "TX\Portofino_TX_x0y0.jpg"><img class = "img_thumbnail" height = "128" src = "TX\Portofino_TX_x0y0.jpg" alt = "[x0y0]"/></a></td>
+<td style = "padding:0px;"><a href = "TX\Portofino_TX_x1y0.jpg"><img class = "img_thumbnail" height = "128" src = "TX\Portofino_TX_x1y0.jpg" alt = "[x1y0]"/></a></td>
+<td style = "padding:0px;"><a href = "TX\Portofino_TX_x2y0.jpg"><img class = "img_thumbnail" height = "128" src = "TX\Portofino_TX_x2y0.jpg" alt = "[x2y0]"/></a></td>
+<td style = "padding:0px;"><a href = "TX\Portofino_TX_x3y0.jpg"><img class = "img_thumbnail" height = "128" src = "TX\Portofino_TX_x3y0.jpg" alt = "[x3y0]"/></a></td>
+</tr>
+</table>
 
 <h2 id = "settings">Settings and flags</h2>
 <ul class = "font1">
 <li id = "settings_ops"><h3>Operations</h3>
   <ul>
-  <li>GenTN</li>
   <li>GenAM</li>
+  <li>GenTN</li>
   <li>GenTX</li>
+  </ul></li>
+<li id = "settings_DM"><h3>Design map settings</h3>
+  <ul>
+  <li>FracRough [int] = 50</li>
+  <li>PeakRough [int] = 50</li>
+  <li>Cliffs [int] = 50</li>
+  <li>Erosion [int] = 5</li>
+  <li>Lakes [int] = 0</li>
+  <li>Climate [string] = Temperate</li>
+  <li>nx [int] = 128</li>
+  <li>ny [int] = 128</li>
+  <li>HF_in_DM [int] = 16</li>
   </ul></li>
 <li id = "settings_HF"><h3>Heightfield settings</h3>
   <ul>
-  <li>HorizScale [float] = 2.5</li>
-  <li>nx [int] = 4096</li>
-  <li>ny [int] = 4096</li>
+  <li>Algorithm [string] = InflateDM16</li>
+  <li>HorizScale [float] = 5</li>
+  <li>nx [int] = 2048</li>
+  <li>ny [int] = 2048</li>
+  <li>MosaicFlag [bool] = false</li>
+  <li>MosaicSize [int] = 512</li>
   </ul></li>
 <li id = "settings_TN"><h3>Terrain normals settings</h3>
   <ul>
   <li>BumpMapping [bool] = false</li>
   <li>TangentFlag [bool] = false</li>
   <li>TN_in_HF [int] = 1</li>
-  <li>MosaicFlag [bool] = false</li>
+  <li>MosaicFlag [bool] = true</li>
+  <li>MosaicSize [int] = 512</li>
   </ul></li>
 <li id = "settings_TX"><h3>Texture map settings</h3>
   <ul>
@@ -559,7 +650,7 @@ td.td_mapinfoitem2  { padding-left: 5px; padding-right:5px; padding-top:2px; pad
   </ul></li>
 <li id = "settings_alpha"><h3>Alpha map settings</h3>
   <ul>
-  <li>TypeListIsDirty [bool] = false</li>
+  <li>TypeListIsDirty [bool] = true</li>
   </ul></li>
 </ul>
 </body>

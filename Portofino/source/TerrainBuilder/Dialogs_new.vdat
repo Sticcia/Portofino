@@ -5,7 +5,7 @@ P:\Portofino\Portofino.wrp
 dtImportObjects
 portofino\source\terrainprocessor
 dtImportShapes
-portofino\source\qgis\gtt_export
+portofino\source\terrainprocessor
 dtObjectsExportTXT
 C:\Users\Davide Costa\AppData\Local\DayZ\Editor\Portofino.txt
 dtSatteliteImageImportJPG
