@@ -3,7 +3,7 @@
     <Template>
         <Name>bluecollar_fat_f</Name>
         <File>DZ\characters\zombies\bluecollar_fat_f.p3d</File>
-        <Date>05/17/21 20:46:24</Date>
+        <Date>05/21/21 01:14:23</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -36,7 +36,7 @@
     <Template>
         <Name>citizena_normal_f</Name>
         <File>DZ\characters\zombies\citizena_normal_f.p3d</File>
-        <Date>05/17/21 20:46:24</Date>
+        <Date>05/21/21 01:14:23</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -69,7 +69,7 @@
     <Template>
         <Name>citizena_skinny_m</Name>
         <File>DZ\characters\zombies\citizena_skinny_m.p3d</File>
-        <Date>05/17/21 20:46:24</Date>
+        <Date>05/21/21 01:14:23</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -102,7 +102,7 @@
     <Template>
         <Name>citizenb_fat_m</Name>
         <File>DZ\characters\zombies\citizenb_fat_m.p3d</File>
-        <Date>05/17/21 20:46:24</Date>
+        <Date>05/21/21 01:14:23</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -135,7 +135,7 @@
     <Template>
         <Name>citizenb_skinny_f</Name>
         <File>DZ\characters\zombies\citizenb_skinny_f.p3d</File>
-        <Date>05/17/21 20:46:24</Date>
+        <Date>05/21/21 01:14:23</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -168,7 +168,7 @@
     <Template>
         <Name>clerka_normal_f</Name>
         <File>DZ\characters\zombies\clerka_normal_f.p3d</File>
-        <Date>05/17/21 20:46:24</Date>
+        <Date>05/21/21 01:14:23</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -201,7 +201,7 @@
     <Template>
         <Name>clerkb_fat_f</Name>
         <File>DZ\characters\zombies\clerkb_fat_f.p3d</File>
-        <Date>05/17/21 20:46:24</Date>
+        <Date>05/21/21 01:14:23</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -234,7 +234,7 @@
     <Template>
         <Name>clerk_fat_m</Name>
         <File>DZ\characters\zombies\clerk_fat_m.p3d</File>
-        <Date>05/17/21 20:46:24</Date>
+        <Date>05/21/21 01:14:23</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -267,7 +267,7 @@
     <Template>
         <Name>commercialpilot_old_m</Name>
         <File>DZ\characters\zombies\commercialpilot_old_m.p3d</File>
-        <Date>05/17/21 20:46:24</Date>
+        <Date>05/21/21 01:14:23</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -300,7 +300,7 @@
     <Template>
         <Name>constructionworker_normal_m</Name>
         <File>DZ\characters\zombies\constructionworker_normal_m.p3d</File>
-        <Date>05/17/21 20:46:24</Date>
+        <Date>05/21/21 01:14:23</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -333,7 +333,7 @@
     <Template>
         <Name>coveralls</Name>
         <File>DZ\characters\zombies\coveralls.p3d</File>
-        <Date>05/17/21 20:46:24</Date>
+        <Date>05/21/21 01:14:23</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -366,7 +366,7 @@
     <Template>
         <Name>doctor_fat_m</Name>
         <File>DZ\characters\zombies\doctor_fat_m.p3d</File>
-        <Date>05/17/21 20:46:24</Date>
+        <Date>05/21/21 01:14:23</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -399,7 +399,7 @@
     <Template>
         <Name>doctor_skinny_f</Name>
         <File>DZ\characters\zombies\doctor_skinny_f.p3d</File>
-        <Date>05/17/21 20:46:24</Date>
+        <Date>05/21/21 01:14:23</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -432,7 +432,7 @@
     <Template>
         <Name>farmer_above0</Name>
         <File>DZ\characters\zombies\farmer_above0.p3d</File>
-        <Date>05/17/21 20:46:24</Date>
+        <Date>05/21/21 01:14:23</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -465,7 +465,7 @@
     <Template>
         <Name>firefighter_normal_m</Name>
         <File>DZ\characters\zombies\firefighter_normal_m.p3d</File>
-        <Date>05/17/21 20:46:24</Date>
+        <Date>05/21/21 01:14:23</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -498,7 +498,7 @@
     <Template>
         <Name>fisherman_old_m</Name>
         <File>DZ\characters\zombies\fisherman_old_m.p3d</File>
-        <Date>05/17/21 20:46:24</Date>
+        <Date>05/21/21 01:14:23</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -531,7 +531,7 @@
     <Template>
         <Name>heavyindustryworker_normal_m</Name>
         <File>DZ\characters\zombies\heavyindustryworker_normal_m.p3d</File>
-        <Date>05/17/21 20:46:24</Date>
+        <Date>05/21/21 01:14:23</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -564,7 +564,7 @@
     <Template>
         <Name>hermit_above0</Name>
         <File>DZ\characters\zombies\hermit_above0.p3d</File>
-        <Date>05/17/21 20:46:24</Date>
+        <Date>05/21/21 01:14:23</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -597,7 +597,7 @@
     <Template>
         <Name>hermit_newbindpose</Name>
         <File>DZ\characters\zombies\hermit_newbindpose.p3d</File>
-        <Date>05/17/21 20:46:24</Date>
+        <Date>05/21/21 01:14:23</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -630,7 +630,7 @@
     <Template>
         <Name>hiker_skinny_f</Name>
         <File>DZ\characters\zombies\hiker_skinny_f.p3d</File>
-        <Date>05/17/21 20:46:24</Date>
+        <Date>05/21/21 01:14:23</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -663,7 +663,7 @@
     <Template>
         <Name>hiker_skinny_m</Name>
         <File>DZ\characters\zombies\hiker_skinny_m.p3d</File>
-        <Date>05/17/21 20:46:24</Date>
+        <Date>05/21/21 01:14:23</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -696,7 +696,7 @@
     <Template>
         <Name>hunter_old_m</Name>
         <File>DZ\characters\zombies\hunter_old_m.p3d</File>
-        <Date>05/17/21 20:46:24</Date>
+        <Date>05/21/21 01:14:23</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -729,7 +729,7 @@
     <Template>
         <Name>jacket_above0</Name>
         <File>DZ\characters\zombies\jacket_above0.p3d</File>
-        <Date>05/17/21 20:46:24</Date>
+        <Date>05/21/21 01:14:23</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -762,7 +762,7 @@
     <Template>
         <Name>jogger_skinny_f</Name>
         <File>DZ\characters\zombies\jogger_skinny_f.p3d</File>
-        <Date>05/17/21 20:46:24</Date>
+        <Date>05/21/21 01:14:23</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -795,7 +795,7 @@
     <Template>
         <Name>jogger_skinny_m</Name>
         <File>DZ\characters\zombies\jogger_skinny_m.p3d</File>
-        <Date>05/17/21 20:46:24</Date>
+        <Date>05/21/21 01:14:23</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -828,7 +828,7 @@
     <Template>
         <Name>journalist_normal_f</Name>
         <File>DZ\characters\zombies\journalist_normal_f.p3d</File>
-        <Date>05/17/21 20:46:24</Date>
+        <Date>05/21/21 01:14:23</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -861,7 +861,7 @@
     <Template>
         <Name>journalist_skinny_m</Name>
         <File>DZ\characters\zombies\journalist_skinny_m.p3d</File>
-        <Date>05/17/21 20:46:24</Date>
+        <Date>05/21/21 01:14:23</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -894,7 +894,7 @@
     <Template>
         <Name>mechanic_normal_f</Name>
         <File>DZ\characters\zombies\mechanic_normal_f.p3d</File>
-        <Date>05/17/21 20:46:24</Date>
+        <Date>05/21/21 01:14:23</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -927,7 +927,7 @@
     <Template>
         <Name>mechanic_skinny_m</Name>
         <File>DZ\characters\zombies\mechanic_skinny_m.p3d</File>
-        <Date>05/17/21 20:46:24</Date>
+        <Date>05/21/21 01:14:23</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -960,7 +960,7 @@
     <Template>
         <Name>milkmaid_old_f</Name>
         <File>DZ\characters\zombies\milkmaid_old_f.p3d</File>
-        <Date>05/17/21 20:46:24</Date>
+        <Date>05/21/21 01:14:23</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -993,7 +993,7 @@
     <Template>
         <Name>motobiker_fat_m</Name>
         <File>DZ\characters\zombies\motobiker_fat_m.p3d</File>
-        <Date>05/17/21 20:46:24</Date>
+        <Date>05/21/21 01:14:23</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1026,7 +1026,7 @@
     <Template>
         <Name>nurse_fat_f</Name>
         <File>DZ\characters\zombies\nurse_fat_f.p3d</File>
-        <Date>05/17/21 20:46:24</Date>
+        <Date>05/21/21 01:14:23</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1059,7 +1059,7 @@
     <Template>
         <Name>offshoreworker_normal_m</Name>
         <File>DZ\characters\zombies\offshoreworker_normal_m.p3d</File>
-        <Date>05/17/21 20:46:24</Date>
+        <Date>05/21/21 01:14:23</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1092,7 +1092,7 @@
     <Template>
         <Name>paramedic_normal_f</Name>
         <File>DZ\characters\zombies\paramedic_normal_f.p3d</File>
-        <Date>05/17/21 20:46:24</Date>
+        <Date>05/21/21 01:14:23</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1125,7 +1125,7 @@
     <Template>
         <Name>paramedic_normal_m</Name>
         <File>DZ\characters\zombies\paramedic_normal_m.p3d</File>
-        <Date>05/17/21 20:46:24</Date>
+        <Date>05/21/21 01:14:23</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1158,7 +1158,7 @@
     <Template>
         <Name>patient_old_f</Name>
         <File>DZ\characters\zombies\patient_old_f.p3d</File>
-        <Date>05/17/21 20:46:24</Date>
+        <Date>05/21/21 01:14:23</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1191,7 +1191,7 @@
     <Template>
         <Name>patient_skinny_m</Name>
         <File>DZ\characters\zombies\patient_skinny_m.p3d</File>
-        <Date>05/17/21 20:46:24</Date>
+        <Date>05/21/21 01:14:23</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1224,7 +1224,7 @@
     <Template>
         <Name>patrol_normal_m</Name>
         <File>DZ\characters\zombies\patrol_normal_m.p3d</File>
-        <Date>05/17/21 20:46:24</Date>
+        <Date>05/21/21 01:14:23</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1257,7 +1257,7 @@
     <Template>
         <Name>policemanspecialforce_normal_m</Name>
         <File>DZ\characters\zombies\policemanspecialforce_normal_m.p3d</File>
-        <Date>05/17/21 20:46:24</Date>
+        <Date>05/21/21 01:14:23</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1290,7 +1290,7 @@
     <Template>
         <Name>policeman_fat_m</Name>
         <File>DZ\characters\zombies\policeman_fat_m.p3d</File>
-        <Date>05/17/21 20:46:24</Date>
+        <Date>05/21/21 01:14:23</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1323,7 +1323,7 @@
     <Template>
         <Name>policewoman_normal_f</Name>
         <File>DZ\characters\zombies\policewoman_normal_f.p3d</File>
-        <Date>05/17/21 20:46:24</Date>
+        <Date>05/21/21 01:14:23</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1356,7 +1356,7 @@
     <Template>
         <Name>priestpop_skinny_m</Name>
         <File>DZ\characters\zombies\priestpop_skinny_m.p3d</File>
-        <Date>05/17/21 20:46:24</Date>
+        <Date>05/21/21 01:14:23</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1389,7 +1389,7 @@
     <Template>
         <Name>prisoner_skinny_m</Name>
         <File>DZ\characters\zombies\prisoner_skinny_m.p3d</File>
-        <Date>05/17/21 20:46:24</Date>
+        <Date>05/21/21 01:14:23</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1422,7 +1422,7 @@
     <Template>
         <Name>shortskirt_above0</Name>
         <File>DZ\characters\zombies\shortskirt_above0.p3d</File>
-        <Date>05/17/21 20:46:24</Date>
+        <Date>05/21/21 01:14:23</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1455,7 +1455,7 @@
     <Template>
         <Name>skater_young_f</Name>
         <File>DZ\characters\zombies\skater_young_f.p3d</File>
-        <Date>05/17/21 20:46:24</Date>
+        <Date>05/21/21 01:14:23</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1554,7 +1554,7 @@
     <Template>
         <Name>survivor_normal_f</Name>
         <File>DZ\characters\zombies\survivor_normal_f.p3d</File>
-        <Date>05/17/21 20:46:24</Date>
+        <Date>05/21/21 01:14:23</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1587,7 +1587,7 @@
     <Template>
         <Name>ussoldier_normal_m</Name>
         <File>DZ\characters\zombies\ussoldier_normal_m.p3d</File>
-        <Date>05/17/21 20:46:24</Date>
+        <Date>05/21/21 01:14:23</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1620,7 +1620,7 @@
     <Template>
         <Name>villager_old_f</Name>
         <File>DZ\characters\zombies\villager_old_f.p3d</File>
-        <Date>05/17/21 20:46:24</Date>
+        <Date>05/21/21 01:14:23</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1653,7 +1653,7 @@
     <Template>
         <Name>villager_old_m</Name>
         <File>DZ\characters\zombies\villager_old_m.p3d</File>
-        <Date>05/17/21 20:46:24</Date>
+        <Date>05/21/21 01:14:23</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>

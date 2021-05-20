@@ -9,9 +9,9 @@ portofino\source\terrainprocessor
 dtObjectsExportTXT
 C:\Users\Davide Costa\AppData\Local\DayZ\Editor\Portofino.txt
 dtSatteliteImageImportJPG
-portofino\source\qgis\gtt_export
+portofino\source
 dtSatteliteNormalMapImport
-portofino\source\qgis\gtt_export
+portofino\source
 dtShapesExportSHP
 P:\Portofino\source\TerrainProcessor\roads.shp
 dtShapesToImageryExport
@@ -19,8 +19,8 @@ P:\Portofino\source\new_mask.png
 dtTemplatesImportTML
 P:\Portofino\source\TerrainBuilder\TemplateLibs\industrial sheds.tml
 dtTerrainExport
-portofino\source\qgis\gtt_export
+portofino\source
 dtTerrainHeightmapImportJPG
-portofino\source\qgis\gtt_export
+portofino\source
 dtTerrainSurfaceImportJPG
-portofino\source\qgis\gtt_export
+portofino\source

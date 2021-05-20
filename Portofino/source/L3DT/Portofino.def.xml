@@ -22,7 +22,6 @@
 		<int name="ny">128</int>
 		<int name="HF_in_DM">16</int>
 	</varlist>
-	<bool name="WrapFlag">false</bool>
 	<varlist name="HF">
 		<string name="Algorithm">InflateDM16</string>
 		<float name="HorizScale">5</float>
@@ -31,41 +30,44 @@
 		<bool name="MosaicFlag">false</bool>
 		<int name="MosaicSize">512</int>
 	</varlist>
+	<bool name="WrapFlag">false</bool>
+	<varlist name="AM">
+		<string name="Climate">Temperate</string>
+		<int name="AM_in_HF">2</int>
+		<bool name="MosaicFlag">true</bool>
+		<int name="MosaicSize">512</int>
+	</varlist>
 	<varlist name="Ops">
 		<bool name="GenAM">true</bool>
 		<bool name="GenTN">true</bool>
 		<bool name="GenTX">true</bool>
 	</varlist>
+	<varlist name="CalcTimers">
+		<varlist name="AM">
+			<float name="GenMap">26.984</float>
+		</varlist>
+		<varlist name="TN">
+			<float name="GenMap">7.734</float>
+		</varlist>
+		<varlist name="TX">
+			<float name="GenMap">11.203</float>
+		</varlist>
+	</varlist>
 	<varlist name="TN">
 		<bool name="BumpMapping">false</bool>
 		<bool name="TangentFlag">false</bool>
-		<int name="TN_in_HF">1</int>
+		<int name="TN_in_HF">2</int>
 		<bool name="MosaicFlag">true</bool>
 		<int name="MosaicSize">512</int>
-	</varlist>
-	<varlist name="CalcTimers">
-		<varlist name="TN">
-			<float name="GenMap">1.641</float>
-		</varlist>
-		<varlist name="TX">
-			<float name="GenMap">3.219</float>
-		</varlist>
 	</varlist>
 	<varlist name="TX">
 		<bool name="UseLM">false</bool>
 		<bool name="UseTX">true</bool>
 		<bool name="UseStrata">true</bool>
-		<int name="TX_in_HF">1</int>
+		<int name="TX_in_HF">2</int>
 		<bool name="MosaicFlag">true</bool>
 		<int name="MosaicSize">512</int>
 		<int name="MaxRadAA">2</int>
-	</varlist>
-	<varlist name="Sapphire">
-		<varlist name="PathList">		</varlist>
-		<varlist name="TeleportList">		</varlist>
-	</varlist>
-	<varlist name="Alpha">
-		<bool name="TypeListIsDirty">true</bool>
 	</varlist>
 	<int name="SettingsVersion">2540</int>
 </varlist>

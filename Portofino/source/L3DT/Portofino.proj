@@ -10,8 +10,8 @@
 			<float name="HorizScale">5</float>
 		</varlist>
 		<varlist name="Texture">
-			<int name="nx">2048</int>
-			<int name="ny">2048</int>
+			<int name="nx">4096</int>
+			<int name="ny">4096</int>
 		</varlist>
 		<bool name="WrapFlag">false</bool>
 	</varlist>
@@ -29,19 +29,23 @@
 			<string name="MapType">AM</string>
 			<varlist name="MipMaps">
 				<int name="Step">4</int>
-				<int name="Max">16</int>
+				<int name="Max">4</int>
 			</varlist>
 		</varlist>
 		<varlist name="TN">
 			<string name="Filename">TN\Portofino_TN.mmf</string>
 			<string name="MapType">TN</string>
+			<varlist name="MipMaps">
+				<int name="Step">4</int>
+				<int name="Max">4</int>
+			</varlist>
 		</varlist>
 		<varlist name="TX">
 			<string name="Filename">TX\Portofino_TX.mmf</string>
 			<string name="MapType">RGB</string>
 			<varlist name="MipMaps">
 				<int name="Step">2</int>
-				<int name="Max">2</int>
+				<int name="Max">4</int>
 			</varlist>
 		</varlist>
 	</varlist>

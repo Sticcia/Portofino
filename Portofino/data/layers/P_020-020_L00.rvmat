@@ -73,16 +73,16 @@ PixelShaderID="Terrain1";
 VertexShaderID="Terrain";
 class Stage2
 {
-	texture="DZ\surfaces\data\terrain\cp_grass_ca.paa";
+	texture="DZ\surfaces\data\terrain\cp_dirt_ca.paa";
 	texGen=0;
 };
 class Stage3
 {
-	texture="dz\surfaces\data\terrain\cp_grass_nopx.paa";
+	texture="dz\surfaces\data\terrain\cp_dirt_nopx.paa";
 	texGen=1;
 };
 class Stage4
 {
-	texture="dz\surfaces\data\terrain\cp_grass_ca.paa";
+	texture="dz\surfaces\data\terrain\cp_dirt_ca.paa";
 	texGen=2;
 };

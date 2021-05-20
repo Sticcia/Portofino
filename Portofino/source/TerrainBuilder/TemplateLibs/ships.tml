@@ -126,7 +126,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>18.983576</Height>
         <BoundingMin X="-40.391304" Y="-9.579651" Z="-12.727800" />
         <BoundingMax X="4.338409" Y="28.387501" Z="11.935202" />
         <BoundingCenter X="-18.026447" Y="9.403925" Z="-0.396299" />
@@ -159,7 +159,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>16.871941</Height>
         <BoundingMin X="-75.430405" Y="-8.983280" Z="-10.881801" />
         <BoundingMax X="0.000000" Y="24.760601" Z="11.309901" />
         <BoundingCenter X="-37.715202" Y="7.888660" Z="0.214050" />
@@ -225,7 +225,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>18.451927</Height>
         <BoundingMin X="0.000000" Y="-8.989051" Z="-10.766701" />
         <BoundingMax X="75.161903" Y="27.914803" Z="17.098301" />
         <BoundingCenter X="37.580952" Y="9.462875" Z="3.165800" />
@@ -258,7 +258,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>17.652990</Height>
         <BoundingMin X="-6.711081" Y="-9.694380" Z="-11.358801" />
         <BoundingMax X="42.018803" Y="25.611601" Z="13.054800" />
         <BoundingCenter X="17.653862" Y="7.958611" Z="0.848000" />
@@ -357,7 +357,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>21.746769</Height>
         <BoundingMin X="-13.547615" Y="-18.537994" Z="-36.074303" />
         <BoundingMax X="14.701855" Y="24.955544" Z="44.766304" />
         <BoundingCenter X="0.577120" Y="3.208775" Z="4.346001" />
@@ -460,6 +460,600 @@
         <BoundingMin X="-3.077020" Y="-0.754190" Z="-7.534510" />
         <BoundingMax X="3.812630" Y="4.715900" Z="8.834560" />
         <BoundingCenter X="0.367805" Y="1.980855" Z="0.650025" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>abandoned_ship_controlpanel</Name>
+        <File>dz\structures\wrecks\ships\proxy\abandoned_ship_controlpanel.p3d</File>
+        <Date>04/30/21 13:28:05</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-546700289</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.253911</BBRadius>
+        <BBHScale>0.117372</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.733368" Y="-0.826330" Z="-6.253911" />
+        <BoundingMax X="0.734697" Y="0.826628" Z="6.253911" />
+        <BoundingCenter X="0.000665" Y="0.000149" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>abandoned_ship_doors</Name>
+        <File>dz\structures\wrecks\ships\proxy\abandoned_ship_doors.p3d</File>
+        <Date>04/30/21 13:28:06</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-819768307</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.174664</BBRadius>
+        <BBHScale>3.360117</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025230" Y="-1.062680" Z="-0.111762" />
+        <BoundingMax X="1.148550" Y="1.062680" Z="0.237565" />
+        <BoundingCenter X="0.561660" Y="0.000000" Z="0.062901" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>abandoned_ship_lifebuoy</Name>
+        <File>dz\structures\wrecks\ships\proxy\abandoned_ship_lifebuoy.p3d</File>
+        <Date>04/30/21 13:28:03</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1870113935</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.121424</BBRadius>
+        <BBHScale>3.887399</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.472024" Y="-0.580523" Z="-0.118608" />
+        <BoundingMax X="0.472023" Y="0.448040" Z="0.124240" />
+        <BoundingCenter X="-0.000000" Y="-0.066241" Z="0.002816" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>abandoned_ship_raft</Name>
+        <File>dz\structures\wrecks\ships\proxy\abandoned_ship_raft.p3d</File>
+        <Date>04/30/21 13:28:00</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1312666901</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.418385</BBRadius>
+        <BBHScale>2.058664</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.861313" Y="-0.546090" Z="-0.418382" />
+        <BoundingMax X="0.861313" Y="0.546094" Z="0.418387" />
+        <BoundingCenter X="0.000000" Y="0.000002" Z="0.000003" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>anchor_winch</Name>
+        <File>dz\structures\wrecks\ships\proxy\anchor_winch.p3d</File>
+        <Date>04/30/21 13:28:01</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1860624841</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.514830</BBRadius>
+        <BBHScale>0.562607</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.845093" Y="-1.720370" Z="-5.751780" />
+        <BoundingMax X="3.360270" Y="1.720360" Z="5.277880" />
+        <BoundingCenter X="0.257589" Y="-0.000005" Z="-0.236950" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>aship_armybed</Name>
+        <File>dz\structures\wrecks\ships\proxy\aship_armybed.p3d</File>
+        <Date>04/30/21 13:28:08</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-864093438</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.147629</BBRadius>
+        <BBHScale>0.393455</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.434844" Y="-0.150556" Z="-1.168061" />
+        <BoundingMax X="0.468236" Y="1.580785" Z="1.127197" />
+        <BoundingCenter X="0.016696" Y="0.715115" Z="-0.020432" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>aship_castle_doors</Name>
+        <File>dz\structures\wrecks\ships\proxy\aship_castle_doors.p3d</File>
+        <Date>04/30/21 13:28:02</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-284926272</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.312277</BBRadius>
+        <BBHScale>1.239032</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-43.904011" Y="3.824040" Z="-9.354920" />
+        <BoundingMax X="-20.827600" Y="16.761480" Z="9.269632" />
+        <BoundingCenter X="-32.365807" Y="10.292760" Z="-0.042644" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>aship_int_piping_1</Name>
+        <File>dz\structures\wrecks\ships\proxy\aship_int_piping_1.p3d</File>
+        <Date>04/30/21 13:28:19</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1386146415</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.406330</BBRadius>
+        <BBHScale>3.307846</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-48.998001" Y="0.000000" Z="-4.764060" />
+        <BoundingMax X="0.000000" Y="14.578001" Z="10.048600" />
+        <BoundingCenter X="-24.499001" Y="7.289001" Z="2.642270" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>aship_int_piping_2</Name>
+        <File>dz\structures\wrecks\ships\proxy\aship_int_piping_2.p3d</File>
+        <Date>04/30/21 13:28:24</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1386146416</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.254420</BBRadius>
+        <BBHScale>3.917070</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-48.998001" Y="0.000000" Z="-10.048600" />
+        <BoundingMax X="0.000000" Y="11.836300" Z="2.460240" />
+        <BoundingCenter X="-24.499001" Y="5.918150" Z="-3.794180" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>beams_back_a</Name>
+        <File>dz\structures\wrecks\ships\proxy\beams_back_a.p3d</File>
+        <Date>04/30/21 13:28:06</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1169317372</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>11.000900</BBRadius>
+        <BBHScale>1.775138</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-38.265701" Y="-8.914210" Z="-11.056500" />
+        <BoundingMax X="0.790522" Y="7.820240" Z="10.945300" />
+        <BoundingCenter X="-18.737589" Y="-0.546985" Z="-0.055600" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>beams_back_b</Name>
+        <File>dz\structures\wrecks\ships\proxy\beams_back_b.p3d</File>
+        <Date>04/30/21 13:28:14</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1169317371</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.780500</BBRadius>
+        <BBHScale>1.665324</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-75.314301" Y="-0.100017" Z="-10.780500" />
+        <BoundingMax X="-39.408257" Y="10.556601" Z="10.780500" />
+        <BoundingCenter X="-57.361279" Y="5.228292" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>beams_castle</Name>
+        <File>dz\structures\wrecks\ships\proxy\beams_castle.p3d</File>
+        <Date>04/30/21 13:28:02</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1117610509</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.913100</BBRadius>
+        <BBHScale>2.127961</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-46.445305" Y="0.000000" Z="-10.913100" />
+        <BoundingMax X="0.000000" Y="36.092400" Z="10.913100" />
+        <BoundingCenter X="-23.222652" Y="18.046200" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>beams_front_a</Name>
+        <File>dz\structures\wrecks\ships\proxy\beams_front_a.p3d</File>
+        <Date>04/30/21 13:28:01</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>297482736</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.721901</BBRadius>
+        <BBHScale>1.974925</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="32.700001" Y="-7.624920" Z="-10.721901" />
+        <BoundingMax X="75.049904" Y="10.206401" Z="10.721901" />
+        <BoundingCenter X="53.874954" Y="1.290740" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>beams_front_b</Name>
+        <File>dz\structures\wrecks\ships\proxy\beams_front_b.p3d</File>
+        <Date>04/30/21 13:28:05</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>297482737</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.864700</BBRadius>
+        <BBHScale>1.852535</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.463171" Y="-8.917340" Z="-10.864700" />
+        <BoundingMax X="39.791302" Y="7.820380" Z="10.864700" />
+        <BoundingCenter X="19.664066" Y="-0.548480" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>covers_back_a</Name>
+        <File>dz\structures\wrecks\ships\proxy\covers_back_a.p3d</File>
+        <Date>04/30/21 13:28:05</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>844673452</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.478471</BBRadius>
+        <BBHScale>1.022838</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-17.344200" Y="0.000000" Z="-8.477711" />
+        <BoundingMax X="0.000000" Y="4.922830" Z="8.479231" />
+        <BoundingCenter X="-8.672100" Y="2.461415" Z="0.000760" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>covers_front_b</Name>
+        <File>dz\structures\wrecks\ships\proxy\covers_front_b.p3d</File>
+        <Date>04/30/21 13:28:15</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1407445943</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.892426</BBRadius>
+        <BBHScale>1.951106</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.830531" Y="-9.179200" Z="-8.555700" />
+        <BoundingMax X="32.869602" Y="6.096231" Z="9.229151" />
+        <BoundingCenter X="15.519535" Y="-1.541485" Z="0.336725" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>crane_winch</Name>
+        <File>dz\structures\wrecks\ships\proxy\crane_winch.p3d</File>
+        <Date>04/30/21 13:28:26</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1278677163</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.621005</BBRadius>
+        <BBHScale>1.224680</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.647039" Y="-0.008125" Z="-0.627500" />
+        <BoundingMax X="0.874026" Y="0.988942" Z="0.614510" />
+        <BoundingCenter X="0.113494" Y="0.490408" Z="-0.006495" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>life_boat</Name>
+        <File>dz\structures\wrecks\ships\proxy\life_boat.p3d</File>
+        <Date>04/30/21 13:28:25</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1092120771</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.084170</BBRadius>
+        <BBHScale>1.767632</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.810110" Y="-0.247833" Z="-1.464490" />
+        <BoundingMax X="3.557980" Y="5.911730" Z="2.703850" />
+        <BoundingCenter X="-0.126065" Y="2.831949" Z="0.619680" />
         <Placement></Placement>
     </Template>
 </Library>

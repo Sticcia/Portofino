@@ -1,0 +1,201 @@
+<?xml version="1.0" ?>
+<Library name="tunnels" shape="rectangle" default_fill="-16777216" default_outline="-1" tex="0">
+    <Template>
+        <Name>tunnel_biathlon_left</Name>
+        <File>dz\structures\roads\tunnels\tunnel_biathlon_left.p3d</File>
+        <Date>04/30/21 13:27:06</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1205460914</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>26.143087</BBRadius>
+        <BBHScale>1.177400</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>8.087888</Height>
+        <BoundingMin X="-34.758724" Y="-8.094784" Z="-14.447099" />
+        <BoundingMax X="26.803034" Y="8.080992" Z="37.839077" />
+        <BoundingCenter X="-3.977845" Y="-0.006896" Z="11.695990" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>tunnel_biathlon_left_anthoxanthum</Name>
+        <File>dz\structures\roads\tunnels\tunnel_biathlon_left_anthoxanthum.p3d</File>
+        <Date>04/30/21 13:27:04</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1635398480</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>21.769802</BBRadius>
+        <BBHScale>1.188148</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>7.511559</Height>
+        <BoundingMin X="-35.259720" Y="-6.426175" Z="-3.825861" />
+        <BoundingMax X="16.471762" Y="8.596943" Z="39.713741" />
+        <BoundingCenter X="-9.393979" Y="1.085384" Z="17.943939" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>tunnel_biathlon_left_elytrigia</Name>
+        <File>dz\structures\roads\tunnels\tunnel_biathlon_left_elytrigia.p3d</File>
+        <Date>04/30/21 13:26:59</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>478304889</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>21.304445</BBRadius>
+        <BBHScale>1.191247</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>7.140253</Height>
+        <BoundingMin X="-34.819202" Y="-6.289984" Z="-3.399686" />
+        <BoundingMax X="15.938492" Y="7.990522" Z="39.209206" />
+        <BoundingCenter X="-9.440355" Y="0.850269" Z="17.904760" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>tunnel_biathlon_right</Name>
+        <File>dz\structures\roads\tunnels\tunnel_biathlon_right.p3d</File>
+        <Date>04/30/21 13:27:02</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-530082095</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>25.985077</BBRadius>
+        <BBHScale>1.032494</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>6.535846</Height>
+        <BoundingMin X="-16.226849" Y="-8.057182" Z="-29.752447" />
+        <BoundingMax X="37.432018" Y="5.014509" Z="22.217707" />
+        <BoundingCenter X="10.602585" Y="-1.521337" Z="-3.767370" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>tunnel_biathlon_right_anthoxanthum</Name>
+        <File>dz\structures\roads\tunnels\tunnel_biathlon_right_anthoxanthum.p3d</File>
+        <Date>04/30/21 13:26:59</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-420537775</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>24.725990</BBRadius>
+        <BBHScale>0.996017</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>5.971189</Height>
+        <BoundingMin X="-12.354659" Y="-6.230207" Z="-31.531061" />
+        <BoundingMax X="36.900341" Y="5.712170" Z="17.920919" />
+        <BoundingCenter X="12.272840" Y="-0.259019" Z="-6.805071" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>tunnel_biathlon_right_elytrigia</Name>
+        <File>dz\structures\roads\tunnels\tunnel_biathlon_right_elytrigia.p3d</File>
+        <Date>04/30/21 13:27:00</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1946717160</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>24.436180</BBRadius>
+        <BBHScale>1.013339</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>5.607466</Height>
+        <BoundingMin X="-13.001179" Y="-5.946198" Z="-31.143541" />
+        <BoundingMax X="36.523098" Y="5.268734" Z="17.728819" />
+        <BoundingCenter X="11.760960" Y="-0.338732" Z="-6.707361" />
+        <Placement></Placement>
+    </Template>
+</Library>

@@ -1,3 +1,0 @@
-R, G, B, Climate, Land type
-230, 230, 120, "Temperate", "Sand",
-140, 195, 80, "Temperate", "Grass",

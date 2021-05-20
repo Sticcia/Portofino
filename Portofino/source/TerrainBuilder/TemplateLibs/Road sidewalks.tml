@@ -1,0 +1,696 @@
+<?xml version="1.0" ?>
+<Library name="Road sidewalks" shape="rectangle" default_fill="-8355712" default_outline="-1" tex="0">
+    <Template>
+        <Name>sidewalk1_10m</Name>
+        <File>dz\structures\roads\sidewalks\sidewalk1_10m.p3d</File>
+        <Date>04/30/21 13:26:58</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>843758240</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.100498</BBRadius>
+        <BBHScale>0.311881</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.101000</Height>
+        <BoundingMin X="-1.590750" Y="-0.100000" Z="-5.100496" />
+        <BoundingMax X="1.590750" Y="0.102000" Z="5.100500" />
+        <BoundingCenter X="0.000000" Y="0.001000" Z="0.000002" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sidewalk1_1m</Name>
+        <File>dz\structures\roads\sidewalks\sidewalk1_1m.p3d</File>
+        <Date>04/30/21 13:26:59</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1340377418</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.555500</BBRadius>
+        <BBHScale>2.863636</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.101000</Height>
+        <BoundingMin X="-1.590750" Y="-0.100000" Z="-0.555500" />
+        <BoundingMax X="1.590750" Y="0.102000" Z="0.555500" />
+        <BoundingCenter X="0.000000" Y="0.001000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sidewalk1_5m</Name>
+        <File>dz\structures\roads\sidewalks\sidewalk1_5m.p3d</File>
+        <Date>04/30/21 13:27:00</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1340639814</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.575500</BBRadius>
+        <BBHScale>0.617647</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.101000</Height>
+        <BoundingMin X="-1.590750" Y="-0.100000" Z="-2.575500" />
+        <BoundingMax X="1.590750" Y="0.102000" Z="2.575500" />
+        <BoundingCenter X="0.000000" Y="0.001000" Z="-0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sidewalk1_corner</Name>
+        <File>dz\structures\roads\sidewalks\sidewalk1_corner.p3d</File>
+        <Date>04/30/21 13:26:58</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-668241053</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.590750</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.101000</Height>
+        <BoundingMin X="-1.590750" Y="-0.100000" Z="-1.590750" />
+        <BoundingMax X="1.590750" Y="0.102000" Z="1.590750" />
+        <BoundingCenter X="0.000000" Y="0.001000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sidewalk1_end</Name>
+        <File>dz\structures\roads\sidewalks\sidewalk1_end.p3d</File>
+        <Date>04/30/21 13:27:04</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1277423629</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.060500</BBRadius>
+        <BBHScale>1.500000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.101000</Height>
+        <BoundingMin X="-1.590750" Y="-0.100000" Z="-1.060500" />
+        <BoundingMax X="1.590750" Y="0.102000" Z="1.060500" />
+        <BoundingCenter X="0.000000" Y="0.001000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sidewalk1_tcross</Name>
+        <File>dz\structures\roads\sidewalks\sidewalk1_tcross.p3d</File>
+        <Date>04/30/21 13:26:59</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>580224890</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.590750</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.101000</Height>
+        <BoundingMin X="-1.590750" Y="-0.100000" Z="-1.590750" />
+        <BoundingMax X="1.590750" Y="0.102000" Z="1.590750" />
+        <BoundingCenter X="0.000000" Y="0.001000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sidewalk1_turn_10deg</Name>
+        <File>dz\structures\roads\sidewalks\sidewalk1_turn_10deg.p3d</File>
+        <Date>04/30/21 13:26:58</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>544894803</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.324349</BBRadius>
+        <BBHScale>1.190810</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.101000</Height>
+        <BoundingMin X="-1.568647" Y="-0.100000" Z="-1.324349" />
+        <BoundingMax X="1.585449" Y="0.102000" Z="1.324349" />
+        <BoundingCenter X="0.008401" Y="0.001000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sidewalk1_turn_20deg</Name>
+        <File>dz\structures\roads\sidewalks\sidewalk1_turn_20deg.p3d</File>
+        <Date>04/30/21 13:26:59</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1684459092</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.324349</BBRadius>
+        <BBHScale>1.179932</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.101000</Height>
+        <BoundingMin X="-1.568505" Y="-0.100000" Z="-1.324349" />
+        <BoundingMax X="1.556779" Y="0.102000" Z="1.324349" />
+        <BoundingCenter X="-0.005863" Y="0.001000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sidewalk1_turn_30deg</Name>
+        <File>dz\structures\roads\sidewalks\sidewalk1_turn_30deg.p3d</File>
+        <Date>04/30/21 13:26:58</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1470943915</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.324349</BBRadius>
+        <BBHScale>1.160227</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.101000</Height>
+        <BoundingMin X="-1.568246" Y="-0.100000" Z="-1.324349" />
+        <BoundingMax X="1.504847" Y="0.102000" Z="1.324349" />
+        <BoundingCenter X="-0.031700" Y="0.001000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sidewalk1_turn_5deg</Name>
+        <File>dz\structures\roads\sidewalks\sidewalk1_turn_5deg.p3d</File>
+        <Date>04/30/21 13:26:58</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>555122565</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.324349</BBRadius>
+        <BBHScale>1.192779</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.101000</Height>
+        <BoundingMin X="-1.568660" Y="-0.100000" Z="-1.324797" />
+        <BoundingMax X="1.590653" Y="0.102000" Z="1.323902" />
+        <BoundingCenter X="0.010996" Y="0.001000" Z="-0.000447" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sidewalk2_1m</Name>
+        <File>dz\structures\roads\sidewalks\sidewalk2_1m.p3d</File>
+        <Date>04/30/21 13:26:58</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2120964617</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.550000</BBRadius>
+        <BBHScale>5.737851</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.101000</Height>
+        <BoundingMin X="-3.150000" Y="-0.100000" Z="-0.550000" />
+        <BoundingMax X="3.161635" Y="0.102000" Z="0.550000" />
+        <BoundingCenter X="0.005818" Y="0.001000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sidewalk2_5m</Name>
+        <File>dz\structures\roads\sidewalks\sidewalk2_5m.p3d</File>
+        <Date>04/30/21 13:26:59</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2121227013</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.550000</BBRadius>
+        <BBHScale>1.235468</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.101000</Height>
+        <BoundingMin X="-3.150000" Y="-0.100000" Z="-2.550000" />
+        <BoundingMax X="3.150885" Y="0.102000" Z="2.550000" />
+        <BoundingCenter X="0.000442" Y="0.001000" Z="-0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sidewalk3_border</Name>
+        <File>dz\structures\roads\sidewalks\sidewalk3_border.p3d</File>
+        <Date>04/30/21 13:27:05</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>53861016</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.536089</BBRadius>
+        <BBHScale>3.836824</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.252217</Height>
+        <BoundingMin X="-2.056880" Y="-0.313463" Z="-0.664768" />
+        <BoundingMax X="2.056880" Y="0.190971" Z="0.407411" />
+        <BoundingCenter X="0.000000" Y="-0.061246" Z="-0.128679" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sidewalk3_border_nolc</Name>
+        <File>dz\structures\roads\sidewalks\sidewalk3_border_nolc.p3d</File>
+        <Date>04/30/21 13:27:06</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1039018687</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.536089</BBRadius>
+        <BBHScale>3.836824</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.252217</Height>
+        <BoundingMin X="-2.056880" Y="-0.313463" Z="-0.664768" />
+        <BoundingMax X="2.056880" Y="0.190971" Z="0.407411" />
+        <BoundingCenter X="0.000000" Y="-0.061246" Z="-0.128679" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sidewalk3_narrow_12m</Name>
+        <File>dz\structures\roads\sidewalks\sidewalk3_narrow_12m.p3d</File>
+        <Date>04/30/21 13:26:58</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1412048724</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.284236</BBRadius>
+        <BBHScale>5.440039</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.245249</Height>
+        <BoundingMin X="-6.986293" Y="-0.313482" Z="-1.284236" />
+        <BoundingMax X="6.986293" Y="0.177016" Z="1.284236" />
+        <BoundingCenter X="0.000000" Y="-0.068233" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sidewalk3_narrow_4m</Name>
+        <File>dz\structures\roads\sidewalks\sidewalk3_narrow_4m.p3d</File>
+        <Date>04/30/21 13:26:59</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-774000559</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.292465</BBRadius>
+        <BBHScale>2.338050</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.258976</Height>
+        <BoundingMin X="-3.038613" Y="-0.326862" Z="-0.527632" />
+        <BoundingMax X="3.005083" Y="0.191090" Z="2.057298" />
+        <BoundingCenter X="-0.016765" Y="-0.067886" Z="0.764833" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sidewalk3_narrow_corner</Name>
+        <File>dz\structures\roads\sidewalks\sidewalk3_narrow_corner.p3d</File>
+        <Date>04/30/21 13:27:06</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1552879533</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.762371</BBRadius>
+        <BBHScale>1.009661</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.235809</Height>
+        <BoundingMin X="-2.076185" Y="-0.310256" Z="-0.509624" />
+        <BoundingMax X="1.482608" Y="0.161362" Z="3.015117" />
+        <BoundingCenter X="-0.296789" Y="-0.074447" Z="1.252746" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sidewalk3_wideb_4m</Name>
+        <File>dz\structures\roads\sidewalks\sidewalk3_wideb_4m.p3d</File>
+        <Date>04/30/21 13:27:01</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>821530165</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.007021</BBRadius>
+        <BBHScale>1.240904</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.245248</Height>
+        <BoundingMin X="-2.489830" Y="-0.299407" Z="-2.007021" />
+        <BoundingMax X="2.491211" Y="0.191090" Z="2.007021" />
+        <BoundingCenter X="0.000691" Y="-0.054158" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sidewalk3_wide_12m</Name>
+        <File>dz\structures\roads\sidewalks\sidewalk3_wide_12m.p3d</File>
+        <Date>04/30/21 13:27:05</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1900391860</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.037913</BBRadius>
+        <BBHScale>3.422390</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.245249</Height>
+        <BoundingMin X="-6.974532" Y="-0.299407" Z="-2.027616" />
+        <BoundingMax X="6.974532" Y="0.191090" Z="2.048210" />
+        <BoundingCenter X="0.000000" Y="-0.054158" Z="0.010297" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sidewalk3_wide_4m</Name>
+        <File>dz\structures\roads\sidewalks\sidewalk3_wide_4m.p3d</File>
+        <Date>04/30/21 13:27:01</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>633030489</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.027711</BBRadius>
+        <BBHScale>1.477035</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.250787</Height>
+        <BoundingMin X="-3.011099" Y="-0.310484" Z="-2.007211" />
+        <BoundingMax X="2.978900" Y="0.191090" Z="2.048210" />
+        <BoundingCenter X="-0.016099" Y="-0.059697" Z="0.020499" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sidewalk3_wide_corner</Name>
+        <File>dz\structures\roads\sidewalks\sidewalk3_wide_corner.p3d</File>
+        <Date>04/30/21 13:27:05</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1054383797</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.686001</BBRadius>
+        <BBHScale>0.975320</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.233371</Height>
+        <BoundingMin X="-1.512248" Y="-0.310484" Z="-2.007681" />
+        <BoundingMax X="1.776534" Y="0.156258" Z="1.364321" />
+        <BoundingCenter X="0.132143" Y="-0.077113" Z="-0.321680" />
+        <Placement></Placement>
+    </Template>
+</Library>
