@@ -1,6 +1,8 @@
 ## Packed mods
 PackedPbos/
+data/
 *.pbo
+*.wrp
 
 ## Buldozer
 Buldozer/
