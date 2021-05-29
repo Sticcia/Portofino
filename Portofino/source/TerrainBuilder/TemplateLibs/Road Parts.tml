@@ -27,7 +27,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.000059</Height>
         <BoundingMin X="-6.000000" Y="0.000000" Z="0.000000" />
         <BoundingMax X="6.075926" Y="0.000118" Z="17.505430" />
         <BoundingCenter X="0.037963" Y="0.000059" Z="8.752715" />
@@ -497,8 +497,8 @@
     </Template>
     <Template>
         <Name>asf1_7 100</Name>
-        <File>DZ\structures\roads\parts\asf1_7 100.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\asf1_7 100.p3d</File>
+        <Date>04/30/21 13:27:06</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -516,22 +516,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>6.917888</BBRadius>
+        <BBHScale>0.925440</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-6.000000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="6.804183" Y="0.000000" Z="13.835776" />
+        <BoundingCenter X="0.402092" Y="0.000000" Z="6.917888" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>asf2_0 2000</Name>
-        <File>DZ\structures\roads\parts\asf2_0 2000.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\asf2_0 2000.p3d</File>
+        <Date>04/30/21 13:27:06</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -549,22 +549,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>8.746170</BBRadius>
+        <BBHScale>0.518855</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-4.500000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="4.575983" Y="0.000000" Z="17.492340" />
+        <BoundingCenter X="0.037992" Y="0.000000" Z="8.746170" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>asf2_1 1000</Name>
-        <File>DZ\structures\roads\parts\asf2_1 1000.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\asf2_1 1000.p3d</File>
+        <Date>04/30/21 13:26:59</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -582,22 +582,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>8.765471</BBRadius>
+        <BBHScale>0.522027</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-4.500000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="4.651619" Y="0.000000" Z="17.530943" />
+        <BoundingCenter X="0.075809" Y="0.000000" Z="8.765471" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>asf2_10 100</Name>
-        <File>DZ\structures\roads\parts\asf2_10 100.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\asf2_10 100.p3d</File>
+        <Date>04/30/21 13:27:06</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -615,22 +615,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>9.073117</BBRadius>
+        <BBHScale>0.575924</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-4.500000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="5.950859" Y="0.000000" Z="18.146235" />
+        <BoundingCenter X="0.725430" Y="0.000000" Z="9.073117" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>asf2_10 25</Name>
-        <File>DZ\structures\roads\parts\asf2_10 25.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\asf2_10 25.p3d</File>
+        <Date>04/30/21 13:27:06</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -648,22 +648,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>2.561311</BBRadius>
+        <BBHScale>1.817710</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-4.500000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="4.811441" Y="0.000000" Z="5.122621" />
+        <BoundingCenter X="0.155721" Y="0.000000" Z="2.561311" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>asf2_10 50</Name>
-        <File>DZ\structures\roads\parts\asf2_10 50.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\asf2_10 50.p3d</File>
+        <Date>04/30/21 13:27:02</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -681,22 +681,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>4.731913</BBRadius>
+        <BBHScale>1.024031</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-4.500000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="5.191248" Y="0.000000" Z="9.463825" />
+        <BoundingCenter X="0.345624" Y="0.000000" Z="4.731913" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>asf2_10 75</Name>
-        <File>DZ\structures\roads\parts\asf2_10 75.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\asf2_10 75.p3d</File>
+        <Date>04/30/21 13:26:58</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -714,22 +714,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>6.902515</BBRadius>
+        <BBHScale>0.729521</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-4.500000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="5.571054" Y="0.000000" Z="13.805030" />
+        <BoundingCenter X="0.535527" Y="0.000000" Z="6.902515" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>asf2_12</Name>
-        <File>DZ\structures\roads\parts\asf2_12.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\asf2_12.p3d</File>
+        <Date>04/30/21 13:27:05</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -747,22 +747,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>6.250000</BBRadius>
+        <BBHScale>0.720000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-4.500000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="4.500000" Y="0.000000" Z="12.500000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="6.250000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>asf2_15 75</Name>
-        <File>DZ\structures\roads\parts\asf2_15 75.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\asf2_15 75.p3d</File>
+        <Date>04/30/21 13:27:00</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -780,22 +780,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>10.288057</BBRadius>
+        <BBHScale>0.554149</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-4.500000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="6.902229" Y="0.000000" Z="20.576115" />
+        <BoundingCenter X="1.201115" Y="0.000000" Z="10.288057" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>asf2_22 50</Name>
-        <File>DZ\structures\roads\parts\asf2_22 50.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\asf2_22 50.p3d</File>
+        <Date>04/30/21 13:26:58</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -813,22 +813,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>10.428123</BBRadius>
+        <BBHScale>0.597590</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-4.500000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="7.963482" Y="0.000000" Z="20.856247" />
+        <BoundingCenter X="1.731741" Y="0.000000" Z="10.428123" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>asf2_25</Name>
-        <File>DZ\structures\roads\parts\asf2_25.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\asf2_25.p3d</File>
+        <Date>04/30/21 13:27:00</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -846,22 +846,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>12.500000</BBRadius>
+        <BBHScale>0.360000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-4.500000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="4.500000" Y="0.000000" Z="25.000000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="12.500000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>asf2_30 25</Name>
-        <File>DZ\structures\roads\parts\asf2_30 25.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\asf2_30 25.p3d</File>
+        <Date>04/30/21 13:27:06</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -879,22 +879,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>7.375000</BBRadius>
+        <BBHScale>0.796371</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-4.500000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="7.246479" Y="0.000000" Z="14.750000" />
+        <BoundingCenter X="1.373240" Y="0.000000" Z="7.375000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>asf2_6</Name>
-        <File>DZ\structures\roads\parts\asf2_6.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\asf2_6.p3d</File>
+        <Date>04/30/21 13:27:05</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -912,22 +912,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>3.125000</BBRadius>
+        <BBHScale>1.440000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-4.500000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="4.500000" Y="0.000000" Z="6.250000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="3.125000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>asf2_60 10</Name>
-        <File>DZ\structures\roads\parts\asf2_60 10.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\asf2_60 10.p3d</File>
+        <Date>04/30/21 13:27:00</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -945,22 +945,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>6.278684</BBRadius>
+        <BBHScale>0.935706</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-4.500000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="7.250000" Y="0.000001" Z="12.557368" />
+        <BoundingCenter X="1.375000" Y="0.000000" Z="6.278684" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>asf2_6konec</Name>
-        <File>DZ\structures\roads\parts\asf2_6konec.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\asf2_6konec.p3d</File>
+        <Date>04/30/21 13:27:06</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -978,22 +978,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>3.125000</BBRadius>
+        <BBHScale>1.440000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-4.500000" Y="0.000000" Z="-0.000000" />
+        <BoundingMax X="4.500000" Y="0.000000" Z="6.250000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="3.125000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>asf2_6_crosswalk</Name>
-        <File>DZ\structures\roads\parts\asf2_6_crosswalk.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\asf2_6_crosswalk.p3d</File>
+        <Date>04/30/21 13:26:59</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -1011,22 +1011,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>3.125000</BBRadius>
+        <BBHScale>1.440000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-4.500000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="4.500000" Y="0.000000" Z="6.250000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="3.125000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>asf2_7 100</Name>
-        <File>DZ\structures\roads\parts\asf2_7 100.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\asf2_7 100.p3d</File>
+        <Date>04/30/21 13:26:59</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -1044,22 +1044,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>6.819993</BBRadius>
+        <BBHScale>0.719723</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-4.500000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="5.317016" Y="0.000000" Z="13.639987" />
+        <BoundingCenter X="0.408508" Y="0.000000" Z="6.819993" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>asf3_0 2000</Name>
-        <File>DZ\structures\roads\parts\asf3_0 2000.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\asf3_0 2000.p3d</File>
+        <Date>04/30/21 13:27:01</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -1077,22 +1077,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>8.741807</BBRadius>
+        <BBHScale>0.404723</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-3.500000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="3.576021" Y="0.000000" Z="17.483614" />
+        <BoundingCenter X="0.038010" Y="0.000000" Z="8.741807" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>asf3_1 1000</Name>
-        <File>DZ\structures\roads\parts\asf3_1 1000.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\asf3_1 1000.p3d</File>
+        <Date>04/30/21 13:27:05</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -1110,22 +1110,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>8.756745</BBRadius>
+        <BBHScale>0.408358</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-3.500000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="3.651772" Y="0.000000" Z="17.513491" />
+        <BoundingCenter X="0.075886" Y="0.000000" Z="8.756745" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>asf3_10 100</Name>
-        <File>DZ\structures\roads\parts\asf3_10 100.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\asf3_10 100.p3d</File>
+        <Date>04/30/21 13:27:02</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -1143,22 +1143,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>8.990829</BBRadius>
+        <BBHScale>0.470816</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-3.500000" Y="0.000000" Z="-0.009071" />
+        <BoundingMax X="4.966052" Y="0.000000" Z="17.972586" />
+        <BoundingCenter X="0.733026" Y="0.000000" Z="8.981757" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>asf3_10 25</Name>
-        <File>DZ\structures\roads\parts\asf3_10 25.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\asf3_10 25.p3d</File>
+        <Date>04/30/21 13:26:59</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -1176,22 +1176,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>2.486737</BBRadius>
+        <BBHScale>1.473142</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-3.500000" Y="0.000000" Z="-0.024501" />
+        <BoundingMax X="3.826633" Y="0.000000" Z="4.948973" />
+        <BoundingCenter X="0.163317" Y="0.000000" Z="2.462236" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>asf3_10 50</Name>
-        <File>DZ\structures\roads\parts\asf3_10 50.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\asf3_10 50.p3d</File>
+        <Date>04/30/21 13:27:05</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -1209,22 +1209,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>4.647501</BBRadius>
+        <BBHScale>0.829095</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-3.500000" Y="0.000000" Z="-0.004825" />
+        <BoundingMax X="4.206439" Y="0.000000" Z="9.290177" />
+        <BoundingCenter X="0.353220" Y="0.000000" Z="4.642676" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>asf3_10 75</Name>
-        <File>DZ\structures\roads\parts\asf3_10 75.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\asf3_10 75.p3d</File>
+        <Date>04/30/21 13:27:01</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -1242,22 +1242,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>6.832400</BBRadius>
+        <BBHScale>0.591757</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-3.500000" Y="0.000000" Z="-0.033418" />
+        <BoundingMax X="4.586246" Y="0.000000" Z="13.631382" />
+        <BoundingCenter X="0.543123" Y="0.000000" Z="6.798982" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>asf3_12</Name>
-        <File>DZ\structures\roads\parts\asf3_12.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\asf3_12.p3d</File>
+        <Date>04/30/21 13:27:03</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -1275,22 +1275,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>6.250000</BBRadius>
+        <BBHScale>0.560000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-3.500000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="3.500000" Y="0.000000" Z="12.500000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="6.250000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>asf3_15 75</Name>
-        <File>DZ\structures\roads\parts\asf3_15 75.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\asf3_15 75.p3d</File>
+        <Date>04/30/21 13:27:03</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -1308,22 +1308,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>10.161469</BBRadius>
+        <BBHScale>0.464318</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-3.500000" Y="0.000000" Z="-0.005641" />
+        <BoundingMax X="5.936304" Y="0.000000" Z="20.317295" />
+        <BoundingCenter X="1.218152" Y="0.000000" Z="10.155827" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>asf3_22 50</Name>
-        <File>DZ\structures\roads\parts\asf3_22 50.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\asf3_22 50.p3d</File>
+        <Date>04/30/21 13:27:02</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -1341,22 +1341,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>10.244059</BBRadius>
+        <BBHScale>0.514425</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-3.500000" Y="0.000000" Z="-0.014554" />
+        <BoundingMax X="7.039602" Y="0.000000" Z="20.473564" />
+        <BoundingCenter X="1.769801" Y="0.000000" Z="10.229506" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>asf3_25</Name>
-        <File>DZ\structures\roads\parts\asf3_25.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\asf3_25.p3d</File>
+        <Date>04/30/21 13:26:59</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -1374,22 +1374,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>12.500000</BBRadius>
+        <BBHScale>0.280000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-3.500000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="3.500000" Y="0.000000" Z="25.000000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="12.500000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>asf3_30 25</Name>
-        <File>DZ\structures\roads\parts\asf3_30 25.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\asf3_30 25.p3d</File>
+        <Date>04/30/21 13:26:59</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -1407,22 +1407,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>7.129545</BBRadius>
+        <BBHScale>0.692923</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-3.500000" Y="0.000000" Z="-0.009090" />
+        <BoundingMax X="6.380453" Y="0.000000" Z="14.250000" />
+        <BoundingCenter X="1.440227" Y="0.000000" Z="7.120455" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>asf3_6</Name>
-        <File>DZ\structures\roads\parts\asf3_6.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\asf3_6.p3d</File>
+        <Date>04/30/21 13:27:05</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -1440,22 +1440,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>3.125000</BBRadius>
+        <BBHScale>1.120000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-3.500000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="3.500000" Y="0.000000" Z="6.250000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="3.125000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>asf3_60 10</Name>
-        <File>DZ\structures\roads\parts\asf3_60 10.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\asf3_60 10.p3d</File>
+        <Date>04/30/21 13:27:05</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -1473,22 +1473,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>5.848749</BBRadius>
+        <BBHScale>0.876256</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-3.500000" Y="0.000000" Z="-0.006155" />
+        <BoundingMax X="6.750000" Y="0.000001" Z="11.691343" />
+        <BoundingCenter X="1.625000" Y="0.000000" Z="5.842594" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>asf3_6konec</Name>
-        <File>DZ\structures\roads\parts\asf3_6konec.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\asf3_6konec.p3d</File>
+        <Date>04/30/21 13:27:00</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -1506,22 +1506,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>3.125000</BBRadius>
+        <BBHScale>1.120000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-3.500000" Y="0.000000" Z="-0.000000" />
+        <BoundingMax X="3.500000" Y="0.000000" Z="6.250000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="3.125000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>asf3_7 100</Name>
-        <File>DZ\structures\roads\parts\asf3_7 100.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\asf3_7 100.p3d</File>
+        <Date>04/30/21 13:27:02</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -1539,16 +1539,16 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>6.754730</BBRadius>
+        <BBHScale>0.579266</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-3.500000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="4.325571" Y="0.000000" Z="13.509460" />
+        <BoundingCenter X="0.412786" Y="0.000000" Z="6.754730" />
         <Placement></Placement>
     </Template>
     <Template>
@@ -2007,7 +2007,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.053460</Height>
         <BoundingMin X="-5.136272" Y="0.000000" Z="-0.000000" />
         <BoundingMax X="5.000000" Y="0.106919" Z="6.250000" />
         <BoundingCenter X="-0.068136" Y="0.053460" Z="3.125000" />
@@ -2081,8 +2081,8 @@
     </Template>
     <Template>
         <Name>grav_0 2000</Name>
-        <File>DZ\structures\roads\parts\grav_0 2000.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\grav_0 2000.p3d</File>
+        <Date>04/30/21 13:27:01</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -2100,22 +2100,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>8.739625</BBRadius>
+        <BBHScale>0.347614</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-3.000000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="3.076039" Y="0.000000" Z="17.479250" />
+        <BoundingCenter X="0.038020" Y="0.000000" Z="8.739625" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>grav_1 1000</Name>
-        <File>DZ\structures\roads\parts\grav_1 1000.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\grav_1 1000.p3d</File>
+        <Date>04/30/21 13:27:05</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -2133,22 +2133,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>8.752382</BBRadius>
+        <BBHScale>0.351438</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-3.000000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="3.151848" Y="0.000000" Z="17.504765" />
+        <BoundingCenter X="0.075924" Y="0.000000" Z="8.752382" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>grav_10 100</Name>
-        <File>DZ\structures\roads\parts\grav_10 100.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\grav_10 100.p3d</File>
+        <Date>04/30/21 13:27:01</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -2166,22 +2166,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>8.942882</BBRadius>
+        <BBHScale>0.417855</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-3.000000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="4.473648" Y="0.000000" Z="17.885763" />
+        <BoundingCenter X="0.736824" Y="0.000000" Z="8.942882" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>grav_10 25</Name>
-        <File>DZ\structures\roads\parts\grav_10 25.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\grav_10 25.p3d</File>
+        <Date>04/30/21 13:26:59</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -2199,22 +2199,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>2.431074</BBRadius>
+        <BBHScale>1.302763</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-3.000000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="3.334229" Y="0.000000" Z="4.862149" />
+        <BoundingCenter X="0.167115" Y="0.000000" Z="2.431074" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>grav_10 50</Name>
-        <File>DZ\structures\roads\parts\grav_10 50.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\grav_10 50.p3d</File>
+        <Date>04/30/21 13:27:05</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -2232,22 +2232,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>4.601677</BBRadius>
+        <BBHScale>0.729520</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-3.000000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="3.714036" Y="0.000000" Z="9.203354" />
+        <BoundingCenter X="0.357018" Y="0.000000" Z="4.601677" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>grav_10 75</Name>
-        <File>DZ\structures\roads\parts\grav_10 75.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\grav_10 75.p3d</File>
+        <Date>04/30/21 13:27:01</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -2265,16 +2265,16 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>6.772279</BBRadius>
+        <BBHScale>0.523741</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-3.000000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="4.093842" Y="0.000000" Z="13.544558" />
+        <BoundingCenter X="0.546921" Y="0.000000" Z="6.772279" />
         <Placement></Placement>
     </Template>
     <Template>
@@ -2312,8 +2312,8 @@
     </Template>
     <Template>
         <Name>grav_15 75</Name>
-        <File>DZ\structures\roads\parts\grav_15 75.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\grav_15 75.p3d</File>
+        <Date>04/30/21 13:27:04</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -2331,22 +2331,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>10.093943</BBRadius>
+        <BBHScale>0.418733</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-3.000000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="5.453341" Y="0.000000" Z="20.187885" />
+        <BoundingCenter X="1.226670" Y="0.000000" Z="10.093943" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>grav_22 50</Name>
-        <File>DZ\structures\roads\parts\grav_22 50.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\grav_22 50.p3d</File>
+        <Date>04/30/21 13:27:02</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -2364,22 +2364,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>10.141111</BBRadius>
+        <BBHScale>0.472220</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-3.000000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="6.577662" Y="0.000000" Z="20.282223" />
+        <BoundingCenter X="1.788831" Y="0.000000" Z="10.141111" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>grav_25</Name>
-        <File>DZ\structures\roads\parts\grav_25.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\grav_25.p3d</File>
+        <Date>04/30/21 13:27:05</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -2397,22 +2397,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>12.500000</BBRadius>
+        <BBHScale>0.240000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-3.000000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="3.000000" Y="0.000000" Z="25.000000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="12.500000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>grav_30 25</Name>
-        <File>DZ\structures\roads\parts\grav_30 25.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\grav_30 25.p3d</File>
+        <Date>04/30/21 13:26:59</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -2430,22 +2430,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>7.000000</BBRadius>
+        <BBHScale>0.639103</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-3.000000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="5.947441" Y="0.000000" Z="14.000000" />
+        <BoundingCenter X="1.473721" Y="0.000000" Z="7.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>grav_6</Name>
-        <File>DZ\structures\roads\parts\grav_6.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\grav_6.p3d</File>
+        <Date>04/30/21 13:27:01</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -2463,22 +2463,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>3.125000</BBRadius>
+        <BBHScale>0.960000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-3.000000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="3.000000" Y="0.000000" Z="6.250000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="3.125000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>grav_60 10</Name>
-        <File>DZ\structures\roads\parts\grav_60 10.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\grav_60 10.p3d</File>
+        <Date>04/30/21 13:27:05</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -2496,22 +2496,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>5.629165</BBRadius>
+        <BBHScale>0.843820</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-3.000000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="6.500000" Y="0.000000" Z="11.258330" />
+        <BoundingCenter X="1.750000" Y="0.000000" Z="5.629165" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>grav_6konec</Name>
-        <File>DZ\structures\roads\parts\grav_6konec.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\grav_6konec.p3d</File>
+        <Date>04/30/21 13:26:59</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -2529,22 +2529,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>3.125000</BBRadius>
+        <BBHScale>0.960000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-3.000000" Y="0.000000" Z="-0.000000" />
+        <BoundingMax X="3.000000" Y="0.000000" Z="6.250000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="3.125000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>grav_7 100</Name>
-        <File>DZ\structures\roads\parts\grav_7 100.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\grav_7 100.p3d</File>
+        <Date>04/30/21 13:27:02</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -2562,22 +2562,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>6.722099</BBRadius>
+        <BBHScale>0.508015</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-3.000000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="3.829848" Y="0.000000" Z="13.444198" />
+        <BoundingCenter X="0.414924" Y="0.000000" Z="6.722099" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>kr_t_asf1_asf2</Name>
-        <File>DZ\structures\roads\parts\kr_t_asf1_asf2.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\kr_t_asf1_asf2.p3d</File>
+        <Date>04/30/21 13:27:04</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -2595,22 +2595,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BBRadius>6.250000</BBRadius>
+        <BBHScale>0.980000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000687</Height>
+        <BoundingMin X="-6.250000" Y="-0.001373" Z="-6.250000" />
+        <BoundingMax X="6.000000" Y="0.000000" Z="6.250000" />
+        <BoundingCenter X="-0.125000" Y="-0.000687" Z="0.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>kr_t_asf1_asf3</Name>
-        <File>DZ\structures\roads\parts\kr_t_asf1_asf3.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\kr_t_asf1_asf3.p3d</File>
+        <Date>04/30/21 13:26:59</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -2628,22 +2628,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BBRadius>6.250000</BBRadius>
+        <BBHScale>0.980000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000374</Height>
+        <BoundingMin X="-6.250000" Y="0.000000" Z="-6.250000" />
+        <BoundingMax X="6.000000" Y="0.000749" Z="6.250000" />
+        <BoundingCenter X="-0.125000" Y="0.000374" Z="0.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>kr_t_asf1_city</Name>
-        <File>DZ\structures\roads\parts\kr_t_asf1_city.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\kr_t_asf1_city.p3d</File>
+        <Date>04/30/21 13:26:59</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -2661,22 +2661,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BBRadius>6.250000</BBRadius>
+        <BBHScale>0.980000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000233</Height>
+        <BoundingMin X="-6.250000" Y="0.000000" Z="-6.250000" />
+        <BoundingMax X="6.000000" Y="0.000466" Z="6.250000" />
+        <BoundingCenter X="-0.125000" Y="0.000233" Z="0.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>kr_t_asf2_asf2</Name>
-        <File>DZ\structures\roads\parts\kr_t_asf2_asf2.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\kr_t_asf2_asf2.p3d</File>
+        <Date>04/30/21 13:27:06</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -2694,22 +2694,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BBRadius>6.250000</BBRadius>
+        <BBHScale>0.860000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.002680</Height>
+        <BoundingMin X="-6.250000" Y="-0.000591" Z="-6.250000" />
+        <BoundingMax X="4.500000" Y="0.004770" Z="6.250000" />
+        <BoundingCenter X="-0.875000" Y="0.002089" Z="0.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>kr_t_asf2_asf3</Name>
-        <File>DZ\structures\roads\parts\kr_t_asf2_asf3.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\kr_t_asf2_asf3.p3d</File>
+        <Date>04/30/21 13:27:00</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -2727,22 +2727,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BBRadius>6.250000</BBRadius>
+        <BBHScale>0.860000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.002530</Height>
+        <BoundingMin X="-6.250000" Y="0.000000" Z="-6.250000" />
+        <BoundingMax X="4.500000" Y="0.005061" Z="6.250000" />
+        <BoundingCenter X="-0.875000" Y="0.002530" Z="0.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>kr_t_asf3_asf2</Name>
-        <File>DZ\structures\roads\parts\kr_t_asf3_asf2.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\kr_t_asf3_asf2.p3d</File>
+        <Date>04/30/21 13:26:58</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -2760,22 +2760,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BBRadius>6.250000</BBRadius>
+        <BBHScale>0.780000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.001481</Height>
+        <BoundingMin X="-6.250000" Y="0.000000" Z="-6.250000" />
+        <BoundingMax X="3.500000" Y="0.002962" Z="6.250000" />
+        <BoundingCenter X="-1.375000" Y="0.001481" Z="0.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>kr_t_asf3_asf3</Name>
-        <File>DZ\structures\roads\parts\kr_t_asf3_asf3.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\kr_t_asf3_asf3.p3d</File>
+        <Date>04/30/21 13:27:03</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -2793,22 +2793,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BBRadius>6.250000</BBRadius>
+        <BBHScale>0.780242</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.001815</Height>
+        <BoundingMin X="-6.250000" Y="-0.003630" Z="-6.250000" />
+        <BoundingMax X="3.503020" Y="0.000000" Z="6.250000" />
+        <BoundingCenter X="-1.373490" Y="-0.001815" Z="0.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>kr_t_asf3_mud</Name>
-        <File>DZ\structures\roads\parts\kr_t_asf3_mud.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\kr_t_asf3_mud.p3d</File>
+        <Date>04/30/21 13:27:02</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -2826,22 +2826,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BBRadius>6.250000</BBRadius>
+        <BBHScale>0.780000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.020948</Height>
+        <BoundingMin X="-6.250000" Y="-0.000000" Z="-6.250000" />
+        <BoundingMax X="3.500000" Y="0.041896" Z="6.250000" />
+        <BoundingCenter X="-1.375000" Y="0.020948" Z="0.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>kr_t_city_asf3</Name>
-        <File>DZ\structures\roads\parts\kr_t_city_asf3.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\kr_t_city_asf3.p3d</File>
+        <Date>04/30/21 13:27:04</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -2859,22 +2859,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BBRadius>6.250000</BBRadius>
+        <BBHScale>0.900000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.003234</Height>
+        <BoundingMin X="-6.250000" Y="0.000000" Z="-6.250000" />
+        <BoundingMax X="5.000000" Y="0.006469" Z="6.250000" />
+        <BoundingCenter X="-0.625000" Y="0.003234" Z="0.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>kr_t_city_city</Name>
-        <File>DZ\structures\roads\parts\kr_t_city_city.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\kr_t_city_city.p3d</File>
+        <Date>04/30/21 13:27:04</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -2892,22 +2892,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BBRadius>6.250000</BBRadius>
+        <BBHScale>0.900000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000026</Height>
+        <BoundingMin X="-6.250000" Y="0.000000" Z="-6.250000" />
+        <BoundingMax X="5.000000" Y="0.000051" Z="6.250000" />
+        <BoundingCenter X="-0.625000" Y="0.000026" Z="0.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>kr_t_mud_mud</Name>
-        <File>DZ\structures\roads\parts\kr_t_mud_mud.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\kr_t_mud_mud.p3d</File>
+        <Date>04/30/21 13:27:05</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -2925,22 +2925,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>6.250000</BBRadius>
+        <BBHScale>0.700000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-6.250000" Y="-0.000000" Z="-6.250000" />
+        <BoundingMax X="2.500000" Y="0.000000" Z="6.250000" />
+        <BoundingCenter X="-1.875000" Y="0.000000" Z="0.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>kr_x_asf1_asf3</Name>
-        <File>DZ\structures\roads\parts\kr_x_asf1_asf3.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\kr_x_asf1_asf3.p3d</File>
+        <Date>04/30/21 13:26:59</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -2958,22 +2958,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
+        <BBRadius>6.250000</BBRadius>
         <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000424</Height>
+        <BoundingMin X="-6.250000" Y="-0.000848" Z="-6.250000" />
+        <BoundingMax X="6.250000" Y="0.000000" Z="6.250000" />
+        <BoundingCenter X="0.000000" Y="-0.000424" Z="0.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>kr_x_asf1_city</Name>
-        <File>DZ\structures\roads\parts\kr_x_asf1_city.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\kr_x_asf1_city.p3d</File>
+        <Date>04/30/21 13:26:59</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -2991,22 +2991,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BBRadius>6.250000</BBRadius>
+        <BBHScale>1.000013</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.002097</Height>
+        <BoundingMin X="-6.250000" Y="0.000000" Z="-6.250000" />
+        <BoundingMax X="6.250158" Y="0.004195" Z="6.250000" />
+        <BoundingCenter X="0.000079" Y="0.002097" Z="0.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>kr_x_asf2_asf3</Name>
-        <File>DZ\structures\roads\parts\kr_x_asf2_asf3.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\kr_x_asf2_asf3.p3d</File>
+        <Date>04/30/21 13:27:00</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -3024,22 +3024,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
+        <BBRadius>6.250000</BBRadius>
         <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.004046</Height>
+        <BoundingMin X="-6.250000" Y="0.000000" Z="-6.250000" />
+        <BoundingMax X="6.250000" Y="0.008092" Z="6.250000" />
+        <BoundingCenter X="0.000000" Y="0.004046" Z="0.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>kr_x_city_city</Name>
-        <File>DZ\structures\roads\parts\kr_x_city_city.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\kr_x_city_city.p3d</File>
+        <Date>04/30/21 13:27:04</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -3057,22 +3057,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BBRadius>6.250000</BBRadius>
+        <BBHScale>1.000013</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000954</Height>
+        <BoundingMin X="-6.250000" Y="0.000000" Z="-6.250000" />
+        <BoundingMax X="6.250158" Y="0.001908" Z="6.250000" />
+        <BoundingCenter X="0.000079" Y="0.000954" Z="0.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>kr_x_city_city_asf3</Name>
-        <File>DZ\structures\roads\parts\kr_x_city_city_asf3.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\kr_x_city_city_asf3.p3d</File>
+        <Date>04/30/21 13:26:59</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -3090,22 +3090,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BBRadius>6.250035</BBRadius>
+        <BBHScale>1.000007</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.005435</Height>
+        <BoundingMin X="-6.250000" Y="-0.000414" Z="-6.250000" />
+        <BoundingMax X="6.250158" Y="0.010455" Z="6.250070" />
+        <BoundingCenter X="0.000079" Y="0.005021" Z="0.000035" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>mud_0 2000</Name>
-        <File>DZ\structures\roads\parts\mud_0 2000.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\mud_0 2000.p3d</File>
+        <Date>04/30/21 13:27:05</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -3123,22 +3123,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>8.737444</BBRadius>
+        <BBHScale>0.300457</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-2.674397" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="2.576058" Y="0.000000" Z="17.474888" />
+        <BoundingCenter X="-0.049170" Y="0.000000" Z="8.737444" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>mud_1 1000</Name>
-        <File>DZ\structures\roads\parts\mud_1 1000.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\mud_1 1000.p3d</File>
+        <Date>04/30/21 13:26:58</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -3156,22 +3156,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>8.748018</BBRadius>
+        <BBHScale>0.308855</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-2.603414" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="2.800318" Y="0.000000" Z="17.496037" />
+        <BoundingCenter X="0.098452" Y="0.000000" Z="8.748018" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>mud_10 100</Name>
-        <File>DZ\structures\roads\parts\mud_10 100.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\mud_10 100.p3d</File>
+        <Date>04/30/21 13:27:05</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -3189,22 +3189,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>8.900120</BBRadius>
+        <BBHScale>0.364110</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-2.500000" Y="-0.000000" Z="-0.001302" />
+        <BoundingMax X="3.981244" Y="0.000000" Z="17.798939" />
+        <BoundingCenter X="0.740622" Y="0.000000" Z="8.898819" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>mud_10 25</Name>
-        <File>DZ\structures\roads\parts\mud_10 25.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\mud_10 25.p3d</File>
+        <Date>04/30/21 13:27:05</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -3222,22 +3222,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>2.387662</BBRadius>
+        <BBHScale>1.122552</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-2.518726" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="2.841825" Y="0.000000" Z="4.775325" />
+        <BoundingCenter X="0.161550" Y="0.000000" Z="2.387662" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>mud_10 50</Name>
-        <File>DZ\structures\roads\parts\mud_10 50.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\mud_10 50.p3d</File>
+        <Date>04/30/21 13:26:59</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -3255,22 +3255,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>4.558265</BBRadius>
+        <BBHScale>0.627611</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-2.500000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="3.221632" Y="0.000000" Z="9.116529" />
+        <BoundingCenter X="0.360816" Y="0.000000" Z="4.558265" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>mud_10 75</Name>
         <File>dz\structures\roads\parts\mud_10 75.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <Date>04/30/21 13:27:06</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -3288,22 +3288,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>6.728867</BBRadius>
+        <BBHScale>0.459375</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-2.580706" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="3.601438" Y="0.000000" Z="13.457734" />
+        <BoundingCenter X="0.510366" Y="0.000000" Z="6.728867" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>mud_12</Name>
-        <File>DZ\structures\roads\parts\mud_12.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\mud_12.p3d</File>
+        <Date>04/30/21 13:26:58</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -3321,22 +3321,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>6.250651</BBRadius>
+        <BBHScale>0.430367</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-2.682396" Y="-0.000000" Z="-0.001302" />
+        <BoundingMax X="2.697746" Y="0.000000" Z="12.500000" />
+        <BoundingCenter X="0.007675" Y="0.000000" Z="6.249349" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>mud_15 75</Name>
-        <File>DZ\structures\roads\parts\mud_15 75.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\mud_15 75.p3d</File>
+        <Date>04/30/21 13:26:58</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -3354,22 +3354,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>10.029888</BBRadius>
+        <BBHScale>0.372406</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-2.500000" Y="-0.000000" Z="-0.001302" />
+        <BoundingMax X="4.970377" Y="0.000000" Z="20.058475" />
+        <BoundingCenter X="1.235189" Y="0.000000" Z="10.028587" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>mud_22 50</Name>
-        <File>DZ\structures\roads\parts\mud_22 50.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\mud_22 50.p3d</File>
+        <Date>04/30/21 13:26:58</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -3387,22 +3387,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>10.046091</BBRadius>
+        <BBHScale>0.428810</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-2.500000" Y="-0.000000" Z="-0.001303" />
+        <BoundingMax X="6.115723" Y="0.000000" Z="20.090879" />
+        <BoundingCenter X="1.807861" Y="0.000000" Z="10.044788" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>mud_25</Name>
-        <File>DZ\structures\roads\parts\mud_25.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\mud_25.p3d</File>
+        <Date>04/30/21 13:27:04</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -3420,22 +3420,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>12.500000</BBRadius>
+        <BBHScale>0.206062</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-2.538045" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="2.613511" Y="0.000000" Z="25.000000" />
+        <BoundingCenter X="0.037733" Y="0.000000" Z="12.500000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>mud_30 25</Name>
-        <File>DZ\structures\roads\parts\mud_30 25.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\mud_30 25.p3d</File>
+        <Date>04/30/21 13:27:05</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -3453,22 +3453,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>6.875651</BBRadius>
+        <BBHScale>0.582812</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-2.500000" Y="-0.000000" Z="-0.001302" />
+        <BoundingMax X="5.514429" Y="0.000000" Z="13.750000" />
+        <BoundingCenter X="1.507215" Y="0.000000" Z="6.874349" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>mud_6</Name>
         <File>dz\structures\roads\parts\mud_6.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <Date>04/30/21 13:27:05</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -3486,22 +3486,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>3.125000</BBRadius>
+        <BBHScale>0.807406</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-2.500000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="2.546286" Y="0.000000" Z="6.250000" />
+        <BoundingCenter X="0.023143" Y="0.000000" Z="3.125000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>mud_60 10</Name>
-        <File>DZ\structures\roads\parts\mud_60 10.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\mud_60 10.p3d</File>
+        <Date>04/30/21 13:26:59</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -3519,22 +3519,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>5.413310</BBRadius>
+        <BBHScale>0.808193</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-2.500000" Y="0.000000" Z="-0.001302" />
+        <BoundingMax X="6.250000" Y="0.000000" Z="10.825317" />
+        <BoundingCenter X="1.875000" Y="0.000000" Z="5.412007" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>mud_6konec</Name>
-        <File>DZ\structures\roads\parts\mud_6konec.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\mud_6konec.p3d</File>
+        <Date>04/30/21 13:27:04</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -3552,22 +3552,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>3.125000</BBRadius>
+        <BBHScale>0.807406</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-2.500000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="2.546286" Y="0.000000" Z="6.250000" />
+        <BoundingCenter X="0.023143" Y="0.000000" Z="3.125000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>mud_7 100</Name>
-        <File>DZ\structures\roads\parts\mud_7 100.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\mud_7 100.p3d</File>
+        <Date>04/30/21 13:26:58</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -3585,22 +3585,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>6.689467</BBRadius>
+        <BBHScale>0.440540</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-2.559832" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="3.334126" Y="0.000000" Z="13.378935" />
+        <BoundingCenter X="0.387147" Y="0.000000" Z="6.689467" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>path_dirt_10</Name>
-        <File>DZ\structures\roads\parts\path_dirt_10.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\path_dirt_10.p3d</File>
+        <Date>04/30/21 13:26:58</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -3618,22 +3618,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>5.660861</BBRadius>
+        <BBHScale>0.207322</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-1.000000" Y="0.000000" Z="-0.369270" />
+        <BoundingMax X="1.347246" Y="0.000000" Z="10.952453" />
+        <BoundingCenter X="0.173623" Y="0.000000" Z="5.291591" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>path_dirt_30</Name>
-        <File>DZ\structures\roads\parts\path_dirt_30.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\path_dirt_30.p3d</File>
+        <Date>04/30/21 13:26:58</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -3651,22 +3651,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BBRadius>16.914391</BBRadius>
+        <BBHScale>0.091922</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.008978</Height>
+        <BoundingMin X="-1.463090" Y="-0.017952" Z="-2.115210" />
+        <BoundingMax X="1.646534" Y="0.000005" Z="31.713572" />
+        <BoundingCenter X="0.091722" Y="-0.008973" Z="14.799181" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>path_dirt_curve</Name>
-        <File>DZ\structures\roads\parts\path_dirt_curve.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\path_dirt_curve.p3d</File>
+        <Date>04/30/21 13:26:59</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -3684,22 +3684,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>6.728039</BBRadius>
+        <BBHScale>0.297913</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-1.202476" Y="0.000000" Z="-0.529301" />
+        <BoundingMax X="2.806272" Y="0.000000" Z="12.926778" />
+        <BoundingCenter X="0.801898" Y="0.000000" Z="6.198739" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>path_rock_10</Name>
-        <File>DZ\structures\roads\parts\path_rock_10.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\path_rock_10.p3d</File>
+        <Date>04/30/21 13:27:05</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -3717,22 +3717,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>5.660861</BBRadius>
+        <BBHScale>0.207322</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-1.000000" Y="0.000000" Z="-0.369270" />
+        <BoundingMax X="1.347246" Y="0.000000" Z="10.952453" />
+        <BoundingCenter X="0.173623" Y="0.000000" Z="5.291591" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>path_rock_30</Name>
-        <File>DZ\structures\roads\parts\path_rock_30.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\path_rock_30.p3d</File>
+        <Date>04/30/21 13:27:06</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -3750,22 +3750,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BBRadius>16.914391</BBRadius>
+        <BBHScale>0.079933</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.008978</Height>
+        <BoundingMin X="-1.253904" Y="-0.017952" Z="-2.115210" />
+        <BoundingMax X="1.450117" Y="0.000005" Z="31.713572" />
+        <BoundingCenter X="0.098106" Y="-0.008973" Z="14.799181" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>path_rock_curve</Name>
-        <File>DZ\structures\roads\parts\path_rock_curve.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\path_rock_curve.p3d</File>
+        <Date>04/30/21 13:27:03</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -3783,22 +3783,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>7.078276</BBRadius>
+        <BBHScale>0.303517</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-1.202476" Y="0.000000" Z="-0.529301" />
+        <BoundingMax X="3.094274" Y="0.000000" Z="13.627251" />
+        <BoundingCenter X="0.945899" Y="0.000000" Z="6.548975" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>runwayold_40_main</Name>
-        <File>DZ\structures\roads\parts\runwayold_40_main.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\runwayold_40_main.p3d</File>
+        <Date>04/30/21 13:26:58</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -3816,16 +3816,16 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
+        <BBRadius>20.000000</BBRadius>
         <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-20.000000" Y="0.000000" Z="-20.000000" />
+        <BoundingMax X="20.000000" Y="0.000000" Z="20.000000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
         <Placement></Placement>
     </Template>
     <Template>
@@ -3863,8 +3863,8 @@
     </Template>
     <Template>
         <Name>runway_beton_end1</Name>
-        <File>DZ\structures\roads\parts\runway_beton_end1.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\runway_beton_end1.p3d</File>
+        <Date>04/30/21 13:27:01</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -3882,22 +3882,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BBRadius>29.110600</BBRadius>
+        <BBHScale>0.687035</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.002500</Height>
+        <BoundingMin X="-30.052771" Y="0.000000" Z="-39.496155" />
+        <BoundingMax X="9.947229" Y="0.005000" Z="18.725044" />
+        <BoundingCenter X="-10.052771" Y="0.002500" Z="-10.385555" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>runway_beton_end2</Name>
-        <File>DZ\structures\roads\parts\runway_beton_end2.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\runway_beton_end2.p3d</File>
+        <Date>04/30/21 13:27:06</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -3915,16 +3915,16 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BBRadius>29.110752</BBRadius>
+        <BBHScale>0.687031</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.002500</Height>
+        <BoundingMin X="-29.938181" Y="0.000000" Z="-15.370001" />
+        <BoundingMax X="10.061811" Y="0.005000" Z="42.851501" />
+        <BoundingCenter X="-9.938185" Y="0.002500" Z="13.740750" />
         <Placement></Placement>
     </Template>
     <Template>
@@ -3962,8 +3962,8 @@
     </Template>
     <Template>
         <Name>runway_dirt_2</Name>
-        <File>DZ\structures\roads\parts\runway_dirt_2.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\runway_dirt_2.p3d</File>
+        <Date>04/30/21 13:27:05</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -3981,22 +3981,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>40.000008</BBRadius>
+        <BBHScale>0.500000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-20.000000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="20.000000" Y="0.000000" Z="80.000015" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="40.000008" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>runway_dirt_3</Name>
-        <File>DZ\structures\roads\parts\runway_dirt_3.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\runway_dirt_3.p3d</File>
+        <Date>04/30/21 13:26:59</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -4014,22 +4014,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>40.000000</BBRadius>
+        <BBHScale>0.500000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-20.000000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="20.000000" Y="0.000000" Z="80.000000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="40.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>runway_end15</Name>
-        <File>DZ\structures\roads\parts\runway_end15.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\runway_end15.p3d</File>
+        <Date>04/30/21 13:27:00</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -4047,22 +4047,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>30.000002</BBRadius>
+        <BBHScale>0.666667</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-20.000000" Y="0.000000" Z="-60.000004" />
+        <BoundingMax X="20.000000" Y="0.000000" Z="0.000000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="-30.000002" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>runway_end33</Name>
-        <File>DZ\structures\roads\parts\runway_end33.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\runway_end33.p3d</File>
+        <Date>04/30/21 13:27:00</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -4080,16 +4080,16 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>30.000000</BBRadius>
+        <BBHScale>0.666667</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-20.000000" Y="0.000000" Z="-20.156864" />
+        <BoundingMax X="20.000000" Y="0.000000" Z="39.843136" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="9.843136" />
         <Placement></Placement>
     </Template>
     <Template>
@@ -4127,8 +4127,8 @@
     </Template>
     <Template>
         <Name>runway_main_40</Name>
-        <File>DZ\structures\roads\parts\runway_main_40.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\runway_main_40.p3d</File>
+        <Date>04/30/21 13:26:59</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -4146,22 +4146,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
+        <BBRadius>19.999992</BBRadius>
         <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-19.764870" Y="0.000000" Z="-18.844948" />
+        <BoundingMax X="20.235130" Y="0.000000" Z="21.155037" />
+        <BoundingCenter X="0.235130" Y="0.000000" Z="1.155045" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>runway_poj_draha</Name>
-        <File>DZ\structures\roads\parts\runway_poj_draha.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\runway_poj_draha.p3d</File>
+        <Date>04/30/21 13:27:06</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -4179,22 +4179,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BBRadius>40.000008</BBRadius>
+        <BBHScale>0.250000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.002500</Height>
+        <BoundingMin X="-10.065348" Y="0.000000" Z="-38.867279" />
+        <BoundingMax X="9.934660" Y="0.005000" Z="41.132736" />
+        <BoundingCenter X="-0.065344" Y="0.002500" Z="1.132729" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>runway_poj_l_1</Name>
-        <File>DZ\structures\roads\parts\runway_poj_l_1.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\runway_poj_l_1.p3d</File>
+        <Date>04/30/21 13:26:59</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -4212,22 +4212,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BBRadius>20.000004</BBRadius>
+        <BBHScale>1.500000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.002500</Height>
+        <BoundingMin X="-19.996384" Y="0.000000" Z="-16.956913" />
+        <BoundingMax X="40.003616" Y="0.005000" Z="23.043095" />
+        <BoundingCenter X="10.003616" Y="0.002500" Z="3.043091" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>runway_poj_l_1_end</Name>
-        <File>DZ\structures\roads\parts\runway_poj_l_1_end.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\runway_poj_l_1_end.p3d</File>
+        <Date>04/30/21 13:26:59</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -4245,22 +4245,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>20.000000</BBRadius>
+        <BBHScale>1.500000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-19.967106" Y="0.000000" Z="-24.757545" />
+        <BoundingMax X="40.032894" Y="0.000000" Z="15.242455" />
+        <BoundingCenter X="10.032894" Y="0.000000" Z="-4.757545" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>runway_poj_l_2</Name>
-        <File>DZ\structures\roads\parts\runway_poj_l_2.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\runway_poj_l_2.p3d</File>
+        <Date>04/30/21 13:27:05</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -4278,22 +4278,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BBRadius>29.999996</BBRadius>
+        <BBHScale>0.666667</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.002500</Height>
+        <BoundingMin X="-19.988848" Y="0.000000" Z="-27.324928" />
+        <BoundingMax X="20.011156" Y="0.005000" Z="32.675064" />
+        <BoundingCenter X="0.011154" Y="0.002500" Z="2.675068" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>runway_poj_l_2_end</Name>
-        <File>DZ\structures\roads\parts\runway_poj_l_2_end.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\runway_poj_l_2_end.p3d</File>
+        <Date>04/30/21 13:26:59</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -4311,22 +4311,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BBRadius>29.999998</BBRadius>
+        <BBHScale>0.666667</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000005</Height>
+        <BoundingMin X="-19.954849" Y="-0.000002" Z="-24.812332" />
+        <BoundingMax X="20.045155" Y="0.000009" Z="35.187664" />
+        <BoundingCenter X="0.045153" Y="0.000003" Z="5.187666" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>runway_poj_spoj</Name>
-        <File>DZ\structures\roads\parts\runway_poj_spoj.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\runway_poj_spoj.p3d</File>
+        <Date>04/30/21 13:27:05</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -4344,22 +4344,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
+        <BBRadius>10.000002</BBRadius>
         <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.002500</Height>
+        <BoundingMin X="-10.080902" Y="0.000000" Z="-10.132608" />
+        <BoundingMax X="9.919106" Y="0.005000" Z="9.867395" />
+        <BoundingCenter X="-0.080898" Y="0.002500" Z="-0.132607" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>runway_poj_spoj_2</Name>
-        <File>DZ\structures\roads\parts\runway_poj_spoj_2.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\runway_poj_spoj_2.p3d</File>
+        <Date>04/30/21 13:27:00</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -4377,22 +4377,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BBRadius>10.000002</BBRadius>
+        <BBHScale>1.000003</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.002500</Height>
+        <BoundingMin X="-10.000031" Y="0.000000" Z="-10.000000" />
+        <BoundingMax X="10.000031" Y="0.005000" Z="10.000004" />
+        <BoundingCenter X="0.000000" Y="0.002500" Z="0.000002" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>runway_poj_t_1</Name>
-        <File>DZ\structures\roads\parts\runway_poj_t_1.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\runway_poj_t_1.p3d</File>
+        <Date>04/30/21 13:27:01</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -4410,22 +4410,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BBRadius>29.999992</BBRadius>
+        <BBHScale>0.333340</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.002500</Height>
+        <BoundingMin X="-10.111000" Y="0.000000" Z="-29.700819" />
+        <BoundingMax X="9.889370" Y="0.005000" Z="30.299166" />
+        <BoundingCenter X="-0.110815" Y="0.002500" Z="0.299173" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>runway_poj_t_2</Name>
-        <File>DZ\structures\roads\parts\runway_poj_t_2.p3d</File>
-        <Date>05/21/21 01:14:13</Date>
+        <File>dz\structures\roads\parts\runway_poj_t_2.p3d</File>
+        <Date>04/30/21 13:27:06</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-1</Outline>
@@ -4443,16 +4443,16 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BBRadius>40.000000</BBRadius>
+        <BBHScale>0.500000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.002500</Height>
+        <BoundingMin X="-20.000008" Y="0.000000" Z="-40.000000" />
+        <BoundingMax X="20.000000" Y="0.005000" Z="40.000000" />
+        <BoundingCenter X="-0.000004" Y="0.002500" Z="0.000000" />
         <Placement></Placement>
     </Template>
 </Library>
